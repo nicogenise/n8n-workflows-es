@@ -4080,33 +4080,5 @@ A continuación encontrarás un listado con enlaces a cada blueprint y una descr
     Descripción: Este workflow v1 Helper
 -   [zmgSshZ5xESr3ozl_HR_IT_Helpdesk_Chatbot_with_Audio_Transcription.json](workflows/zmgSshZ5xESr3ozl_HR_&_IT_Helpdesk_Chatbot_con_Audio_Transcription.json)
     Descripción: Este workflow 1. Download & Extract Internal Policy Documents
--   [znRwva47HzXesOYk_Travel_AssistantAgent.json](workflows/znRwva47HzXesOYk_Travel_AssistantAgent.json)
-    Descripción: Este workflow AI Traveling Agent Powered by MongoDB Atlas for Memory and vector search.
--   [AI-Powered_YouTube_Video_Summarization_Analysis.json](workflows/⚡AI-Powered YouTube Video Summarization & Analysis.json)
-    Descripción: Este workflow ⚡AI-Powered YouTube Video Summarization & Analysis
--   [Vision-Based_AI_Agent_Scraper_with_Google_Sheets_ScrapingBee_and_Gemini.json](workflows/✨ Vision-Based AI Agent Scraper - with Google Sheets, ScrapingBee, and Gemini.json)
-    Descripción: Este workflow Trigger
--   [Interactive_Image_Editor_with_FLUX_1_Fill_Tool_for_Inpainting.json](workflows/🎨 Interactive Image Editor with FLUX.1 Fill Tool for Inpainting.json)
-    Descripción: Este workflow Deliver the editor with links to the images
--   [DeepSeek_V3_Chat_R1_Reasoning_Quick_Start.json](workflows/🐋DeepSeek V3 Chat & R1 Reasoning Quick Start.json)
-    Descripción: Este workflow DeepSeek using HTTP Request
--   [DeepSeek_AI_Agent_Telegram_LONG_TERM_Memory.json](workflows/🐋🤖 DeepSeek AI Agent + Telegram + LONG TERM Memory 🧠.json)
-    Descripción: Este workflow Receive Telegram Message with Webhook
--   [Receive_Daily_Market_News_from_FT.com_to_your_Microsoft_outlook_inbox.json](workflows/📈 Receive Daily Market News from FT.com to your Microsoft outlook inbox.json)
-    Descripción: Este workflow Financial News Recap Workflow
--   [Auto-generate_documentation_for_n8n_workflows_with_GPT_and_Docsify.json](workflows/📚 Auto-generate documentation for n8n workflows with GPT and Docsify.json)
-    Descripción: Este workflow Main Docsify webhook
--   [Perplexity_Research_to_HTML_AI-Powered_Content_Creation.json](workflows/🔍 Perplexity Research to HTML_ AI-Powered Content Creation.json)
-    Descripción: Este workflow 🔍 Perplexity Research to HTML_ AI-Powered Content Creation
--   [Private_Local_Ollama_Self-Hosted_AI_Assistant.json](workflows/🔐🦙🤖 Private & Local Ollama Self-Hosted AI Assistant.json)
-    Descripción: Este workflow 🦙 Ollama Chat Workflow
--   [AI_Agent_for_n8n_Creators_Leaderboard_Find_Popular_Workflows.json](workflows/🔥📈🤖 AI Agent for n8n Creators Leaderboard - Find Popular Workflows.json)
-    Descripción: Este workflow AI Agent for n8n Creator Leaderboard Stats
--   [Local_Multi-LLM_Testing_Performance_Tracker.json](workflows/🚀 Local Multi-LLM Testing & Performance Tracker.json)
-    Descripción: Este workflow 🧠Text Analysis
--   [Telegram_Messaging_Agent_for_Text_Audio_Images.json](workflows/🤖 Telegram Messaging Agent for Text_Audio_Images.json)
-    Descripción: Este workflow Receive Telegram Message with Webhook
--   [AI_Agent_for_Top_n8n_Creators_Leaderboard_Reporting.json](workflows/🤖🧑_💻 AI Agent for Top n8n Creators Leaderboard Reporting.json)
-    Descripción: Este workflow AI Agent for n8n Creator Leaderboard Stats
--   [AI_Agent_Chatbot_LONG_TERM_Memory_Note_Storage_Telegram.json](workflows/🤖🧠 AI Agent Chatbot + LONG TERM Memory + Note Storage + Telegram.json)
-    Descripción: Este workflow Retrieve Long Term Memories
+-   [znRwva47HzXesOYk_Travel_AssistantAgent.json](workflows/znRwva47HzXesOYk_Travel_AssistantAgent.json)  
+    Descripción: Workflow AI Traveling Agent, powered by MongoDB Atlas for memory and vector search.
