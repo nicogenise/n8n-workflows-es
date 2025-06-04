@@ -12,4299 +12,5881 @@ A continuación encontrarás un listado con enlaces a cada blueprint y una descr
 
 ## Listado de Workflows
 
--   [02GdRzvsuHmSSgBw_#️⃣Nostr_#damus_AI_Powered_Reporting_+_Gmail_+_Telegram.json](workflows/02GdRzvsuHmSSgBw_%23%EF%B8%8F⃣Nostr_%23damus_AI_Powered_Reporting_%2B_Gmail_%2B_Telegram.json)
-    Descripción: Este workflow #damus Threads Themes
--   [06v55r6E13Wfvo66_Gumroad_sale_trigger.json](workflows/06v55r6E13Wfvo66_Gumroad_sale_trigger.json)
-    Descripción: Este workflow Trigger on a new Gumroad sale
--   [0GCQ1fO3d5MBdKmi_template-demo-chatgpt-image-1-with-drive-and-sheet_copy.json](workflows/0GCQ1fO3d5MBdKmi_template-demo-chatgpt-image-1-with-drive-and-sheet_copy.json)
-    Descripción: Este workflow Created by darrell_tw_
--   [0H2mo5k35e0nzMEE_New_Ticket_Alerts_to_Teams.json](workflows/0H2mo5k35e0nzMEE_New_Ticket_Alerts_to_Teams.json)
-    Descripción: Este workflow New Ticket Alerts to Teams
--   [0HVA2TOmkdNpH5DP_Google_calendar_to_Outlook.json](workflows/0HVA2TOmkdNpH5DP_Google_calendar_to_Outlook.json)
-    Descripción: Este workflow Google calendar to Outlook
--   [0JsHmmyeHw5Ffz5m_HN_Who_is_Hiring_Scrape.json](workflows/0JsHmmyeHw5Ffz5m_HN_Who_is_Hiring_Scrape.json)
-    Descripción: Este workflow Go to https://hn.algolia.com
--   [0KZs18Ti2KXKoLIr_✨🩷Automated_Social_Media_Content_Publishing_Factory_+_System_Prompt_Composition.json](workflows/0KZs18Ti2KXKoLIr_✨🩷Automated_Social_Media_Content_Publishing_Factory_+_System_Prompt_Composition.json)
-    Descripción: Este workflow LLM
--   [0QQxgdQABUbbDJ0G_Multi-Agent_Conversation.json](workflows/0QQxgdQABUbbDJ0G_Multi-Agent_Conversation.json)
-    Descripción: Este workflow Step 1: Configure Settings Nodes
--   [0pVPSW4PzJZLLqSf_Notion_to_Linkedin.json](workflows/0pVPSW4PzJZLLqSf_Notion_to_Linkedin.json)
-    Descripción: Este workflow Start the flow every day at the same time
--   [0uon02fOzPkLcG6G_Lead_Qualification_with_BatchData.json](workflows/0uon02fOzPkLcG6G_Lead_Qualification_with_BatchData.json)
-    Descripción: Este workflow WEBHOOK SETUP INSTRUCTIONS
--   [0wfomsVO0TQtQkwU_Complete_Guide_to_Setting_Up_and_Generating_TOTP_Codes_in_n8n_🔐.json](workflows/0wfomsVO0TQtQkwU_Complete_Guide_to_Setting_Up_and_Generating_TOTP_Codes_in_n8n_🔐.json)
-    Descripción: Este workflow Complete Guide to Setting Up and Generating TOTP Codes in n8n 🔐
--   [1001_typeform_feedback_workflow.json](workflows/1001_typeform_feedback_workflow.json)
-    Descripción: Este workflow typeform feedback workflow
--   [1001_workflow_1001.json](workflows/1001_workflow_1001.json)
-    Descripción: Este workflow 1001_workflow_1001
--   [1003_New_tweets.json](workflows/1003_New_tweets.json)
-    Descripción: Este workflow New tweets
--   [1005_workflow_1005.json](workflows/1005_workflow_1005.json)
-    Descripción: Este workflow 1005_workflow_1005
--   [100_Create_a_new_task_in_Todoist.json](workflows/100_Create_a_new_task_in_Todoist.json)
-    Descripción: Este workflow Create a new task in Todoist
--   [100_On_new_Stripe_Invoice_Payment_update_Hubspot_and_notify_the_team_in_Slack.json](workflows/100_On_new_Stripe_Invoice_Payment_update_Hubspot_and_notify_the_team_in_Slack.json)
-    Descripción: Este workflow On new Stripe Invoice Payment update Hubspot and notify the team in Slack
--   [100_workflow_100.json](workflows/100_workflow_100.json)
-    Descripción: Este workflow 100_workflow_100
--   [101_workflow_101.json](workflows/101_workflow_101.json)
-    Descripción: Este workflow 101_workflow_101
--   [1021_workflow_1021.json](workflows/1021_workflow_1021.json)
-    Descripción: Este workflow 1021_workflow_1021
--   [1028_Loading_data_into_a_spreadsheet.json](workflows/1028_Loading_data_into_a_spreadsheet.json)
-    Descripción: Este workflow Loading data into a spreadsheet
--   [1028_workflow_1028.json](workflows/1028_workflow_1028.json)
-    Descripción: Este workflow 1028_workflow_1028
--   [102_Insert_data_into_a_new_row_for_a_table_in_Coda.json](workflows/102_Insert_data_into_a_new_row_for_a_table_in_Coda.json)
-    Descripción: Este workflow Insert data into a new row for a table in Coda
--   [102_Send_updates_about_the_position_of_the_ISS_every_minute_to_a_topic_in_ActiveMQ.json](workflows/102_Send_updates_about_the_position_of_the_ISS_every_minute_to_a_topic_in_ActiveMQ.json)
-    Descripción: Este workflow Send updates about the position of the ISS every minute to a topic in ActiveMQ
--   [1035_workflow_1035.json](workflows/1035_workflow_1035.json)
-    Descripción: Este workflow 1035_workflow_1035
--   [1039_workflow_1039.json](workflows/1039_workflow_1039.json)
-    Descripción: Este workflow 1039_workflow_1039
--   [103_Create_a_new_customer_in_Chargebee.json](workflows/103_Create_a_new_customer_in_Chargebee.json)
-    Descripción: Este workflow Create a new customer in Chargebee
--   [103_verify_email.json](workflows/103_verify_email.json)
-    Descripción: Este workflow verify email
--   [1041_workflow_1041.json](workflows/1041_workflow_1041.json)
-    Descripción: Este workflow 1041_workflow_1041
--   [1047_workflow_1047.json](workflows/1047_workflow_1047.json)
-    Descripción: Este workflow 1047_workflow_1047
--   [1048_workflow_1048.json](workflows/1048_workflow_1048.json)
-    Descripción: Este workflow 1048_workflow_1048
--   [1049_workflow_1049.json](workflows/1049_workflow_1049.json)
-    Descripción: Este workflow 1049_workflow_1049
--   [104_Look_up_a_person_using_their_email_in_Clearbit.json](workflows/104_Look_up_a_person_using_their_email_in_Clearbit.json)
-    Descripción: Este workflow Look up a person using their email in Clearbit
--   [104_location_by_ip.json](workflows/104_location_by_ip.json)
-    Descripción: Este workflow location_by_ip
--   [1055_workflow_1055.json](workflows/1055_workflow_1055.json)
-    Descripción: Este workflow 1055_workflow_1055
--   [1058_workflow_1058.json](workflows/1058_workflow_1058.json)
-    Descripción: Este workflow 1058_workflow_1058
--   [1059_workflow_1059.json](workflows/1059_workflow_1059.json)
-    Descripción: Este workflow 1059_workflow_1059
--   [105_Create_a_new_member,_update_the_information_of_the_member,_create_a_note_and_a_post_for_the_member_in_Orbit.json](workflows/105_Create_a_new_member,_update_the_information_of_the_member,_create_a_note_and_a_post_for_the_member_in_Orbit.json)
-    Descripción: Este workflow Create a new member, update the information of the member, create a note and a post for the member in Orbit
--   [105_Create_a_task_in_ClickUp.json](workflows/105_Create_a_task_in_ClickUp.json)
-    Descripción: Este workflow Create a task in ClickUp
--   [105_screenshot.json](workflows/105_screenshot.json)
-    Descripción: Este workflow screenshot
--   [1068_workflow_1068.json](workflows/1068_workflow_1068.json)
-    Descripción: Este workflow 1068_workflow_1068
--   [1069_workflow_1069.json](workflows/1069_workflow_1069.json)
-    Descripción: Este workflow 1069_workflow_1069
--   [1074_workflow_1074.json](workflows/1074_workflow_1074.json)
-    Descripción: Este workflow Check if the song is present in the database
--   [1076_workflow_1076.json](workflows/1076_workflow_1076.json)
-    Descripción: Este workflow 1076_workflow_1076
--   [1078_workflow_1078.json](workflows/1078_workflow_1078.json)
-    Descripción: Este workflow 1078_workflow_1078
--   [107_Get_a_volume_and_add_it_to_your_bookshelf.json](workflows/107_Get_a_volume_and_add_it_to_your_bookshelf.json)
-    Descripción: Este workflow Get a volume and add it to your bookshelf
--   [1083_workflow_1083.json](workflows/1083_workflow_1083.json)
-    Descripción: Este workflow 1083_workflow_1083
--   [1088_workflow_1088.json](workflows/1088_workflow_1088.json)
-    Descripción: Este workflow 1088_workflow_1088
--   [1089_workflow_1089.json](workflows/1089_workflow_1089.json)
-    Descripción: Este workflow 1089_workflow_1089
--   [108_Receive_updates_for_events_in_Chargebee.json](workflows/108_Receive_updates_for_events_in_Chargebee.json)
-    Descripción: Este workflow Receive updates for events in Chargebee
--   [1093_workflow_1093.json](workflows/1093_workflow_1093.json)
-    Descripción: Este workflow 1093_workflow_1093
--   [1107_workflow_1107.json](workflows/1107_workflow_1107.json)
-    Descripción: Este workflow 1107_workflow_1107
--   [1109_workflow_1109.json](workflows/1109_workflow_1109.json)
-    Descripción: Este workflow 1109_workflow_1109
--   [110_Get_SSL_Certificate.json](workflows/110_Get_SSL_Certificate.json)
-    Descripción: Este workflow Get SSL Certificate
--   [110_Get_all_the_stories_starting_with_`release`_and_publish_them.json](workflows/110_Get_all_the_stories_starting_with_`release`_and_publish_them.json)
-    Descripción: Este workflow Get all the stories starting with `release` and publish them
--   [110_Receive_updates_for_events_in_ClickUp.json](workflows/110_Receive_updates_for_events_in_ClickUp.json)
-    Descripción: Este workflow Receive updates for events in ClickUp
--   [1110_workflow_1110.json](workflows/1110_workflow_1110.json)
-    Descripción: Este workflow 1110_workflow_1110
--   [1111_workflow_1111.json](workflows/1111_workflow_1111.json)
-    Descripción: Este workflow 1111_workflow_1111
--   [1112_workflow_1112.json](workflows/1112_workflow_1112.json)
-    Descripción: Este workflow 1112_workflow_1112
--   [1114_workflow_1114.json](workflows/1114_workflow_1114.json)
-    Descripción: Este workflow 1114_workflow_1114
--   [1115_workflow_1115.json](workflows/1115_workflow_1115.json)
-    Descripción: Este workflow 1115_workflow_1115
--   [1118_workflow_1118.json](workflows/1118_workflow_1118.json)
-    Descripción: Este workflow 1118_workflow_1118
--   [111_Standup_Bot_-_Initialize.json](workflows/111_Standup_Bot_-_Initialize.json)
-    Descripción: Este workflow Standup Bot - Initialize
--   [1122_workflow_1122.json](workflows/1122_workflow_1122.json)
-    Descripción: Este workflow 1122_workflow_1122
--   [112_Get_Company_by_Name.json](workflows/112_Get_Company_by_Name.json)
-    Descripción: Este workflow Get Company by Name
--   [112_Receive_updates_when_a_new_account_is_added_by_an_admin_in_ActiveCampaign.json](workflows/112_Receive_updates_when_a_new_account_is_added_by_an_admin_in_ActiveCampaign.json)
-    Descripción: Este workflow Receive updates when a new account is added by an admin in ActiveCampaign
--   [112_Standup_Bot_-_Read_Config.json](workflows/112_Standup_Bot_-_Read_Config.json)
-    Descripción: Este workflow Standup Bot - Read Config
--   [1130_workflow_1130.json](workflows/1130_workflow_1130.json)
-    Descripción: Este workflow 1130_workflow_1130
--   [1132_workflow_1132.json](workflows/1132_workflow_1132.json)
-    Descripción: Este workflow 1132_workflow_1132
--   [1134_workflow_1134.json](workflows/1134_workflow_1134.json)
-    Descripción: Este workflow 1134_workflow_1134
--   [113_Create_an_deal_in_Pipedrive.json](workflows/113_Create_an_deal_in_Pipedrive.json)
-    Descripción: Este workflow Create an deal in Pipedrive
--   [113_Get_DNS_entries.json](workflows/113_Get_DNS_entries.json)
-    Descripción: Este workflow Get DNS entries
--   [113_Standup_Bot_-_Override_Config.json](workflows/113_Standup_Bot_-_Override_Config.json)
-    Descripción: Este workflow Standup Bot - Override Config
--   [114_Send_daily_weather_updates_via_a_message_in_Line.json](workflows/114_Send_daily_weather_updates_via_a_message_in_Line.json)
-    Descripción: Este workflow Send daily weather updates via a message in Line
--   [114_Standup_Bot_-_Worker.json](workflows/114_Standup_Bot_-_Worker.json)
-    Descripción: Este workflow Standup Bot - Worker
--   [114_Verify_phone_numbers.json](workflows/114_Verify_phone_numbers.json)
-    Descripción: Este workflow Verify phone numbers
--   [1150_workflow_1150.json](workflows/1150_workflow_1150.json)
-    Descripción: Este workflow 1150_workflow_1150
--   [1153_workflow_1153.json](workflows/1153_workflow_1153.json)
-    Descripción: Este workflow 1153_workflow_1153
--   [115_Archive_empty_pages_in_Notion_Database.json](workflows/115_Archive_empty_pages_in_Notion_Database.json)
-    Descripción: Este workflow Archive empty pages in Notion Database
--   [115_Receive_updates_for_all_changes_in_Pipedrive.json](workflows/115_Receive_updates_for_all_changes_in_Pipedrive.json)
-    Descripción: Este workflow Receive updates for all changes in Pipedrive
--   [115_Send_daily_weather_updates_via_a_message_using_the_Gotify_node.json](workflows/115_Send_daily_weather_updates_via_a_message_using_the_Gotify_node.json)
-    Descripción: Este workflow Send daily weather updates via a message using the Gotify node
--   [1160_workflow_1160.json](workflows/1160_workflow_1160.json)
-    Descripción: Este workflow 1160_workflow_1160
--   [1169_workflow_1169.json](workflows/1169_workflow_1169.json)
-    Descripción: Este workflow 1169_workflow_1169
--   [116_Get_all_the_contacts_from_GetResponse_and_update_them.json](workflows/116_Get_all_the_contacts_from_GetResponse_and_update_them.json)
-    Descripción: Este workflow Get all the contacts from GetResponse and update them
--   [117_Receive_updates_for_changes_in_the_specified_list_in_Trello.json](workflows/117_Receive_updates_for_changes_in_the_specified_list_in_Trello.json)
-    Descripción: Este workflow Receive updates for changes in the specified list in Trello
--   [117_Syncro_Alert_to_OpsGenie.json](workflows/117_Syncro_Alert_to_OpsGenie.json)
-    Descripción: Este workflow Syncro Alert to OpsGenie
--   [118_Google_Calendar_to_Slack_Status_&_Philips_Hue.json](workflows/118_Google_Calendar_to_Slack_Status_&_Philips_Hue.json)
-    Descripción: Este workflow Google Calendar to Slack Status & Philips Hue
--   [119_Create,_update,_and_get_an_entry_in_Strapi.json](workflows/119_Create,_update,_and_get_an_entry_in_Strapi.json)
-    Descripción: Este workflow Create, update, and get an entry in Strapi
--   [119_Get_details_of_a_forum_in_Disqus.json](workflows/119_Get_details_of_a_forum_in_Disqus.json)
-    Descripción: Este workflow Get details of a forum in Disqus
--   [119_workflow_119.json](workflows/119_workflow_119.json)
-    Descripción: Este workflow 119_workflow_119
--   [11_Plex_Automatic_Throttler.json](workflows/11_Plex_Automatic_Throttler.json)
-    Descripción: Este workflow Plex Automatic Throttler
--   [11_What_To_Eat.json](workflows/11_What_To_Eat.json)
-    Descripción: Este workflow What To Eat
--   [11_workflow_11.json](workflows/11_workflow_11.json)
-    Descripción: Este workflow 11_workflow_11
--   [1205_workflow_1205.json](workflows/1205_workflow_1205.json)
-    Descripción: Este workflow 1205_workflow_1205
--   [1206_workflow_1206.json](workflows/1206_workflow_1206.json)
-    Descripción: Este workflow 1206_workflow_1206
--   [1207_workflow_1207.json](workflows/1207_workflow_1207.json)
-    Descripción: Este workflow 1207_workflow_1207
--   [120_Create_a_client_in_Harvest.json](workflows/120_Create_a_client_in_Harvest.json)
-    Descripción: Este workflow Create a client in Harvest
--   [1216_workflow_1216.json](workflows/1216_workflow_1216.json)
-    Descripción: Este workflow 1216_workflow_1216
--   [121_Create_Email_Campaign_From_LinkedIn_Post_Interactions.json](workflows/121_Create_Email_Campaign_From_LinkedIn_Post_Interactions.json)
-    Descripción: Este workflow Create Email Campaign From LinkedIn Post Interactions
--   [121pu6oiTjzkJ8OT_↔️_Airtable_Batch_Processing.json](workflows/121pu6oiTjzkJ8OT_↔️_Airtable_Batch_Processing.json)
-    Descripción: Este workflow Adjust if your monthly call limit exceeded
--   [1221_workflow_1221.json](workflows/1221_workflow_1221.json)
-    Descripción: Este workflow 1221_workflow_1221
--   [1222_workflow_1222.json](workflows/1222_workflow_1222.json)
-    Descripción: Este workflow 1222_workflow_1222
--   [1223_workflow_1223.json](workflows/1223_workflow_1223.json)
-    Descripción: Este workflow 1223_workflow_1223
--   [1225_workflow_1225.json](workflows/1225_workflow_1225.json)
-    Descripción: Este workflow 1225_workflow_1225
--   [122_Automate_assigning_GitHub_issues.json](workflows/122_Automate_assigning_GitHub_issues.json)
-    Descripción: Este workflow Automate assigning GitHub issues
--   [122_Steam_+_CF_Report.json](workflows/122_Steam_+_CF_Report.json)
-    Descripción: Este workflow Steam + CF Report
--   [122_Track_an_event_in_Segment.json](workflows/122_Track_an_event_in_Segment.json)
-    Descripción: Este workflow Track an event in Segment
--   [1236_workflow_1236.json](workflows/1236_workflow_1236.json)
-    Descripción: Este workflow 1236_workflow_1236
--   [123_Create_a_ticket_in_Zendesk.json](workflows/123_Create_a_ticket_in_Zendesk.json)
-    Descripción: Este workflow Create a ticket in Zendesk
--   [1243_workflow_1243.json](workflows/1243_workflow_1243.json)
-    Descripción: Este workflow 1243_workflow_1243
--   [1250_workflow_1250.json](workflows/1250_workflow_1250.json)
-    Descripción: Este workflow 1250_workflow_1250
--   [1253_workflow_1253.json](workflows/1253_workflow_1253.json)
-    Descripción: Este workflow 1253_workflow_1253
--   [1254_workflow_1254.json](workflows/1254_workflow_1254.json)
-    Descripción: Este workflow 1254_workflow_1254
--   [1255_workflow_1255.json](workflows/1255_workflow_1255.json)
-    Descripción: Este workflow 1255_workflow_1255
--   [125_Create_a_contact_in_Drift.json](workflows/125_Create_a_contact_in_Drift.json)
-    Descripción: Este workflow Create a contact in Drift
--   [126_Send_a_private_message_on_Zulip.json](workflows/126_Send_a_private_message_on_Zulip.json)
-    Descripción: Este workflow Send a private message on Zulip
--   [1274_workflow_1274.json](workflows/1274_workflow_1274.json)
-    Descripción: Este workflow 1274_workflow_1274
--   [1277_workflow_1277.json](workflows/1277_workflow_1277.json)
-    Descripción: Este workflow 1277_workflow_1277
--   [127_Create,_update,_and_get_a_profile_in_Humantic_AI.json](workflows/127_Create,_update,_and_get_a_profile_in_Humantic_AI.json)
-    Descripción: Este workflow Create, update, and get a profile in Humantic AI
--   [127_Create_a_user_profile_in_Vero.json](workflows/127_Create_a_user_profile_in_Vero.json)
-    Descripción: Este workflow Create a user profile in Vero
--   [1282_workflow_1282.json](workflows/1282_workflow_1282.json)
-    Descripción: Este workflow 1282_workflow_1282
--   [1283_workflow_1283.json](workflows/1283_workflow_1283.json)
-    Descripción: Este workflow 1283_workflow_1283
--   [128_Create_a_company_in_Salesmate.json](workflows/128_Create_a_company_in_Salesmate.json)
-    Descripción: Este workflow Create a company in Salesmate
--   [1296_workflow_1296.json](workflows/1296_workflow_1296.json)
-    Descripción: Este workflow 1296_workflow_1296
--   [1298_workflow_1298.json](workflows/1298_workflow_1298.json)
-    Descripción: Este workflow 1298_workflow_1298
--   [129_Get_information_about_a_company_with_UpLead.json](workflows/129_Get_information_about_a_company_with_UpLead.json)
-    Descripción: Este workflow Get information about a company with UpLead
--   [12_Create_Onfleet_tasks_from_Spreadsheets.json](workflows/12_Create_Onfleet_tasks_from_Spreadsheets.json)
-    Descripción: Este workflow Create Onfleet tasks from Spreadsheets
--   [12_Find_a_New_Book.json](workflows/12_Find_a_New_Book.json)
-    Descripción: Este workflow Find a New Book
--   [1304_workflow_1304.json](workflows/1304_workflow_1304.json)
-    Descripción: Este workflow 1304_workflow_1304
--   [1306_workflow_1306.json](workflows/1306_workflow_1306.json)
-    Descripción: Este workflow 1306_workflow_1306
--   [130_Get_all_the_tasks_in_Flow.json](workflows/130_Get_all_the_tasks_in_Flow.json)
-    Descripción: Este workflow Get all the tasks in Flow
--   [131_Receive_a_Mattermost_message_when_a_user_updates_their_profile_on_Facebook.json](workflows/131_Receive_a_Mattermost_message_when_a_user_updates_their_profile_on_Facebook.json)
-    Descripción: Este workflow Receive a Mattermost message when a user updates their profile on Facebook
--   [1324_workflow_1324.json](workflows/1324_workflow_1324.json)
-    Descripción: Este workflow 1324_workflow_1324
--   [1325_workflow_1325.json](workflows/1325_workflow_1325.json)
-    Descripción: Este workflow 1325_workflow_1325
--   [1326_workflow_1326.json](workflows/1326_workflow_1326.json)
-    Descripción: Este workflow 1326_workflow_1326
--   [1328_workflow_1328.json](workflows/1328_workflow_1328.json)
-    Descripción: Este workflow 1328_workflow_1328
--   [1330_workflow_1330.json](workflows/1330_workflow_1330.json)
-    Descripción: Este workflow 1330_workflow_1330
--   [1333_workflow_1333.json](workflows/1333_workflow_1333.json)
-    Descripción: Este workflow 1333_workflow_1333
--   [1334_workflow_1334.json](workflows/1334_workflow_1334.json)
-    Descripción: Este workflow 1334_workflow_1334
--   [1338_workflow_1338.json](workflows/1338_workflow_1338.json)
-    Descripción: Este workflow 1338_workflow_1338
--   [133_Analyze_the_sentiment_of_feedback_and_send_a_message_on_Mattermost.json](workflows/133_Analyze_the_sentiment_of_feedback_and_send_a_message_on_Mattermost.json)
-    Descripción: Este workflow Analyze the sentiment of feedback and send a message on Mattermost
--   [133_Receive_updates_for_specified_tasks_in_Flow.json](workflows/133_Receive_updates_for_specified_tasks_in_Flow.json)
-    Descripción: Este workflow Receive updates for specified tasks in Flow
--   [1344_workflow_1344.json](workflows/1344_workflow_1344.json)
-    Descripción: Este workflow 1344_workflow_1344
--   [1349_workflow_1349.json](workflows/1349_workflow_1349.json)
-    Descripción: Este workflow 1349_workflow_1349
--   [134_Receive_updates_for_the_position_of_the_ISS_every_minute_and_push_it_to_a_database.json](workflows/134_Receive_updates_for_the_position_of_the_ISS_every_minute_and_push_it_to_a_database.json)
-    Descripción: Este workflow Receive updates for the position of the ISS every minute and push it to a database
--   [1357_workflow_1357.json](workflows/1357_workflow_1357.json)
-    Descripción: Este workflow 1357_workflow_1357
--   [135_Receive_messages_for_an_ActiveMQ_queue_via_AMQP_Trigger.json](workflows/135_Receive_messages_for_an_ActiveMQ_queue_via_AMQP_Trigger.json)
-    Descripción: Este workflow Receive messages for an ActiveMQ queue via AMQP Trigger
--   [1363_workflow_1363.json](workflows/1363_workflow_1363.json)
-    Descripción: Este workflow 1363_workflow_1363
--   [1364_workflow_1364.json](workflows/1364_workflow_1364.json)
-    Descripción: Este workflow 1364_workflow_1364
--   [1373_workflow_1373.json](workflows/1373_workflow_1373.json)
-    Descripción: Este workflow 1373_workflow_1373
--   [1374_workflow_1374.json](workflows/1374_workflow_1374.json)
-    Descripción: Este workflow 1374_workflow_1374
--   [1375_workflow_1375.json](workflows/1375_workflow_1375.json)
-    Descripción: Este workflow 1375_workflow_1375
--   [1376_workflow_1376.json](workflows/1376_workflow_1376.json)
-    Descripción: Este workflow 1376_workflow_1376
--   [1377_workflow_1377.json](workflows/1377_workflow_1377.json)
-    Descripción: Este workflow 1377_workflow_1377
--   [1381_workflow_1381.json](workflows/1381_workflow_1381.json)
-    Descripción: Este workflow 1381_workflow_1381
--   [138_Get_new_time_entries_from_Toggl.json](workflows/138_Get_new_time_entries_from_Toggl.json)
-    Descripción: Este workflow Get new time entries from Toggl
--   [1393_workflow_1393.json](workflows/1393_workflow_1393.json)
-    Descripción: Este workflow 1393_workflow_1393
--   [1394_workflow_1394.json](workflows/1394_workflow_1394.json)
-    Descripción: Este workflow 1394_workflow_1394
--   [1395_workflow_1395.json](workflows/1395_workflow_1395.json)
-    Descripción: Este workflow 1395_workflow_1395
--   [1396_workflow_1396.json](workflows/1396_workflow_1396.json)
-    Descripción: Este workflow 1396_workflow_1396
--   [13_Creating_an_Onfleet_Task_for_a_new_Shopify_Fulfillment.json](workflows/13_Creating_an_Onfleet_Task_for_a_new_Shopify_Fulfillment.json)
-    Descripción: Este workflow Creating an Onfleet Task for a new Shopify Fulfillment
--   [13_Mattermost_Webhook.json](workflows/13_Mattermost_Webhook.json)
-    Descripción: Este workflow Mattermost Webhook
--   [13_Receive_updates_when_a_form_is_submitted_in_Mautic,_and_send_a_confirmation_SMS.json](workflows/13_Receive_updates_when_a_form_is_submitted_in_Mautic,_and_send_a_confirmation_SMS.json)
-    Descripción: Este workflow Receive updates when a form is submitted in Mautic, and send a confirmation SMS
--   [13_workflow_13.json](workflows/13_workflow_13.json)
-    Descripción: Este workflow 13_workflow_13
--   [1401_workflow_1401.json](workflows/1401_workflow_1401.json)
-    Descripción: Este workflow 1401_workflow_1401
--   [140_Get_today's_date_and_day_using_the_Function_node.json](workflows/140_Get_today's_date_and_day_using_the_Function_node.json)
-    Descripción: Este workflow Get today's date and day using the Function node
--   [1416_workflow_1416.json](workflows/1416_workflow_1416.json)
-    Descripción: Este workflow 1416_workflow_1416
--   [1418_workflow_1418.json](workflows/1418_workflow_1418.json)
-    Descripción: Este workflow 1418_workflow_1418
--   [141_Assign_values_to_variables_using_the_Set_node.json](workflows/141_Assign_values_to_variables_using_the_Set_node.json)
-    Descripción: Este workflow Assign values to variables using the Set node
--   [141_Send_daily_weather_updates_via_a_push_notification_using_Spontit.json](workflows/141_Send_daily_weather_updates_via_a_push_notification_using_Spontit.json)
-    Descripción: Este workflow Send daily weather updates via a push notification using Spontit
--   [1425_workflow_1425.json](workflows/1425_workflow_1425.json)
-    Descripción: Este workflow 1425_workflow_1425
--   [1435_workflow_1435.json](workflows/1435_workflow_1435.json)
-    Descripción: Este workflow 1435_workflow_1435
--   [1440_workflow_1440.json](workflows/1440_workflow_1440.json)
-    Descripción: Este workflow 1440_workflow_1440
--   [1455_workflow_1455.json](workflows/1455_workflow_1455.json)
-    Descripción: Este workflow 1455_workflow_1455
--   [145_Translate_cocktail_instructions_using_LingvaNex.json](workflows/145_Translate_cocktail_instructions_using_LingvaNex.json)
-    Descripción: Este workflow Translate cocktail instructions using LingvaNex
--   [1463_workflow_1463.json](workflows/1463_workflow_1463.json)
-    Descripción: Este workflow 1463_workflow_1463
--   [1465_workflow_1465.json](workflows/1465_workflow_1465.json)
-    Descripción: Este workflow 1465_workflow_1465
--   [146_Send_financial_metrics_monthly_to_Mattermost.json](workflows/146_Send_financial_metrics_monthly_to_Mattermost.json)
-    Descripción: Este workflow Send financial metrics monthly to Mattermost
--   [1471_workflow_1471.json](workflows/1471_workflow_1471.json)
-    Descripción: Este workflow 1471_workflow_1471
--   [147_OpenAI-model-examples.json](workflows/147_OpenAI-model-examples.json)
-    Descripción: Este workflow The old way of using text completion and text edit
--   [1489_workflow_1489.json](workflows/1489_workflow_1489.json)
-    Descripción: Este workflow 1489_workflow_1489
--   [1497_workflow_1497.json](workflows/1497_workflow_1497.json)
-    Descripción: Este workflow 1497_workflow_1497
--   [14_Activity_Encouragement.json](workflows/14_Activity_Encouragement.json)
-    Descripción: Este workflow Activity Encouragement
--   [14_Add_a_subscriber_to_a_list_and_create_and_send_a_campaign.json](workflows/14_Add_a_subscriber_to_a_list_and_create_and_send_a_campaign.json)
-    Descripción: Este workflow Add a subscriber to a list and create and send a campaign
--   [14_Onfleet_Driver_signup_message_in_Slack.json](workflows/14_Onfleet_Driver_signup_message_in_Slack.json)
-    Descripción: Este workflow Onfleet Driver signup message in Slack
--   [14_Update_Crypto_Values.json](workflows/14_Update_Crypto_Values.json)
-    Descripción: Este workflow Update Crypto Values
--   [14_extract_swifts.json](workflows/14_extract_swifts.json)
-    Descripción: Este workflow extract_swifts
--   [1500_workflow_1500.json](workflows/1500_workflow_1500.json)
-    Descripción: Este workflow 1500_workflow_1500
--   [151_Receive_a_Mattermost_message_when_new_data_gets_added_to_Airtable.json](workflows/151_Receive_a_Mattermost_message_when_new_data_gets_added_to_Airtable.json)
-    Descripción: Este workflow Receive a Mattermost message when new data gets added to Airtable
--   [1520_workflow_1520.json](workflows/1520_workflow_1520.json)
-    Descripción: Este workflow 1520_workflow_1520
--   [1534_workflow_1534.json](workflows/1534_workflow_1534.json)
-    Descripción: Este workflow Subworkflow
--   [1535_workflow_1535.json](workflows/1535_workflow_1535.json)
-    Descripción: Este workflow 1535_workflow_1535
--   [1537_workflow_1537.json](workflows/1537_workflow_1537.json)
-    Descripción: Este workflow 1537_workflow_1537
--   [1545_Updating_Shopify_tags_on_Onfleet_events.json](workflows/1545_Updating_Shopify_tags_on_Onfleet_events.json)
-    Descripción: Este workflow Updating Shopify tags on Onfleet events
--   [1546_Create_a_QuickBooks_invoice_on_a_new_Onfleet_Task_creation.json](workflows/1546_Create_a_QuickBooks_invoice_on_a_new_Onfleet_Task_creation.json)
-    Descripción: Este workflow Create a QuickBooks invoice on a new Onfleet Task creation
--   [1547_Create_an_Onfleet_task_when_a_file_in_Google_Drive_is_updated.json](workflows/1547_Create_an_Onfleet_task_when_a_file_in_Google_Drive_is_updated.json)
-    Descripción: Este workflow Create an Onfleet task when a file in Google Drive is updated
--   [1554_workflow_1554.json](workflows/1554_workflow_1554.json)
-    Descripción: Este workflow 1554_workflow_1554
--   [156_Create,_update_and_get_records_in_Quick_Base.json](workflows/156_Create,_update_and_get_records_in_Quick_Base.json)
-    Descripción: Este workflow Create, update and get records in Quick Base
--   [156_workflow_156.json](workflows/156_workflow_156.json)
-    Descripción: Este workflow 156_workflow_156
--   [1570_workflow_1570.json](workflows/1570_workflow_1570.json)
-    Descripción: Este workflow 1570_workflow_1570
--   [157_Get_synonyms_of_a_German_word.json](workflows/157_Get_synonyms_of_a_German_word.json)
-    Descripción: Este workflow Get synonyms of a German word
--   [1583_workflow_1583.json](workflows/1583_workflow_1583.json)
-    Descripción: Este workflow What's this?
--   [1588_workflow_1588.json](workflows/1588_workflow_1588.json)
-    Descripción: Este workflow 1588_workflow_1588
--   [158_Create,_update,_and_get_an_incident_on_PagerDuty.json](workflows/158_Create,_update,_and_get_an_incident_on_PagerDuty.json)
-    Descripción: Este workflow Create, update, and get an incident on PagerDuty
--   [158_Receive_the_weather_information_of_any_city.json](workflows/158_Receive_the_weather_information_of_any_city.json)
-    Descripción: Este workflow Receive the weather information of any city
--   [1599_workflow_1599.json](workflows/1599_workflow_1599.json)
-    Descripción: Este workflow 1599_workflow_1599
--   [159_Create,_update_and_get_a_case_in_TheHive.json](workflows/159_Create,_update_and_get_a_case_in_TheHive.json)
-    Descripción: Este workflow Create, update and get a case in TheHive
--   [15_Bubble_Data_Access.json](workflows/15_Bubble_Data_Access.json)
-    Descripción: Este workflow Bubble Data Access
--   [15_Tools___Backup_Gitlab.json](workflows/15_Tools___Backup_Gitlab.json)
-    Descripción: Este workflow Tools / Backup Gitlab
--   [1605_workflow_1605.json](workflows/1605_workflow_1605.json)
-    Descripción: Este workflow 1605_workflow_1605
--   [160_Analyze_a_URL_and_get_the_job_details_using_the_Cortex_node.json](workflows/160_Analyze_a_URL_and_get_the_job_details_using_the_Cortex_node.json)
-    Descripción: Este workflow Analyze a URL and get the job details using the Cortex node
--   [160_Write_a_file_to_the_host_machine.json](workflows/160_Write_a_file_to_the_host_machine.json)
-    Descripción: Este workflow Write a file to the host machine
--   [161_Create_a_table_and_insert_data_into_it.json](workflows/161_Create_a_table_and_insert_data_into_it.json)
-    Descripción: Este workflow Create a table and insert data into it
--   [161_Receive_updates_when_an_event_occurs_in_TheHive.json](workflows/161_Receive_updates_when_an_event_occurs_in_TheHive.json)
-    Descripción: Este workflow Receive updates when an event occurs in TheHive
--   [1621_workflow_1621.json](workflows/1621_workflow_1621.json)
-    Descripción: Este workflow Example Data
--   [164_Create_a_channel,_invite_users_to_the_channel,_post_a_message,_and_upload_a_file.json](workflows/164_Create_a_channel,_invite_users_to_the_channel,_post_a_message,_and_upload_a_file.json)
-    Descripción: Este workflow Create a channel, invite users to the channel, post a message, and upload a file
--   [165_Create,_update_and_get_a_user_from_Iterable.json](workflows/165_Create,_update_and_get_a_user_from_Iterable.json)
-    Descripción: Este workflow Create, update and get a user from Iterable
--   [166_Receive_messages_from_a_topic_and_send_an_SMS.json](workflows/166_Receive_messages_from_a_topic_and_send_an_SMS.json)
-    Descripción: Este workflow Receive messages from a topic and send an SMS
--   [167_Create_a_short_URL_and_get_the_statistics_of_the_URL.json](workflows/167_Create_a_short_URL_and_get_the_statistics_of_the_URL.json)
-    Descripción: Este workflow Create a short URL and get the statistics of the URL
--   [167_Smart_Factory_Data_Generator.json](workflows/167_Smart_Factory_Data_Generator.json)
-    Descripción: Este workflow Smart Factory Data Generator
--   [168_Smart_Factory_Use_Case.json](workflows/168_Smart_Factory_Use_Case.json)
-    Descripción: Este workflow Smart Factory Use Case
--   [1690_workflow_1690.json](workflows/1690_workflow_1690.json)
-    Descripción: Este workflow 1690_workflow_1690
--   [1692_workflow_1692.json](workflows/1692_workflow_1692.json)
-    Descripción: Este workflow 1692_workflow_1692
--   [16_User_Request_Management.json](workflows/16_User_Request_Management.json)
-    Descripción: Este workflow User Request Management
--   [1700_Very_quick_quickstart.json](workflows/1700_Very_quick_quickstart.json)
-    Descripción: Este workflow About the very quick quickstart workflow
--   [170_Create,_update,_and_get_a_post_in_Ghost.json](workflows/170_Create,_update,_and_get_a_post_in_Ghost.json)
-    Descripción: Este workflow Create, update, and get a post in Ghost
--   [171_Insert_and_update_data_in_Airtable.json](workflows/171_Insert_and_update_data_in_Airtable.json)
-    Descripción: Este workflow Insert and update data in Airtable
--   [172_Create_a_table,_and_insert_and_update_data_in_the_table_in_Snowflake.json](workflows/172_Create_a_table,_and_insert_and_update_data_in_the_table_in_Snowflake.json)
-    Descripción: Este workflow Create a table, and insert and update data in the table in Snowflake
--   [1731_workflow_1731.json](workflows/1731_workflow_1731.json)
-    Descripción: Este workflow 1731_workflow_1731
--   [1734_workflow_1734.json](workflows/1734_workflow_1734.json)
-    Descripción: Este workflow JSON file > Sheets
--   [1736_workflow_1736.json](workflows/1736_workflow_1736.json)
-    Descripción: Este workflow 1736_workflow_1736
--   [1737_workflow_1737.json](workflows/1737_workflow_1737.json)
-    Descripción: Este workflow JSON > Google Sheets
--   [1739_workflow_1739.json](workflows/1739_workflow_1739.json)
-    Descripción: Este workflow JSON > Google Sheets
--   [173_Create_and_update_a_channel,_and_send_a_message_on_Twist.json](workflows/173_Create_and_update_a_channel,_and_send_a_message_on_Twist.json)
-    Descripción: Este workflow Create and update a channel, and send a message on Twist
--   [1744_workflow_1744.json](workflows/1744_workflow_1744.json)
-    Descripción: Este workflow 2. Advanced way: Using Expressions
--   [1746_workflow_1746.json](workflows/1746_workflow_1746.json)
-    Descripción: Este workflow 2. If with And/Or conditions
--   [1747_workflow_1747.json](workflows/1747_workflow_1747.json)
-    Descripción: Este workflow 3. Add items from B below items from A
--   [1748_workflow_1748.json](workflows/1748_workflow_1748.json)
-    Descripción: Este workflow HTTP Request
--   [1749_workflow_1749.json](workflows/1749_workflow_1749.json)
-    Descripción: Este workflow 2. Wait for an external event
--   [174_Send_the_Astronomy_Picture_of_the_day_daily_to_a_Telegram_channel.json](workflows/174_Send_the_Astronomy_Picture_of_the_day_daily_to_a_Telegram_channel.json)
-    Descripción: Este workflow Send the Astronomy Picture of the day daily to a Telegram channel
--   [1750_workflow_1750.json](workflows/1750_workflow_1750.json)
-    Descripción: Este workflow Create a simple API endpoint
--   [1751_workflow_1751.json](workflows/1751_workflow_1751.json)
-    Descripción: Este workflow Very often your data is not in the right format to insert in a node. you can use the set node to fix it.
--   [1752_workflow_1752.json](workflows/1752_workflow_1752.json)
-    Descripción: Este workflow 1752_workflow_1752
--   [1753_workflow_1753.json](workflows/1753_workflow_1753.json)
-    Descripción: Este workflow 1753_workflow_1753
--   [1754_workflow_1754.json](workflows/1754_workflow_1754.json)
-    Descripción: Este workflow 1754_workflow_1754
--   [1756_workflow_1756.json](workflows/1756_workflow_1756.json)
-    Descripción: Este workflow 1756_workflow_1756
--   [1757_workflow_1757.json](workflows/1757_workflow_1757.json)
-    Descripción: Este workflow 1757_workflow_1757
--   [1758_workflow_1758.json](workflows/1758_workflow_1758.json)
-    Descripción: Este workflow Format Typeform inputs to Pipedrive
--   [175_Get_messages_with_a_certain_label,_remove_the_label,_and_add_a_new_one.json](workflows/175_Get_messages_with_a_certain_label,_remove_the_label,_and_add_a_new_one.json)
-    Descripción: Este workflow Get messages with a certain label, remove the label, and add a new one
--   [1769_workflow_1769.json](workflows/1769_workflow_1769.json)
-    Descripción: Este workflow 1769_workflow_1769
--   [176_Get_the_logo,_icon,_and_information_of_a_company_and_store_it_in_Airtable.json](workflows/176_Get_the_logo,_icon,_and_information_of_a_company_and_store_it_in_Airtable.json)
-    Descripción: Este workflow Get the logo, icon, and information of a company and store it in Airtable
--   [1770_workflow_1770.json](workflows/1770_workflow_1770.json)
-    Descripción: Este workflow 1770_workflow_1770
--   [1771_workflow_1771.json](workflows/1771_workflow_1771.json)
-    Descripción: Este workflow 1771_workflow_1771
--   [1775_workflow_1775.json](workflows/1775_workflow_1775.json)
-    Descripción: Este workflow 1775_workflow_1775
--   [1776_workflow_1776.json](workflows/1776_workflow_1776.json)
-    Descripción: Este workflow 1776_workflow_1776
--   [1777_workflow_1777.json](workflows/1777_workflow_1777.json)
-    Descripción: Este workflow 1777_workflow_1777
--   [177_Telegram_AI-bot.json](workflows/177_Telegram_AI-bot.json)
-    Descripción: Este workflow Error fallback for unsupported commands
--   [1782_workflow_1782.json](workflows/1782_workflow_1782.json)
-    Descripción: Este workflow Find a different ideal buyer:
--   [1785_workflow_1785.json](workflows/1785_workflow_1785.json)
-    Descripción: Este workflow 1785_workflow_1785
--   [1787_workflow_1787.json](workflows/1787_workflow_1787.json)
-    Descripción: Este workflow 1787_workflow_1787
--   [1788_workflow_1788.json](workflows/1788_workflow_1788.json)
-    Descripción: Este workflow 1788_workflow_1788
--   [1789_workflow_1789.json](workflows/1789_workflow_1789.json)
-    Descripción: Este workflow 1789_workflow_1789
--   [178_Create_a_channel,_invite_members_to_the_channel,_post_a_message,_and_upload_a_file.json](workflows/178_Create_a_channel,_invite_members_to_the_channel,_post_a_message,_and_upload_a_file.json)
-    Descripción: Este workflow Create a channel, add a member, and post a message to the channel
--   [1790_workflow_1790.json](workflows/1790_workflow_1790.json)
-    Descripción: Este workflow 1790_workflow_1790
--   [1791_workflow_1791.json](workflows/1791_workflow_1791.json)
-    Descripción: Este workflow 1791_workflow_1791
--   [1792_workflow_1792.json](workflows/1792_workflow_1792.json)
-    Descripción: Este workflow 1792_workflow_1792
--   [1793_workflow_1793.json](workflows/1793_workflow_1793.json)
-    Descripción: Este workflow 1793_workflow_1793
--   [1794_workflow_1794.json](workflows/1794_workflow_1794.json)
-    Descripción: Este workflow Downloading a file
--   [1799_workflow_1799.json](workflows/1799_workflow_1799.json)
-    Descripción: Este workflow 1799_workflow_1799
--   [179_Create,_update,_and_get_a_document_in_Google_Cloud_Firestore.json](workflows/179_Create,_update,_and_get_a_document_in_Google_Cloud_Firestore.json)
-    Descripción: Este workflow Create, update, and get a document in Google Cloud Firestore
--   [179_workflow_179.json](workflows/179_workflow_179.json)
-    Descripción: Este workflow 179_workflow_179
--   [17j2efAe10uXRc4p_Auto_WordPress_Blog_Generator_(GPT_+_Postgres_+_WP_Media).json](workflows/17j2efAe10uXRc4p_Auto_WordPress_Blog_Generator_(GPT_+_Postgres_+_WP_Media).json)
-    Descripción: Este workflow 🤖 WordPress Blog Automation Workflow
--   [1804_workflow_1804.json](workflows/1804_workflow_1804.json)
-    Descripción: Este workflow IF & Switch
--   [1805_workflow_1805.json](workflows/1805_workflow_1805.json)
-    Descripción: Este workflow 1805_workflow_1805
--   [1806_workflow_1806.json](workflows/1806_workflow_1806.json)
-    Descripción: Este workflow 1806_workflow_1806
--   [1807_workflow_1807.json](workflows/1807_workflow_1807.json)
-    Descripción: Este workflow 1807_workflow_1807
--   [1808_workflow_1808.json](workflows/1808_workflow_1808.json)
-    Descripción: Este workflow 1808_workflow_1808
--   [1809_workflow_1809.json](workflows/1809_workflow_1809.json)
-    Descripción: Este workflow 1809_workflow_1809
--   [180_Discord_AI_bot.json](workflows/180_Discord_AI_bot.json)
-    Descripción: Este workflow Discord AI bot
--   [1810_workflow_1810.json](workflows/1810_workflow_1810.json)
-    Descripción: Este workflow n8n version
--   [1819_workflow_1819.json](workflows/1819_workflow_1819.json)
-    Descripción: Este workflow 1819_workflow_1819
--   [1820_workflow_1820.json](workflows/1820_workflow_1820.json)
-    Descripción: Este workflow Sync Zendesk tickets to Slack threads
--   [1821_workflow_1821.json](workflows/1821_workflow_1821.json)
-    Descripción: Este workflow 1821_workflow_1821
--   [1823_workflow_1823.json](workflows/1823_workflow_1823.json)
-    Descripción: Este workflow How to add more fields to Monday
--   [1826_workflow_1826.json](workflows/1826_workflow_1826.json)
-    Descripción: Este workflow Working with Excel files
--   [1828_workflow_1828.json](workflows/1828_workflow_1828.json)
-    Descripción: Este workflow Create/update Mautic contact on a new Calendly event
--   [1829_workflow_1829.json](workflows/1829_workflow_1829.json)
-    Descripción: Este workflow Add more fields to Mautic
--   [1832_workflow_1832.json](workflows/1832_workflow_1832.json)
-    Descripción: Este workflow 1832_workflow_1832
--   [1833_workflow_1833.json](workflows/1833_workflow_1833.json)
-    Descripción: Este workflow 1833_workflow_1833
--   [1834_workflow_1834.json](workflows/1834_workflow_1834.json)
-    Descripción: Este workflow Send new Clockify invoice to Notion database
--   [1835_workflow_1835.json](workflows/1835_workflow_1835.json)
-    Descripción: Este workflow 1835_workflow_1835
--   [1838_workflow_1838.json](workflows/1838_workflow_1838.json)
-    Descripción: Este workflow 1838_workflow_1838
--   [1839_workflow_1839.json](workflows/1839_workflow_1839.json)
-    Descripción: Este workflow 1839_workflow_1839
--   [1840_workflow_1840.json](workflows/1840_workflow_1840.json)
-    Descripción: Este workflow 1840_workflow_1840
--   [1841_workflow_1841.json](workflows/1841_workflow_1841.json)
-    Descripción: Este workflow 1841_workflow_1841
--   [184_Send_updates_about_the_position_of_the_ISS_every_minute_to_a_topic_in_RabbitMQ.json](workflows/184_Send_updates_about_the_position_of_the_ISS_every_minute_to_a_topic_in_RabbitMQ.json)
-    Descripción: Este workflow Send updates about the position of the ISS every minute to a topic in RabbitMQ
--   [1855_workflow_1855.json](workflows/1855_workflow_1855.json)
-    Descripción: Este workflow `Merge data`
--   [1856_workflow_1856.json](workflows/1856_workflow_1856.json)
-    Descripción: Este workflow Turn on a light to a specific color on any update in GitHub repository
--   [1862_workflow_1862.json](workflows/1862_workflow_1862.json)
-    Descripción: Este workflow 1862_workflow_1862
--   [186_Receive_messages_from_a_queue_via_RabbitMQ_and_send_an_SMS.json](workflows/186_Receive_messages_from_a_queue_via_RabbitMQ_and_send_an_SMS.json)
-    Descripción: Este workflow Receive messages from a queue via RabbitMQ and send an SMS
--   [1872_workflow_1872.json](workflows/1872_workflow_1872.json)
-    Descripción: Este workflow Save SQL table as a binary XLSX file
--   [187_Create,_update_and_get_a_product_from_WooCommerce.json](workflows/187_Create,_update_and_get_a_product_from_WooCommerce.json)
-    Descripción: Este workflow Create, update and get a product from WooCommerce
--   [188_Send_a_message_on_Mattermost_when_an_order_is_created_in_WooCommerce.json](workflows/188_Send_a_message_on_Mattermost_when_an_order_is_created_in_WooCommerce.json)
-    Descripción: Este workflow Send a message on Mattermost when an order is created in WooCommerce
--   [1891_workflow_1891.json](workflows/1891_workflow_1891.json)
-    Descripción: Este workflow 1891_workflow_1891
--   [1892_workflow_1892.json](workflows/1892_workflow_1892.json)
-    Descripción: Este workflow ⚠️ When and how to use this workflow
--   [1895_workflow_1895.json](workflows/1895_workflow_1895.json)
-    Descripción: Este workflow What this workflow does
--   [1897_workflow_1897.json](workflows/1897_workflow_1897.json)
-    Descripción: Este workflow Send specific PDF attachments from Gmail to Google Drive using OpenAI
--   [1898_workflow_1898.json](workflows/1898_workflow_1898.json)
-    Descripción: Este workflow Configuration
--   [189_Create,_update,_and_get_a_subscriber_using_the_e-goi_node.json](workflows/189_Create,_update,_and_get_a_subscriber_using_the_e-goi_node.json)
-    Descripción: Este workflow Create, update, and get a subscriber using the e-goi node
--   [18_Gender_Inclusive_Language.json](workflows/18_Gender_Inclusive_Language.json)
-    Descripción: Este workflow Gender Inclusive Language
--   [1913_workflow_1913.json](workflows/1913_workflow_1913.json)
-    Descripción: Este workflow 1913_workflow_1913
--   [1914_workflow_1914.json](workflows/1914_workflow_1914.json)
-    Descripción: Este workflow Save SQL table as a CSV file
--   [1916_workflow_1916.json](workflows/1916_workflow_1916.json)
-    Descripción: Este workflow Example data
--   [191_Create_a_screenshot_of_a_website_and_send_it_to_a_telegram_channel.json](workflows/191_Create_a_screenshot_of_a_website_and_send_it_to_a_telegram_channel.json)
-    Descripción: Este workflow Create a screenshot of a website and send it to a telegram channel
--   [1920_workflow_1920.json](workflows/1920_workflow_1920.json)
-    Descripción: Este workflow 1920_workflow_1920
--   [1930_workflow_1930.json](workflows/1930_workflow_1930.json)
-    Descripción: Este workflow 👋 How to use this template
--   [1931_workflow_1931.json](workflows/1931_workflow_1931.json)
-    Descripción: Este workflow 👋 How to use this template
--   [1932_workflow_1932.json](workflows/1932_workflow_1932.json)
-    Descripción: Este workflow 👋 How to use this template
--   [1933_workflow_1933.json](workflows/1933_workflow_1933.json)
-    Descripción: Este workflow JSON to Google Sheets
--   [1939_workflow_1939.json](workflows/1939_workflow_1939.json)
-    Descripción: Este workflow Send labeled email to a Notion database
--   [193_Create,_add_an_attachment,_and_send_a_draft_using_the_Microsoft_Outlook_node.json](workflows/193_Create,_add_an_attachment,_and_send_a_draft_using_the_Microsoft_Outlook_node.json)
-    Descripción: Este workflow Create, add an attachment, and send a draft using the Microsoft Outlook node
--   [1940_workflow_1940.json](workflows/1940_workflow_1940.json)
-    Descripción: Este workflow Configuration
--   [1941_workflow_1941.json](workflows/1941_workflow_1941.json)
-    Descripción: Este workflow Send Google Sheets data as a message to a Discord channel
--   [1943_workflow_1943.json](workflows/1943_workflow_1943.json)
-    Descripción: Este workflow Comparing data with the Compare Datasets node
--   [1945_workflow_1945.json](workflows/1945_workflow_1945.json)
-    Descripción: Este workflow 1945_workflow_1945
--   [1949_workflow_1949.json](workflows/1949_workflow_1949.json)
-    Descripción: Este workflow Simple conversion to XML
--   [1951_workflow_1951.json](workflows/1951_workflow_1951.json)
-    Descripción: Este workflow Scrape latest Paul Graham essays
--   [1953_workflow_1953.json](workflows/1953_workflow_1953.json)
-    Descripción: Este workflow Check if incoming email is about appointment
--   [1954_workflow_1954.json](workflows/1954_workflow_1954.json)
-    Descripción: Este workflow 1954_workflow_1954
--   [1955_workflow_1955.json](workflows/1955_workflow_1955.json)
-    Descripción: Este workflow Self-coded LLM Chain Node
--   [1956_workflow_1956.json](workflows/1956_workflow_1956.json)
-    Descripción: Este workflow Chunk the transcript into several parts, and refine-summarize it
--   [1957_workflow_1957.json](workflows/1957_workflow_1957.json)
-    Descripción: Este workflow Parser which defines the output format and which gets used to validate the output
--   [1958_workflow_1958.json](workflows/1958_workflow_1958.json)
-    Descripción: Este workflow Q&A on data returned from a workflow
--   [1959_workflow_1959.json](workflows/1959_workflow_1959.json)
-    Descripción: Este workflow The conversation history (last 20 messages) is stored in a buffer memory
--   [1960_workflow_1960.json](workflows/1960_workflow_1960.json)
-    Descripción: Este workflow Load data into database
--   [1961_workflow_1961.json](workflows/1961_workflow_1961.json)
-    Descripción: Este workflow Slack POSTs to Webhook on every message so we need to filter-out bot messages
--   [1962_workflow_1962.json](workflows/1962_workflow_1962.json)
-    Descripción: Este workflow 1962_workflow_1962
--   [1963_workflow_1963.json](workflows/1963_workflow_1963.json)
-    Descripción: Este workflow 1963_workflow_1963
--   [1971_workflow_1971.json](workflows/1971_workflow_1971.json)
-    Descripción: Este workflow Form Input Overview
--   [1978_workflow_1978.json](workflows/1978_workflow_1978.json)
-    Descripción: Este workflow Get and prepare Dummy Data
--   [1980_workflow_1980.json](workflows/1980_workflow_1980.json)
-    Descripción: Este workflow This is an example of basic LLM Chain connected to an open-source model
--   [1994_workflow_1994.json](workflows/1994_workflow_1994.json)
-    Descripción: Este workflow Get all files of subfolders
--   [1996_workflow_1996.json](workflows/1996_workflow_1996.json)
-    Descripción: Este workflow Send customer feedback to OpenAI for sentiment analysis
--   [1999_workflow_1999.json](workflows/1999_workflow_1999.json)
-    Descripción: Este workflow Switch depending on content
--   [19_Snowflake_CSV.json](workflows/19_Snowflake_CSV.json)
-    Descripción: Este workflow Snowflake CSV
--   [1GOrjyc9mtZCMvCr_Structured_Data_Extract,_Data_Mining_with_Bright_Data_&_Google_Gemini.json](workflows/1GOrjyc9mtZCMvCr_Structured_Data_Extract,_Data_Mining_with_Bright_Data_&_Google_Gemini.json)
-    Descripción: Este workflow Note
--   [1U5Jf4NMQEw9LtxY_Capture_Website_Screenshots_with_Bright_Data_Web_Unlocker_and_Save_to_Disk.json](workflows/1U5Jf4NMQEw9LtxY_Capture_Website_Screenshots_with_Bright_Data_Web_Unlocker_and_Save_to_Disk.json)
-    Descripción: Este workflow Note
--   [1V1gcK6vyczRqdZC_Printify_Automation_-_Update_Title_and_Description_-_AlexK1919.json](workflows/1V1gcK6vyczRqdZC_Printify_Automation_-_Update_Title_and_Description_-_AlexK1919.json)
-    Descripción: Este workflow AlexK1919
--   [1ZfA8Do3j7lCB3zF_Blockchain_DEX_Screener_Insights_Agent.json](workflows/1ZfA8Do3j7lCB3zF_Blockchain_DEX_Screener_Insights_Agent.json)
-    Descripción: Este workflow Blockchain DEX Screener Insights Agent
--   [1_Add_a_event_to_Calender.json](workflows/1_Add_a_event_to_Calender.json)
-    Descripción: Este workflow Add a event to Calender
--   [1_Add_text_to_an_image_downloaded_from_the_internet.json](workflows/1_Add_text_to_an_image_downloaded_from_the_internet.json)
-    Descripción: Este workflow Add text to an image downloaded from the internet
--   [1_Create_Nextcloud_Deck_card_from_email.json](workflows/1_Create_Nextcloud_Deck_card_from_email.json)
-    Descripción: Este workflow Create Nextcloud Deck card from email
--   [1_Create_entry_in_Mailchimp_from_Airtable.json](workflows/1_Create_entry_in_Mailchimp_from_Airtable.json)
-    Descripción: Este workflow Create entry in Mailchimp from Airtable
--   [1_Daily_Journal_Reminder.json](workflows/1_Daily_Journal_Reminder.json)
-    Descripción: Este workflow Daily Journal Reminder
--   [1_Dialpad_to_Syncro.json](workflows/1_Dialpad_to_Syncro.json)
-    Descripción: Este workflow Dialpad to Syncro
--   [1_Google_Cal_to_Zoom_meeting.json](workflows/1_Google_Cal_to_Zoom_meeting.json)
-    Descripción: Este workflow Google Cal to Zoom meeting
--   [1_Google_Sheet_to_Mailchimp.json](workflows/1_Google_Sheet_to_Mailchimp.json)
-    Descripción: Este workflow Google Sheet to Mailchimp
--   [1_ImapEmail,_XmlToJson,_POST-HTTP-Request.json](workflows/1_ImapEmail,_XmlToJson,_POST-HTTP-Request.json)
-    Descripción: Este workflow ImapEmail, XmlToJson, POST-HTTP-Request
--   [1_My_workflow.json](workflows/1_My_workflow.json)
-    Descripción: Este workflow My workflow
--   [1_Send_SMS_to_numbers_stored_in_Airtable_with_Twilio.json](workflows/1_Send_SMS_to_numbers_stored_in_Airtable_with_Twilio.json)
-    Descripción: Este workflow Send SMS to numbers stored in Airtable with Twilio
--   [1_Send_Typeforms_leads_via_Whatsapp_(Twilio).json](workflows/1_Send_Typeforms_leads_via_Whatsapp_(Twilio).json)
-    Descripción: Este workflow Send Typeforms leads via Whatsapp (Twilio)
--   [1_Send_a_message_on_Twake.json](workflows/1_Send_a_message_on_Twake.json)
-    Descripción: Este workflow Send a message on Twake
--   [1_TwitterWorkflow.json](workflows/1_TwitterWorkflow.json)
-    Descripción: Este workflow TwitterWorkflow
--   [1_Twitter_notifications.json](workflows/1_Twitter_notifications.json)
-    Descripción: Este workflow Twitter notifications
--   [1_Website_check.json](workflows/1_Website_check.json)
-    Descripción: Este workflow Website check
--   [1_Wordpress-to-csv.json](workflows/1_Wordpress-to-csv.json)
-    Descripción: Este workflow Wordpress-to-csv
--   [1_cheems.json](workflows/1_cheems.json)
-    Descripción: Este workflow cheems
--   [1_workflow_1.json](workflows/1_workflow_1.json)
-    Descripción: Este workflow 1_workflow_1
--   [1blBTEfOEjamDB0N_Email_form.json](workflows/1blBTEfOEjamDB0N_Email_form.json)
-    Descripción: Este workflow Automate Email List Building with n8n and Hunter io
--   [1dnr1k4MAVbDiBmO_Get_event_triggered_notifications___updates_on_preferred_messaging_channels_with_TwentyCRM.json](workflows/1dnr1k4MAVbDiBmO_Get_event_triggered_notifications___updates_on_preferred_messaging_channels_with_TwentyCRM.json)
-    Descripción: Este workflow **1. ☝️ Set up `On new TwentyCRM event` Trigger's url at webhook in TwentyCRM**
--   [1g8EAij2RwhNN70t_xSend_and_check_TTS_(Text-to-speech)_voice_calls_end_email_verification.json](workflows/1g8EAij2RwhNN70t_xSend_and_check_TTS_(Text-to-speech)_voice_calls_end_email_verification.json)
-    Descripción: Este workflow STEP 1
--   [2006_workflow_2006.json](workflows/2006_workflow_2006.json)
-    Descripción: Este workflow Convert the query string into JSON, apply the limit for a page length
--   [200_BillBot.json](workflows/200_BillBot.json)
-    Descripción: Este workflow BillBot
--   [2014_workflow_2014.json](workflows/2014_workflow_2014.json)
-    Descripción: Este workflow Email search with Icypeas (bulk search)
--   [2015_workflow_2015.json](workflows/2015_workflow_2015.json)
-    Descripción: Este workflow Domain scan with Icypeas (bulk search)
--   [2016_workflow_2016.json](workflows/2016_workflow_2016.json)
-    Descripción: Este workflow Perform Batch Processing of Email verifications with Icypeas
--   [2017_workflow_2017.json](workflows/2017_workflow_2017.json)
-    Descripción: Este workflow Real-time listening and processing of search results with Icypeas.
--   [201_Store_the_output_of_a_phantom_in_Airtable.json](workflows/201_Store_the_output_of_a_phantom_in_Airtable.json)
-    Descripción: Este workflow Store the output of a phantom in Airtable
--   [2023_workflow_2023.json](workflows/2023_workflow_2023.json)
-    Descripción: Este workflow Add your API key here
--   [2025_workflow_2025.json](workflows/2025_workflow_2025.json)
-    Descripción: Este workflow Sub-workflow: Return the capitals of fictional countries
--   [2026_workflow_2026.json](workflows/2026_workflow_2026.json)
-    Descripción: Este workflow Replace me
--   [2027_workflow_2027.json](workflows/2027_workflow_2027.json)
-    Descripción: Este workflow Webhook Node (Shopify Listener)
--   [2032_workflow_2032.json](workflows/2032_workflow_2032.json)
-    Descripción: Este workflow ℹ️ Replacing the initial nodes
--   [2033_workflow_2033.json](workflows/2033_workflow_2033.json)
-    Descripción: Este workflow Read me
--   [2034_workflow_2034.json](workflows/2034_workflow_2034.json)
-    Descripción: Este workflow Send DingTalk message on new Azure DevOps Pull Request
--   [2037_workflow_2037.json](workflows/2037_workflow_2037.json)
-    Descripción: Este workflow Read me
--   [2038_workflow_2038.json](workflows/2038_workflow_2038.json)
-    Descripción: Este workflow Webhook Trigger
--   [2039_workflow_2039.json](workflows/2039_workflow_2039.json)
-    Descripción: Este workflow About the workflow
--   [2042_workflow_2042.json](workflows/2042_workflow_2042.json)
-    Descripción: Este workflow Example Output:
--   [2043_workflow_2043.json](workflows/2043_workflow_2043.json)
-    Descripción: Este workflow Workflow Setup Steps:
--   [2044_workflow_2044.json](workflows/2044_workflow_2044.json)
-    Descripción: Este workflow Purpose
--   [2045_workflow_2045.json](workflows/2045_workflow_2045.json)
-    Descripción: Este workflow Use **Config Bot** to setup your telegram details, like:
--   [2046_workflow_2046.json](workflows/2046_workflow_2046.json)
-    Descripción: Este workflow List NMs
--   [2050_workflow_2050.json](workflows/2050_workflow_2050.json)
-    Descripción: Este workflow Setup your location link and receiver email(s) here
--   [2053_workflow_2053.json](workflows/2053_workflow_2053.json)
-    Descripción: Este workflow USDT TRC20 Wallet Tracker
--   [2054_workflow_2054.json](workflows/2054_workflow_2054.json)
-    Descripción: Este workflow Pulling in Info
--   [2058_workflow_2058.json](workflows/2058_workflow_2058.json)
-    Descripción: Este workflow Facebook API
--   [205_Get_analytics_of_a_website_and_store_it_Airtable.json](workflows/205_Get_analytics_of_a_website_and_store_it_Airtable.json)
-    Descripción: Este workflow Get analytics of a website and store it Airtable
--   [2062_workflow_2062.json](workflows/2062_workflow_2062.json)
-    Descripción: Este workflow Usage
--   [2063_workflow_2063.json](workflows/2063_workflow_2063.json)
-    Descripción: Este workflow Adjust frequency to your own needs
--   [2064_[n8n]_Advanced_URL_Parsing_and_Shortening_Workflow_-_Switchy.io_Integration.json](workflows/2064_[n8n]_Advanced_URL_Parsing_and_Shortening_Workflow_-_Switchy.io_Integration.json)
-    Descripción: Este workflow URL META TAGS DATA
--   [2070_workflow_2070.json](workflows/2070_workflow_2070.json)
-    Descripción: Este workflow Resources
--   [2071_workflow_2071.json](workflows/2071_workflow_2071.json)
-    Descripción: Este workflow Confirm the key names and column references
--   [2074_workflow_2074.json](workflows/2074_workflow_2074.json)
-    Descripción: Este workflow 2074_workflow_2074
--   [2075_workflow_2075.json](workflows/2075_workflow_2075.json)
-    Descripción: Este workflow MOVE CURRENT BACKUPS TO OLD FOLDER
--   [2076_workflow_2076.json](workflows/2076_workflow_2076.json)
-    Descripción: Este workflow Read me
--   [2080_workflow_2080.json](workflows/2080_workflow_2080.json)
-    Descripción: Este workflow Simple Conversion of Emails into HTML Webpages
--   [2082_workflow_2082.json](workflows/2082_workflow_2082.json)
-    Descripción: Este workflow Before executing, replace `YOUR_API_KEY` with an API key for searchapi.io
--   [2083_workflow_2083.json](workflows/2083_workflow_2083.json)
-    Descripción: Este workflow 1] In ElevenLabs, add a voice to your [voice lab](https://elevenlabs.io/voice-lab) and copy its ID. Open this node and add the ID there
--   [2085_workflow_2085.json](workflows/2085_workflow_2085.json)
-    Descripción: Este workflow Sub-workflow: Custom tool
--   [2088_workflow_2088.json](workflows/2088_workflow_2088.json)
-    Descripción: Este workflow Node Descriptions
--   [208_Add_a_datapoint_to_Beeminder_when_new_activity_is_added_to_Strava.json](workflows/208_Add_a_datapoint_to_Beeminder_when_new_activity_is_added_to_Strava.json)
-    Descripción: Este workflow Add a datapoint to Beeminder when new activity is added to Strava
--   [2090_workflow_2090.json](workflows/2090_workflow_2090.json)
-    Descripción: Este workflow Try me out
--   [2094_workflow_2094.json](workflows/2094_workflow_2094.json)
-    Descripción: Este workflow Sub-workflow: Custom tool
--   [2095_workflow_2095.json](workflows/2095_workflow_2095.json)
-    Descripción: Este workflow Sub-workflow: Custom tool
--   [2098_workflow_2098.json](workflows/2098_workflow_2098.json)
-    Descripción: Este workflow Call the assistant, passing in the previous chat messages
--   [209_Create,_update_and_get_a_contact_using_the_SendGrid_node.json](workflows/209_Create,_update_and_get_a_contact_using_the_SendGrid_node.json)
-    Descripción: Este workflow Create, update and get a contact using the SendGrid node
--   [20_Create,_update_and_get_a_contact_in_Google_Contacts.json](workflows/20_Create,_update_and_get_a_contact_in_Google_Contacts.json)
-    Descripción: Este workflow Create, update and get a contact in Google Contacts
--   [2105_workflow_2105.json](workflows/2105_workflow_2105.json)
-    Descripción: Este workflow Setup
--   [2106_workflow_2106.json](workflows/2106_workflow_2106.json)
-    Descripción: Este workflow Setup
--   [2107_workflow_2107.json](workflows/2107_workflow_2107.json)
-    Descripción: Este workflow - Utilized the following API:
--   [2108_workflow_2108.json](workflows/2108_workflow_2108.json)
-    Descripción: Este workflow On User created event in Intercom
--   [2109_workflow_2109.json](workflows/2109_workflow_2109.json)
-    Descripción: Este workflow **👈 Optional**
--   [2110_workflow_2110.json](workflows/2110_workflow_2110.json)
-    Descripción: Este workflow Latest company news before a call
--   [2111_workflow_2111.json](workflows/2111_workflow_2111.json)
-    Descripción: Este workflow On User created in HubSpot
--   [2112_workflow_2112.json](workflows/2112_workflow_2112.json)
-    Descripción: Este workflow Search for all contacts that last contact date for is unknown
--   [2113_workflow_2113.json](workflows/2113_workflow_2113.json)
-    Descripción: Este workflow Setup
--   [2114_workflow_2114.json](workflows/2114_workflow_2114.json)
-    Descripción: Este workflow 2114_workflow_2114
--   [2116_workflow_2116.json](workflows/2116_workflow_2116.json)
-    Descripción: Este workflow 👨‍🎤 Setup
--   [2117_workflow_2117.json](workflows/2117_workflow_2117.json)
-    Descripción: Este workflow Setup
--   [2118_workflow_2118.json](workflows/2118_workflow_2118.json)
-    Descripción: Este workflow Search for all contacts that last contact date for is known
--   [2119_workflow_2119.json](workflows/2119_workflow_2119.json)
-    Descripción: Este workflow 👨‍🎤 Setup
--   [2120_workflow_2120.json](workflows/2120_workflow_2120.json)
-    Descripción: Este workflow 👨‍🎤 Setup
--   [2121_workflow_2121.json](workflows/2121_workflow_2121.json)
-    Descripción: Este workflow 👨‍🎤 Setup
--   [2122_workflow_2122.json](workflows/2122_workflow_2122.json)
-    Descripción: Este workflow 👨‍🎤 Setup
--   [2123_workflow_2123.json](workflows/2123_workflow_2123.json)
-    Descripción: Este workflow Simple indexing workflow using the Google Indexing API
--   [2124_workflow_2124.json](workflows/2124_workflow_2124.json)
-    Descripción: Este workflow Start here
--   [2125_workflow_2125.json](workflows/2125_workflow_2125.json)
-    Descripción: Este workflow Start here
--   [2129_workflow_2129.json](workflows/2129_workflow_2129.json)
-    Descripción: Este workflow Setup
--   [2130_workflow_2130.json](workflows/2130_workflow_2130.json)
-    Descripción: Este workflow Setup
--   [2131_workflow_2131.json](workflows/2131_workflow_2131.json)
-    Descripción: Este workflow Setup
--   [2133_workflow_2133.json](workflows/2133_workflow_2133.json)
-    Descripción: Este workflow Note
--   [2134_workflow_2134.json](workflows/2134_workflow_2134.json)
-    Descripción: Este workflow * Scraping emails from websites using an api
--   [2135_workflow_2135.json](workflows/2135_workflow_2135.json)
-    Descripción: Este workflow Setup
--   [2136_workflow_2136.json](workflows/2136_workflow_2136.json)
-    Descripción: Este workflow 👨‍🎤 Setup
--   [2137_workflow_2137.json](workflows/2137_workflow_2137.json)
-    Descripción: Este workflow Follow-up is due if:
--   [2138_workflow_2138.json](workflows/2138_workflow_2138.json)
-    Descripción: Este workflow Figure out issue assignee and title (shortening if necessary)
--   [2139_workflow_2139.json](workflows/2139_workflow_2139.json)
-    Descripción: Este workflow Scheduled posting
--   [2140_workflow_2140.json](workflows/2140_workflow_2140.json)
-    Descripción: Este workflow Needed pre-work: Add a Slack App
--   [2141_workflow_2141.json](workflows/2141_workflow_2141.json)
-    Descripción: Este workflow Needed pre-work: Add a Slack App
--   [2144_workflow_2144.json](workflows/2144_workflow_2144.json)
-    Descripción: Este workflow 👆 Add your RSS feeds urls here.
--   [2146_workflow_2146.json](workflows/2146_workflow_2146.json)
-    Descripción: Este workflow 👨‍🎤 Setup
--   [2147_workflow_2147.json](workflows/2147_workflow_2147.json)
-    Descripción: Este workflow 👨‍🎤 Setup
--   [2148_workflow_2148.json](workflows/2148_workflow_2148.json)
-    Descripción: Este workflow 👇🏽 Set your team name here in the filter.
--   [2149_workflow_2149.json](workflows/2149_workflow_2149.json)
-    Descripción: Este workflow 👨‍🎤 Setup
--   [2150_workflow_2150.json](workflows/2150_workflow_2150.json)
-    Descripción: Este workflow 👨‍🎤 Setup
--   [2151_workflow_2151.json](workflows/2151_workflow_2151.json)
-    Descripción: Este workflow 👨‍🎤 Setup
--   [2152_workflow_2152.json](workflows/2152_workflow_2152.json)
-    Descripción: Este workflow Example response 👇
--   [2153_workflow_2153.json](workflows/2153_workflow_2153.json)
-    Descripción: Este workflow Needed pre-work: Add a Slack App
--   [2154_workflow_2154.json](workflows/2154_workflow_2154.json)
-    Descripción: Este workflow When does this fire?
--   [2155_workflow_2155.json](workflows/2155_workflow_2155.json)
-    Descripción: Este workflow * Generating keywords for your SEO
--   [2157_workflow_2157.json](workflows/2157_workflow_2157.json)
-    Descripción: Este workflow 👨‍🎤 Setup
--   [2159_workflow_2159.json](workflows/2159_workflow_2159.json)
-    Descripción: Este workflow 👨‍🎤 Setup
--   [215_Create,_update_and_get_a_user_using_the_G_Suite_Admin_node.json](workflows/215_Create,_update_and_get_a_user_using_the_G_Suite_Admin_node.json)
-    Descripción: Este workflow Create, update, and get a user using the G Suite Admin node
--   [2160_workflow_2160.json](workflows/2160_workflow_2160.json)
-    Descripción: Este workflow 👨‍🎤 Setup
--   [2161_workflow_2161.json](workflows/2161_workflow_2161.json)
-    Descripción: Este workflow Find WooCommerce User-ID
--   [2165_workflow_2165.json](workflows/2165_workflow_2165.json)
-    Descripción: Este workflow 1. Setup: Fetch file from Google Drive, split it into chunks and insert into a vector database
--   [2167_workflow_2167.json](workflows/2167_workflow_2167.json)
-    Descripción: Este workflow Edit your own prompt ⬇️
--   [2169_workflow_2169.json](workflows/2169_workflow_2169.json)
-    Descripción: Este workflow 2169_workflow_2169
--   [216_workflow_216.json](workflows/216_workflow_216.json)
-    Descripción: Este workflow 216_workflow_216
--   [2170_workflow_2170.json](workflows/2170_workflow_2170.json)
-    Descripción: Este workflow Add chat ID
--   [2171_workflow_2171.json](workflows/2171_workflow_2171.json)
-    Descripción: Este workflow Purpose
--   [2173_workflow_2173.json](workflows/2173_workflow_2173.json)
-    Descripción: Este workflow 2173_workflow_2173
--   [2177_workflow_2177.json](workflows/2177_workflow_2177.json)
-    Descripción: Este workflow 👨‍🎤 Setup
--   [2179_workflow_2179.json](workflows/2179_workflow_2179.json)
-    Descripción: Este workflow Available source and target languages`*`:
--   [2183_workflow_2183.json](workflows/2183_workflow_2183.json)
-    Descripción: Este workflow Step 2: Setup the Q&A
--   [2187_workflow_2187.json](workflows/2187_workflow_2187.json)
-    Descripción: Este workflow Data check
--   [2190_workflow_2190.json](workflows/2190_workflow_2190.json)
-    Descripción: Este workflow Create new tasks to airtable from a slack command
--   [2191_workflow_2191.json](workflows/2191_workflow_2191.json)
-    Descripción: Este workflow Check email deliverability
--   [2195_workflow_2195.json](workflows/2195_workflow_2195.json)
-    Descripción: Este workflow Setup
--   [2197_workflow_2197.json](workflows/2197_workflow_2197.json)
-    Descripción: Este workflow Add AI labels to Gmail messages
--   [2198_workflow_2198.json](workflows/2198_workflow_2198.json)
-    Descripción: Este workflow Reply draft with OpenAI Assistant
--   [2199_workflow_2199.json](workflows/2199_workflow_2199.json)
-    Descripción: Este workflow Setup
--   [21IdmArlNT9LlaFf_Automate_Google_Analytics_Reporting_-_AlexK1919.json](workflows/21IdmArlNT9LlaFf_Automate_Google_Analytics_Reporting_-_AlexK1919.json)
-    Descripción: Este workflow Aggregate Google Analytics data and Email the results
--   [21_Upload_video,_create_playlist_and_add_video_to_playlist.json](workflows/21_Upload_video,_create_playlist_and_add_video_to_playlist.json)
-    Descripción: Este workflow Upload video, create playlist and add video to playlist
--   [2211_workflow_2211.json](workflows/2211_workflow_2211.json)
-    Descripción: Este workflow Setup
--   [2212_workflow_2212.json](workflows/2212_workflow_2212.json)
-    Descripción: Este workflow Setup
--   [2214_workflow_2214.json](workflows/2214_workflow_2214.json)
-    Descripción: Este workflow Confirmation-based
--   [2216_workflow_2216.json](workflows/2216_workflow_2216.json)
-    Descripción: Este workflow N8N Workflow: AI-Enhanced Image Processing and Communication
--   [2219_workflow_2219.json](workflows/2219_workflow_2219.json)
-    Descripción: Este workflow Project Benefit 🎧🌟
--   [2221_[n8n]_YouTube_Channel_Advanced_RSS_Feeds_Generator.json](workflows/2221_[n8n]_YouTube_Channel_Advanced_RSS_Feeds_Generator.json)
-    Descripción: Este workflow ℹ️ **Workarounds And Information**
--   [2222_workflow_2222.json](workflows/2222_workflow_2222.json)
-    Descripción: Este workflow Testing
--   [2223_Dynamic_credentials_using_expressions.json](workflows/2223_Dynamic_credentials_using_expressions.json)
-    Descripción: Este workflow This workflow shows how to set credentials dynamically using expressions.
--   [2225_workflow_2225.json](workflows/2225_workflow_2225.json)
-    Descripción: Este workflow Purpose
--   [2233_workflow_2233.json](workflows/2233_workflow_2233.json)
-    Descripción: Este workflow Setting Up a Workflow for "AI-Powered Children's English Storytelling on Telegram"
--   [2234_workflow_2234.json](workflows/2234_workflow_2234.json)
-    Descripción: Este workflow Template for Kids' Story in Arabic
--   [2235_workflow_2235.json](workflows/2235_workflow_2235.json)
-    Descripción: Este workflow Automated Image Analysis and Response via Telegram
--   [2239_workflow_2239.json](workflows/2239_workflow_2239.json)
-    Descripción: Este workflow Email Validation and extract domain
--   [2241_Unsubscribe_Mautic_contacts_from_automated_unsubscribe_emails.json](workflows/2241_Unsubscribe_Mautic_contacts_from_automated_unsubscribe_emails.json)
-    Descripción: Este workflow Step 1
--   [2244_workflow_2244.json](workflows/2244_workflow_2244.json)
-    Descripción: Este workflow Dynamically Replace Images in Google Slides
--   [2245_workflow_2245.json](workflows/2245_workflow_2245.json)
-    Descripción: Este workflow Generate Text-to-Speech Using Elevenlabs via API
--   [2251_workflow_2251.json](workflows/2251_workflow_2251.json)
-    Descripción: Este workflow Purpose
--   [225_workflow_225.json](workflows/225_workflow_225.json)
-    Descripción: Este workflow 225_workflow_225
--   [2267_workflow_2267.json](workflows/2267_workflow_2267.json)
-    Descripción: Este workflow How to use the workflow
--   [226_workflow_226.json](workflows/226_workflow_226.json)
-    Descripción: Este workflow 226_workflow_226
--   [2270_workflow_2270.json](workflows/2270_workflow_2270.json)
-    Descripción: Este workflow Troubleshooting
--   [2272_workflow_2272.json](workflows/2272_workflow_2272.json)
-    Descripción: Este workflow DROPCONTACT 250 BATCH ASYNCHRONOUSLY
--   [2274_workflow_2274.json](workflows/2274_workflow_2274.json)
-    Descripción: Este workflow Flow starts when receiving a get http call
--   [2278_workflow_2278.json](workflows/2278_workflow_2278.json)
-    Descripción: Este workflow Change **url** for Github Repo here
--   [2280_workflow_2280.json](workflows/2280_workflow_2280.json)
-    Descripción: Este workflow Gets a random image from the internet. Replace this with your image (should be called 'data')
--   [2281_workflow_2281.json](workflows/2281_workflow_2281.json)
-    Descripción: Este workflow Automating Posting content to WordPress and setting up the featured Image
--   [2285_workflow_2285.json](workflows/2285_workflow_2285.json)
-    Descripción: Este workflow Set Globals
--   [2287_workflow_2287.json](workflows/2287_workflow_2287.json)
-    Descripción: Este workflow Get your lemlist API key
--   [2291_workflow_2291.json](workflows/2291_workflow_2291.json)
-    Descripción: Este workflow CaptainVerify
--   [2293_workflow_2293.json](workflows/2293_workflow_2293.json)
-    Descripción: Este workflow Workflow installation
--   [2294_workflow_2294.json](workflows/2294_workflow_2294.json)
-    Descripción: Este workflow Authentication
--   [2295_workflow_2295.json](workflows/2295_workflow_2295.json)
-    Descripción: Este workflow Get all executions
--   [2297_workflow_2297.json](workflows/2297_workflow_2297.json)
-    Descripción: Este workflow Authentication
--   [2299_workflow_2299.json](workflows/2299_workflow_2299.json)
-    Descripción: Este workflow Test Data
--   [22PddLUgcjSJbT1w_MongoDB_Agent.json](workflows/22PddLUgcjSJbT1w_MongoDB_Agent.json)
-    Descripción: Este workflow AI Agent powered by OpenAI and MongoDB
--   [2301_workflow_2301.json](workflows/2301_workflow_2301.json)
-    Descripción: Este workflow Check information for all workflows or a single workflow, activate corresponding node
--   [2304_workflow_2304.json](workflows/2304_workflow_2304.json)
-    Descripción: Este workflow Authentication
--   [2305_workflow_2305.json](workflows/2305_workflow_2305.json)
-    Descripción: Este workflow Authentication
--   [2306_workflow_2306.json](workflows/2306_workflow_2306.json)
-    Descripción: Este workflow Authentication
--   [2307_workflow_2307.json](workflows/2307_workflow_2307.json)
-    Descripción: Este workflow Subworkflow
--   [2310_workflow_2310.json](workflows/2310_workflow_2310.json)
-    Descripción: Este workflow Authentication
--   [2312_workflow_2312.json](workflows/2312_workflow_2312.json)
-    Descripción: Este workflow Default Error Handler
--   [2314_workflow_2314.json](workflows/2314_workflow_2314.json)
-    Descripción: Este workflow Authentication
--   [2315_workflow_2315.json](workflows/2315_workflow_2315.json)
-    Descripción: Este workflow Text scraper tool
--   [2316_workflow_2316.json](workflows/2316_workflow_2316.json)
-    Descripción: Este workflow Authentication
--   [2317_workflow_2317.json](workflows/2317_workflow_2317.json)
-    Descripción: Este workflow Authentication
--   [2320_workflow_2320.json](workflows/2320_workflow_2320.json)
-    Descripción: Este workflow 2. Advanced PDF Processing with LlamaParse
--   [2321_workflow_2321.json](workflows/2321_workflow_2321.json)
-    Descripción: Este workflow 1. API to Trigger Workflow
--   [2322_workflow_2322.json](workflows/2322_workflow_2322.json)
-    Descripción: Este workflow 1. Start with n8n Forms
--   [2323_workflow_2323.json](workflows/2323_workflow_2323.json)
-    Descripción: Este workflow 1. Query Slack for Messages
--   [2324_workflow_2324.json](workflows/2324_workflow_2324.json)
-    Descripción: Este workflow Read Me
--   [2326_workflow_2326.json](workflows/2326_workflow_2326.json)
-    Descripción: Este workflow 1. Pull Messages from Slack Channel
--   [2327_workflow_2327.json](workflows/2327_workflow_2327.json)
-    Descripción: Este workflow 1. Setting a Schedule
--   [2328_workflow_2328.json](workflows/2328_workflow_2328.json)
-    Descripción: Este workflow 4. This Tool Creates Calendar Events
--   [2330_workflow_2330.json](workflows/2330_workflow_2330.json)
-    Descripción: Este workflow 1. Use Airtable to Capture Survey Photos
--   [2331_workflow_2331.json](workflows/2331_workflow_2331.json)
-    Descripción: Este workflow 1. Get Source Image
--   [2333_workflow_2333.json](workflows/2333_workflow_2333.json)
-    Descripción: Este workflow Step 1. Fetch Available Courses For the Current Week
--   [2334_workflow_2334.json](workflows/2334_workflow_2334.json)
-    Descripción: Este workflow Step 1. Select the target folder
--   [2335_workflow_2335.json](workflows/2335_workflow_2335.json)
-    Descripción: Este workflow Step 1. Select the target folder
--   [2338_workflow_2338.json](workflows/2338_workflow_2338.json)
-    Descripción: Este workflow Step 1. Wait For Incoming Bank Statements
--   [2339_workflow_2339.json](workflows/2339_workflow_2339.json)
-    Descripción: Este workflow Step 1. Watch Folder and Import New Documents
--   [2341_workflow_2341.json](workflows/2341_workflow_2341.json)
-    Descripción: Este workflow Step 1. Download the Tax Code PDF
--   [2342_workflow_2342.json](workflows/2342_workflow_2342.json)
-    Descripción: Este workflow Step 6. Filter Open Enquiries from Airtable
--   [2343_workflow_2343.json](workflows/2343_workflow_2343.json)
-    Descripción: Este workflow AI agent that can scrape webpages
--   [2344_workflow_2344.json](workflows/2344_workflow_2344.json)
-    Descripción: Este workflow Get Color Channels
--   [2346_workflow_2346.json](workflows/2346_workflow_2346.json)
-    Descripción: Este workflow Step 2. Buffer Incoming Messages
--   [2347_workflow_2347.json](workflows/2347_workflow_2347.json)
-    Descripción: Este workflow 🚨Required
--   [2348_workflow_2348.json](workflows/2348_workflow_2348.json)
-    Descripción: Este workflow 2348_workflow_2348
--   [2349_workflow_2349.json](workflows/2349_workflow_2349.json)
-    Descripción: Este workflow 2349_workflow_2349
--   [2353_workflow_2353.json](workflows/2353_workflow_2353.json)
-    Descripción: Este workflow Setup repos here to check releases for.
--   [2354_workflow_2354.json](workflows/2354_workflow_2354.json)
-    Descripción: Este workflow Try It Out!
--   [2358_workflow_2358.json](workflows/2358_workflow_2358.json)
-    Descripción: Este workflow
--   [2359_workflow_2359.json](workflows/2359_workflow_2359.json)
-    Descripción: Este workflow Retrieve all checkout sessions from the last 7 days.
--   [2367_workflow_2367.json](workflows/2367_workflow_2367.json)
-    Descripción: Este workflow Replicate Line Items on New Deal in HubSpot Workflow
--   [2368_workflow_2368.json](workflows/2368_workflow_2368.json)
-    Descripción: Este workflow Use this to get all your contacts 👉
--   [2370_workflow_2370.json](workflows/2370_workflow_2370.json)
-    Descripción: Este workflow This is a POST Webhook endpoint
--   [2371_workflow_2371.json](workflows/2371_workflow_2371.json)
-    Descripción: Este workflow 2371_workflow_2371
--   [2372_workflow_2372.json](workflows/2372_workflow_2372.json)
-    Descripción: Este workflow Step 1. Import Survey Responses
--   [2373_workflow_2373.json](workflows/2373_workflow_2373.json)
-    Descripción: Este workflow Step 1. Starting Fresh
--   [2374_workflow_2374.json](workflows/2374_workflow_2374.json)
-    Descripción: Este workflow Step 4. Trigger Insights SubWorkflow
--   [2376_workflow_2376.json](workflows/2376_workflow_2376.json)
-    Descripción: Este workflow Gather Gitlab Info
--   [2379_TOTP_VALIDATION_(WITHOUT_CREATING_CREDENTIAL).json](workflows/2379_TOTP_VALIDATION_(WITHOUT_CREATING_CREDENTIAL).json)
-    Descripción: Este workflow TOTP Validation with Function Node
--   [2380_workflow_2380.json](workflows/2380_workflow_2380.json)
-    Descripción: Este workflow Create Atlassian Confluence page from template
--   [2383_workflow_2383.json](workflows/2383_workflow_2383.json)
-    Descripción: Este workflow Receive MQTT message from IKEA 5-button Switch, and route actions.
--   [2385_workflow_2385.json](workflows/2385_workflow_2385.json)
-    Descripción: Este workflow Check file
--   [2393_workflow_2393.json](workflows/2393_workflow_2393.json)
-    Descripción: Este workflow Setup
--   [2394_workflow_2394.json](workflows/2394_workflow_2394.json)
-    Descripción: Este workflow 💫 To setup this template
--   [2395_workflow_2395.json](workflows/2395_workflow_2395.json)
-    Descripción: Este workflow INSERTING
--   [2397_workflow_2397.json](workflows/2397_workflow_2397.json)
-    Descripción: Este workflow
--   [2398_workflow_2398.json](workflows/2398_workflow_2398.json)
-    Descripción: Este workflow
--   [23GPrqZjHnIVvTEa_Backup_n8n_Workflows_to_Bitbucket.json](workflows/23GPrqZjHnIVvTEa_Backup_n8n_Workflows_to_Bitbucket.json)
-    Descripción: Este workflow Backup n8n Workflows to Bitbucket
--   [23_Zendesk-to-slack.json](workflows/23_Zendesk-to-slack.json)
-    Descripción: Este workflow Zendesk-to-slack
--   [2402_workflow_2402.json](workflows/2402_workflow_2402.json)
-    Descripción: Este workflow Callback
--   [2403_workflow_2403.json](workflows/2403_workflow_2403.json)
-    Descripción: Este workflow Credential
--   [2407_workflow_2407.json](workflows/2407_workflow_2407.json)
-    Descripción: Este workflow New order is sent to the Webhook via POST with params {orderID, orderPrice}
--   [2409_workflow_2409.json](workflows/2409_workflow_2409.json)
-    Descripción: Este workflow Triggers
--   [2413_workflow_2413.json](workflows/2413_workflow_2413.json)
-    Descripción: Este workflow Notion knowledge base assistant [v1]
--   [2415_workflow_2415.json](workflows/2415_workflow_2415.json)
-    Descripción: Este workflow Generate new workflow version for specific notion db schema
--   [2416_workflow_2416.json](workflows/2416_workflow_2416.json)
-    Descripción: Este workflow Try me out!
--   [2417_workflow_2417.json](workflows/2417_workflow_2417.json)
-    Descripción: Este workflow Set style prompt
--   [2418_workflow_2418.json](workflows/2418_workflow_2418.json)
-    Descripción: Este workflow Try it out!
--   [2419_workflow_2419.json](workflows/2419_workflow_2419.json)
-    Descripción: Este workflow Part A. Generate Base Images
--   [2420_workflow_2420.json](workflows/2420_workflow_2420.json)
-    Descripción: Este workflow 1. Import Photos To Validate
--   [2421_workflow_2421.json](workflows/2421_workflow_2421.json)
-    Descripción: Este workflow Try Me Out!
--   [2422_workflow_2422.json](workflows/2422_workflow_2422.json)
-    Descripción: Este workflow
--   [2424_workflow_2424.json](workflows/2424_workflow_2424.json)
-    Descripción: Este workflow Adobe API Wrapper
--   [2433_workflow_2433.json](workflows/2433_workflow_2433.json)
-    Descripción: Este workflow Daily Podcast Summary
--   [2434_workflow_2434.json](workflows/2434_workflow_2434.json)
-    Descripción: Este workflow 🚨 Set Destination Folders Here
--   [2435_workflow_2435.json](workflows/2435_workflow_2435.json)
-    Descripción: Este workflow Monitor Multiple Github Repos
--   [2436_workflow_2436.json](workflows/2436_workflow_2436.json)
-    Descripción: Este workflow es un template de siri
--   [2441_workflow_2441.json](workflows/2441_workflow_2441.json)
-    Descripción: Este workflow Workflow Description:
--   [2443_workflow_2443.json](workflows/2443_workflow_2443.json)
-    Descripción: Este workflow 1. Retrieve existing or get new auth token for webhook.site
--   [2444_workflow_2444.json](workflows/2444_workflow_2444.json)
-    Descripción: Este workflow Get from Zotero Web > Settings > Security:
--   [2446_workflow_2446.json](workflows/2446_workflow_2446.json)
-    Descripción: Este workflow Sub-Agent for scheduling calendar events
--   [2448_workflow_2448.json](workflows/2448_workflow_2448.json)
-    Descripción: Este workflow Template Description
--   [2450_workflow_2450.json](workflows/2450_workflow_2450.json)
-    Descripción: Este workflow 👇 Configure here
--   [2451_workflow_2451.json](workflows/2451_workflow_2451.json)
-    Descripción: Este workflow Instructions
--   [2453_workflow_2453.json](workflows/2453_workflow_2453.json)
-    Descripción: Este workflow SQL query to create table in Supabase:
--   [2454_workflow_2454.json](workflows/2454_workflow_2454.json)
-    Descripción: Este workflow Auto Categorise Outlook Emails with AI
--   [2455_workflow_2455.json](workflows/2455_workflow_2455.json)
-    Descripción: Este workflow Amadeus Flight Bargains
--   [2456_workflow_2456.json](workflows/2456_workflow_2456.json)
-    Descripción: Este workflow Workflow: Text automations using Apple Shortcuts
--   [2459_workflow_2459.json](workflows/2459_workflow_2459.json)
-    Descripción: Este workflow Retrieve the Background Image and fetch Meta from the File
--   [2462_workflow_2462.json](workflows/2462_workflow_2462.json)
-    Descripción: Este workflow Process Telegram Request
--   [2464_workflow_2464.json](workflows/2464_workflow_2464.json)
-    Descripción: Este workflow 3. Split PDF Pages into Seperate Images
--   [2465_workflow_2465.json](workflows/2465_workflow_2465.json)
-    Descripción: Este workflow 1. Download Product Brochure PDF
--   [2466_workflow_2466.json](workflows/2466_workflow_2466.json)
-    Descripción: Este workflow 1. WhatsApp Trigger
--   [2467_workflow_2467.json](workflows/2467_workflow_2467.json)
-    Descripción: Este workflow Try It Out!
--   [2468_workflow_2468.json](workflows/2468_workflow_2468.json)
-    Descripción: Este workflow 1. Search For Unresolved Long-lived JIRA Issues
--   [2469_workflow_2469.json](workflows/2469_workflow_2469.json)
-    Descripción: Este workflow MOVE CURRENT BACKUPS TO OLD FOLDER
--   [2471_workflow_2471.json](workflows/2471_workflow_2471.json)
-    Descripción: Este workflow Template Description
--   [2473_workflow_2473.json](workflows/2473_workflow_2473.json)
-    Descripción: Este workflow Generate SEO Seed Keywords Using AI
--   [2475_workflow_2475.json](workflows/2475_workflow_2475.json)
-    Descripción: Este workflow **Get data from airtable and check if already done**
--   [2476_workflow_2476.json](workflows/2476_workflow_2476.json)
-    Descripción: Este workflow **40 at a time seems to be the memory limit on my server - run until complete with batches of 40 or increase based on your server memory**
--   [247_Congratulations_Workflow.json](workflows/247_Congratulations_Workflow.json)
-    Descripción: Este workflow Congratulations Workflow
--   [2485_workflow_2485.json](workflows/2485_workflow_2485.json)
-    Descripción: Este workflow Trigger workflow every 48 hours
--   [2488_workflow_2488.json](workflows/2488_workflow_2488.json)
-    Descripción: Este workflow Schedule Mon - Friday @ 09:00am
--   [2491_workflow_2491.json](workflows/2491_workflow_2491.json)
-    Descripción: Este workflow 1. Get advice articles from a Google search**
--   [2494_workflow_2494.json](workflows/2494_workflow_2494.json)
-    Descripción: Este workflow Generate SEO Keyword Search Volume Data using Google API
--   [2499_workflow_2499.json](workflows/2499_workflow_2499.json)
-    Descripción: Este workflow Script Parameter
--   [2500_workflow_2500.json](workflows/2500_workflow_2500.json)
-    Descripción: Este workflow 2500_workflow_2500
--   [2501_workflow_2501.json](workflows/2501_workflow_2501.json)
-    Descripción: Este workflow **Find and replace image in docx. Connect to a datasource with an image URL you want to insert into the Docx file**
--   [2502_workflow_2502.json](workflows/2502_workflow_2502.json)
-    Descripción: Este workflow Monthly Spotify Track Archiving and Playlist Classification
--   [2510_workflow_2510.json](workflows/2510_workflow_2510.json)
-    Descripción: Este workflow usa slak
--   [2511_workflow_2511.json](workflows/2511_workflow_2511.json)
-    Descripción: Este workflow usa qualys
--   [2512_workflow_2512.json](workflows/2512_workflow_2512.json)
-    Descripción: Este workflow usa slack
--   [2513_workflow_2513.json](workflows/2513_workflow_2513.json)
-    Descripción: Este workflow **Image Prompt**
--   [2518_workflow_2518.json](workflows/2518_workflow_2518.json)
-    Descripción: Este workflow Workflow Overview
--   [2523_workflow_2523.json](workflows/2523_workflow_2523.json)
-    Descripción: Este workflow 2523_workflow_2523
--   [2525_workflow_2525.json](workflows/2525_workflow_2525.json)
-    Descripción: Este workflow Overview
--   [2527_workflow_2527.json](workflows/2527_workflow_2527.json)
-    Descripción: Este workflow Never expose or hard code below values
--   [2531_workflow_2531.json](workflows/2531_workflow_2531.json)
-    Descripción: Este workflow Qualys
--   [2532_Backup_workflows_to_git_repository.json](workflows/2532_Backup_workflows_to_git_repository.json)
-    Descripción: Este workflow Workflow changes committed to the repository
--   [2536_workflow_2536.json](workflows/2536_workflow_2536.json)
-    Descripción: Este workflow Start Multiple Sub-Workflows Asynchronously
--   [2538_workflow_2538.json](workflows/2538_workflow_2538.json)
-    Descripción: Este workflow StaticData Demo
--   [2543_workflow_2543.json](workflows/2543_workflow_2543.json)
-    Descripción: Este workflow 2543_workflow_2543
--   [2547_workflow_2547.json](workflows/2547_workflow_2547.json)
-    Descripción: Este workflow **Replace API key in Header, webhook from 2nd scenario, change settings if needed**
--   [2550_workflow_2550.json](workflows/2550_workflow_2550.json)
-    Descripción: Este workflow Adding to GSheet-List, Creating a OTP / Verification Code
--   [2552_workflow_2552.json](workflows/2552_workflow_2552.json)
-    Descripción: Este workflow Start here: Step-by Step Youtube Tutorial :star:
--   [2555_workflow_2555.json](workflows/2555_workflow_2555.json)
-    Descripción: Este workflow 1 line of code to take the data object (adding date as a plus)
--   [2559_workflow_2559.json](workflows/2559_workflow_2559.json)
-    Descripción: Este workflow Overview
--   [2560_workflow_2560.json](workflows/2560_workflow_2560.json)
-    Descripción: Este workflow datapopcorn
--   [2566_workflow_2566.json](workflows/2566_workflow_2566.json)
-    Descripción: Este workflow 🚨 Set Interview Topic Here!
--   [2567_Google_Maps_Email_Scraper_Template.json](workflows/2567_Google_Maps_Email_Scraper_Template.json)
-    Descripción: Este workflow 🛠 Setup
--   [2570_workflow_2570.json](workflows/2570_workflow_2570.json)
-    Descripción: Este workflow 2. Define your welcome message and link here
--   [2571_workflow_2571.json](workflows/2571_workflow_2571.json)
-    Descripción: Este workflow Configure your credentials
--   [2572_workflow_2572.json](workflows/2572_workflow_2572.json)
-    Descripción: Este workflow **Add direct link to CV and Job description**
--   [2576_Import_Productboard_Notes,_Companies_and_Features_into_Snowflake.json](workflows/2576_Import_Productboard_Notes,_Companies_and_Features_into_Snowflake.json)
-    Descripción: Este workflow Preview Slack Message
--   [2577_workflow_2577.json](workflows/2577_workflow_2577.json)
-    Descripción: Este workflow usa slack
--   [2578_Linear_Project_Status_and_End_Date_to_Productboard_feature_Sync.json](workflows/2578_Linear_Project_Status_and_End_Date_to_Productboard_feature_Sync.json)
-    Descripción: Este workflow Tips
--   [2579_workflow_2579.json](workflows/2579_workflow_2579.json)
-    Descripción: Este workflow 1. Application Form To Upload CV
--   [2580_workflow_2580.json](workflows/2580_workflow_2580.json)
-    Descripción: Este workflow 1. Qualify Enquiries Using AI
--   [2581_workflow_2581.json](workflows/2581_workflow_2581.json)
-    Descripción: Este workflow 1. Easy Lead Capture with n8n Forms
--   [2582_workflow_2582.json](workflows/2582_workflow_2582.json)
-    Descripción: Este workflow 1. Periodically Search For Upcoming Meetings
--   [2585_workflow_2585.json](workflows/2585_workflow_2585.json)
-    Descripción: Este workflow
--   [2586_workflow_2586.json](workflows/2586_workflow_2586.json)
-    Descripción: Este workflow Trigger
--   [2590_workflow_2590.json](workflows/2590_workflow_2590.json)
-    Descripción: Este workflow Change **url** for Github Repo here
--   [25_Add_subscriber_to_form,_create_tag_and_subscriber_to_the_tag.json](workflows/25_Add_subscriber_to_form,_create_tag_and_subscriber_to_the_tag.json)
-    Descripción: Este workflow Add subscriber to form, create tag and subscriber to the tag
--   [2603_workflow_2603.json](workflows/2603_workflow_2603.json)
-    Descripción: Este workflow Try It Out!
--   [2610_workflow_2610.json](workflows/2610_workflow_2610.json)
-    Descripción: Este workflow HUBSPOT LIFECYCLESTAGE (LEAD STATUS)
--   [2612_workflow_2612.json](workflows/2612_workflow_2612.json)
-    Descripción: Este workflow **Replace password and username for Supabase**
--   [2613_workflow_2613.json](workflows/2613_workflow_2613.json)
-    Descripción: Este workflow Usage
--   [2618_workflow_2618.json](workflows/2618_workflow_2618.json)
-    Descripción: Este workflow 4. Using Subworkflows to run executions concurrently
--   [2619_workflow_2619.json](workflows/2619_workflow_2619.json)
-    Descripción: Este workflow 1. Fetch Latest AI Grants, Ignore Those Already Seen
--   [2620_workflow_2620.json](workflows/2620_workflow_2620.json)
-    Descripción: Este workflow Introduction
--   [2621_workflow_2621.json](workflows/2621_workflow_2621.json)
-    Descripción: Este workflow Introduction
--   [2646_workflow_2646.json](workflows/2646_workflow_2646.json)
-    Descripción: Este workflow 2646_workflow_2646
--   [2647_workflow_2647.json](workflows/2647_workflow_2647.json)
-    Descripción: Este workflow 1. Continuously Monitor Active Linear Issues
--   [2648_workflow_2648.json](workflows/2648_workflow_2648.json)
-    Descripción: Este workflow 1. Import Existing Content
--   [2649_workflow_2649.json](workflows/2649_workflow_2649.json)
-    Descripción: Este workflow Fig 1. Output of Object Detection
--   [2651_workflow_2651.json](workflows/2651_workflow_2651.json)
-    Descripción: Este workflow ... or watch set up video [10 min]
--   [2652_workflow_2652.json](workflows/2652_workflow_2652.json)
-    Descripción: Este workflow Subworkflow
--   [2658_workflow_2658.json](workflows/2658_workflow_2658.json)
-    Descripción: Este workflow Stage 1 - Research for API Documentation
--   [2661_workflow_2661.json](workflows/2661_workflow_2661.json)
-    Descripción: Este workflow Scenario 1
--   [2665_workflow_2665.json](workflows/2665_workflow_2665.json)
-    Descripción: Este workflow usa gmail
--   [2666_workflow_2666.json](workflows/2666_workflow_2666.json)
-    Descripción: Este workflow usa hctiapi2
--   [2667_workflow_2667.json](workflows/2667_workflow_2667.json)
-    Descripción: Este workflow Try me out !
--   [2676_workflow_2676.json](workflows/2676_workflow_2676.json)
-    Descripción: Este workflow usa outlook
--   [2677_workflow_2677.json](workflows/2677_workflow_2677.json)
-    Descripción: Este workflow usa gmail
--   [2678_workflow_2678.json](workflows/2678_workflow_2678.json)
-    Descripción: Este workflow 2678_workflow_2678
--   [2679_workflow_2679.json](workflows/2679_workflow_2679.json)
-    Descripción: Este workflow 2679_workflow_2679
--   [2683_workflow_2683.json](workflows/2683_workflow_2683.json)
-    Descripción: Este workflow Replace API key for Fireflies
--   [2684_workflow_2684.json](workflows/2684_workflow_2684.json)
-    Descripción: Este workflow The document node serves as sample source for `twitch` username to check
--   [2688_workflow_2688.json](workflows/2688_workflow_2688.json)
-    Descripción: Este workflow 2688_workflow_2688
--   [2697_workflow_2697.json](workflows/2697_workflow_2697.json)
-    Descripción: Este workflow 2697_workflow_2697
--   [2700_workflow_2700.json](workflows/2700_workflow_2700.json)
-    Descripción: Este workflow Replace Mapbox public key - <your_public_key> in code
--   [2704_workflow_2704.json](workflows/2704_workflow_2704.json)
-    Descripción: Este workflow usa slack
--   [2708_workflow_2708.json](workflows/2708_workflow_2708.json)
-    Descripción: Este workflow 2708_workflow_2708
--   [2727_workflow_2727.json](workflows/2727_workflow_2727.json)
-    Descripción: Este workflow usa slack
--   [2728_workflow_2728.json](workflows/2728_workflow_2728.json)
-    Descripción: Este workflow es de service now modal interface
--   [2732_workflow_2732.json](workflows/2732_workflow_2732.json)
-    Descripción: Este workflow Testing
--   [2736_workflow_2736.json](workflows/2736_workflow_2736.json)
-    Descripción: Este workflow **Summarize YouTube videos**
--   [2738_Transform_Image_to_Lego_Style_Using_Line_and_Dall-E.json](workflows/2738_Transform_Image_to_Lego_Style_Using_Line_and_Dall-E.json)
-    Descripción: Este workflow Transform Image to Lego Style Using Line and Dall-E
--   [2740_workflow_2740.json](workflows/2740_workflow_2740.json)
-    Descripción: Este workflow Gmail trigger
--   [2749_workflow_2749.json](workflows/2749_workflow_2749.json)
-    Descripción: Este workflow API Key for Proxmox
--   [2755_workflow_2755.json](workflows/2755_workflow_2755.json)
-    Descripción: Este workflow Introduction
--   [2757_workflow_2757.json](workflows/2757_workflow_2757.json)
-    Descripción: Este workflow Get Apprropraite Data
--   [2758_workflow_2758.json](workflows/2758_workflow_2758.json)
-    Descripción: Este workflow Filter the Lead
--   [2764_workflow_2764.json](workflows/2764_workflow_2764.json)
-    Descripción: Este workflow Workflow: Extract data from PDF with Claude 3.5 Sonnet or Gemini 2.0 Flash
--   [2769_workflow_2769.json](workflows/2769_workflow_2769.json)
-    Descripción: Este workflow Introduction
--   [2771_workflow_2771.json](workflows/2771_workflow_2771.json)
-    Descripción: Este workflow 1. Get Table Schema
--   [2774_workflow_2774.json](workflows/2774_workflow_2774.json)
-    Descripción: Este workflow Introduction
--   [2779_workflow_2779.json](workflows/2779_workflow_2779.json)
-    Descripción: Este workflow Remove PII from CSV Files
--   [2780_workflow_2780.json](workflows/2780_workflow_2780.json)
-    Descripción: Este workflow 1. Get Table Schema
--   [2786_workflow_2786.json](workflows/2786_workflow_2786.json)
-    Descripción: Este workflow Ensure these referance this workflow, replace placeholders
--   [2790_workflow_2790.json](workflows/2790_workflow_2790.json)
-    Descripción: Este workflow Customer Experience Agent (AI)
--   [2796_workflow_2796.json](workflows/2796_workflow_2796.json)
-    Descripción: Este workflow usa voiceflow
--   [27_Create_a_release_and_get_all_releases.json](workflows/27_Create_a_release_and_get_all_releases.json)
-    Descripción: Este workflow Create a release and get all releases
--   [27_N8N_Español_-_BOT.json](workflows/27_N8N_Español_-_BOT.json)
-    Descripción: Este workflow N8N Español - BOT
--   [27_workflow_27.json](workflows/27_workflow_27.json)
-    Descripción: Este workflow 27_workflow_27
--   [2802_workflow_2802.json](workflows/2802_workflow_2802.json)
-    Descripción: Este workflow Get Threads API Access Token
--   [2807_workflow_2807.json](workflows/2807_workflow_2807.json)
-    Descripción: Este workflow 2807_workflow_2807
--   [2808_workflow_2808.json](workflows/2808_workflow_2808.json)
-    Descripción: Este workflow Create a Google sheet
--   [2823_workflow_2823.json](workflows/2823_workflow_2823.json)
-    Descripción: Este workflow Personalize here
--   [2824_workflow_2824.json](workflows/2824_workflow_2824.json)
-    Descripción: Este workflow Credentials Setup
--   [2834_workflow_2834.json](workflows/2834_workflow_2834.json)
-    Descripción: Este workflow Setup
--   [2835_workflow_2835.json](workflows/2835_workflow_2835.json)
-    Descripción: Este workflow 2835_workflow_2835
--   [2836_workflow_2836.json](workflows/2836_workflow_2836.json)
-    Descripción: Este workflow 2836_workflow_2836
--   [2840_workflow_2840.json](workflows/2840_workflow_2840.json)
-    Descripción: Este workflow usa qdrant
--   [2853_workflow_2853.json](workflows/2853_workflow_2853.json)
-    Descripción: Este workflow Match Spotify Tracks to YouTube Videos
--   [2857_workflow_2857.json](workflows/2857_workflow_2857.json)
-    Descripción: Este workflow Independent "Async" Process
--   [2858_workflow_2858.json](workflows/2858_workflow_2858.json)
-    Descripción: Este workflow 2858_workflow_2858
--   [2868_workflow_2868.json](workflows/2868_workflow_2868.json)
-    Descripción: Este workflow Subworkflow
--   [2878_workflow_2878.json](workflows/2878_workflow_2878.json)
-    Descripción: Este workflow 2. Ask Clarifying Questions
--   [2886_workflow_2886.json](workflows/2886_workflow_2886.json)
-    Descripción: Este workflow 2886_workflow_2886
--   [2889_workflow_2889.json](workflows/2889_workflow_2889.json)
-    Descripción: Este workflow Adjust fields
--   [2890_Automate_Drive-To-Store_Lead_Generation_System_(with_coupon)_on_SuiteCRM.json](workflows/2890_Automate_Drive-To-Store_Lead_Generation_System_(with_coupon)_on_SuiteCRM.json)
-    Descripción: Este workflow STEP 1
--   [28_Receive_updates_when_a_subscriber_is_added_through_a_form_in_ConvertKit.json](workflows/28_Receive_updates_when_a_subscriber_is_added_through_a_form_in_ConvertKit.json)
-    Descripción: Este workflow Receive updates when a subscriber is added through a form in ConvertKit
--   [2901_workflow_2901.json](workflows/2901_workflow_2901.json)
-    Descripción: Este workflow Either use the official Notion getAll: Blocks node
--   [2922_workflow_2922.json](workflows/2922_workflow_2922.json)
-    Descripción: Este workflow Build a summary
--   [2925_workflow_2925.json](workflows/2925_workflow_2925.json)
-    Descripción: Este workflow VPS upgrade notify
--   [2931_workflow_2931.json](workflows/2931_workflow_2931.json)
-    Descripción: Este workflow The conversation history(last 20 messages) is stored in a buffer memory
--   [2945_workflow_2945.json](workflows/2945_workflow_2945.json)
-    Descripción: Este workflow 2945_workflow_2945
--   [2951_workflow_2951.json](workflows/2951_workflow_2951.json)
-    Descripción: Este workflow Update email addresses
--   [2966_workflow_2966.json](workflows/2966_workflow_2966.json)
-    Descripción: Este workflow Reference "Single" Binary Using Expressions
--   [2972_workflow_2972.json](workflows/2972_workflow_2972.json)
-    Descripción: Este workflow This node fetches the main BBC News page, which contains links to various news articles.
--   [2976_workflow_2976.json](workflows/2976_workflow_2976.json)
-    Descripción: Este workflow Developed by Amjid Ali
--   [2979_workflow_2979.json](workflows/2979_workflow_2979.json)
-    Descripción: Este workflow 🗂️ Bulk File Upload to Google Drive with Folder Management
--   [2990_Generate_Image_Workflow.json](workflows/2990_Generate_Image_Workflow.json)
-    Descripción: Este workflow Generate Image Workflow
--   [29P4X9mTSmplnjlJ_AI_Phone_Agent_with_RetellAI.json](workflows/29P4X9mTSmplnjlJ_AI_Phone_Agent_with_RetellAI.json)
-    Descripción: Este workflow STEP 3 - RETELL AI
--   [29_N8N_Español_-_Ejemplos.json](workflows/29_N8N_Español_-_Ejemplos.json)
-    Descripción: Este workflow N8N Español - Ejemplos
--   [29_Receive_updates_when_a_subscriber_unsubscribes_in_Customer.io.json](workflows/29_Receive_updates_when_a_subscriber_unsubscribes_in_Customer.io.json)
-    Descripción: Este workflow Receive updates when a subscriber unsubscribes in Customer.io
--   [29_workflow_29.json](workflows/29_workflow_29.json)
-    Descripción: Este workflow 29_workflow_29
--   [2DT5BW5tOdy87AUl_Streamline_Your_Zoom_Meetings_with_Secure,_Automated_Stripe_Payments.json](workflows/2DT5BW5tOdy87AUl_Streamline_Your_Zoom_Meetings_with_Secure,_Automated_Stripe_Payments.json)
-    Descripción: Este workflow Setup
--   [2DzQ1FH11S3Gp6wn_YogiAI.json](workflows/2DzQ1FH11S3Gp6wn_YogiAI.json)
-    Descripción: Este workflow YogiAI
--   [2Eba0OHGtOmoTWOU_RAG_AI_Agent_with_Milvus_and_Cohere.json](workflows/2Eba0OHGtOmoTWOU_RAG_AI_Agent_with_Milvus_and_Cohere.json)
-    Descripción: Este workflow Why Milvus
--   [2LFEJVoSkeZMndiM_YT_AI_News_Playlist_Creator_AI_News_Form_Updater.json](workflows/2LFEJVoSkeZMndiM_YT_AI_News_Playlist_Creator_AI_News_Form_Updater.json)
-    Descripción: Este workflow Initiation
--   [2NhqmUqW3KruEkaE_Exponential_Backoff_for_Google_APIs.json](workflows/2NhqmUqW3KruEkaE_Exponential_Backoff_for_Google_APIs.json)
-    Descripción: Este workflow Exponential Backoff for Google APIs
--   [2_Add_task_to_tasklist.json](workflows/2_Add_task_to_tasklist.json)
-    Descripción: Este workflow Add task to tasklist
--   [2_Daily_Text_Affirmations.json](workflows/2_Daily_Text_Affirmations.json)
-    Descripción: Este workflow Daily Text Affirmations
--   [2_Discord_Intro.json](workflows/2_Discord_Intro.json)
-    Descripción: Este workflow Discord Intro
--   [2_RSS_to_Telegram.json](workflows/2_RSS_to_Telegram.json)
-    Descripción: Este workflow RSS to Telegram
--   [2_SIGNL4_Alert.json](workflows/2_SIGNL4_Alert.json)
-    Descripción: Este workflow SIGNL4 Alert
--   [2_Syncro_to_Clockify.json](workflows/2_Syncro_to_Clockify.json)
-    Descripción: Este workflow Syncro to Clockify
--   [2_Telegram_Weather_Workflow.json](workflows/2_Telegram_Weather_Workflow.json)
-    Descripción: Este workflow Telegram Weather Workflow
--   [2_post_to_mattermost_v2.json](workflows/2_post_to_mattermost_v2.json)
-    Descripción: Este workflow post to mattermost v2
--   [2_workflow_2.json](workflows/2_workflow_2.json)
-    Descripción: Este workflow 2_workflow_2
--   [2ddwHvuidKc6lZia_AI_Agent_-_Cv_Resume_-_Automated_Screening_,_Sorting_,_Rating_and_Tracker_System.json](workflows/2ddwHvuidKc6lZia_AI_Agent_-_Cv_Resume_-_Automated_Screening_,_Sorting_,_Rating_and_Tracker_System.json)
-    Descripción: Este workflow 1. Move candidate cv to folder
--   [2pMoIW58KP6ZeGir_Luma_AI_Dream_Machine_-_Simple_v1_-_AK.json](workflows/2pMoIW58KP6ZeGir_Luma_AI_Dream_Machine_-_Simple_v1_-_AK.json)
-    Descripción: Este workflow Define your SETTINGS here
--   [2qIFnWXdHJJs4oBk_DSP_Certificate_w__Google_Forms.json](workflows/2qIFnWXdHJJs4oBk_DSP_Certificate_w__Google_Forms.json)
-    Descripción: Este workflow 1) Start here
--   [3020_workflow_3020.json](workflows/3020_workflow_3020.json)
-    Descripción: Este workflow SSH login credentials
--   [3027_workflow_3027.json](workflows/3027_workflow_3027.json)
-    Descripción: Este workflow 3027_workflow_3027
--   [3028_workflow_3028.json](workflows/3028_workflow_3028.json)
-    Descripción: Este workflow 🎙️ Generate Text-to-Speech Using Eleven Labs via API
--   [3031_workflow_3031.json](workflows/3031_workflow_3031.json)
-    Descripción: Este workflow callforgeshadow
--   [3032_workflow_3032.json](workflows/3032_workflow_3032.json)
-    Descripción: Este workflow Get Gong Calls and Supporting Data
--   [3033_workflow_3033.json](workflows/3033_workflow_3033.json)
-    Descripción: Este workflow callforgeshadow
--   [3034_workflow_3034.json](workflows/3034_workflow_3034.json)
-    Descripción: Este workflow Process Queue Logic
--   [3035_workflow_3035.json](workflows/3035_workflow_3035.json)
-    Descripción: Este workflow Receive Call Data and standardize User Prompt
--   [3036_workflow_3036.json](workflows/3036_workflow_3036.json)
-    Descripción: Este workflow Integration Data Processing
--   [3037_workflow_3037.json](workflows/3037_workflow_3037.json)
-    Descripción: Este workflow Marketing Insights Processing
--   [3039_workflow_3039.json](workflows/3039_workflow_3039.json)
-    Descripción: Este workflow Product Data Processing
--   [3042_workflow_3042.json](workflows/3042_workflow_3042.json)
-    Descripción: Este workflow Grab recent drink data
--   [3050_workflow_3050.json](workflows/3050_workflow_3050.json)
-    Descripción: Este workflow To send all the items back to the AI, we need to finish with everything aggregated into one single item.
--   [3052_workflow_3052.json](workflows/3052_workflow_3052.json)
-    Descripción: Este workflow **This workflow listens for incoming voice or text messages from Telegram users.**
--   [3053_workflow_3053.json](workflows/3053_workflow_3053.json)
-    Descripción: Este workflow Scenario 1 - AI Agent
--   [3054_workflow_3054.json](workflows/3054_workflow_3054.json)
-    Descripción: Este workflow Check video status
--   [3057_workflow_3057.json](workflows/3057_workflow_3057.json)
-    Descripción: Este workflow **This workflow listens for incoming voice or text messages from Telegram users.**
--   [3078_workflow_3078.json](workflows/3078_workflow_3078.json)
-    Descripción: Este workflow When clicking "Test workflow"
--   [3080_Automatically_Update_YouTube_Video_Descriptions_with_Inserted_Text.json](workflows/3080_Automatically_Update_YouTube_Video_Descriptions_with_Inserted_Text.json)
-    Descripción: Este workflow Insert Text into YouTube Video Descriptions
--   [3081_My_workflow_2.json](workflows/3081_My_workflow_2.json)
-    Descripción: Este workflow Authentication Set Up
--   [30_N8N_Español_-_NocodeBot.json](workflows/30_N8N_Español_-_NocodeBot.json)
-    Descripción: Este workflow N8N Español - NocodeBot
--   [30_Receive_updates_when_a_subscriber_is_added_to_a_group_and_strore_the_information_in_Airtable.json](workflows/30_Receive_updates_when_a_subscriber_is_added_to_a_group_and_strore_the_information_in_Airtable.json)
-    Descripción: Este workflow Receive updates when a subscriber is added to a group and strore the information in Airtable
--   [30r9acI1XVIIwAMi_mails2notion_V2.json](workflows/30r9acI1XVIIwAMi_mails2notion_V2.json)
-    Descripción: Este workflow Setup
--   [3102_workflow_3102.json](workflows/3102_workflow_3102.json)
-    Descripción: Este workflow Example 1. Publicly Hosted Files
--   [3105_workflow_3105.json](workflows/3105_workflow_3105.json)
-    Descripción: Este workflow 3105_workflow_3105
--   [3107_workflow_3107.json](workflows/3107_workflow_3107.json)
-    Descripción: Este workflow Company Research
--   [3112_workflow_3112.json](workflows/3112_workflow_3112.json)
-    Descripción: Este workflow Simplest n8n Workflow Backup – Automating Your Data Security in Google Drive
--   [3115_workflow_3115.json](workflows/3115_workflow_3115.json)
-    Descripción: Este workflow 1. Initiate Survey by Inviting User to Chat
--   [3123_workflow_3123.json](workflows/3123_workflow_3123.json)
-    Descripción: Este workflow 1. Get Recent Meetings
--   [3145_workflow_3145.json](workflows/3145_workflow_3145.json)
-    Descripción: Este workflow 👆
--   [3161_workflow_3161.json](workflows/3161_workflow_3161.json)
-    Descripción: Este workflow 3161_workflow_3161
--   [3186_workflow_3186.json](workflows/3186_workflow_3186.json)
-    Descripción: Este workflow Set verification token
--   [3194_workflow_3194.json](workflows/3194_workflow_3194.json)
-    Descripción: Este workflow ElevenlabsAPI key
--   [3195_workflow_3195.json](workflows/3195_workflow_3195.json)
-    Descripción: Este workflow 5. Do you need more details?
--   [3204_workflow_3204.json](workflows/3204_workflow_3204.json)
-    Descripción: Este workflow 5. Do you need more details?
--   [3205_workflow_3205.json](workflows/3205_workflow_3205.json)
-    Descripción: Este workflow Receive an alert when new breaches are added to haveibeenpwned.com
--   [3216_workflow_3216.json](workflows/3216_workflow_3216.json)
-    Descripción: Este workflow Default frequency: every hour
--   [3218_workflow_3218.json](workflows/3218_workflow_3218.json)
-    Descripción: Este workflow Edit this node 👇
--   [3221_workflow_3221.json](workflows/3221_workflow_3221.json)
-    Descripción: Este workflow 5. Do you need more details?
--   [3233_workflow_3233.json](workflows/3233_workflow_3233.json)
-    Descripción: Este workflow Edit this node 👇
--   [3251_workflow_3251.json](workflows/3251_workflow_3251.json)
-    Descripción: Este workflow Create Mailchimp contact based on Squarespace newsletter
--   [3277_workflow_3277.json](workflows/3277_workflow_3277.json)
-    Descripción: Este workflow Developed by Amjid Ali
--   [3280_workflow_3280.json](workflows/3280_workflow_3280.json)
-    Descripción: Este workflow Edit this node 👇
--   [3281_workflow_3281.json](workflows/3281_workflow_3281.json)
-    Descripción: Este workflow 3281_workflow_3281
--   [3293_workflow_3293.json](workflows/3293_workflow_3293.json)
-    Descripción: Este workflow 3293_workflow_3293
--   [3295_workflow_3295.json](workflows/3295_workflow_3295.json)
-    Descripción: Este workflow 3. Do you need more details?
--   [3296_workflow_3296.json](workflows/3296_workflow_3296.json)
-    Descripción: Este workflow Filtering orders for fulfillment 👇
--   [3297_workflow_3297.json](workflows/3297_workflow_3297.json)
-    Descripción: Este workflow Dropbox
--   [32_Create_a_customer_and_add_them_to_a_segment_in_Customer.io.json](workflows/32_Create_a_customer_and_add_them_to_a_segment_in_Customer.io.json)
-    Descripción: Este workflow Create a customer and add them to a segment in Customer.io
--   [3303_workflow_3303.json](workflows/3303_workflow_3303.json)
-    Descripción: Este workflow 3303_workflow_3303
--   [3304_workflow_3304.json](workflows/3304_workflow_3304.json)
-    Descripción: Este workflow 3304_workflow_3304
--   [3305_workflow_3305.json](workflows/3305_workflow_3305.json)
-    Descripción: Este workflow 1. Workflow Trigger with Chat
--   [3307_workflow_3307.json](workflows/3307_workflow_3307.json)
-    Descripción: Este workflow 4. Do you need more details?
--   [3314_workflow_3314.json](workflows/3314_workflow_3314.json)
-    Descripción: Este workflow Quick Setup Guide
--   [331_Check_To_Do_on_Notion_and_send_message_on_Slack.json](workflows/331_Check_To_Do_on_Notion_and_send_message_on_Slack.json)
-    Descripción: Este workflow Check To Do on Notion and send message on Slack
--   [3327_workflow_3327.json](workflows/3327_workflow_3327.json)
-    Descripción: Este workflow Edit this node 👇
--   [3331_workflow_3331.json](workflows/3331_workflow_3331.json)
-    Descripción: Este workflow 3331_workflow_3331
--   [3332_workflow_3332.json](workflows/3332_workflow_3332.json)
-    Descripción: Este workflow 3332_workflow_3332
--   [3333_workflow_3333.json](workflows/3333_workflow_3333.json)
-    Descripción: Este workflow 3333_workflow_3333
--   [3344_workflow_3344.json](workflows/3344_workflow_3344.json)
-    Descripción: Este workflow 4. Do you need more details?
--   [3350_workflow_3350.json](workflows/3350_workflow_3350.json)
-    Descripción: Este workflow 1. Check Interaction State For Incoming Message
--   [3351_workflow_3351.json](workflows/3351_workflow_3351.json)
-    Descripción: Este workflow 1. Get Channel Messages
--   [3366_workflow_3366.json](workflows/3366_workflow_3366.json)
-    Descripción: Este workflow 1. Fetch a Webpage Contents
--   [3385_workflow_3385.json](workflows/3385_workflow_3385.json)
-    Descripción: Este workflow Handle Retell's Inbound call webhooks
--   [3395_workflow_3395.json](workflows/3395_workflow_3395.json)
-    Descripción: Este workflow 1. Get Resolved Issues
--   [3396_workflow_3396.json](workflows/3396_workflow_3396.json)
-    Descripción: Este workflow 2. Classify If Attachment is Invoice
--   [3397_workflow_3397.json](workflows/3397_workflow_3397.json)
-    Descripción: Este workflow 2. Research Customer via Emails
--   [33_Postgres_Data_Ingestion.json](workflows/33_Postgres_Data_Ingestion.json)
-    Descripción: Este workflow Postgres Data Ingestion
--   [33_Receive_updates_for_support_in_Zendesk.json](workflows/33_Receive_updates_for_support_in_Zendesk.json)
-    Descripción: Este workflow Receive updates for support in Zendesk
--   [33_n8n_check.json](workflows/33_n8n_check.json)
-    Descripción: Este workflow n8n_check
--   [3400_workflow_3400.json](workflows/3400_workflow_3400.json)
-    Descripción: Este workflow Send log entries to BetterStack
--   [3409_workflow_3409.json](workflows/3409_workflow_3409.json)
-    Descripción: Este workflow This workflow automates sending batched prompts to Claude using the Anthropic API. It submits multiple prompts at once and retrieves the results.
--   [340_Email_body_parser_by_aprenden8n.com.json](workflows/340_Email_body_parser_by_aprenden8n.com.json)
-    Descripción: Este workflow Email body parser by aprenden8n.com
--   [3420_workflow_3420.json](workflows/3420_workflow_3420.json)
-    Descripción: Este workflow 1. Workflow Trigger with Gmail Trigger
--   [3427_workflow_3427.json](workflows/3427_workflow_3427.json)
-    Descripción: Este workflow Get Slots
--   [3440_workflow_3440.json](workflows/3440_workflow_3440.json)
-    Descripción: Este workflow Update Workbook
--   [3444_workflow_3444.json](workflows/3444_workflow_3444.json)
-    Descripción: Este workflow 🔒 This workflow demonstrates Redis-based locking to prevent concurrent execution of workflows.
--   [3445_workflow_3445.json](workflows/3445_workflow_3445.json)
-    Descripción: Este workflow Step 1
--   [3446_workflow_3446.json](workflows/3446_workflow_3446.json)
-    Descripción: Este workflow 1. Get Subscribers from Excel
--   [3449_workflow_3449.json](workflows/3449_workflow_3449.json)
-    Descripción: Este workflow This n8n template demonstrates how easy it is to build an Outlook Calendar Assistant powered by an AI agent equipped with Tools.
--   [3453_workflow_3453.json](workflows/3453_workflow_3453.json)
-    Descripción: Este workflow 3453_workflow_3453
--   [3463_workflow_3463.json](workflows/3463_workflow_3463.json)
-    Descripción: Este workflow Timer starts the Update every 24 hours and Read the Links out of a Google Sheets File (RSS-Links)
--   [3464_workflow_3464.json](workflows/3464_workflow_3464.json)
-    Descripción: Este workflow Upload attachments to Drive
--   [3476_workflow_3476.json](workflows/3476_workflow_3476.json)
-    Descripción: Este workflow 3476_workflow_3476
--   [3478_workflow_3478.json](workflows/3478_workflow_3478.json)
-    Descripción: Este workflow 👈
--   [3498_workflow_3498.json](workflows/3498_workflow_3498.json)
-    Descripción: Este workflow 1. Simple Chatbot with Knowledgebase Tool
--   [3499_workflow_3499.json](workflows/3499_workflow_3499.json)
-    Descripción: Este workflow Try It Out!
--   [34_Monitoring_and_alerting.json](workflows/34_Monitoring_and_alerting.json)
-    Descripción: Este workflow Monitoring and alerting
--   [34_Receive_updates_when_a_sale_is_made_in_Gumroad.json](workflows/34_Receive_updates_when_a_sale_is_made_in_Gumroad.json)
-    Descripción: Este workflow Receive updates when a sale is made in Gumroad
--   [3500_workflow_3500.json](workflows/3500_workflow_3500.json)
-    Descripción: Este workflow 1. Workflow Trigger
--   [3504_workflow_3504.json](workflows/3504_workflow_3504.json)
-    Descripción: Este workflow Automatically store Retell transcripts in Google Sheets/Airtable/Notion from webhook
--   [3505_workflow_3505.json](workflows/3505_workflow_3505.json)
-    Descripción: Este workflow 1. Parse Excel Files Using Cloudflare®️ Markdown Conversion
--   [3509_workflow_3509.json](workflows/3509_workflow_3509.json)
-    Descripción: Este workflow Workflow Overview
--   [3512_workflow_3512.json](workflows/3512_workflow_3512.json)
-    Descripción: Este workflow 2. Configuration
--   [3517_workflow_3517.json](workflows/3517_workflow_3517.json)
-    Descripción: Este workflow How to export your Google keep notes
--   [353_workflow_353.json](workflows/353_workflow_353.json)
-    Descripción: Este workflow 353_workflow_353
--   [3545_workflow_3545.json](workflows/3545_workflow_3545.json)
-    Descripción: Este workflow 2. Manually Convert XLSX to Markdown
--   [3546_workflow_3546.json](workflows/3546_workflow_3546.json)
-    Descripción: Este workflow Resume Screener from Gmail to Sheets
--   [3547_workflow_3547.json](workflows/3547_workflow_3547.json)
-    Descripción: Este workflow 3547_workflow_3547
--   [3549_workflow_3549.json](workflows/3549_workflow_3549.json)
-    Descripción: Este workflow 1. Scheduled Trigger to Audit Everyday
--   [354_workflow_354.json](workflows/354_workflow_354.json)
-    Descripción: Este workflow 354_workflow_354
--   [3556_workflow_3556.json](workflows/3556_workflow_3556.json)
-    Descripción: Este workflow 2. Update Rates and Record Data
--   [355_workflow_355.json](workflows/355_workflow_355.json)
-    Descripción: Este workflow 355_workflow_355
--   [3561_workflow_3561.json](workflows/3561_workflow_3561.json)
-    Descripción: Este workflow =======================================
--   [3564_workflow_3564.json](workflows/3564_workflow_3564.json)
-    Descripción: Este workflow Data Collection
--   [3574_workflow_3574.json](workflows/3574_workflow_3574.json)
-    Descripción: Este workflow Scrape latest Paul Graham essays
--   [3578_workflow_3578.json](workflows/3578_workflow_3578.json)
-    Descripción: Este workflow Chart Generator
--   [3580_workflow_3580.json](workflows/3580_workflow_3580.json)
-    Descripción: Este workflow LinkedIn Job Data Scraper to Google Sheets
--   [3588_workflow_3588.json](workflows/3588_workflow_3588.json)
-    Descripción: Este workflow 🔐 How to Get Your Product Hunt Token
--   [3599_workflow_3599.json](workflows/3599_workflow_3599.json)
-    Descripción: Este workflow Send a Telegram message
--   [359_workflow_359.json](workflows/359_workflow_359.json)
-    Descripción: Este workflow 359_workflow_359
--   [3601_workflow_3601.json](workflows/3601_workflow_3601.json)
-    Descripción: Este workflow =======================================
--   [3607_workflow_3607.json](workflows/3607_workflow_3607.json)
-    Descripción: Este workflow =======================================
--   [3610_workflow_3610.json](workflows/3610_workflow_3610.json)
-    Descripción: Este workflow =======================================
--   [3617_workflow_3617.json](workflows/3617_workflow_3617.json)
-    Descripción: Este workflow Key Sections of n8n Workflow
--   [3621_workflow_3621.json](workflows/3621_workflow_3621.json)
-    Descripción: Este workflow 📌 Daily Crypto Market Summary Bot
--   [3624_workflow_3624.json](workflows/3624_workflow_3624.json)
-    Descripción: Este workflow =======================================
--   [3630_workflow_3630.json](workflows/3630_workflow_3630.json)
-    Descripción: Este workflow 1. Set up an MCP Server Trigger
--   [3631_workflow_3631.json](workflows/3631_workflow_3631.json)
-    Descripción: Este workflow 1. Set up an MCP Server Trigger
--   [3632_workflow_3632.json](workflows/3632_workflow_3632.json)
-    Descripción: Este workflow 1. Set up an MCP Server Trigger
--   [3634_workflow_3634.json](workflows/3634_workflow_3634.json)
-    Descripción: Este workflow 1. Set up an MCP Server Trigger
--   [3635_workflow_3635.json](workflows/3635_workflow_3635.json)
-    Descripción: Este workflow 1. Set up an MCP Server Trigger
--   [3636_workflow_3636.json](workflows/3636_workflow_3636.json)
-    Descripción: Este workflow 1. Set up an MCP Server Trigger
--   [3637_workflow_3637.json](workflows/3637_workflow_3637.json)
-    Descripción: Este workflow 1. Set up an MCP Server Trigger
--   [3638_workflow_3638.json](workflows/3638_workflow_3638.json)
-    Descripción: Este workflow 1. Set up an MCP Server Trigger
--   [3640_workflow_3640.json](workflows/3640_workflow_3640.json)
-    Descripción: Este workflow
--   [3644_workflow_3644.json](workflows/3644_workflow_3644.json)
-    Descripción: Este workflow 1. First Block: scrape the page to extract all the legislative procedures scheduled for debate yesterday
--   [3656_workflow_3656.json](workflows/3656_workflow_3656.json)
-    Descripción: Este workflow Main Function to Receive and Send Telegram Messages
--   [3684_workflow_3684.json](workflows/3684_workflow_3684.json)
-    Descripción: Este workflow 1. Workflow Trigger with Cron Job
--   [3686_workflow_3686.json](workflows/3686_workflow_3686.json)
-    Descripción: Este workflow Mail Agent
--   [368_workflow_368.json](workflows/368_workflow_368.json)
-    Descripción: Este workflow 368_workflow_368
--   [3690_workflow_3690.json](workflows/3690_workflow_3690.json)
-    Descripción: Este workflow Prerequisites
--   [3696_workflow_3696.json](workflows/3696_workflow_3696.json)
-    Descripción: Este workflow 🧪 Manual Trigger
--   [3697_workflow_3697.json](workflows/3697_workflow_3697.json)
-    Descripción: Este workflow Paypal Webhook
--   [3700_workflow_3700.json](workflows/3700_workflow_3700.json)
-    Descripción: Este workflow Extract Product Images from Template
--   [3706_workflow_3706.json](workflows/3706_workflow_3706.json)
-    Descripción: Este workflow Save the data to Hubspot
--   [3709_workflow_3709.json](workflows/3709_workflow_3709.json)
-    Descripción: Este workflow Create Google Drive Folders by Path
--   [3719_workflow_3719.json](workflows/3719_workflow_3719.json)
-    Descripción: Este workflow Gmail PDF Invoice/Receipt Classifier & Google Drive Uploader (via n8n & OpenAI)
--   [3767_workflow_3767.json](workflows/3767_workflow_3767.json)
-    Descripción: Este workflow Set receiving email account
--   [3770_workflow_3770.json](workflows/3770_workflow_3770.json)
-    Descripción: Este workflow 1. Add MCP Server Trigger
--   [3785_workflow_3785.json](workflows/3785_workflow_3785.json)
-    Descripción: Este workflow Update the properties by object Workflow
--   [3786_workflow_3786.json](workflows/3786_workflow_3786.json)
-    Descripción: Este workflow Introduction
--   [3787_workflow_3787.json](workflows/3787_workflow_3787.json)
-    Descripción: Este workflow Set n8n API
--   [3790_workflow_3790.json](workflows/3790_workflow_3790.json)
-    Descripción: Este workflow AI Agent
--   [3796_workflow_3796.json](workflows/3796_workflow_3796.json)
-    Descripción: Este workflow 1. New Google Calendar Event Detected
--   [3805_workflow_3805.json](workflows/3805_workflow_3805.json)
-    Descripción: Este workflow 🧠 Place your logic here!
--   [3808_AccountCraft_WhatsApp_Automation_-_Infridet.json](workflows/3808_AccountCraft_WhatsApp_Automation_-_Infridet.json)
-    Descripción: Este workflow AccountCraft WhatsApp Automation - Infridet
--   [3830_workflow_3830.json](workflows/3830_workflow_3830.json)
-    Descripción: Este workflow 🏢 Company Decision Maker Discovery
--   [3832_workflow_3832.json](workflows/3832_workflow_3832.json)
-    Descripción: Este workflow 🧹 Buffer Cleanup
--   [3836_workflow_3836.json](workflows/3836_workflow_3836.json)
-    Descripción: Este workflow Type a Keyword and Discover What People Search on Google
--   [3840_workflow_3840.json](workflows/3840_workflow_3840.json)
-    Descripción: Este workflow 01. Content Concept Generation
--   [3849_workflow_3849.json](workflows/3849_workflow_3849.json)
-    Descripción: Este workflow Data Extraction
--   [3868_workflow_3868.json](workflows/3868_workflow_3868.json)
-    Descripción: Este workflow 1. Get Open Tickets
--   [3869_workflow_3869.json](workflows/3869_workflow_3869.json)
-    Descripción: Este workflow HTML to PDF
--   [3870_workflow_3870.json](workflows/3870_workflow_3870.json)
-    Descripción: Este workflow HTML to PDF
--   [3891_workflow_3891.json](workflows/3891_workflow_3891.json)
-    Descripción: Este workflow APP ACTIONS
--   [3893_workflow_3893.json](workflows/3893_workflow_3893.json)
-    Descripción: Este workflow 2. Automate Generation and Triaging of Ticket
--   [3899_workflow_3899.json](workflows/3899_workflow_3899.json)
-    Descripción: Este workflow 2. Automate Generation and Triaging of Ticket
--   [3901_workflow_3901.json](workflows/3901_workflow_3901.json)
-    Descripción: Este workflow Web Scraper API
--   [3913_workflow_3913.json](workflows/3913_workflow_3913.json)
-    Descripción: Este workflow 📬 Workflow: Transparent Tracking Pixel for Email Open Detection
--   [3923_workflow_3923.json](workflows/3923_workflow_3923.json)
-    Descripción: Este workflow Settings
--   [3930_workflow_3930.json](workflows/3930_workflow_3930.json)
-    Descripción: Este workflow 1. New Email Received
--   [3937_workflow_3937.json](workflows/3937_workflow_3937.json)
-    Descripción: Este workflow Data reception via Webhook call or message
--   [3942_workflow_3942.json](workflows/3942_workflow_3942.json)
-    Descripción: Este workflow JSON PARSER
--   [3954_workflow_3954.json](workflows/3954_workflow_3954.json)
-    Descripción: Este workflow 1. Ask for Source Style and Target Image
--   [3958_workflow_3958.json](workflows/3958_workflow_3958.json)
-    Descripción: Este workflow What does it do?
--   [3969_workflow_3969.json](workflows/3969_workflow_3969.json)
-    Descripción: Este workflow 1. Fetch All Activity from Last Week
--   [3970_workflow_3970.json](workflows/3970_workflow_3970.json)
-    Descripción: Este workflow 🛠️ Config Node Setup
--   [3971_workflow_3971.json](workflows/3971_workflow_3971.json)
-    Descripción: Este workflow 1. Fetch All Channel Messages from Last Week
--   [3973_workflow_3973.json](workflows/3973_workflow_3973.json)
-    Descripción: Este workflow Try it out
--   [3976_Prevent_concurrent_workflow_runs_using_Redis.json](workflows/3976_Prevent_concurrent_workflow_runs_using_Redis.json)
-    Descripción: Este workflow Check if working
--   [3979_workflow_3979.json](workflows/3979_workflow_3979.json)
-    Descripción: Este workflow Material Issue Request and Approval
--   [398_workflow_398.json](workflows/398_workflow_398.json)
-    Descripción: Este workflow 398_workflow_398
--   [3996_workflow_3996.json](workflows/3996_workflow_3996.json)
-    Descripción: Este workflow Auto Starter
--   [39KuujB1fbOvx8Al_OpenAI_e-mail_classification_-_application.json](workflows/39KuujB1fbOvx8Al_OpenAI_e-mail_classification_-_application.json)
-    Descripción: Este workflow Change or add any category you want
--   [39_PostgreSQL_export_to_CSV.json](workflows/39_PostgreSQL_export_to_CSV.json)
-    Descripción: Este workflow PostgreSQL export to CSV
--   [3BkxvtCbF6hHGUgM_N8N_Financial_Tracker_Telegram_Invoices_to_Notion_with_AI_Summaries_&_Reports.json](workflows/3BkxvtCbF6hHGUgM_N8N_Financial_Tracker_Telegram_Invoices_to_Notion_with_AI_Summaries_&_Reports.json)
-    Descripción: Este workflow Automated Financial Tracker: Telegram Invoices to Notion with AI Summaries & Reports
--   [3JsfhcDcjqxx0hr3_Extract_And_Decode_Google_News_RSS_URLs_to_Clean_Article_Links.json](workflows/3JsfhcDcjqxx0hr3_Extract_And_Decode_Google_News_RSS_URLs_to_Clean_Article_Links.json)
-    Descripción: Este workflow Get Google News
--   [3Lih0LVosR8dZbla_Create_AI-Ready_Vector_Datasets_for_LLMs_with_Bright_Data,_Gemini_&_Pinecone.json](workflows/3Lih0LVosR8dZbla_Create_AI-Ready_Vector_Datasets_for_LLMs_with_Bright_Data,_Gemini_&_Pinecone.json)
-    Descripción: Este workflow Note
--   [3McL3itHTso0Cy10_Automated_PDF_to_HTML_Conversion.json](workflows/3McL3itHTso0Cy10_Automated_PDF_to_HTML_Conversion.json)
-    Descripción: Este workflow Automated PDF to HTML Conversion
--   [3_Clockify_to_Syncro.json](workflows/3_Clockify_to_Syncro.json)
-    Descripción: Este workflow Clockify to Syncro
--   [3_Daily_poems_in_Telegram.json](workflows/3_Daily_poems_in_Telegram.json)
-    Descripción: Este workflow Daily poems in Telegram
--   [3_Mailchimp.json](workflows/3_Mailchimp.json)
-    Descripción: Este workflow Mailchimp
--   [3_NameCheap_Dynamic_DNS_(DDNS).json](workflows/3_NameCheap_Dynamic_DNS_(DDNS).json)
-    Descripción: Este workflow NameCheap Dynamic DNS (DDNS)
--   [3_Orlen.json](workflows/3_Orlen.json)
-    Descripción: Este workflow Orlen
--   [3_StatsInstagram.json](workflows/3_StatsInstagram.json)
-    Descripción: Este workflow StatsInstagram
--   [3_TheHive.json](workflows/3_TheHive.json)
-    Descripción: Este workflow TheHive
--   [3_XML_Conversion.json](workflows/3_XML_Conversion.json)
-    Descripción: Este workflow XML Conversion
--   [3_rss-telegram.json](workflows/3_rss-telegram.json)
-    Descripción: Este workflow rss-telegram
--   [3_workflow_3.json](workflows/3_workflow_3.json)
-    Descripción: Este workflow 3_workflow_3
--   [3b1q6ZJTxeONrpUV_Error_Alert_and_Summarizer.json](workflows/3b1q6ZJTxeONrpUV_Error_Alert_and_Summarizer.json)
-    Descripción: Este workflow SET YOUR EMAILS
--   [3tJcVzt2OqeyjfnH_Analyze_email_headers_for_IPs_and_spoofing__3.json](workflows/3tJcVzt2OqeyjfnH_Analyze_email_headers_for_IPs_and_spoofing__3.json)
-    Descripción: Este workflow Output
--   [3wbxkdT6hilhq0Na_Workflow_Results_to_Markdown_Notes_in_Your_Obsidian_Vault,_via_Google_Drive.json](workflows/3wbxkdT6hilhq0Na_Workflow_Results_to_Markdown_Notes_in_Your_Obsidian_Vault,_via_Google_Drive.json)
-    Descripción: Este workflow Connect folder to Obsidian Vault
--   [4001_workflow_4001.json](workflows/4001_workflow_4001.json)
-    Descripción: Este workflow 00. Daily Start & Fetch Customer Data
--   [401_A_workflow_con_el_Twilio_node.json](workflows/401_A_workflow_with_the_Twilio_node.json)
-    Descripción: Este workflow A workflow with the Twilio node
--   [404_workflow_404.json](workflows/404_workflow_404.json)
-    Descripción: Este workflow 404_workflow_404
--   [412_.json](workflows/412_.json)
-    Descripción: Este workflow
--   [418_workflow_418.json](workflows/418_workflow_418.json)
-    Descripción: Este workflow 418_workflow_418
--   [42_Receive_updates_when_a_form_submission_occurs_in_your_Webflow_website.json](workflows/42_Receive_updates_when_a_form_submission_occurs_in_your_Webflow_website.json)
-    Descripción: Este workflow Receive updates when a form submission occurs in your Webflow website
--   [434_workflow_434.json](workflows/434_workflow_434.json)
-    Descripción: Este workflow 434_workflow_434
--   [435_workflow_435.json](workflows/435_workflow_435.json)
-    Descripción: Este workflow 435_workflow_435
--   [437_workflow_437.json](workflows/437_workflow_437.json)
-    Descripción: Este workflow 437_workflow_437
--   [438_.json](workflows/438_.json)
-    Descripción: Este workflow
--   [43gMd18arOcxqDcC_LLM_Chaining_examples.json](workflows/43gMd18arOcxqDcC_LLM_Chaining_examples.json)
-    Descripción: Este workflow Connect to one of the blue sections -->
--   [441_workflow_441.json](workflows/441_workflow_441.json)
-    Descripción: Este workflow 441_workflow_441
--   [448_workflow_448.json](workflows/448_workflow_448.json)
-    Descripción: Este workflow 448_workflow_448
--   [44PIIGwPzUe9dGfb_Sync_New_Shopify_Products_to_Odoo_Product.json](workflows/44PIIGwPzUe9dGfb_Sync_New_Shopify_Products_to_Odoo_Product.json)
-    Descripción: Este workflow Sync New Shopify Products to Odoo Product
--   [458_workflow_458.json](workflows/458_workflow_458.json)
-    Descripción: Este workflow 458_workflow_458
--   [467_workflow_467.json](workflows/467_workflow_467.json)
-    Descripción: Este workflow 467_workflow_467
--   [46_Cocktail_Recipe_Sharing.json](workflows/46_Cocktail_Recipe_Sharing.json)
-    Descripción: Este workflow Cocktail Recipe Sharing
--   [46_Receive_updates_when_a_billing_plan_is_activated_in_PayPal.json](workflows/46_Receive_updates_when_a_billing_plan_is_activated_in_PayPal.json)
-    Descripción: Este workflow Receive updates when a billing plan is activated in PayPal
--   [471_workflow_471.json](workflows/471_workflow_471.json)
-    Descripción: Este workflow 471_workflow_471
--   [47_Receive_updates_when_an_event_occurs_in_Asana.json](workflows/47_Receive_updates_when_an_event_occurs_in_Asana.json)
-    Descripción: Este workflow Receive updates when an event occurs in Asana
--   [48_Receive_updates_when_an_email_is_bounced_or_opened.json](workflows/48_Receive_updates_when_an_email_is_bounced_or_opened.json)
-    Descripción: Este workflow Receive updates when an email is bounced or opened
--   [48_Workflow_management.json](workflows/48_Workflow_management.json)
-    Descripción: Este workflow Workflow management
--   [4AG83ybt0S3WQbkS_Daily_AI_News_Translation_&_Summary_with_GPT-4_and_Telegram_Delivery.json](workflows/4AG83ybt0S3WQbkS_Daily_AI_News_Translation_&_Summary_with_GPT-4_and_Telegram_Delivery.json)
-    Descripción: Este workflow Setup
--   [4Tq5HZBdETVe7jEb_⚡AI-Powered_YouTube_Playlist_&_Video_Summarization_and_Analysis_v2.json](workflows/4Tq5HZBdETVe7jEb_⚡AI-Powered_YouTube_Playlist_&_Video_Summarization_and_Analysis_v2.json)
-    Descripción: Este workflow RAG & Reply to User Query
--   [4_Email.json](workflows/4_Email.json)
-    Descripción: Este workflow Email
--   [4_Save_Telegram_reply_to_journal_spreadsheet.json](workflows/4_Save_Telegram_reply_to_journal_spreadsheet.json)
-    Descripción: Este workflow Save Telegram reply to journal spreadsheet
--   [4_Zammad_Open_Tickets.json](workflows/4_Zammad_Open_Tickets.json)
-    Descripción: Este workflow Zammad Open Tickets
--   [4_post_to_wallabag.json](workflows/4_post_to_wallabag.json)
-    Descripción: Este workflow post to wallabag
--   [4_workflow_4.json](workflows/4_workflow_4.json)
-    Descripción: Este workflow 4_workflow_4
--   [4aKofiCShqdDSsIS_Import_Odoo_Product_Images_from_Google_Drive.json](workflows/4aKofiCShqdDSsIS_Import_Odoo_Product_Images_from_Google_Drive.json)
-    Descripción: Este workflow Import Odoo Product Images from Google Drive
--   [4nBQyhwqDqmXY2AL_Automated_Image_Metadata_Tagging_(Community_Node).json](workflows/4nBQyhwqDqmXY2AL_Automated_Image_Metadata_Tagging_(Community_Node).json)
-    Descripción: Este workflow Welcome to my Automated Image Metadata Tagging Workflow!
--   [4rXRDurF4mQKrHyB_comentarios_automaticos.json](workflows/4rXRDurF4mQKrHyB_comentarios_automaticos.json)
-    Descripción: Este workflow Webhook Verification
--   [4wPgPbxtojrUO7Dx_Google_Page_Entity_Extraction_Template.json](workflows/4wPgPbxtojrUO7Dx_Google_Page_Entity_Extraction_Template.json)
-    Descripción: Este workflow Google Page Entity Extraction Template
--   [501_workflow_501.json](workflows/501_workflow_501.json)
-    Descripción: Este workflow 501_workflow_501
--   [503_workflow_503.json](workflows/503_workflow_503.json)
-    Descripción: Este workflow 503_workflow_503
--   [507_workflow_507.json](workflows/507_workflow_507.json)
-    Descripción: Este workflow 507_workflow_507
--   [509_workflow_509.json](workflows/509_workflow_509.json)
-    Descripción: Este workflow 509_workflow_509
--   [510_workflow_510.json](workflows/510_workflow_510.json)
-    Descripción: Este workflow 510_workflow_510
--   [511_Send_an_SMS_using_MSG91.json](workflows/511_Send_an_SMS_using_MSG91.json)
-    Descripción: Este workflow Send an SMS using MSG91
--   [514_workflow_514.json](workflows/514_workflow_514.json)
-    Descripción: Este workflow 514_workflow_514
--   [515_workflow_515.json](workflows/515_workflow_515.json)
-    Descripción: Este workflow 515_workflow_515
--   [516_workflow_516.json](workflows/516_workflow_516.json)
-    Descripción: Este workflow 516_workflow_516
--   [518_workflow_518.json](workflows/518_workflow_518.json)
-    Descripción: Este workflow 518_workflow_518
--   [519_workflow_519.json](workflows/519_workflow_519.json)
-    Descripción: Este workflow 519_workflow_519
--   [51_Receive_messages_for_a_MQTT_queue.json](workflows/51_Receive_messages_for_a_MQTT_queue.json)
-    Descripción: Este workflow Receive messages for a MQTT queue
--   [520_workflow_520.json](workflows/520_workflow_520.json)
-    Descripción: Este workflow 520_workflow_520
--   [521_workflow_521.json](workflows/521_workflow_521.json)
-    Descripción: Este workflow 521_workflow_521
--   [522_workflow_522.json](workflows/522_workflow_522.json)
-    Descripción: Este workflow 522_workflow_522
--   [525_workflow_525.json](workflows/525_workflow_525.json)
-    Descripción: Este workflow 525_workflow_525
--   [527_workflow_527.json](workflows/527_workflow_527.json)
-    Descripción: Este workflow 527_workflow_527
--   [528_workflow_528.json](workflows/528_workflow_528.json)
-    Descripción: Este workflow 528_workflow_528
--   [529_workflow_529.json](workflows/529_workflow_529.json)
-    Descripción: Este workflow 529_workflow_529
--   [52_Trigger_a_build_using_the_TravisCI_node.json](workflows/52_Trigger_a_build_using_the_TravisCI_node.json)
-    Descripción: Este workflow Trigger a build using the TravisCI node
--   [52pBJt8swWgtdY54_MCP_Client_with_Brave_and_Telegram.json](workflows/52pBJt8swWgtdY54_MCP_Client_with_Brave_and_Telegram.json)
-    Descripción: Este workflow PRELIMINARY STEPS
--   [533_workflow_533.json](workflows/533_workflow_533.json)
-    Descripción: Este workflow 533_workflow_533
--   [534_workflow_534.json](workflows/534_workflow_534.json)
-    Descripción: Este workflow 534_workflow_534
--   [535_workflow_535.json](workflows/535_workflow_535.json)
-    Descripción: Este workflow 535_workflow_535
--   [536_workflow_536.json](workflows/536_workflow_536.json)
-    Descripción: Este workflow 536_workflow_536
--   [537_workflow_537.json](workflows/537_workflow_537.json)
-    Descripción: Este workflow 537_workflow_537
--   [538_workflow_538.json](workflows/538_workflow_538.json)
-    Descripción: Este workflow 538_workflow_538
--   [539_workflow_539.json](workflows/539_workflow_539.json)
-    Descripción: Este workflow 539_workflow_539
--   [540_workflow_540.json](workflows/540_workflow_540.json)
-    Descripción: Este workflow 540_workflow_540
--   [541_workflow_541.json](workflows/541_workflow_541.json)
-    Descripción: Este workflow 541_workflow_541
--   [543_workflow_543.json](workflows/543_workflow_543.json)
-    Descripción: Este workflow 543_workflow_543
--   [544_workflow_544.json](workflows/544_workflow_544.json)
-    Descripción: Este workflow 544_workflow_544
--   [545_workflow_545.json](workflows/545_workflow_545.json)
-    Descripción: Este workflow 545_workflow_545
--   [546_workflow_546.json](workflows/546_workflow_546.json)
-    Descripción: Este workflow 546_workflow_546
--   [547_workflow_547.json](workflows/547_workflow_547.json)
-    Descripción: Este workflow 547_workflow_547
--   [548_workflow_548.json](workflows/548_workflow_548.json)
-    Descripción: Este workflow 548_workflow_548
--   [549_workflow_549.json](workflows/549_workflow_549.json)
-    Descripción: Este workflow 549_workflow_549
--   [54_CFP_Selection_1.json](workflows/54_CFP_Selection_1.json)
-    Descripción: Este workflow CFP Selection 1
--   [54_Create_a_coupon_on_Paddle.json](workflows/54_Create_a_coupon_on_Paddle.json)
-    Descripción: Este workflow Create a coupon on Paddle
--   [551_workflow_551.json](workflows/551_workflow_551.json)
-    Descripción: Este workflow 551_workflow_551
--   [552_workflow_552.json](workflows/552_workflow_552.json)
-    Descripción: Este workflow 552_workflow_552
--   [553_workflow_553.json](workflows/553_workflow_553.json)
-    Descripción: Este workflow 553_workflow_553
--   [554_workflow_554.json](workflows/554_workflow_554.json)
-    Descripción: Este workflow 554_workflow_554
--   [556_workflow_556.json](workflows/556_workflow_556.json)
-    Descripción: Este workflow 556_workflow_556
--   [557_workflow_557.json](workflows/557_workflow_557.json)
-    Descripción: Este workflow 557_workflow_557
--   [558_workflow_558.json](workflows/558_workflow_558.json)
-    Descripción: Este workflow 558_workflow_558
--   [559_workflow_559.json](workflows/559_workflow_559.json)
-    Descripción: Este workflow 559_workflow_559
--   [55_CFP_Selection_2.json](workflows/55_CFP_Selection_2.json)
-    Descripción: Este workflow CFP Selection 2
--   [55_Convert_the_JSON_data_received_from_the_CocktailDB_API_in_XML.json](workflows/55_Convert_the_JSON_data_received_from_the_CocktailDB_API_in_XML.json)
-    Descripción: Este workflow Convert the JSON data received from the CocktailDB API in XML
--   [55_Expense_Tracker_App.json](workflows/55_Expense_Tracker_App.json)
-    Descripción: Este workflow Expense Tracker App
--   [560_workflow_560.json](workflows/560_workflow_560.json)
-    Descripción: Este workflow 560_workflow_560
--   [565_workflow_565.json](workflows/565_workflow_565.json)
-    Descripción: Este workflow 565_workflow_565
--   [566_workflow_566.json](workflows/566_workflow_566.json)
-    Descripción: Este workflow 566_workflow_566
--   [567_workflow_567.json](workflows/567_workflow_567.json)
-    Descripción: Este workflow 567_workflow_567
--   [569_workflow_569.json](workflows/569_workflow_569.json)
-    Descripción: Este workflow 569_workflow_569
--   [56_Send_an_SMS_when_a_workflow_fails.json](workflows/56_Send_an_SMS_when_a_workflow_fails.json)
-    Descripción: Este workflow Send an SMS when a workflow fails
--   [571_workflow_571.json](workflows/571_workflow_571.json)
-    Descripción: Este workflow 571_workflow_571
--   [574_workflow_574.json](workflows/574_workflow_574.json)
-    Descripción: Este workflow 574_workflow_574
--   [575_workflow_575.json](workflows/575_workflow_575.json)
-    Descripción: Este workflow 575_workflow_575
--   [576_workflow_576.json](workflows/576_workflow_576.json)
-    Descripción: Este workflow 576_workflow_576
--   [577_workflow_577.json](workflows/577_workflow_577.json)
-    Descripción: Este workflow 577_workflow_577
--   [578_workflow_578.json](workflows/578_workflow_578.json)
-    Descripción: Este workflow 578_workflow_578
--   [57_Send_a_cocktail_recipe_every_day_via_a_Telegram.json](workflows/57_Send_a_cocktail_recipe_every_day_via_a_Telegram.json)
-    Descripción: Este workflow Send a cocktail recipe every day via a Telegram
--   [581_workflow_581.json](workflows/581_workflow_581.json)
-    Descripción: Este workflow 581_workflow_581
--   [582_workflow_582.json](workflows/582_workflow_582.json)
-    Descripción: Este workflow 582_workflow_582
--   [583_workflow_583.json](workflows/583_workflow_583.json)
-    Descripción: Este workflow 583_workflow_583
--   [584_workflow_584.json](workflows/584_workflow_584.json)
-    Descripción: Este workflow 584_workflow_584
--   [585_workflow_585.json](workflows/585_workflow_585.json)
-    Descripción: Este workflow 585_workflow_585
--   [586_workflow_586.json](workflows/586_workflow_586.json)
-    Descripción: Este workflow 586_workflow_586
--   [587_workflow_587.json](workflows/587_workflow_587.json)
-    Descripción: Este workflow 587_workflow_587
--   [588_workflow_588.json](workflows/588_workflow_588.json)
-    Descripción: Este workflow 588_workflow_588
--   [58_Receive_updates_from_Telegram_and_send_an_image_of_a_cocktail.json](workflows/58_Receive_updates_from_Telegram_and_send_an_image_of_a_cocktail.json)
-    Descripción: Este workflow Receive updates from Telegram and send an image of a cocktail
--   [58_Turn_on_a_light_and_set_its_brightness.json](workflows/58_Turn_on_a_light_and_set_its_brightness.json)
-    Descripción: Este workflow Turn on a light and set its brightness
--   [597_workflow_597.json](workflows/597_workflow_597.json)
-    Descripción: Este workflow 597_workflow_597
--   [598_workflow_598.json](workflows/598_workflow_598.json)
-    Descripción: Este workflow 598_workflow_598
--   [599_workflow_599.json](workflows/599_workflow_599.json)
-    Descripción: Este workflow 599_workflow_599
--   [59_Send_an_SMS_using_the_Mocean_node.json](workflows/59_Send_an_SMS_using_the_Mocean_node.json)
-    Descripción: Este workflow Send an SMS using the Mocean node
--   [5DiXT9FykJvuElc1_Get_Comments_from_Facebook_Page.json](workflows/5DiXT9FykJvuElc1_Get_Comments_from_Facebook_Page.json)
-    Descripción: Este workflow Set Parameter Here
--   [5NAbfX550LJsfz6f_Make_OpenAI_Citation_for_File_Retrieval_RAG.json](workflows/5NAbfX550LJsfz6f_Make_OpenAI_Citation_for_File_Retrieval_RAG.json)
-    Descripción: Este workflow Within N8N, there will be a chat button to test
--   [5Y8QXJ3N67wnmR2R_POC_-_Chatbot_Order_by_Sheet_Data.json](workflows/5Y8QXJ3N67wnmR2R_POC_-_Chatbot_Order_by_Sheet_Data.json)
-    Descripción: Este workflow POC - Chatbot Order by Sheet Data
--   [5Ycrm1MuK8htwd96_Telegram_RAG_pdf.json](workflows/5Ycrm1MuK8htwd96_Telegram_RAG_pdf.json)
-    Descripción: Este workflow Load data into database
--   [5_Append,_lookup,_update,_and_read_data_from_a_Google_Sheets_spreadsheet.json](workflows/5_Append,_lookup,_update,_and_read_data_from_a_Google_Sheets_spreadsheet.json)
-    Descripción: Este workflow Append, lookup, update, and read data from a Google Sheets spreadsheet
--   [5_Slack-GitHub_User_Info.json](workflows/5_Slack-GitHub_User_Info.json)
-    Descripción: Este workflow Slack-GitHub User Info
--   [5_Syncro_Status_Update_Clockify.json](workflows/5_Syncro_Status_Update_Clockify.json)
-    Descripción: Este workflow Syncro Status Update Clockify
--   [5_bash-dash_telegram.json](workflows/5_bash-dash_telegram.json)
-    Descripción: Este workflow bash-dash telegram
--   [5_new.json](workflows/5_new.json)
-    Descripción: Este workflow new
--   [5dcd71e5db772d996680f0be_Example_-_Backup_n8n_to_Nextcloud.json](workflows/5dcd71e5db772d996680f0be_Example_-_Backup_n8n_to_Nextcloud.json)
-    Descripción: Este workflow Example - Backup n8n to Nextcloud
--   [5ec2322573f7590007802e1f_Extranet_Releases.json](workflows/5ec2322573f7590007802e1f_Extranet_Releases.json)
-    Descripción: Este workflow Extranet Releases
--   [5kYHogzDGeo21MxE_Automate_Figma_Versioning_and_Jira_Updates_with_n8n_Webhook_Integration.json](workflows/5kYHogzDGeo21MxE_Automate_Figma_Versioning_and_Jira_Updates_with_n8n_Webhook_Integration.json)
-    Descripción: Este workflow Note
--   [5lMPjSDuoMvCJnko_🔍🛠️Generate_SEO-Optimized_WordPress_Content_with_Perplexity_Research.json](workflows/5lMPjSDuoMvCJnko_🔍🛠️Generate_SEO-Optimized_WordPress_Content_with_Perplexity_Research.json)
-    Descripción: Este workflow Write SEO Optimized Blog Post
--   [5opbTWPZRN05bYdz_Build_an_MCP_Server_with_Google_Calendar.json](workflows/5opbTWPZRN05bYdz_Build_an_MCP_Server_with_Google_Calendar.json)
-    Descripción: Este workflow Learn How to Build a MCP Server with Google Calendar
--   [5uapJIjLLhwnhX0n_Perplexity_Researcher.json](workflows/5uapJIjLLhwnhX0n_Perplexity_Researcher.json)
-    Descripción: Este workflow Perplexity Research Workflow Overview
--   [600_workflow_600.json](workflows/600_workflow_600.json)
-    Descripción: Este workflow 600_workflow_600
--   [602_workflow_602.json](workflows/602_workflow_602.json)
-    Descripción: Este workflow 602_workflow_602
--   [60_Create_a_post_and_update_the_post_in_WordPress.json](workflows/60_Create_a_post_and_update_the_post_in_WordPress.json)
-    Descripción: Este workflow Create a post and update the post in WordPress
--   [60_n8n_mysql_purge_history_greater_than_10_days.json](workflows/60_n8n_mysql_purge_history_greater_than_10_days.json)
-    Descripción: Este workflow n8n_mysql_purge_history_greater_than_10_days
--   [613_workflow_613.json](workflows/613_workflow_613.json)
-    Descripción: Este workflow 613_workflow_613
--   [615_workflow_615.json](workflows/615_workflow_615.json)
-    Descripción: Este workflow 615_workflow_615
--   [61_Receive_updates_when_a_customer_is_created_in_HelpScout.json](workflows/61_Receive_updates_when_a_customer_is_created_in_HelpScout.json)
-    Descripción: Este workflow Receive updates when a customer is created in HelpScout
--   [620_workflow_620.json](workflows/620_workflow_620.json)
-    Descripción: Este workflow 620_workflow_620
--   [628_workflow_628.json](workflows/628_workflow_628.json)
-    Descripción: Este workflow 628_workflow_628
--   [632_workflow_632.json](workflows/632_workflow_632.json)
-    Descripción: Este workflow 632_workflow_632
--   [636_workflow_636.json](workflows/636_workflow_636.json)
-    Descripción: Este workflow 636_workflow_636
--   [639_.json](workflows/639_.json)
-    Descripción: Este workflow
--   [63_Receive_updates_when_a_new_list_is_created_in_Affinity.json](workflows/63_Receive_updates_when_a_new_list_is_created_in_Affinity.json)
-    Descripción: Este workflow Receive updates when a new list is created in Affinity
--   [640_.json](workflows/640_.json)
-    Descripción: Este workflow
--   [641_.json](workflows/641_.json)
-    Descripción: Este workflow
--   [64_Upload_a_file_and_get_a_list_of_all_the_files_in_a_bucket.json](workflows/64_Upload_a_file_and_get_a_list_of_all_the_files_in_a_bucket.json)
-    Descripción: Este workflow Upload a file and get a list of all the files in a bucket
--   [652_Store_the_data_received_from_the_CocktailDB_API_in_JSON.json](workflows/652_Store_the_data_received_from_the_CocktailDB_API_in_JSON.json)
-    Descripción: Este workflow Store the data received from the CocktailDB API in JSON
--   [655_workflow_655.json](workflows/655_workflow_655.json)
-    Descripción: Este workflow 655_workflow_655
--   [65_Get_Product_Feedback.json](workflows/65_Get_Product_Feedback.json)
-    Descripción: Este workflow Get Product Feedback
--   [65_Two_Way_Sync_Pipedrive_and_MySQL.json](workflows/65_Two_Way_Sync_Pipedrive_and_MySQL.json)
-    Descripción: Este workflow Two Way Sync Pipedrive and MySQL
--   [663_workflow_663.json](workflows/663_workflow_663.json)
-    Descripción: Este workflow 663_workflow_663
--   [664_workflow_664.json](workflows/664_workflow_664.json)
-    Descripción: Este workflow 664_workflow_664
--   [680_workflow_680.json](workflows/680_workflow_680.json)
-    Descripción: Este workflow 680_workflow_680
--   [681_workflow_681.json](workflows/681_workflow_681.json)
-    Descripción: Este workflow 681_workflow_681
--   [688_workflow_688.json](workflows/688_workflow_688.json)
-    Descripción: Este workflow 688_workflow_688
--   [695_workflow_695.json](workflows/695_workflow_695.json)
-    Descripción: Este workflow 695_workflow_695
--   [696_workflow_696.json](workflows/696_workflow_696.json)
-    Descripción: Este workflow 696_workflow_696
--   [69_Create,_update_and_get_an_issue_on_Taiga.json](workflows/69_Create,_update,_and_get_an_issue_on_Taiga.json)
-    Descripción: Este workflow Create, update, and get an issue on Taiga
--   [69_Creating_your_first_workflow.json](workflows/69_Creating_your_first_workflow.json)
-    Descripción: Este workflow Creating your first workflow
--   [6FSx5OMVxp8Ldg8A_Prepare_CSV_files_with_GPT-4.json](workflows/6FSx5OMVxp8Ldg8A_Prepare_CSV_files_with_GPT-4.json)
-    Descripción: Este workflow This is a helper workflow to create 3 CSV files
--   [6LeAm5UyENgTdwkv_agente.json](workflows/6LeAm5UyENgTdwkv_agente.json)
-    Descripción: Este workflow "Appointment Confirmation Assistant"
--   [6MRJ2tfl8c2f3AuE_💥🛠️Build_a_Web_Search_Chatbot_with_GPT-4o_and_MCP_Brave_Search.json](workflows/6MRJ2tfl8c2f3AuE_💥🛠️Build_a_Web_Search_Chatbot_with_GPT-4o_and_MCP_Brave_Search.json)
-    Descripción: Este workflow 1️⃣ MCP Get Brave Tools
--   [6Yzmlp5xF6oHo1VW_Text_to_Speech_(OpenAI).json](workflows/6Yzmlp5xF6oHo1VW_Text_to_Speech_(OpenAI).json)
-    Descripción: Este workflow Workflow Trigger
--   [6_Dashboard.json](workflows/6_Dashboard.json)
-    Descripción: Este workflow Dashboard
--   [6_ETL_pipeline.json](workflows/6_ETL_pipeline.json)
-    Descripción: Este workflow ETL pipeline
--   [6_workflow_6.json](workflows/6_workflow_6.json)
-    Descripción: Este workflow 6_workflow_6
--   [6bMVzmrbPexvBe6q_YouTube_to_Airtable_Anonym.json](workflows/6bMVzmrbPexvBe6q_YouTube_to_Airtable_Anonym.json)
-    Descripción: Este workflow 📝 Description
--   [6pOGYw5O3iOY1Gc6_Remote_IOT_Sensor_monitoring_via_MQTT_and_InfluxDB.json](workflows/6pOGYw5O3iOY1Gc6_Remote_IOT_Sensor_monitoring_via_MQTT_and_InfluxDB.json)
-    Descripción: Este workflow MQTT trigger subscribed to a topic called wokwi-weather via a Mosquitto MQTT broker. The trigger receives the temperature and humidity payloads from a DHT22 sensor connected to a remote ESP32 microcontroller
--   [6sBxOuYYcJjIBmVJ_Automating_Betting_Data_Retrieval_with_TheOddsAPI_and_Airtable.json](workflows/6sBxOuYYcJjIBmVJ_Automating_Betting_Data_Retrieval_with_TheOddsAPI_and_Airtable.json)
-    Descripción: Este workflow The following triggers start the workflow at the Start of the day and the End of the day. Times can be adjusted to user's preference.
--   [6yNJxDjV9rSiOkj9_AI_Agent_with_charts_capabilities_using_OpenAI_Structured_Output.json](workflows/6yNJxDjV9rSiOkj9_AI_Agent_with_charts_capabilities_using_OpenAI_Structured_Output.json)
-    Descripción: Este workflow Workflow: AI Agent with charts capabilities using OpenAI Structured Output
--   [6zSE618gr9fDtAfF_🤖🧑‍💻_AI_Agent__for_Top_n8n_Creators_Leaderboard_Reporting.json](workflows/6zSE618gr9fDtAfF_🤖🧑‍💻_AI_Agent__for_Top_n8n_Creators_Leaderboard_Reporting.json)
-    Descripción: Este workflow AI Agent for n8n Creator Leaderboard Stats
--   [70_Receive_updates_when_an_event_occurs_in_Taiga.json](workflows/70_Receive_updates_when_an_event_occurs_in_Taiga.json)
-    Descripción: Este workflow Receive updates when an event occurs in Taiga
--   [728_.json](workflows/728_.json)
-    Descripción: Este workflow
--   [730_workflow_730.json](workflows/730_workflow_730.json)
-    Descripción: Este workflow 730_workflow_730
--   [731_workflow_731.json](workflows/731_workflow_731.json)
-    Descripción: Este workflow 731_workflow_731
--   [737_workflow_737.json](workflows/737_workflow_737.json)
-    Descripción: Este workflow 737_workflow_737
--   [738_workflow_738.json](workflows/738_workflow_738.json)
-    Descripción: Este workflow 738_workflow_738
--   [739_workflow_739.json](workflows/739_workflow_739.json)
-    Descripción: Este workflow 739_workflow_739
--   [744G7emgZe0pXaPB_Hacker_News_to_Video_Template_-_AlexK1919.json](workflows/744G7emgZe0pXaPB_Hacker_News_to_Video_Template_-_AlexK1919.json)
-    Descripción: Este workflow Choose your data source
--   [7604ck94MeYXMHpN_Read_RSS_feed_from_two_different_sources.json](workflows/7604ck94MeYXMHpN_Read_RSS_feed_from_two_different_sources.json)
-    Descripción: Este workflow Read RSS feed from two different sources
--   [763_workflow_763.json](workflows/763_workflow_763.json)
-    Descripción: Este workflow 763_workflow_763
--   [766_workflow_766.json](workflows/766_workflow_766.json)
-    Descripción: Este workflow 766_workflow_766
--   [767_workflow_767.json](workflows/767_workflow_767.json)
-    Descripción: Este workflow 767_workflow_767
--   [76_Create_a_project,_tag,_and_time_entry,_and_update_the_time_entry_in_Clockify.json](workflows/76_Create_a_project,_tag,_and_time_entry,_and_update_the_time_entry_in_Clockify.json)
-    Descripción: Este workflow Create a project, tag, and time entry, and update the time entry in Clockify
--   [772_workflow_772.json](workflows/772_workflow_772.json)
-    Descripción: Este workflow 772_workflow_772
--   [77_Extract_information_from_an_image_of_a_receipt.json](workflows/77_Extract_information_from_an_image_of_a_receipt.json)
-    Descripción: Este workflow Extract information from an image of a receipt
--   [78_Receive_updates_when_a_form_is_submitted_in_Wufoo.json](workflows/78_Receive_updates_when_a_form_is_submitted_in_Wufoo.json)
-    Descripción: Este workflow Receive updates when a form is submitted in Wufoo
--   [79_Get_the_price_of_BTC_in_EUR_and_send_an_SMS_when_the_price_is_larger_than_EUR_9000.json](workflows/79_Get_the_price_of_BTC_in_EUR_and_send_an_SMS_when_the_price_is_larger_than_EUR_9000.json)
-    Descripción: Este workflow Get the price of BTC in EUR and send an SMS when the price is larger than EUR 9000
--   [7DPLpEkww5Uctcml_get_a_web_page.json](workflows/7DPLpEkww5Uctcml_get_a_web_page.json)
-    Descripción: Este workflow Send URL got Crawl
--   [7Gw4IfHaVMDSj70o_Convert_Squarespace_Profiles_to_Shopify_Customers_in_Google_Sheets.json](workflows/7Gw4IfHaVMDSj70o_Convert_Squarespace_Profiles_to_Shopify_Customers_in_Google_Sheets.json)
-    Descripción: Este workflow Convert Squarespace profiles
--   [7Pw91QNT4UGeNmL5_Customer_and_Sales_Support.json](workflows/7Pw91QNT4UGeNmL5_Customer_and_Sales_Support.json)
-    Descripción: Este workflow Customer and Sales Support
--   [7Qa2mH7PnDxy7Qat_Generate_Exam_Questions.json](workflows/7Qa2mH7PnDxy7Qat_Generate_Exam_Questions.json)
-    Descripción: Este workflow STEP 1
--   [7ZIG5xxEACMBgj4Z_Create_Threads_on_Bluesky.json](workflows/7ZIG5xxEACMBgj4Z_Create_Threads_on_Bluesky.json)
-    Descripción: Este workflow Bluesky Authentication
--   [7_6.json](workflows/7_6.json)
-    Descripción: Este workflow 6
--   [7_Coffee_Bot_(Mattermost).json](workflows/7_Coffee_Bot_(Mattermost).json)
-    Descripción: Este workflow Coffee Bot (Mattermost)
--   [7_Daily_Language_Learning.json](workflows/7_Daily_Language_Learning.json)
-    Descripción: Este workflow Daily Language Learning
--   [7_Publish_post_to_a_publication.json](workflows/7_Publish_post_to_a_publication.json)
-    Descripción: Este workflow Publish post to a publication
--   [7_YouTube_to_Raindrop.json](workflows/7_YouTube_to_Raindrop.json)
-    Descripción: Este workflow YouTube to Raindrop
--   [7cXvgkl9170QXzT2_RAG_Workflow_For_Company_Documents_stored_in_Google_Drive.json](workflows/7cXvgkl9170QXzT2_RAG_Workflow_For_Company_Documents_stored_in_Google_Drive.json)
-    Descripción: Este workflow Chat with company documents
--   [7eyNPahKcCuqK39V_DeepSeek_v3.1.json](workflows/7eyNPahKcCuqK39V_DeepSeek_v3.1.json)
-    Descripción: Este workflow Smart Content Automation Workflow
--   [7fdJOvYNILCr24fH_Read_sitemap_and_filter_URLs.json](workflows/7fdJOvYNILCr24fH_Read_sitemap_and_filter_URLs.json)
-    Descripción: Este workflow **Set your sitemap.xml
--   [7gRbzEzCuOzQKn4M_SHEETS_RAG.json](workflows/7gRbzEzCuOzQKn4M_SHEETS_RAG.json)
-    Descripción: Este workflow Place this in a separate workflow named:
--   [7i2RqqCYaKHUt4n3_Google_Site_Index_-_sitemap.xml_example.json](workflows/7i2RqqCYaKHUt4n3_Google_Site_Index_-_sitemap.xml_example.json)
-    Descripción: Este workflow Collect list of URLs
--   [7wwY8wfZdNpL83QQ_LinkedIn_Leads_Scraping_&_Enrichment_(Main).json](workflows/7wwY8wfZdNpL83QQ_LinkedIn_Leads_Scraping_&_Enrichment_(Main).json)
-    Descripción: Este workflow Extract Linkedin Username
--   [7zRCNv7B5WFRg7ux_Restore_your_credentials_from_GitHub.json](workflows/7zRCNv7B5WFRg7ux_Restore_your_credentials_from_GitHub.json)
-    Descripción: Este workflow Restore from GitHub
--   [80_New_WooCommerce_product_to_Slack.json](workflows/80_New_WooCommerce_product_to_Slack.json)
-    Descripción: Este workflow New WooCommerce product to Slack
--   [817_workflow_817.json](workflows/817_workflow_817.json)
-    Descripción: Este workflow 817_workflow_817
--   [81_Execute_a_command_that_gives_the_hard_disk_memory_used_on_the_host_machine.json](workflows/81_Execute_a_command_that_gives_the_hard_disk_memory_used_on_the_host_machine.json)
-    Descripción: Este workflow Execute a command that gives the hard disk memory used on the host machine
--   [81_New_WooCommerce_order_to_Slack.json](workflows/81_New_WooCommerce_order_to_Slack.json)
-    Descripción: Este workflow New WooCommerce order to Slack
--   [81aN6oJGMho5kCvQ_OpenAI_ImageGen1_Template.json](workflows/81aN6oJGMho5kCvQ_OpenAI_ImageGen1_Template.json)
-    Descripción: Este workflow 🖼️ Edit Images with the **OpenAI ImageGen v1** API
--   [829_Moving_metrics_from_Google_Sheets_to_Orbit.json](workflows/829_Moving_metrics_from_Google_Sheets_to_Orbit.json)
-    Descripción: Este workflow Moving metrics from Google Sheets to Orbit
--   [82_Create_a_new_list,_add_a_new_contact_to_the_list,_update_the_contact,_and_get_all_contacts_in_the_list.json](workflows/82_Create_a_new_list,_add_a_new_contact_to_the_list,_update_the_contact,_and_get_all_contacts_in_the_list.json)
-    Descripción: Este workflow Create a new list, add a new contact to the list, update the contact, and get all contacts in the list
--   [82_New_WooCommerce_refund_to_Slack.json](workflows/82_New_WooCommerce_refund_to_Slack.json)
-    Descripción: Este workflow New WooCommerce refund to Slack
--   [82_Send_daily_weather_updates_via_a_push_notification_using_the_Pushcut_node.json](workflows/82_Send_daily_weather_updates_via_a_push_notification_using_the_Pushcut_node.json)
-    Descripción: Este workflow Send daily weather updates via a push notification using the Pushcut node
--   [837_workflow_837.json](workflows/837_workflow_837.json)
-    Descripción: Este workflow 837_workflow_837
--   [83_Create_a_room,_invite_members_from_a_different_room,_and_send_a_message_in_the_room_we_created.json](workflows/83_Create_a_room,_invite_members_from_a_different_room,_and_send_a_message_in_the_room_we_created.json)
-    Descripción: Este workflow Create a room, invite members from a different room, and send a message in the room we created
--   [83_Creating_a_meeting_con_el_Zoom_node.json](workflows/83_Creating_a_meeting_with_the_Zoom_node.json)
-    Descripción: Este workflow Creating a meeting with the Zoom node
--   [83_New_WooCommerce_Customer_to_Mautic.json](workflows/83_New_WooCommerce_Customer_to_Mautic.json)
-    Descripción: Este workflow New WooCommerce Customer to Mautic
--   [84KL1bsi9OvbAapn_Receive_and_analyze_emails_with_rules_in_Sublime_Security.json](workflows/84KL1bsi9OvbAapn_Receive_and_analyze_emails_with_rules_in_Sublime_Security.json)
-    Descripción: Este workflow usa imap
--   [84_Get_a_pipeline_in_CircleCI.json](workflows/84_Get_a_pipeline_in_CircleCI.json)
-    Descripción: Este workflow Get a pipeline in CircleCI
--   [84_Send_daily_weather_updates_to_a_phone_number_using_the_Vonage_node.json](workflows/84_Send_daily_weather_updates_to_a_phone_number_using_the_Vonage_node.json)
-    Descripción: Este workflow Send daily weather updates to a phone number using the Vonage node
--   [84dT8cFL0FV8ZGPx_Slack_Webhook_-_Verify_Signature.json](workflows/84dT8cFL0FV8ZGPx_Slack_Webhook_-_Verify_Signature.json)
-    Descripción: Este workflow Slack Webhook - Verify Signature
--   [85_New_WooCommerce_Product_to_Twitter_and_Telegram.json](workflows/85_New_WooCommerce_Product_to_Twitter_and_Telegram.json)
-    Descripción: Este workflow New WooCommerce Product to Twitter and Telegram
--   [85_Sending_an_SMS_with_MessageBird.json](workflows/85_Sending_an_SMS_with_MessageBird.json)
-    Descripción: Este workflow Sending an SMS with MessageBird
--   [864_workflow_864.json](workflows/864_workflow_864.json)
-    Descripción: Este workflow 864_workflow_864
--   [86_Check_for_valid_Mautic_contact_email.json](workflows/86_Check_for_valid_Mautic_contact_email.json)
-    Descripción: Este workflow Check for valid Mautic contact email
--   [87FUCRVFV07sNlbM_Workflow_Importer.json](workflows/87FUCRVFV07sNlbM_Workflow_Importer.json)
-    Descripción: Este workflow Setup instances
--   [87_Create_a_new_issue_in_Jira.json](workflows/87_Create_a_new_issue_in_Jira.json)
-    Descripción: Este workflow Create a new issue in Jira
--   [880_workflow_880.json](workflows/880_workflow_880.json)
-    Descripción: Este workflow 880_workflow_880
--   [88_Check_for_valid_Hubspot_contact_email.json](workflows/88_Check_for_valid_Hubspot_contact_email.json)
-    Descripción: Este workflow Check for valid Hubspot contact email
--   [88_Get_the_current_weather_data_for_a_city.json](workflows/88_Get_the_current_weather_data_for_a_city.json)
-    Descripción: Este workflow Get the current weather data for a city
--   [890_workflow_890.json](workflows/890_workflow_890.json)
-    Descripción: Este workflow 890_workflow_890
--   [89_Create_a_new_card_in_Trello.json](workflows/89_Create_a_new_card_in_Trello.json)
-    Descripción: Este workflow Create a new card in Trello
--   [89_Post_RSS_feed_items_from_yesterday_to_Slack.json](workflows/89_Post_RSS_feed_items_from_yesterday_to_Slack.json)
-    Descripción: Este workflow Post RSS feed items from yesterday to Slack
--   [8EmNhftXznAGV3dR_Phishing_analysis__URLScan_io_and_Virustotal_.json](workflows/8EmNhftXznAGV3dR_Phishing_analysis__URLScan_io_and_Virustotal_.json)
-    Descripción: Este workflow usa shedule
--   [8FLJK1NsduFL0Y5P_Qualify_new_leads_in_Google_Sheets_via_OpenAI's_GPT-4.json](workflows/8FLJK1NsduFL0Y5P_Qualify_new_leads_in_Google_Sheets_via_OpenAI's_GPT-4.json)
-    Descripción: Este workflow 1. Create a Google Sheet document
--   [8Sbrzc7Au3ZGf62p_Publish_Videos_&_Images_-_Blotato.json](workflows/8Sbrzc7Au3ZGf62p_Publish_Videos_&_Images_-_Blotato.json)
-    Descripción: Este workflow Publish to Social Media
--   [8_Get_only_new_RSS_con_Photo.json](workflows/8_Get_only_new_RSS_with_Photo.json)
-    Descripción: Este workflow Get only new RSS with Photo
--   [8_Sample_Spotify.json](workflows/8_Sample_Spotify.json)
-    Descripción: Este workflow Sample Spotify
--   [8_workflow_8.json](workflows/8_workflow_8.json)
-    Descripción: Este workflow 8_workflow_8
--   [8jDt77Y4FaV6ARYG_🤖_Telegram_Messaging_Agent_for_Text_Audio_Images.json](workflows/8jDt77Y4FaV6ARYG_🤖_Telegram_Messaging_Agent_for_Text_Audio_Images.json)
-    Descripción: Este workflow Receive Telegram Message with Webhook
--   [8jdT4wXjV5NljqKa_Enhance_Chat_Responses_with_Real-Time_Search_Data_via_Bright_Data_&_Gemini_AI.json](workflows/8jdT4wXjV5NljqKa_Enhance_Chat_Responses_with_Real-Time_Search_Data_via_Bright_Data_&_Gemini_AI.json)
-    Descripción: Este workflow Bright Data Search Engines
--   [8n0VYmvJgISwezyz_Build_your_first_AI_MCP_Server.json](workflows/8n0VYmvJgISwezyz_Build_your_first_AI_MCP_Server.json)
-    Descripción: Este workflow Activate the workflow to make the MCP Trigger work
--   [8tusZTTtcyaiznEG_🤖_AI_Powered_RAG_Chatbot_for_Your_Docs_+_Google_Drive_+_Gemini_+_Qdrant.json](workflows/8tusZTTtcyaiznEG_🤖_AI_Powered_RAG_Chatbot_for_Your_Docs_+_Google_Drive_+_Gemini_+_Qdrant.json)
-    Descripción: Este workflow Prepare Qdrant Vector Store
--   [8v4dynjkHSLVGJSG_Crypto_News_&_Sentiment.json](workflows/8v4dynjkHSLVGJSG_Crypto_News_&_Sentiment.json)
-    Descripción: Este workflow Send Telegram Response
--   [908_workflow_908.json](workflows/908_workflow_908.json)
-    Descripción: Este workflow 908_workflow_908
--   [90_Extract_expenses_from_emails_and_add_to_Google_Sheet.json](workflows/90_Extract_expenses_from_emails_and_add_to_Google_Sheet.json)
-    Descripción: Este workflow Extract expenses from emails and add to Google Sheet
--   [90_Post_a_message_to_a_channel_in_RocketChat.json](workflows/90_Post_a_message_to_a_channel_in_RocketChat.json)
-    Descripción: Este workflow Post a message to a channel in RocketChat
--   [913_workflow_913.json](workflows/913_workflow_913.json)
-    Descripción: Este workflow 913_workflow_913
--   [916_workflow_916.json](workflows/916_workflow_916.json)
-    Descripción: Este workflow 916_workflow_916
--   [917_workflow_917.json](workflows/917_workflow_917.json)
-    Descripción: Este workflow 917_workflow_917
--   [91_Create_a_new_user_in_Intercom.json](workflows/91_Create_a_new_user_in_Intercom.json)
-    Descripción: Este workflow Create a new user in Intercom
--   [91_New_invoice_email_notification.json](workflows/91_New_invoice_email_notification.json)
-    Descripción: Este workflow New invoice email notification
--   [91_Send_daily_weather_updates_via_a_push_notification.json](workflows/91_Send_daily_weather_updates_via_a_push_notification.json)
-    Descripción: Este workflow Send daily weather updates via a push notification
--   [920_workflow_920.json](workflows/920_workflow_920.json)
-    Descripción: Este workflow 920_workflow_920
--   [928_workflow_928.json](workflows/928_workflow_928.json)
-    Descripción: Este workflow 928_workflow_928
--   [92_Send_an_SMS_to_a_number_whenever_you_go_out.json](workflows/92_Send_an_SMS_to_a_number_whenever_you_go_out.json)
-    Descripción: Este workflow Send an SMS to a number whenever you go out
--   [92_Sending_an_SMS_using_sms77.json](workflows/92_Sending_an_SMS_using_sms77.json)
-    Descripción: Este workflow Sending an SMS using sms77
--   [92_Translate_text_from_English_to_German.json](workflows/92_Translate_text_from_English_to_German.json)
-    Descripción: Este workflow Translate text from English to German
--   [930_workflow_930.json](workflows/930_workflow_930.json)
-    Descripción: Este workflow 930_workflow_930
--   [933_workflow_933.json](workflows/933_workflow_933.json)
-    Descripción: Este workflow 933_workflow_933
--   [934_workflow_934.json](workflows/934_workflow_934.json)
-    Descripción: Este workflow 934_workflow_934
--   [935_workflow_935.json](workflows/935_workflow_935.json)
-    Descripción: Este workflow 935_workflow_935
--   [936_workflow_936.json](workflows/936_workflow_936.json)
-    Descripción: Este workflow 936_workflow_936
--   [93_Create,_update_and_get_activity_in_Strava.json](workflows/93_Create,_update,_and_get_activity_in_Strava.json)
-    Descripción: Este workflow Create, update, and get activity in Strava
--   [947_workflow_947.json](workflows/947_workflow_947.json)
-    Descripción: Este workflow 947_workflow_947
--   [949_workflow_949.json](workflows/949_workflow_949.json)
-    Descripción: Este workflow 949_workflow_949
--   [959_workflow_959.json](workflows/959_workflow_959.json)
-    Descripción: Este workflow 959_workflow_959
--   [95_Create_an_organization_in_Affinity.json](workflows/95_Create_an_organization_in_Affinity.json)
-    Descripción: Este workflow Create an organization in Affinity
--   [95_Receive_updates_when_a_new_activity_gets_created_and_tweet_about_it.json](workflows/95_Receive_updates_when_a_new_activity_gets_created_and_tweet_about_it.json)
-    Descripción: Este workflow Receive updates when a new activity gets created and tweet about it
--   [95_Scrape_Twitter_for_mentions_of_company.json](workflows/95_Scrape_Twitter_for_mentions_of_company.json)
-    Descripción: Este workflow Scrape Twitter for mentions of company
--   [960_workflow_960.json](workflows/960_workflow_960.json)
-    Descripción: Este workflow 960_workflow_960
--   [961_workflow_961.json](workflows/961_workflow_961.json)
-    Descripción: Este workflow 961_workflow_961
--   [965_workflow_965.json](workflows/965_workflow_965.json)
-    Descripción: Este workflow 965_workflow_965
--   [966_workflow_966.json](workflows/966_workflow_966.json)
-    Descripción: Este workflow 966_workflow_966
--   [968_workflow_968.json](workflows/968_workflow_968.json)
-    Descripción: Este workflow 968_workflow_968
--   [96_Create,_update_and_get_a_subscriber_using_the_MailerLite_node.json](workflows/96_Create,_update_and_get_a_subscriber_using_the_MailerLite_node.json)
-    Descripción: Este workflow Create, update and get a subscriber using the MailerLite node
--   [96_Create_a_new_contact_in_Agile_CRM.json](workflows/96_Create_a_new_contact_in_Agile_CRM.json)
-    Descripción: Este workflow Create a new contact in Agile CRM
--   [983_workflow_983.json](workflows/983_workflow_983.json)
-    Descripción: Este workflow 983_workflow_983
--   [984_workflow_984.json](workflows/984_workflow_984.json)
-    Descripción: Este workflow 984_workflow_984
--   [986_workflow_986.json](workflows/986_workflow_986.json)
-    Descripción: Este workflow 986_workflow_986
--   [987_workflow_987.json](workflows/987_workflow_987.json)
-    Descripción: Este workflow 987_workflow_987
--   [989_workflow_989.json](workflows/989_workflow_989.json)
-    Descripción: Este workflow 989_workflow_989
--   [98_Send_updates_about_the_position_of_the_ISS_every_minute_to_a_topic_in_Kafka.json](workflows/98_Send_updates_about_the_position_of_the_ISS_every_minute_to_a_topic_in_Kafka.json)
-    Descripción: Este workflow Send updates about the position of the ISS every minute to a topic in Kafka
--   [990_workflow_990.json](workflows/990_workflow_990.json)
-    Descripción: Este workflow 990_workflow_990
--   [991_workflow_991.json](workflows/991_workflow_991.json)
-    Descripción: Este workflow 991_workflow_991
--   [992_workflow_992.json](workflows/992_workflow_992.json)
-    Descripción: Este workflow 992_workflow_992
--   [993_workflow_993.json](workflows/993_workflow_993.json)
-    Descripción: Este workflow 993_workflow_993
--   [995_workflow_995.json](workflows/995_workflow_995.json)
-    Descripción: Este workflow 995_workflow_995
--   [996_workflow_996.json](workflows/996_workflow_996.json)
-    Descripción: Este workflow 996_workflow_996
--   [998_workflow_998.json](workflows/998_workflow_998.json)
-    Descripción: Este workflow 998_workflow_998
--   [99_Execute_an_SQL_query_in_Microsoft_SQL.json](workflows/99_Execute_an_SQL_query_in_Microsoft_SQL.json)
-    Descripción: Este workflow Execute an SQL query in Microsoft SQL
--   [9Or3kzIEI2tskRyR_Google_Trend_Data_Extract,_Summarization_with_Bright_Data_&_Google_Gemini.json](workflows/9Or3kzIEI2tskRyR_Google_Trend_Data_Extract,_Summarization_with_Bright_Data_&_Google_Gemini.json)
-    Descripción: Este workflow Note
--   [9_Coffee_Bot_(Matrix).json](workflows/9_Coffee_Bot_(Matrix).json)
-    Descripción: Este workflow Coffee Bot (Matrix)
--   [9nBQ1BfwxLhuzTcK_google_drive_to_instagram,_tiktok_and_youtube.json](workflows/9nBQ1BfwxLhuzTcK_google_drive_to_instagram,_tiktok_and_youtube.json)
-    Descripción: Este workflow Description
--   [9r4T5kELOXAV8L1F_3D_Figurine_Orthographic_Views_with_Midjourney_and_GPT-4o-Image_API.json](workflows/9r4T5kELOXAV8L1F_3D_Figurine_Orthographic_Views_with_Midjourney_and_GPT-4o-Image_API.json)
-    Descripción: Este workflow 3D Figurine Orthographic Views with Midjourney and GPT-4o-Image API
--   [9w5vu5VmXxpdBLWi_Send_Daily_Birthday_Reminders_from_Google_Contacts_to_Slack.json](workflows/9w5vu5VmXxpdBLWi_Send_Daily_Birthday_Reminders_from_Google_Contacts_to_Slack.json)
-    Descripción: Este workflow Send Daily Birthday Reminders from Google Contacts to Slack
--   [A_Very_Simple_Human_in_the_Loop_Email_Response_System_Using_AI_and_IMAP.json](workflows/A Very Simple _Human in the Loop_ Email Response System Using AI and IMAP.json)
-    Descripción: Este workflow Chain that summarizes the received email
--   [A0xnegTHL43LL3eP_Convert_YouTube_Videos_into_SEO_Blog_Posts.json](workflows/A0xnegTHL43LL3eP_Convert_YouTube_Videos_into_SEO_Blog_Posts.json)
-    Descripción: Este workflow Set Variables
--   [A4hqQNFLymCRKnYK_Discord_Agent.json](workflows/A4hqQNFLymCRKnYK_Discord_Agent.json)
-    Descripción: Este workflow Discord Management Tools
--   [A5R7XYSzrCJKlw9k_Agent_Milvus_tool.json](workflows/A5R7XYSzrCJKlw9k_Agent_Milvus_tool.json)
-    Descripción: Este workflow Scrape latest Paul Graham essays
--   [A7dRnMf9WybO8O02_Telegram_ChatBot_with_multiple_sessions.json](workflows/A7dRnMf9WybO8O02_Telegram_ChatBot_with_multiple_sessions.json)
-    Descripción: Este workflow Telegram ChatBot with multiple sessions
--   [AC4paL1SXMFURgmc_Translate_questions_about_e-mails_into_SQL_queries_and_run_them.json](workflows/AC4paL1SXMFURgmc_Translate_questions_about_e-mails_into_SQL_queries_and_run_them.json)
-    Descripción: Este workflow This can run manually
--   [AI_Agent_To_Chat_With_Files_In_Supabase_Storage.json](workflows/AI Agent To Chat With Files In Supabase Storage.json)
-    Descripción: Este workflow Replace Storage name, database ID and credentials.
--   [AI_Agent_Google_calendar_assistant_using_OpenAI.json](workflows/AI Agent _ Google calendar assistant using OpenAI.json)
-    Descripción: Este workflow Chat trigger - When a message is received
--   [AI_Agent_for_project_management_and_meetings_with_Airtable_and_Fireflies.json](workflows/AI Agent for project management and meetings with Airtable and Fireflies.json)
-    Descripción: Este workflow Replace API key for Fireflies
--   [AI_Agent_for_realtime_insights_on_meetings.json](workflows/AI Agent for realtime insights on meetings.json)
-    Descripción: Este workflow ... or watch set up video [10 min]
--   [AI_Agent_to_chat_with_Airtable_and_analyze_data.json](workflows/AI Agent to chat with Airtable and analyze data.json)
-    Descripción: Este workflow AI Agent to chat with Airtable and analyze data
--   [AI_Agent_to_chat_with_Supabase_PostgreSQL_DB.json](workflows/AI Agent to chat with Supabase_PostgreSQL DB.json)
-    Descripción: Este workflow **Replace password and username for Supabase**
--   [AI_Agent_to_chat_with_you_Search_Console_Data_using_OpenAI_and_Postgres.json](workflows/AI Agent to chat with you Search Console Data, using OpenAI and Postgres.json)
-    Descripción: Este workflow Webhook - ChatInput
--   [AI_Agent_with_Ollama_for_current_weather_and_wiki.json](workflows/AI Agent with Ollama for current weather and wiki.json)
-    Descripción: Este workflow The conversation history(last 20 messages) is stored in a buffer memory
--   [AI_Automated_HR_Workflow_for_CV_Analysis_and_Candidate_Evaluation.json](workflows/AI Automated HR Workflow for CV Analysis and Candidate Evaluation.json)
-    Descripción: Este workflow HR Expert
--   [AI_Crew_to_Automate_Fundamental_Stock_Analysis_Q_A_Workflow.json](workflows/AI Crew to Automate Fundamental Stock Analysis - Q&A Workflow.json)
-    Descripción: Este workflow Step 2: Setup the Q&A
--   [AI_Customer_feedback_sentiment_analysis.json](workflows/AI Customer feedback sentiment analysis.json)
-    Descripción: Este workflow Send customer feedback to OpenAI for sentiment analysis
--   [AI_Data_Extraction_with_Dynamic_Prompts_and_Airtable.json](workflows/AI Data Extraction with Dynamic Prompts and Airtable.json)
-    Descripción: Este workflow 1. Get Table Schema
--   [AI_Data_Extraction_with_Dynamic_Prompts_and_Baserow.json](workflows/AI Data Extraction with Dynamic Prompts and Baserow.json)
-    Descripción: Este workflow 1. Get Table Schema
--   [AI_Fitness_Coach_Strava_Data_Analysis_and_Personalized_Training_Insights.json](workflows/AI Fitness Coach Strava Data Analysis and Personalized Training Insights.json)
-    Descripción: Este workflow Customer Experience Agent (AI)
--   [AI_Powered_Web_Scraping_with_Jina_Google_Sheets_and_OpenAI_the_EASY_way.json](workflows/AI Powered Web Scraping with Jina, Google Sheets and OpenAI _ the EASY way.json)
-    Descripción: Este workflow Start here: Step-by Step Youtube Tutorial :star:
--   [AI_Social_Media_Caption_Creator_creates_social_media_post_captions_in_Airtable.json](workflows/AI Social Media Caption Creator creates social media post captions in Airtable.json)
-    Descripción: Este workflow Welcome to my AI Social Media Caption Creator Workflow!
--   [AI_Voice_Chat_using_Webhook_Memory_Manager_OpenAI_Google_Gemini_ElevenLabs.json](workflows/AI Voice Chat using Webhook, Memory Manager, OpenAI, Google Gemini & ElevenLabs.json)
-    Descripción: Este workflow Get Context
--   [AI_Voice_Chatbot_with_ElevenLabs_OpenAI_for_Customer_Service_and_Restaurants.json](workflows/AI Voice Chatbot with ElevenLabs & OpenAI for Customer Service and Restaurants.json)
-    Descripción: Este workflow STEP 4
--   [AI_Youtube_Trend_Finder_Based_On_Niche.json](workflows/AI Youtube Trend Finder Based On Niche.json)
-    Descripción: Este workflow Main Workflow
--   [AI_agent_chat.json](workflows/AI agent chat.json)
-    Descripción: Este workflow AI agent chat
--   [AI_agent_for_Instagram_DM_inbox_Manychat_Open_AI_integration.json](workflows/AI agent for Instagram DM_inbox. Manychat + Open AI integration.json)
-    Descripción: Este workflow Easy Instagram(via ManyChat) bot
--   [AI_agent_that_can_scrape_webpages.json](workflows/AI agent that can scrape webpages.json)
-    Descripción: Este workflow Convert the query string into JSON, apply the limit for a page length
--   [AI_chat_with_any_data_source_using_the_n8n_workflow_tool.json](workflows/AI chat with any data source (using the n8n workflow tool).json)
-    Descripción: Este workflow Replace me
--   [AI_chatbot_that_can_search_the_web.json](workflows/AI chatbot that can search the web.json)
-    Descripción: Este workflow The conversation history(last 20 messages) is stored in a buffer memory
--   [AI_web_researcher_for_sales.json](workflows/AI web researcher for sales.json)
-    Descripción: Este workflow Read Me
--   [AI-Driven_Lead_Management_and_Inquiry_Automation_with_ERPNext_&_n8n.json](workflows/AI-Driven Lead Management and Inquiry Automation with ERPNext & n8n.json)
-    Descripción: Este workflow AI-Driven Lead Management and Inquiry Automation with ERPNext & n8n
--   [AI-Generated_Summary_Block_for_WordPress_Posts.json](workflows/AI-Generated Summary Block for WordPress Posts.json)
-    Descripción: Este workflow Trigger - Two Options
--   [AI-Powered_Candidate_Shortlisting_Automation_for_ERPNext.json](workflows/AI-Powered Candidate Shortlisting Automation for ERPNext.json)
-    Descripción: Este workflow Get Apprropraite Data
--   [AI-Powered_Children_s_Arabic_Storytelling_on_Telegram.json](workflows/AI-Powered Children_s Arabic Storytelling on Telegram.json)
-    Descripción: Este workflow Template for Kids' Story in Arabic
--   [AI-Powered_Children_s_English_Storytelling_on_Telegram_with_OpenAI.json](workflows/AI-Powered Children_s English Storytelling on Telegram with OpenAI.json)
-    Descripción: Este workflow Setting Up a Workflow for "AI-Powered Children's English Storytelling on Telegram"
--   [AI-Powered_Email_Automation_for_Business_Summarize_&_Respond_with_RAG.json](workflows/AI-Powered Email Automation for Business_ Summarize & Respond with RAG.json)
-    Descripción: Este workflow STEP 1
--   [AI-Powered_Information_Monitoring_with_OpenAI_Google_Sheets_Jina_AI_and_Slack.json](workflows/AI-Powered Information Monitoring with OpenAI, Google Sheets, Jina AI and Slack.json)
-    Descripción: Este workflow LLM Call 1 - Article Topic Relevance Classification
--   [AI-Powered_RAG_Workflow_For_Stock_Earnings_Report_Analysis.json](workflows/AI-Powered RAG Workflow For Stock Earnings Report Analysis.json)
-    Descripción: Este workflow Set up steps
--   [AI-Powered_Social_Media_Amplifier.json](workflows/AI-Powered Social Media Amplifier.json)
-    Descripción: Este workflow Automate the curation and sharing of trending GitHub discussions from Hacker News to Twitter and LinkedIn. This workflow leverages AI to generate engaging posts, streamlining your social media content creation and distribution.
--   [AI-powered_WooCommerce_Support-Agent.json](workflows/AI-powered WooCommerce Support-Agent.json)
-    Descripción: Este workflow Find WooCommerce User-ID
--   [AI-powered_email_processing_autoresponder_and_response_approval_(Yes_No).json](workflows/AI-powered email processing autoresponder and response approval (Yes_No).json)
-    Descripción: Este workflow Main Flow
--   [AI_Ask_questions_about_any_data_source_(using_the_n8n_workflow_retriever).json](workflows/AI_ Ask questions about any data source (using the n8n workflow retriever).json)
-    Descripción: Este workflow Q&A on data returned from a workflow
--   [AI_Summarize_podcast_episode_and_enhance_using_Wikipedia.json](workflows/AI_ Summarize podcast episode and enhance using Wikipedia.json)
-    Descripción: Este workflow Chunk the transcript into several parts, and refine-summarize it
--   [ALL_unique_nodes.json](workflows/ALL_unique_nodes.json)
-    Descripción: Este workflow ALL_unique_nodes
--   [ALg2eFzN4AsHIf3R_✍️🌄_Your_First_Wordpress_Content_Creator_-_Quick_Start.json](workflows/ALg2eFzN4AsHIf3R_✍️🌄_Your_First_Wordpress_Content_Creator_-_Quick_Start.json)
-    Descripción: Este workflow Create Blog Post
--   [AMQub0Da16qevkJS_Code_Review_workflow.json](workflows/AMQub0Da16qevkJS_Code_Review_workflow.json)
-    Descripción: Este workflow **1-The GitHub Trigger** node initiates the workflow whenever a pull request event occurs on a specified repository. It enables real-time automation based on GitHub activity.
--   [API_Schema_Extractor.json](workflows/API Schema Extractor.json)
-    Descripción: Este workflow Stage 1 - Research for API Documentation
--   [AQJ6QnF2yVdCWMnx_SQL_agent_with_memory.json](workflows/AQJ6QnF2yVdCWMnx_SQL_agent_with_memory.json)
-    Descripción: Este workflow Run this part only once
--   [AS2Rj41p6OyA0xZK_Auth0_User_Login.json](workflows/AS2Rj41p6OyA0xZK_Auth0_User_Login.json)
-    Descripción: Este workflow You can also add &connection=github to end of authorize URL in order to get user to login via Github, Facebook, etc
--   [ATxZ5QYhdJq9mZDO_Parse_DMARC_reports.json](workflows/ATxZ5QYhdJq9mZDO_Parse_DMARC_reports.json)
-    Descripción: Este workflow How it works
--   [Actioning_Your_Meeting_Next_Steps_using_Transcripts_and_AI.json](workflows/Actioning Your Meeting Next Steps using Transcripts and AI.json)
-    Descripción: Este workflow 4. This Tool Creates Calendar Events
--   [Add_positive_feedback_messages_to_a_table_in_Notion.json](workflows/Add positive feedback messages to a table in Notion.json)
-    Descripción: Este workflow Add positive feedback messages to a table in Notion
--   [Advanced_AI_Demo_Presented_at_AI_Developers_14_meetup.json](workflows/Advanced AI Demo (Presented at AI Developers #14 meetup).json)
-    Descripción: Este workflow
--   [Agentic_Telegram_AI_bot_with_with_LangChain_nodes_and_new_tools.json](workflows/Agentic Telegram AI bot with with LangChain nodes and new tools.json)
-    Descripción: Este workflow Generate an image with Dall-E-3 and send it via Telegram
--   [Agn9dzf5YTqcmQGN_Amazon_Ads_AI_Optimization.json](workflows/Agn9dzf5YTqcmQGN_Amazon_Ads_AI_Optimization.json)
-    Descripción: Este workflow Change
--   [AhP1Fgv0eCrh9Jxs_AI-Generated_Summary_Block_for_WordPress_Posts_-_with_OpenAI,_WordPress,_Google_Sheets_&_Slack.json](workflows/AhP1Fgv0eCrh9Jxs_AI-Generated_Summary_Block_for_WordPress_Posts_-_with_OpenAI,_WordPress,_Google_Sheets_&_Slack.json)
-    Descripción: Este workflow Trigger - Two Options
--   [AjD7Xo4vjbBvBb93_workflow_AjD7Xo4vjbBvBb93.json](workflows/AjD7Xo4vjbBvBb93_workflow_AjD7Xo4vjbBvBb93.json)
-    Descripción: Este workflow RSS sources
--   [AjJ7O98qjw8XVirk_Build_an_OpenAI_Assistant_with_Google_Drive_Integration.json](workflows/AjJ7O98qjw8XVirk_Build_an_OpenAI_Assistant_with_Google_Drive_Integration.json)
-    Descripción: Este workflow Step 1
--   [AlEVIPHR3dMJkYWt_Monitor_USDT_ERC-20_Wallet_Balance_with_Etherscan_and_Telegram_Notifications.json](workflows/AlEVIPHR3dMJkYWt_Monitor_USDT_ERC-20_Wallet_Balance_with_Etherscan_and_Telegram_Notifications.json)
-    Descripción: Este workflow USDT ERC-20 Wallet Balance Tracker
--   [Analyse_papers_from_Hugging_Face_with_AI_and_store_them_in_Notion.json](workflows/Analyse papers from Hugging Face with AI and store them in Notion.json)
-    Descripción: Este workflow Hugging Face to Notion
--   [Analyze_Sort_Suspicious_Email_Contents_with_ChatGPT.json](workflows/Analyze & Sort Suspicious Email Contents with ChatGPT.json)
-    Descripción: Este workflow hctiapi2
--   [Analyze_Suspicious_Email_Contents_with_ChatGPT_Vision.json](workflows/Analyze Suspicious Email Contents with ChatGPT Vision.json)
-    Descripción: Este workflow
--   [Analyze_feedback_and_send_a_message_on_Mattermost.json](workflows/Analyze feedback and send a message on Mattermost.json)
-    Descripción: Este workflow Analyze the sentiment of feedback and send a message on Mattermost
--   [Analyze_feedback_using_AWS_Comprehend_and_send_it_to_a_Mattermost_channel.json](workflows/Analyze feedback using AWS Comprehend and send it to a Mattermost channel.json)
-    Descripción: Este workflow Analyze feedback using AWS Comprehend and send it to a Mattermost channel
--   [Analyze_tradingview.com_charts_with_Chrome_extension_N8N_and_OpenAI.json](workflows/Analyze tradingview.com charts with Chrome extension, N8N and OpenAI.json)
-    Descripción: Este workflow N8N en OpenAI image analyser
--   [AnbedV2Ntx97sfed_Extract_&_Summarize_Bing_Copilot_Search_Results_with_Gemini_AI_and_Bright_Data.json](workflows/AnbedV2Ntx97sfed_Extract_&_Summarize_Bing_Copilot_Search_Results_with_Gemini_AI_and_Bright_Data.json)
-    Descripción: Este workflow Note
--   [Angie,_Personal_AI_Assistant_with_Telegram_Voice_and_Text.json](workflows/Angie, Personal AI Assistant with Telegram Voice and Text.json)
-    Descripción: Este workflow Process Telegram Request
--   [AqWXpCre4fsPEkAH_Simple_OpenAI_Image_Generator.json](workflows/AqWXpCre4fsPEkAH_Simple_OpenAI_Image_Generator.json)
-    Descripción: Este workflow Welcome to my Simple OpenAI Image Generator Workflow!
--   [As8TxF3PjyXygc0o_🧹_Archive_(delete)_duplicate_items_from_a_Notion_database.json](workflows/As8TxF3PjyXygc0o_🧹_Archive_(delete)_duplicate_items_from_a_Notion_database.json)
-    Descripción: Este workflow 🧹 Archive (delete) extra duplicate items from Notion database
--   [Ask_a_human_for_help_when_the_AI_doesn_t_know_the_answer.json](workflows/Ask a human for help when the AI doesn_t know the answer.json)
-    Descripción: Este workflow Sub-workflow: Custom tool
--   [Ask_questions_about_a_PDF_using_AI.json](workflows/Ask questions about a PDF using AI.json)
-    Descripción: Este workflow Load data into database
--   [Author_and_Publish_Blog_Posts_From_Google_Sheets.json](workflows/Author and Publish Blog Posts From Google Sheets.json)
-    Descripción: Este workflow Settings
--   [Auto_Categorise_Outlook_Emails_with_AI.json](workflows/Auto Categorise Outlook Emails with AI.json)
-    Descripción: Este workflow Auto Categorise Outlook Emails with AI
--   [Auto-Categorize_blog_posts_in_wordpress_using_A.I.json](workflows/Auto-Categorize blog posts in wordpress using A.I..json)
-    Descripción: Este workflow How to Auto-Categorize 82 Blog Posts in 2 Minutes using A.I. (No Coding Required)
--   [Auto-Tag_Blog_Posts_in_WordPress_with_AI.json](workflows/Auto-Tag Blog Posts in WordPress with AI.json)
-    Descripción: Este workflow Demo Usage in Another Workflow (Tagging an article discovered with an RSS feed)
--   [Auto-label_incoming_Gmail_messages_with_AI_nodes.json](workflows/Auto-label incoming Gmail messages with AI nodes.json)
-    Descripción: Este workflow Add AI labels to Gmail messages
--   [Automate_Blog_Creation_in_Brand_Voice_with_AI.json](workflows/Automate Blog Creation in Brand Voice with AI.json)
-    Descripción: Este workflow 1. Import Existing Content
--   [Automate_Competitor_Research_with_Exa.ai_Notion_and_AI_Agents.json](workflows/Automate Competitor Research with Exa.ai, Notion and AI Agents.json)
-    Descripción: Este workflow Automate Competitor Research with Exa.ai, Notion and AI Agents
--   [Automate_Content_Generator_for_WordPress_with_DeepSeek_R1.json](workflows/Automate Content Generator for WordPress with DeepSeek R1.json)
-    Descripción: Este workflow Target
--   [Automate_Customer_Support_Issue_Resolution_using_AI_Text_Classifier.json](workflows/Automate Customer Support Issue Resolution using AI Text Classifier.json)
-    Descripción: Este workflow 1. Search For Unresolved Long-lived JIRA Issues
--   [Automate_Image_Validation_Tasks_using_AI_Vision.json](workflows/Automate Image Validation Tasks using AI Vision.json)
-    Descripción: Este workflow 1. Import Photos To Validate
--   [Automate_LinkedIn_Outreach_with_Notion_and_OpenAI.json](workflows/Automate LinkedIn Outreach with Notion and OpenAI.json)
-    Descripción: Este workflow Fetch the day's post from my Notion database
--   [Automate_Pinterest_Analysis_&_AI-Powered_Content_Suggestions_With_Pinterest_API.json](workflows/Automate Pinterest Analysis & AI-Powered Content Suggestions With Pinterest API.json)
-    Descripción: Este workflow Scheduled trigger at 8:00am to start the workflow.
--   [Automate_SIEM_Alert_Enrichment_with_MITRE_ATTACK_Qdrant_Zendesk_in_n8n.json](workflows/Automate SIEM Alert Enrichment with MITRE ATT&CK, Qdrant & Zendesk in n8n.json)
-    Descripción: Este workflow usa
--   [Automate_Sales_Meeting_Prep_with_AI_&_APIFY_Sent_To_WhatsApp.json](workflows/Automate Sales Meeting Prep with AI & APIFY Sent To WhatsApp.json)
-    Descripción: Este workflow 1. Periodically Search For Upcoming Meetings
--   [Automate_Screenshots_with_URLbox_&_Analyze_them_with_AI.json](workflows/Automate Screenshots with URLbox & Analyze them with AI.json)
-    Descripción: Este workflow Setup
--   [Automate_Your_RFP_Process_with_OpenAI_Assistants.json](workflows/Automate Your RFP Process with OpenAI Assistants.json)
-    Descripción: Este workflow 1. API to Trigger Workflow
--   [Automate_testimonials_in_Strapi_with_n8n.json](workflows/Automate testimonials in Strapi with n8n.json)
-    Descripción: Este workflow Automate testimonials in Strapi with n8n
--   [Automated_AI_image_analysis_and_response_via_Telegram.json](workflows/Automated AI image analysis and response via Telegram.json)
-    Descripción: Este workflow Automated Image Analysis and Response via Telegram
--   [Automated_End-to-End_Fine-Tuning_of_OpenAI_Models_with_Google_Drive_Integration.json](workflows/Automated End-to-End Fine-Tuning of OpenAI Models with Google Drive Integration.json)
-    Descripción: Este workflow Step 2
--   [Automated_Hugging_Face_Paper_Summary_Fetching_Categorization_Workflow.json](workflows/Automated Hugging Face Paper Summary Fetching & Categorization Workflow.json)
-    Descripción: Este workflow We are working here with crops dataset:
--   [Automatic_Background_Removal_for_Images_in_Google_Drive.json](workflows/Automatic Background Removal for Images in Google Drive.json)
-    Descripción: Este workflow About this worfklow
--   [Autonomous_AI_crawler.json](workflows/Autonomous AI crawler.json)
-    Descripción: Este workflow Text scraper tool
--   [AuwhspweKSACE1WQ_YouTube_to_X_Post-_AlexK1919.json](workflows/AuwhspweKSACE1WQ_YouTube_to_X_Post-_AlexK1919.json)
-    Descripción: Este workflow Fetch the latest YouTube video and dedupe
--   [AvCMhDoSUAYXsrQX_Automate_Event_Creation_in_Google_Calendar_from_Google_Sheets.json](workflows/AvCMhDoSUAYXsrQX_Automate_Event_Creation_in_Google_Calendar_from_Google_Sheets.json)
-    Descripción: Este workflow Automate Event Creation in Google Calendar from Google Sheets
--   [AvXlqUiuc1qJSwxf_Forward_Filtered_Gmail_Notifications_to_Telegram_Chat.json](workflows/AvXlqUiuc1qJSwxf_Forward_Filtered_Gmail_Notifications_to_Telegram_Chat.json)
-    Descripción: Este workflow Forward Filtered Gmail Notifications to Telegram Chat
--   [B37wvB0tdKgjuabw_Image_to_license_plate_number.json](workflows/B37wvB0tdKgjuabw_Image_to_license_plate_number.json)
-    Descripción: Este workflow Image to license plate number
--   [B6UHILmjPWa7ViQ4_Weather_via_Slack.json](workflows/B6UHILmjPWa7ViQ4_Weather_via_Slack.json)
-    Descripción: Este workflow Weather via Slack
--   [BMI5WkmyU8nZqfII_modelo_do_chatbot.json](workflows/BMI5WkmyU8nZqfII_modelo_do_chatbot.json)
-    Descripción: Este workflow TOOLS
--   [BXfxO6faULfsy2JN_Scrape_Today_s_Github_Trend_13_Top_Repositories.json](workflows/BXfxO6faULfsy2JN_Scrape_Today's_Github_Trend_13_Top_Repositories.json)
-    Descripción: Este workflow Scrape Today's Github Trend 13 Top Repositories
--   [BambooHR_AI-Powered_Company_Policies_and_Benefits_Chatbot.json](workflows/BambooHR AI-Powered Company Policies and Benefits Chatbot.json)
-    Descripción: Este workflow STEP #1: Retrieve company policies and load them into a vector store
--   [Basic_Automatic_Gmail_Email_Labelling_with_OpenAI_and_Gmail_API.json](workflows/Basic Automatic Gmail Email Labelling with OpenAI and Gmail API.json)
-    Descripción: Este workflow Gmail trigger
--   [Bitrix24_Chatbot_Application_Workflow_example_with_Webhook_Integration.json](workflows/Bitrix24 Chatbot Application Workflow example with Webhook Integration.json)
-    Descripción: Este workflow Bitrix24 Chatbot Application Workflow example with Webhook Integration
--   [Breakdown_Documents_into_Study_Notes_using_Templating_MistralAI_and_Qdrant.json](workflows/Breakdown Documents into Study Notes using Templating MistralAI and Qdrant.json)
-    Descripción: Este workflow Step 1. Watch Folder and Import New Documents
--   [Build_Your_Own_Image_Search_Using_AI_Object_Detection_CDN_and_ElasticSearchBuild_Your_Own_Image_Search_Using_AI_Object_Detection_CDN_and_ElasticSearch.json](workflows/Build Your Own Image Search Using AI Object Detection, CDN and ElasticSearchBuild Your Own Image Search Using AI Object Detection, CDN and ElasticSearch.json)
-    Descripción: Este workflow 1. Get Source Image
--   [Build_a_Financial_Documents_Assistant_using_Qdrant_and_Mistral.ai.json](workflows/Build a Financial Documents Assistant using Qdrant and Mistral.ai.json)
-    Descripción: Este workflow Step 1. Select the target folder
--   [Build_a_Tax_Code_Assistant_with_Qdrant_Mistral.ai_and_OpenAI.json](workflows/Build a Tax Code Assistant with Qdrant, Mistral.ai and OpenAI.json)
-    Descripción: Este workflow Step 1. Download the Tax Code PDF
--   [Build_an_OpenAI_Assistant_with_Google_Drive_Integration.json](workflows/Build an OpenAI Assistant with Google Drive Integration.json)
-    Descripción: Este workflow Step 1
--   [Building_RAG_Chatbot_for_Movie_Recommendations_con_Qdrant_and_Open_AI.json](workflows/Building RAG Chatbot for Movie Recommendations with Qdrant and Open AI.json)
-    Descripción: Este workflow Tool, calling Qdrant's recommendation API based on user's request, transformed by AI agent
--   [Building_Your_First_WhatsApp_Chatbot_1.json](workflows/Building Your First WhatsApp Chatbot (1).json)
-    Descripción: Este workflow 1. Download Product Brochure PDF
--   [Building_Your_First_WhatsApp_Chatbot.json](workflows/Building Your First WhatsApp Chatbot.json)
-    Descripción: Este workflow 1. Download Product Brochure PDF
--   [C2pB17EpXAJwOcst_OpenAI_Assistant_for_Hubspot_Chat.json](workflows/C2pB17EpXAJwOcst_OpenAI_Assistant_for_Hubspot_Chat.json)
-    Descripción: Este workflow Watch for new message on the chatbot.
--   [CCcz1G4G2yPwk1me_💥workflow_n8n_d'Auto-Post_sur_les_réseaux_sociaux_-_vide.json](workflows/CCcz1G4G2yPwk1me_💥workflow_n8n_d'Auto-Post_sur_les_réseaux_sociaux_-_vide.json)
-    Descripción: Este workflow Auto-Publish to 9 Social Platforms
--   [CNOMivCLJRGfZnUM_🦜✨Use_OpenAI_to_Transcribe_Audio_+_Summarize_with_AI_+_Save_to_Google_Drive.json](workflows/CNOMivCLJRGfZnUM_🦜✨Use_OpenAI_to_Transcribe_Audio_+_Summarize_with_AI_+_Save_to_Google_Drive.json)
-    Descripción: Este workflow 3️⃣ Transcribe Audio
--   [CV_Resume_PDF_Parsing_with_Multimodal_Vision_AI.json](workflows/CV Resume PDF Parsing with Multimodal Vision AI.json)
-    Descripción: Este workflow Try me out!
--   [CV_Screening_with_OpenAI.json](workflows/CV Screening with OpenAI.json)
-    Descripción: Este workflow **Add direct link to CV and Job description**
--   [CYv2u2izrgZWk5bK_DigialOceanUpload.json](workflows/CYv2u2izrgZWk5bK_DigialOceanUpload.json)
-    Descripción: Este workflow DigialOceanUpload
--   [Chat_Assistant_OpenAI_assistant_with_Postgres_Memory_And_API_Calling_Capabalities.json](workflows/Chat Assistant (OpenAI assistant) with Postgres Memory And API Calling Capabalities.json)
-    Descripción: Este workflow TOOLS
--   [Chat_with_GitHub_API_Documentation_RAG-Powered_Chatbot_with_Pinecone_&_OpenAI.json](workflows/Chat with GitHub API Documentation_ RAG-Powered Chatbot with Pinecone & OpenAI.json)
-    Descripción: Este workflow Indexing content in the vector database
--   [Chat_with_OpenAI_Assistant_(by_adding_a_memory).json](workflows/Chat with OpenAI Assistant (by adding a memory).json)
-    Descripción: Este workflow Read contents of the chat from memory
--   [Chat_with_OpenAIs_GPT_via_a_simple_Telegram_Bot.json](workflows/Chat with OpenAIs GPT via a simple Telegram Bot.json)
-    Descripción: Este workflow Chat with OpenAIs GPT via a simple Telegram Bot
--   [Chat_with_PDF_docs_using_AI_(quoting_sources).json](workflows/Chat with PDF docs using AI (quoting sources).json)
-    Descripción: Este workflow 1. Setup: Fetch file from Google Drive, split it into chunks and insert into a vector database
--   [Chat_with_Postgresql_Database.json](workflows/Chat with Postgresql Database.json)
-    Descripción: Este workflow 👨‍🎤 Setup
--   [Chat_with_a_Google_Sheet_using_AI.json](workflows/Chat with a Google Sheet using AI.json)
-    Descripción: Este workflow Sub-workflow: Custom tool
--   [Chat_with_local_LLMs_using_n8n_and_Ollama.json](workflows/Chat with local LLMs using n8n and Ollama.json)
-    Descripción: Este workflow Chat with local LLMs using n8n and Ollama
--   [Chat_with_your_event_schedule_from_Google_Sheets_in_Telegram.json](workflows/Chat with your event schedule from Google Sheets in Telegram.json)
-    Descripción: Este workflow Chat input triggered inside n8n
--   [ChatGPT_Automatic_Code_Review_in_Gitlab_MR.json](workflows/ChatGPT Automatic Code Review in Gitlab MR.json)
-    Descripción: Este workflow Edit your own prompt ⬇️
--   [Classify_lemlist_replies_using_OpenAI_and_automate_reply_handling.json](workflows/Classify lemlist replies using OpenAI and automate reply handling.json)
-    Descripción: Este workflow Get your lemlist API key
--   [Classify_new_bugs_in_Linear_with_OpenAI_s_GPT-4_and_move_them_to_the_right_team.json](workflows/Classify new bugs in Linear with OpenAI_s GPT-4 and move them to the right team.json)
-    Descripción: Este workflow When does this fire?
--   [CoYwFuZTq5kUuiba_Post_new_Google_Calendar_events_to_Telegram.json](workflows/CoYwFuZTq5kUuiba_Post_new_Google_Calendar_events_to_Telegram.json)
-    Descripción: Este workflow Post new Google Calendar events to Telegram
--   [Complete_business_WhatsApp_AI-Powered_RAG_Chatbot_using_OpenAI.json](workflows/Complete business WhatsApp AI-Powered RAG Chatbot using OpenAI.json)
-    Descripción: Este workflow STEP 4
--   [Compose_reply_draft_in_Gmail_with_OpenAI_Assistant.json](workflows/Compose reply draft in Gmail with OpenAI Assistant.json)
-    Descripción: Este workflow Reply draft with OpenAI Assistant
--   [Configure_your_own_Image_Creation_API_Using_OpenAI_DALLE-3.json](workflows/Configure your own Image Creation API Using OpenAI DALLE-3.json)
-    Descripción: Este workflow Webhook Trigger
--   [Conversational_Interviews_with_AI_Agents_and_n8n_Forms.json](workflows/Conversational Interviews with AI Agents and n8n Forms.json)
-    Descripción: Este workflow 🚨 Set Interview Topic Here!
--   [Convert_URL_HTML_to_Markdown_Format_and_Get_Page_Links.json](workflows/Convert URL HTML to Markdown Format and Get Page Links.json)
-    Descripción: Este workflow **40 at a time seems to be the memory limit on my server - run until complete with batches of 40 or increase based on your server memory**
--   [Convert_text_to_speech_with_OpenAI.json](workflows/Convert text to speech with OpenAI.json)
-    Descripción: Este workflow Workflow Trigger
--   [Create_a_Branded_AI-Powered_Website_Chatbot.json](workflows/Create a Branded AI-Powered Website Chatbot.json)
-    Descripción: Este workflow Ensure these referance this workflow, replace placeholders
--   [Create_a_Google_Analytics_Data_Report_with_AI_and_sent_it_to_E-Mail_and_Telegram.json](workflows/Create a Google Analytics Data Report with AI and sent it to E-Mail and Telegram.json)
-    Descripción: Este workflow Welcome to my Google Analytics Weekly Report Workflow!
--   [Create_dynamic_Twitter_profile_banner.json](workflows/Create dynamic Twitter profile banner.json)
-    Descripción: Este workflow Create dynamic Twitter profile banner
--   [Create_update_and_get_a_profile_in_Humantic_AI.json](workflows/Create, update, and get a profile in Humantic AI.json)
-    Descripción: Este workflow Create, update, and get a profile in Humantic AI
--   [Creating_a_AI_Slack_Bot_with_Google_Gemini.json](workflows/Creating a AI Slack Bot with Google Gemini.json)
-    Descripción: Este workflow This is a POST Webhook endpoint
--   [Custom_LangChain_agent_written_in_JavaScript.json](workflows/Custom LangChain agent written in JavaScript.json)
-    Descripción: Este workflow Self-coded LLM Chain Node
--   [Customer_Insights_with_Qdrant_Python_and_Information_Extractor.json](workflows/Customer Insights with Qdrant, Python and Information Extractor.json)
-    Descripción: Este workflow Step 1. Starting Fresh
--   [Customer_Support_Channel_and_Ticketing_System_with_Slack_and_Linear.json](workflows/Customer Support Channel and Ticketing System with Slack and Linear.json)
-    Descripción: Este workflow 1. Query Slack for Messages
--   [CvXjXG4SFnN0ioJQ_AutoQoutesV2_template.json](workflows/CvXjXG4SFnN0ioJQ_AutoQoutesV2_template.json)
-    Descripción: Este workflow Create Image Background
--   [D0I76cew5KOnlem0_Workflow_stats.json](workflows/D0I76cew5KOnlem0_Workflow_stats.json)
-    Descripción: Este workflow Create the main JSON object with the workflow statistics
--   [D2RkoPZlkKFRUrNu_LinkedIn_Web_Scraping_with_Bright_Data_MCP_Server_&_Google_Gemini.json](workflows/D2RkoPZlkKFRUrNu_LinkedIn_Web_Scraping_with_Bright_Data_MCP_Server_&_Google_Gemini.json)
-    Descripción: Este workflow Bright Data LinkedIn Person Scraper
--   [DNqCvzBvS7GAFWm4_Send_Emails_from_Obsidian.json](workflows/DNqCvzBvS7GAFWm4_Send_Emails_from_Obsidian.json)
-    Descripción: Este workflow Obsidian to Email Overview
--   [DRjTkkZrfqMbhifO_Summarize_Glassdoor_Company_Info_with_Google_Gemini_and_Bright_Data_Web_Scraper.json](workflows/DRjTkkZrfqMbhifO_Summarize_Glassdoor_Company_Info_with_Google_Gemini_and_Bright_Data_Web_Scraper.json)
-    Descripción: Este workflow Note
--   [DSP_Agent.json](workflows/DSP_Agent.json)
-    Descripción: Este workflow DSP Agent
--   [Daily_Podcast_Summary.json](workflows/Daily Podcast Summary.json)
-    Descripción: Este workflow Daily Podcast Summary
--   [Daily_meetings_summarization_with_Gemini_AI.json](workflows/Daily meetings summarization with Gemini AI.json)
-    Descripción: Este workflow Gemini Flash model a base
--   [Dctc6QKyRXK17oEq_All-in-One_Telegram_Baserow_AI_Assistant_🤖🧠_Voice_Photo_Save_Notes_Long_Term_Mem.json](workflows/Dctc6QKyRXK17oEq_All-in-One_Telegram_Baserow_AI_Assistant_🤖🧠_Voice_Photo_Save_Notes_Long_Term_Mem.json)
-    Descripción: Este workflow Retrieve Long Term Memories
--   [Deduplicate_Scraping_AI_Grants_for_Eligibility_using_AI.json](workflows/Deduplicate Scraping AI Grants for Eligibility using AI.json)
-    Descripción: Este workflow 1. Fetch Latest AI Grants, Ignore Those Already Seen
--   [Detect_hallucinations_using_specialised_Ollama_model_bespoke-minicheck.json](workflows/Detect hallucinations using specialised Ollama model bespoke-minicheck.json)
-    Descripción: Este workflow Build a summary
--   [Detect_toxic_language_in_Telegram_messages.json](workflows/Detect toxic language in Telegram messages.json)
-    Descripción: Este workflow Detect toxic language in Telegram messages
--   [Discord_AI-powered_bot.json](workflows/Discord AI-powered bot.json)
-    Descripción: Este workflow Discord AI bot
--   [DnHvQ3KL8v8r5L5Z_Telegram_Chat_with_Buffering.json](workflows/DnHvQ3KL8v8r5L5Z_Telegram_Chat_with_Buffering.json)
-    Descripción: Este workflow 1. Receive Message
--   [DqvkhR9nzoPQKxGh_Scrape_Trustpilot_Reviews_to_Google_Sheets.json](workflows/DqvkhR9nzoPQKxGh_Scrape_Trustpilot_Reviews_to_Google_Sheets.json)
-    Descripción: Este workflow Edit this node 👇
--   [Dsp_agent_(1).json](workflows/Dsp_agent (1).json)
-    Descripción: Este workflow Dsp agent
--   [DswhuYzoemjA6iNN_Scrape_Books_from_URL_with_Dumpling_AI,_Clean_HTML,_Save_to_Sheets,_Email_as_CSV.json](workflows/DswhuYzoemjA6iNN_Scrape_Books_from_URL_with_Dumpling_AI,_Clean_HTML,_Save_to_Sheets,_Email_as_CSV.json)
-    Descripción: Este workflow Scrape Books from URL with Dumpling AI, Clean HTML, Save to Sheets, Email as CSV
--   [DvP6IHWymTIVg8Up_Store_Notion_s_Pages_as_Vector_Documents_into_Supabase_with_OpenAI.json](workflows/DvP6IHWymTIVg8Up_Store_Notion's_Pages_as_Vector_Documents_into_Supabase_with_OpenAI.json)
-    Descripción: Este workflow Store Notion's Pages as Vector Documents into Supabase
--   [Dynamically_generate_a_webpage_from_user_request_using_OpenAI_Structured_Output_(1).json](workflows/Dynamically generate a webpage from user request using OpenAI Structured Output (1).json)
-    Descripción: Este workflow Generate HTML from user query
--   [Dynamically_generate_a_webpage_from_user_request_using_OpenAI_Structured_Output.json](workflows/Dynamically generate a webpage from user request using OpenAI Structured Output.json)
-    Descripción: Este workflow Generate HTML from user query
--   [E2hq7z4ANLoL5vw1_Noco_Kanban_Board_with_AI_Prioritization.json](workflows/E2hq7z4ANLoL5vw1_Noco_Kanban_Board_with_AI_Prioritization.json)
-    Descripción: Este workflow Incident Form
--   [EJHT9UmGXNOyynV0_Scans_von_PDF_zu_Nextcloud.json](workflows/EJHT9UmGXNOyynV0_Scans_von_PDF_zu_Nextcloud.json)
-    Descripción: Este workflow Copy Scanner Documents to Nextcloud
--   [EOJfPcM9PPWI1Rmp_Automated_Research_Report_Generation_with_OpenAI,_Wikipedia,_Google_Search,_and_Gmail_Telegram.json](workflows/EOJfPcM9PPWI1Rmp_Automated_Research_Report_Generation_with_OpenAI,_Wikipedia,_Google_Search,_and_Gmail_Telegram.json)
-    Descripción: Este workflow 📋 Research Report Workflow 🧠💻
--   [ES4TSw9HacxoNhLZ_AI_CV_Screening_Workflow.json](workflows/ES4TSw9HacxoNhLZ_AI_CV_Screening_Workflow.json)
-    Descripción: Este workflow AI CV Screening Workflow
--   [ETL_pipeline_for_text_processing.json](workflows/ETL pipeline for text processing.json)
-    Descripción: Este workflow ETL pipeline
--   [EWIrJ8e9z7AijmTu_Lead_Generation_System_(Template).json](workflows/EWIrJ8e9z7AijmTu_Lead_Generation_System_(Template).json)
-    Descripción: Este workflow Lead Generation
--   [Easy_Image_Captioning_with_Gemini_1.5_Pro.json](workflows/Easy Image Captioning with Gemini 1.5 Pro.json)
-    Descripción: Este workflow Try it out!
--   [Ef2uEM6H19K2DGUO_Backup_workflows_to_git_repository_on_Gitea.json](workflows/Ef2uEM6H19K2DGUO_Backup_workflows_to_git_repository_on_Gitea.json)
-    Descripción: Este workflow Workflow changes committed to the repository
--   [Effortless_Email_Management_with_AI-Powered_Summarization_&_Review.json](workflows/Effortless Email Management with AI-Powered Summarization & Review.json)
-    Descripción: Este workflow STEP 1
--   [Email_Subscription_Service_with_n8n_Forms_Airtable_and_AI_(1).json](workflows/Email Subscription Service with n8n Forms, Airtable and AI (1).json)
-    Descripción: Este workflow 4. Using Subworkflows to run executions concurrently
--   [Email_Subscription_Service_with_n8n_Forms_Airtable_and_AI.json](workflows/Email Subscription Service with n8n Forms, Airtable and AI.json)
-    Descripción: Este workflow 4. Using Subworkflows to run executions concurrently
--   [Email_Summary_Agent.json](workflows/Email Summary Agent.json)
-    Descripción: Este workflow - Starts the workflow every day at 7 AM.
--   [EnfvHdczSXHN8vNv_Resume_Screening_&_Behavioral_Interviews_with_Gemini,_Elevenlabs,_&_Notion_ATS_copy.json](workflows/EnfvHdczSXHN8vNv_Resume_Screening_&_Behavioral_Interviews_with_Gemini,_Elevenlabs,_&_Notion_ATS_copy.json)
-    Descripción: Este workflow Applicant Qualifications
--   [Enhance_Customer_Chat_by_Buffering_Messages_with_Twilio_and_Redis.json](workflows/Enhance Customer Chat by Buffering Messages with Twilio and Redis.json)
-    Descripción: Este workflow Step 2. Buffer Incoming Messages
--   [Enhance_Security_Operations_with_the_Qualys_Slack_Shortcut_Bot!_(1).json](workflows/Enhance Security Operations with the Qualys Slack Shortcut Bot! (1).json)
-    Descripción: Este workflow
--   [Enhance_Security_Operations_with_the_Qualys_Slack_Shortcut_Bot!.json](workflows/Enhance Security Operations with the Qualys Slack Shortcut Bot!.json)
-    Descripción: Este workflow
--   [Enrich_FAQ_sections_on_your_website_pages_at_scale_with_AI.json](workflows/Enrich FAQ sections on your website pages at scale with AI.json)
-    Descripción: Este workflow 🚨 Set Destination Folders Here
--   [Enrich_Pipedrive_s_Organization_Data_with_OpenAI_GPT-4o_&_Notify_it_in_Slack.json](workflows/Enrich Pipedrive_s Organization Data with OpenAI GPT-4o & Notify it in Slack.json)
-    Descripción: Este workflow Enrich Pipedrive's Organization Data with GPT-4o When an Organization is Created in Pipedrive
--   [Enrich_Property_Inventory_Survey_with_Image_Recognition_and_AI_Agent.json](workflows/Enrich Property Inventory Survey with Image Recognition and AI Agent.json)
-    Descripción: Este workflow 1. Use Airtable to Capture Survey Photos
--   [Extract_Information_from_a_Logo_Sheet_using_forms,_AI,_Google_Sheet_and_Airtable.json](workflows/Extract Information from a Logo Sheet using forms, AI, Google Sheet and Airtable.json)
-    Descripción: Este workflow Attribute Creation and Mapping those created or existing Ids
--   [Extract_and_process_information_directly_from_PDF_with_Claude_and_Gemini.json](workflows/Extract and process information directly from PDF with Claude and Gemini.json)
-    Descripción: Este workflow Workflow: Extract data from PDF with Claude 3.5 Sonnet or Gemini 2.0 Flash
--   [Extract_data_from_resume_and_create_PDF_with_Gotenberg.json](workflows/Extract data from resume and create PDF with Gotenberg.json)
-    Descripción: Este workflow Add chat ID
--   [Extract_insights_&_analyse_YouTube_comments_via_AI_Agent_chat.json](workflows/Extract insights & analyse YouTube comments via AI Agent chat.json)
-    Descripción: Este workflow ... or watch set up video [13 min]
--   [Extract_license_plate_number_from_image_uploaded_via_an_n8n_form.json](workflows/Extract license plate number from image uploaded via an n8n form.json)
-    Descripción: Este workflow Image to license plate number
--   [Extract_personal_data_with_self-hosted_LLM_Mistral_NeMo.json](workflows/Extract personal data with self-hosted LLM Mistral NeMo.json)
-    Descripción: Este workflow Update data source
--   [Extract_spending_history_from_gmail_to_google_sheet.json](workflows/Extract spending history from gmail to google sheet.json)
-    Descripción: Este workflow A. Get data
--   [Extract_text_from_PDF_and_image_using_Vertex_AI_(Gemini)_into_CSV.json](workflows/Extract text from PDF and image using Vertex AI (Gemini) into CSV.json)
-    Descripción: Este workflow How to extract PDF and image text into CSV using n8n (without manual data entry)
--   [Eyh4jc7RK7rCTh4z_My_workflow_2.json](workflows/Eyh4jc7RK7rCTh4z_My_workflow_2.json)
-    Descripción: Este workflow Cron trigger
--   [F2AEknC2Kc3ujuX4_URL_Pinger.json](workflows/F2AEknC2Kc3ujuX4_URL_Pinger.json)
-    Descripción: Este workflow URL Pinger
--   [F7CfIF10XjXhqbGb_Play_with_Spotify_from_Telegram.json](workflows/F7CfIF10XjXhqbGb_Play_with_Spotify_from_Telegram.json)
-    Descripción: Este workflow Telegram to Spotify
--   [FDl4Ho3KYiA7MIxR_NetSuite_Rest_API_workflow.json](workflows/FDl4Ho3KYiA7MIxR_NetSuite_Rest_API_workflow.json)
-    Descripción: Este workflow NetSuite Rest API workflow
--   [FQ0Uljxi7aIBdTFX_Coinmarketcap_Price_Agent.json](workflows/FQ0Uljxi7aIBdTFX_Coinmarketcap_Price_Agent.json)
-    Descripción: Este workflow Coinmarketcap Price Agent
--   [FU3MrLkaTHmfdG4n_Hugging_Face__to_Notion.json](workflows/FU3MrLkaTHmfdG4n_Hugging_Face__to_Notion.json)
-    Descripción: Este workflow Hugging Face to Notion
--   [Fdbft9uw8mLGXMoE_Speech_Support_Workflow.json](workflows/Fdbft9uw8mLGXMoE_Speech_Support_Workflow.json)
-    Descripción: Este workflow Dynamic System Prompting:
--   [Fetch_Dynamic_Prompts_from_GitHub_and_Auto-Populate_n8n_Expressions_in_Prompt.json](workflows/Fetch Dynamic Prompts from GitHub and Auto-Populate n8n Expressions in Prompt.json)
-    Descripción: Este workflow Set The variables in your prompt here
--   [Flux_AI_Image_Generator.json](workflows/Flux AI Image Generator.json)
-    Descripción: Este workflow Set style prompt
--   [Flux_Dev_Image_Generation_(Fal.ai)_to_Google_Drive.json](workflows/Flux Dev Image Generation (Fal.ai) to Google Drive.json)
-    Descripción: Este workflow Set Parameter Here
--   [Force_AI_to_use_a_specific_output_format.json](workflows/Force AI to use a specific output format.json)
-    Descripción: Este workflow Parser which defines the output format and which gets used to validate the output
--   [FpZJ8jaNQ3j2DO1L_Optimise_images_uploaded_to_GDrive.json](workflows/FpZJ8jaNQ3j2DO1L_Optimise_images_uploaded_to_GDrive.json)
-    Descripción: Este workflow Automatically optimise images uploaded to Google drive folder
--   [FyoPGDh8r3pxcGxo_New_OpenAI_Image_Generation.json](workflows/FyoPGDh8r3pxcGxo_New_OpenAI_Image_Generation.json)
-    Descripción: Este workflow [CLICK HERE to Watch Video](https://youtu.be/YmDezgolqzU?si=BgMjRm55-T_CYAs7)
--   [G0hO05fypS8n8uYu_INSEE_Enrichment_for_Agile_CRM.json](workflows/G0hO05fypS8n8uYu_INSEE_Enrichment_for_Agile_CRM.json)
-    Descripción: Este workflow Enrich CRM data with data from French INSEE OpenDatabase API
--   [G3yjjk93c1bBM5tc_YouTube_Video_Analyzer_with_AI.json](workflows/G3yjjk93c1bBM5tc_YouTube_Video_Analyzer_with_AI.json)
-    Descripción: Este workflow Get a FREE API on youtube-transcript.io and insert the Authentication
--   [G8jRDBvwsMkkMiLN_[3_3]_Anomaly_detection_tool_(crops_dataset).json](workflows/G8jRDBvwsMkkMiLN_[3_3]_Anomaly_detection_tool_(crops_dataset).json)
-    Descripción: Este workflow We are working here with crops dataset:
--   [GM9Qxzul4NPQpJkn_⚡📽️_Ultimate_AI-Powered_Chatbot_for_YouTube_Summarization_&_Analysis.json](workflows/GM9Qxzul4NPQpJkn_⚡📽️_Ultimate_AI-Powered_Chatbot_for_YouTube_Summarization_&_Analysis.json)
-    Descripción: Este workflow 🤖 AI Agent Chatbot for YouTube Videos
--   [GToc9QTzJY1h1w3y_AI-Powered_Research_with_Jina_AI_Deep_Search.json](workflows/GToc9QTzJY1h1w3y_AI-Powered_Research_with_Jina_AI_Deep_Search.json)
-    Descripción: Este workflow **🚀 Developed by Leonard van Hemert**
--   [GW4dTYPBXwOrCUxo_Search_LinkedIn_companies,_Score_with_AI_and_add_them_to_Google_Sheet_CRM.json](workflows/GW4dTYPBXwOrCUxo_Search_LinkedIn_companies,_Score_with_AI_and_add_them_to_Google_Sheet_CRM.json)
-    Descripción: Este workflow LinkedIn Company Search
--   [GWXjIqENWvx6OqvX_TEMPLATE_-_Multi_Methods_API_Endpoint.json](workflows/GWXjIqENWvx6OqvX_TEMPLATE_-_Multi_Methods_API_Endpoint.json)
-    Descripción: Este workflow Creation
--   [GcSlNHOnN39cPhRA_Google_Search_Engine_Results_Page_Extraction_with_Bright_Data.json](workflows/GcSlNHOnN39cPhRA_Google_Search_Engine_Results_Page_Extraction_with_Bright_Data.json)
-    Descripción: Este workflow Bright Data Google Search SERP (Search Engine Results Page)
--   [Gd4MsAZGnSGfBwaw_Telegram_channel_to_Readeck_&_Hoarder.json](workflows/Gd4MsAZGnSGfBwaw_Telegram_channel_to_Readeck_&_Hoarder.json)
-    Descripción: Este workflow Readeck
--   [Generate_9_16_Images_from_Content_and_Brand_Guidelines.json](workflows/Generate 9_16 Images from Content and Brand Guidelines.json)
-    Descripción: Este workflow AlexK1919
--   [Generate_Instagram_Content_from_Top_Trends_with_AI_Image_Generation.json](workflows/Generate Instagram Content from Top Trends with AI Image Generation.json)
-    Descripción: Este workflow All Credentials You Need
--   [Generate_SEO_Seed_Keywords_Using_AI.json](workflows/Generate SEO Seed Keywords Using AI.json)
-    Descripción: Este workflow Generate SEO Seed Keywords Using AI
--   [Generate_SQL_queries_from_schema_only_AI-powered.json](workflows/Generate SQL queries from schema only - AI-powered.json)
-    Descripción: Este workflow Run this part only once
--   [Generate_Text-to-Speech_Using_Elevenlabs_via_API.json](workflows/Generate Text-to-Speech Using Elevenlabs via API.json)
-    Descripción: Este workflow Generate Text-to-Speech Using Elevenlabs via API
--   [Generate_audio_from_text_using_OpenAI_and_Webhook_Text_to_Speech_Workflow.json](workflows/Generate audio from text using OpenAI and Webhook _ Text to Speech Workflow.json)
-    Descripción: Este workflow This `Webhook` node triggers the workflow when it receives a POST request.
--   [Generating_Image_Embeddings_via_Textual_Summarisation.json](workflows/Generating Image Embeddings via Textual Summarisation.json)
-    Descripción: Este workflow Get Color Channels
--   [Get_Airtable_data_via_AI_and_Obsidian_Notes.json](workflows/Get Airtable data via AI and Obsidian Notes.json)
-    Descripción: Este workflow lo explican en https://www.youtube.com/watch?v=2PIdeTgsENo
--   [Glb4VNoQI44GT0p9_My_workflow_4.json](workflows/Glb4VNoQI44GT0p9_My_workflow_4.json)
-    Descripción: Este workflow My workflow 4
--   [Gmail_AI_Auto-Responder_Create_Draft_Replies_to_incoming_emails.json](workflows/Gmail AI Auto-Responder_ Create Draft Replies to incoming emails.json)
-    Descripción: Este workflow When I receive an Email
--   [GrGmuKzZAsCkd4bt_Send_TTS_(Text-to-speech)_voice_calls.json](workflows/GrGmuKzZAsCkd4bt_Send_TTS_(Text-to-speech)_voice_calls.json)
-    Descripción: Este workflow STEP 1
--   [H7porcmXYj7StO23_Generate_Instagram_Content_from_Top_Trends_with_AI_Image_Generation.json](workflows/H7porcmXYj7StO23_Generate_Instagram_Content_from_Top_Trends_with_AI_Image_Generation.json)
-    Descripción: Este workflow All Credentials You Need
--   [H95uJY2gjSOsxRps_Extract_Amazon_Best_Seller_Electronic_Information_with_Bright_Data_and_Google_Gemini.json](workflows/H95uJY2gjSOsxRps_Extract_Amazon_Best_Seller_Electronic_Information_with_Bright_Data_and_Google_Gemini.json)
-    Descripción: Este workflow LLM Usages
--   [H9uAqvTaO7nTFdsH_Linkedin_Chrome_Extensions.json](workflows/H9uAqvTaO7nTFdsH_Linkedin_Chrome_Extensions.json)
-    Descripción: Este workflow Resolve Chrome Extensions which are tracked by Linkedin
--   [HBUhVkSsjslXAojw_Motion-illustration_Workflow_Generated_with_Midjourney_and_Kling_API.json](workflows/HBUhVkSsjslXAojw_Motion-illustration_Workflow_Generated_con_Midjourney_and_Kling_API.json)
-    Descripción: Este workflow Motion-illustration
--   [HJwTWtzlhK8Q5SOv_Telegram_AI_multi-format_chatbot.json](workflows/HJwTWtzlhK8Q5SOv_Telegram_AI_multi-format_chatbot.json)
-    Descripción: Este workflow Receive and pre-process messages
--   [HMoUOg8J7RzEcslH_Extract_personal_data_con_un_LLM_auto-alojado_Mistral_NeMo.json](workflows/HMoUOg8J7RzEcslH_Extract_personal_data_with_a_self-hosted_LLM_Mistral_NeMo.json)
-    Descripción: Este workflow Update data source
--   [HR_IT_Helpdesk_Chatbot_with_Audio_Transcription.json](workflows/HR & IT Helpdesk Chatbot with Audio Transcription.json)
-    Descripción: Este workflow 1. Download & Extract Internal Policy Documents
--   [HR_Job_Posting_and_Evaluation_with_AI.json](workflows/HR Job Posting and Evaluation with AI.json)
-    Descripción: Este workflow Grab User Details and Update in Airtable
--   [Hacker_News_Job_Listing_Scraper_and_Parser.json](workflows/Hacker News Job Listing Scraper and Parser.json)
-    Descripción: Este workflow Go to https://hn.algolia.com
--   [Hacker_News_Throwback_Machine_See_What_Was_Hot_on_This_Day_Every_Year.json](workflows/Hacker News Throwback Machine - See What Was Hot on This Day, Every Year!.json)
-    Descripción: Este workflow Hacker News Throwback Machine - See What Was Hot on This Day, Every Year!
--   [Hacker_News_to_Video_Content.json](workflows/Hacker News to Video Content.json)
-    Descripción: Este workflow Choose your data source
--   [Handling_Appointment_Leads_and_Follow-up_With_Twilio_Cal.com_and_AI.json](workflows/Handling Appointment Leads and Follow-up With Twilio, Cal.com and AI.json)
-    Descripción: Este workflow Step 6. Filter Open Enquiries from Airtable
--   [Handling_Job_Application_Submissions_with_AI_and_n8n_Forms.json](workflows/Handling Job Application Submissions with AI and n8n Forms.json)
-    Descripción: Este workflow 1. Application Form To Upload CV
--   [HbjZ9cBPgDdnIRjG_MiniBear_Webhook.json](workflows/HbjZ9cBPgDdnIRjG_MiniBear_Webhook.json)
-    Descripción: Este workflow **Webhook from Line**
--   [Hjyv9FkH5Oh6Yxw4_Insert_and_retrieve_documents.json](workflows/Hjyv9FkH5Oh6Yxw4_Insert_and_retrieve_documents.json)
-    Descripción: Este workflow Scrape latest Paul Graham essays
--   [HnqGW0eq5asKfZxf_🔍🛠️Perplexity_Researcher_to_HTML_Web_Page.json](workflows/HnqGW0eq5asKfZxf_🔍🛠️Perplexity_Researcher_to_HTML_Web_Page.json)
-    Descripción: Este workflow Create Article from Perplexity Research
--   [Host_Your_Own_AI_Deep_Research_Agent_with_n8n_Apify_and_OpenAI_o3.json](workflows/Host Your Own AI Deep Research Agent with n8n, Apify and OpenAI o3.json)
-    Descripción: Este workflow Host Your Own AI Deep Research Agent with n8n, Apify and OpenAI o3
--   [HpjjgJm3Ulnl1cJQ_Notion_to_Clockify_Sync_Template.json](workflows/HpjjgJm3Ulnl1cJQ_Notion_to_Clockify_Sync_Template.json)
-    Descripción: Este workflow Sync Clients
--   [I2qMAcQET7isaqYD_n8napi-check-workflow-which-model-is-using.json](workflows/I2qMAcQET7isaqYD_n8napi-check-workflow-which_model_is_using.json)
-    Descripción: Este workflow Change to your n8n domain here
--   [IJYpB2CIAdLk8Umg_puq-docker-minio-deploy.json](workflows/IJYpB2CIAdLk8Umg_puq-docker-minio-deploy.json)
-    Descripción: Este workflow 👋 Welcome to PUQ Docker MinIO deploy!
--   [IMVycpyABaGuD1hq_Analyze_Crowdstrike_Detections__search_for_IOCs_in_VirusTotal__create_a_ticket_in_Jira_and_post_a_message_in_Slack.json](workflows/IMVycpyABaGuD1hq_Analyze_Crowdstrike_Detections__search_for_IOCs_in_VirusTotal__create_a_ticket_in_Jira_and_post_a_message_in_Slack.json)
-    Descripción: Este workflow
--   [IO0OrQ6ao4vm9urI_Automated_Resume_Review_System_Using_OpenAI_+_Google_Sheets.json](workflows/IO0OrQ6ao4vm9urI_Automated_Resume_Review_System_Using_OpenAI_+_Google_Sheets.json)
-    Descripción: Este workflow Submission, Saving to Google Drive & Extraction
--   [IT_Ops_AI_SlackBot_Workflow_Chat_with_your_knowledge_base.json](workflows/IT Ops AI SlackBot Workflow - Chat with your knowledge base.json)
-    Descripción: Este workflow
--   [IXumIzS9WtPAhKFX_Export_Zammad_Objects_Users,_Roles,_Groups_and_Organizations_to_Excel.json](workflows/IXumIzS9WtPAhKFX_Export_Zammad_Objects_Users,_Roles,_Groups_and_Organizations_to_Excel.json)
-    Descripción: Este workflow Export Zammad Objects Users, Roles, Groups and Organizations to Excel
--   [IYgbtNpyB4E6Jbxo_2._Refresh_Pipedrive_tokens.json](workflows/IYgbtNpyB4E6Jbxo_2._Refresh_Pipedrive_tokens.json)
-    Descripción: Este workflow Step 2:
--   [IjQRdNu2ItwNnGL2_[hiroshidigital.com]_Send_Message_In_Larksuite.json](workflows/IjQRdNu2ItwNnGL2_[hiroshidigital.com]_Send_Message_In_Larksuite.json)
-    Descripción: Este workflow You can get app_id and app_secret in Lark here: https://open.larksuite.com/
--   [Image_Creation_with_OpenAI_and_Telegram.json](workflows/Image Creation with OpenAI and Telegram.json)
-    Descripción: Este workflow N8N Workflow: AI-Enhanced Image Processing and Communication
--   [ImiznkEUWCkKbg1w_CoinMarketCap_DEXScan_Agent_Tool.json](workflows/ImiznkEUWCkKbg1w_CoinMarketCap_DEXScan_Agent_Tool.json)
-    Descripción: Este workflow 📊 CoinMarketCap DEXScan AI Agent Tool (n8n Workflow)
--   [Integrating_AI_with_Open-Meteo_API_for_Enhanced_Weather_Forecasting.json](workflows/Integrating AI with Open-Meteo API for Enhanced Weather Forecasting.json)
-    Descripción: Este workflow Integrating AI with Open-Meteo API for Enhanced Weather Forecasting
--   [Intelligent_Web_Query_and_Semantic_Re-Ranking_Flow_using_Brave_and_Google_Gemini.json](workflows/Intelligent Web Query and Semantic Re-Ranking Flow using Brave and Google Gemini.json)
-    Descripción: Este workflow Step 1. Set Up a Free Brave Web Search Query API Key
--   [Introduction_to_the_HTTP_Tool.json](workflows/Introduction to the HTTP Tool.json)
-    Descripción: Este workflow AI agent that can scrape webpages
--   [Invoice_data_extraction_with_LlamaParse_and_OpenAI_(1).json](workflows/Invoice data extraction with LlamaParse and OpenAI (1).json)
-    Descripción: Este workflow 2. Advanced PDF Processing with LlamaParse
--   [Invoice_data_extraction_with_LlamaParse_and_OpenAI.json](workflows/Invoice data extraction with LlamaParse and OpenAI.json)
-    Descripción: Este workflow 2. Advanced PDF Processing with LlamaParse
--   [IvIzphIxPj1rZ3az_Dynamically_create_tables_in_Airtable_for_your_Webflow_form_submissions.json](workflows/IvIzphIxPj1rZ3az_Dynamically_create_tables_in_Airtable_for_your_Webflow_form_submissions.json)
-    Descripción: Este workflow Manage Webflow form submissions in Airtable
--   [IvgAFAUOSI3biT4L_Translate_Telegram_audio_messages_with_AI_(55_supported_languages)_v1.json](workflows/IvgAFAUOSI3biT4L_Translate_Telegram_audio_messages_with_AI_(55_supported_languages)_v1.json)
-    Descripción: Este workflow Translation
--   [IwOOVikQC7cn9VTv_Email_verification_with_Icypeas_(single).json](workflows/IwOOVikQC7cn9VTv_Email_verification_with_Icypeas_(single).json)
-    Descripción: Este workflow Email verification with Icypeas (single)
--   [IwOOVikQC7cn9VTv_Perform_a_domain_search_(single)_with_Icypeas.json](workflows/IwOOVikQC7cn9VTv_Perform_a_domain_search_(single)_with_Icypeas.json)
-    Descripción: Este workflow Perform a domain search (single) with Icypeas
--   [IyDJ7Zgh4MV43YTh_Convert_image_from_jpg_png_to_webp.json](workflows/IyDJ7Zgh4MV43YTh_Convert_image_from_jpg_png_to_webp.json)
-    Descripción: Este workflow Convert image from jpg/png to webp
--   [IyhH1KHtXidKNSIA_🐋DeepSeek_V3_Chat_&_R1_Reasoning_Quick_Start.json](workflows/IyhH1KHtXidKNSIA_🐋DeepSeek_V3_Chat_&_R1_Reasoning_Quick_Start.json)
-    Descripción: Este workflow DeepSeek using HTTP Request
--   [Iz8TMdlc6JhaKkd9_YouTube_Video_Transcriber.json](workflows/Iz8TMdlc6JhaKkd9_YouTube_Video_Transcriber.json)
-    Descripción: Este workflow Entry Point
--   [J2D0BssoDmn4BC6D_AI_Customer-Support_Assistant_·_WhatsApp_Ready_·_Works_for_Any_Business.json](workflows/J2D0BssoDmn4BC6D_AI_Customer-Support_Assistant_·_WhatsApp_Ready_·_Works_for_Any_Business.json)
-    Descripción: Este workflow Step by Step Setup Guide
--   [JH0OhDnJCwPxBJZX_Template_-_SSL_Expiry_Alert_System.json](workflows/JH0OhDnJCwPxBJZX_Template_-_SSL_Expiry_Alert_System.json)
-    Descripción: Este workflow Uses SSL-Checker.io to verify the SSL certificate of each URL. Fetches details like the host, validity period, and days remaining until expiry.
--   [JIegnKLVXTkkTzfO_Daylight_Saving_Time_Notification.json](workflows/JIegnKLVXTkkTzfO_Daylight_Saving_Time_Notification.json)
-    Descripción: Este workflow How it works
--   [JJKkNnO4PQ12gQdE_Retry_Execution_Hourly.json](workflows/JJKkNnO4PQ12gQdE_Retry_Execution_Hourly.json)
-    Descripción: Este workflow - ## check for failed executions hourly.
--   [JMfwq2Xn60pWz2Hy_Send_Telegram_Alerts_for_New_WooCommerce_Orders.json](workflows/JMfwq2Xn60pWz2Hy_Send_Telegram_Alerts_for_New_WooCommerce_Orders.json)
-    Descripción: Este workflow ⚙️ Setup Instructions
--   [JiSesGjDIXIPYtbt_Shopify_+_Mautic.json](workflows/JiSesGjDIXIPYtbt_Shopify_+_Mautic.json)
-    Descripción: Este workflow Webhook Validation
--   [JxFP8FJ2W7e4Kmqn_RAG_on_living_data.json](workflows/JxFP8FJ2W7e4Kmqn_RAG_on_living_data.json)
-    Descripción: Este workflow Switch trigger (optional)
--   [Jy1RMuri0WJO5aO4_Summarize_Google_Drive_Documents_with_Mistral_AI_and_Send_via_Gmail.json](workflows/Jy1RMuri0WJO5aO4_Summarize_Google_Drive_Documents_with_Mistral_AI_and_Send_via_Gmail.json)
-    Descripción: Este workflow Summarize Google Drive Documents with Mistral AI and Send via Gmail
--   [K3uf8aY8wipScEay_Google_analytics_template.json](workflows/K3uf8aY8wipScEay_Google_analytics_template.json)
-    Descripción: Este workflow Send Google analytics to A.I. and save results to baserow
--   [KB_Tool_-_Confluence_Knowledge_Base.json](workflows/KB Tool - Confluence Knowledge Base.json)
-    Descripción: Este workflow
--   [KKCfXEpBjjhp1LC8_Entra_User_to_Zammad_User_Sync.json](workflows/KKCfXEpBjjhp1LC8_Entra_User_to_Zammad_User_Sync.json)
-    Descripción: Este workflow Select Entra Users in a named Entra Group that should be synced to Zammad
--   [KWFLpcJytH7qjheD_(Not_published)_Three-View_Orthographic_Projection_to_Dynamic_Video_Conversion.json](workflows/KWFLpcJytH7qjheD_(Not_published)_Three-View_Orthographic_Projection_to_Dynamic_Video_Conversion.json)
-    Descripción: Este workflow (Not published) Three-View Orthographic Projection to Dynamic Video Conversion
--   [KY0vB3hifSrA24k2_AI-Powered_Short-Form_Video_Generator_with_OpenAI,_Flux,_Kling,_and_ElevenLabs_and_upload_to_all_social_networks.json](workflows/KY0vB3hifSrA24k2_AI-Powered_Short-Form_Video_Generator_with_OpenAI,_Flux,_Kling,_and_ElevenLabs_and_upload_to_all_social_networks.json)
-    Descripción: Este workflow 2. 🖼️Generate images with Flux using [PiAPI](https://piapi.ai/?via=n8n)
--   [KgoL0qrLYZUJFuAS_Summarize_YouTube_Videos_&_Chat_About_Content_with_GPT-4o-mini_via_Telegram.json](workflows/KgoL0qrLYZUJFuAS_Summarize_YouTube_Videos_&_Chat_About_Content_with_GPT-4o-mini_via_Telegram.json)
-    Descripción: Este workflow Get a video URL
--   [KhUd3rHKtZAImiXZ_Personal_Assistant_MCP_server.json](workflows/KhUd3rHKtZAImiXZ_Personal_Assistant_MCP_server.json)
-    Descripción: Este workflow Calendar nodes
--   [L1UcBZ9UJvN9gnSb_💥🛠️Automate_Blog_Content_Creation_with_GPT-4,_Perplexity_&_WordPress.json](workflows/L1UcBZ9UJvN9gnSb_💥🛠️Automate_Blog_Content_Creation_with_GPT-4,_Perplexity_&_WordPress.json)
-    Descripción: Este workflow Perplexity Section
--   [LF8gz3iz74u45a5i_YouTube_Videos_with_AI_Summaries_on_Discord.json](workflows/LF8gz3iz74u45a5i_YouTube_Videos_with_AI_Summaries_on_Discord.json)
-    Descripción: Este workflow Summarise Your YouTube Videos with AI for Discord
--   [LGpVLWPpNZSt9ISM_Contact_Form_Text_Classifier_for_eCommerce.json](workflows/LGpVLWPpNZSt9ISM_Contact_Form_Text_Classifier_for_eCommerce.json)
-    Descripción: Este workflow Important notes
--   [LIAes1kWVZAWZBX2_🎥_Analyze_YouTube_Video_for_Summaries,_Transcripts_&_Content_+_Google_Gemini_AI.json](workflows/LIAes1kWVZAWZBX2_🎥_Analyze_YouTube_Video_for_Summaries,_Transcripts_&_Content_+_Google_Gemini_AI.json)
-    Descripción: Este workflow Prompt Options
--   [LINE_Assistant_with_Google_Calendar_and_Gmail_Integration.json](workflows/LINE Assistant with Google Calendar and Gmail Integration.json)
-    Descripción: Este workflow LINE Assistant with Google Calendar and Gmail Integration
--   [LL0TBxEbXoK2zhqp_AI_Document_Assistant_via_Telegram_+_Supabase.json](workflows/LL0TBxEbXoK2zhqp_AI_Document_Assistant_via_Telegram_+_Supabase.json)
-    Descripción: Este workflow ✅ Scenario 2 – Document Upload and Embedding
--   [LMMle9xFHQxXUWQy_Airtable_markdown_to_html.json](workflows/LMMle9xFHQxXUWQy_Airtable_markdown_to_html.json)
-    Descripción: Este workflow Tutorial
--   [LPQsiqt476n7ne7f_e-mail_Chatbot_with_both_semantic_and_structured_RAG,_using_Telegram_and_Pgvector.json](workflows/LPQsiqt476n7ne7f_e-mail_Chatbot_with_both_semantic_and_structured_RAG,_using_Telegram_and_Pgvector.json)
-    Descripción: Este workflow Chat around!
--   [LSH4x5nnNGQbNBkh_Notify_user_in_Slack_of_quarantined_email_and_create_Jira_ticket_if_opened.json](workflows/LSH4x5nnNGQbNBkh_Notify_user_in_Slack_of_quarantined_email_and_create_Jira_ticket_if_opened.json)
-    Descripción: Este workflow
--   [Learn_Anything_from_HN_Get_Top_Resource_Recommendations_from_Hacker_News.json](workflows/Learn Anything from HN - Get Top Resource Recommendations from Hacker News.json)
-    Descripción: Este workflow Learn Anything from HN - Get Top Resource Recommendations from Hacker News
--   [Lwvu2jjMU2irTyAY_Summarize_Google_Sheets_form_feedback_via_OpenAI_s_GPT-4.json](workflows/Lwvu2jjMU2irTyAY_Summarize_Google_Sheets_form_feedback_via_OpenAI's_GPT-4.json)
-    Descripción: Este workflow 1. Create a Google Sheet document
--   [M8oLW9Qd59zNJzg2_Email_Summary_Agent.json](workflows/M8oLW9Qd59zNJzg2_Email_Summary_Agent.json)
-    Descripción: Este workflow - Starts the workflow every day at 7 AM.
--   [MIA4ozGH71fC3KCe_pdf_to_text.json](workflows/MIA4ozGH71fC3KCe_pdf_to_text.json)
-    Descripción: Este workflow pdf to text
--   [MKGrRFnUuMZMAxNf_Scrape_Latest_20_TechCrunch_Articles.json](workflows/MKGrRFnUuMZMAxNf_Scrape_Latest_20_TechCrunch_Articles.json)
-    Descripción: Este workflow Scrape Latest 20 TechCrunch Articles
--   [MMDt8lGtac2oU8nI_Build_a_Chatbot,_Voice_Agent_and_Phone_Agent_with_Voiceflow,_Google_Calendar_and_RAG.json](workflows/MMDt8lGtac2oU8nI_Build_a_Chatbot,_Voice_Agent_and_Phone_Agent_with_Voiceflow,_Google_Calendar_and_RAG.json)
-    Descripción: Este workflow STEP 6 - VOICEFLOW
--   [MVPlLz3CiQok6rXy_Merge_PDFs.json](workflows/MVPlLz3CiQok6rXy_Merge_PDFs.json)
-    Descripción: Este workflow Merge PDFs
--   [Make_OpenAI_Citation_for_File_Retrieval_RAG.json](workflows/Make OpenAI Citation for File Retrieval RAG.json)
-    Descripción: Este workflow Within N8N, there will be a chat button to test
--   [Manipulate_PDF_with_Adobe_developer_API.json](workflows/Manipulate PDF with Adobe developer API.json)
-    Descripción: Este workflow Adobe API Wrapper
--   [Mbuax8L8jEmBBYkz_The_Ultimate_Guide_to_Optimize_WordPress_Blog_Posts_with_AI.json](workflows/Mbuax8L8jEmBBYkz_The_Ultimate_Guide_to_Optimize_WordPress_Blog_Posts_with_AI.json)
-    Descripción: Este workflow Fetches the context of the article you want to generate via AI
--   [MfKB97VVSuXMo3Fm_Create_Animated_Stories_using_GPT-4o-mini,_Midjourney,_Kling_and_Creatomate_API.json](workflows/MfKB97VVSuXMo3Fm_Create_Animated_Stories_using_GPT-4o-mini,_Midjourney,_Kling,_and_Creatomate_API.json)
-    Descripción: Este workflow Basic Setting Instruction
--   [Microsoft_Outlook_AI_Email_Assistant_with_contact_support_from_Monday_and_Airtable.json](workflows/Microsoft Outlook AI Email Assistant with contact support from Monday and Airtable.json)
-    Descripción: Este workflow Microsoft Outlook AI Email Assistant
--   [MkZ77sIELEO2kQx1_SearchApi_Youtube_Video_Summary.json](workflows/MkZ77sIELEO2kQx1_SearchApi_Youtube_Video_Summary.json)
-    Descripción: Este workflow Youtube Video Summary
--   [MmfWpcIegNgBjBpL_TEMPLATES.json](workflows/MmfWpcIegNgBjBpL_TEMPLATES.json)
-    Descripción: Este workflow TEMPLATES
--   [Modular_Customizable_AI-Powered_Email_Routing_Text_Classifier_for_eCommerce.json](workflows/Modular & Customizable AI-Powered Email Routing_ Text Classifier for eCommerce.json)
-    Descripción: Este workflow Important notes
--   [MongoDB_AI_Agent_Intelligent_Movie_Recommendations.json](workflows/MongoDB AI Agent - Intelligent Movie Recommendations.json)
-    Descripción: Este workflow AI Agent powered by OpenAI and MongoDB
--   [Monthly_Spotify_Track_Archiving_and_Playlist_Classification.json](workflows/Monthly Spotify Track Archiving and Playlist Classification.json)
-    Descripción: Este workflow Monthly Spotify Track Archiving and Playlist Classification
--   [Mub5RZI4PAs6TsSP_🔐🦙🤖_Private_&_Local_Ollama_Self-Hosted_LLM_Router.json](workflows/Mub5RZI4PAs6TsSP_🔐🦙🤖_Private_&_Local_Ollama_Self-Hosted_LLM_Router.json)
-    Descripción: Este workflow 🔐🦙🤖 Private & Local Ollama Self-Hosted + Dynamic LLM Router
--   [NDCN2arRu5tLuP61_Automate_PDF_Image_Extraction_&_Analysis_con_GPT-4o_and_Google_Drive.json](workflows/NDCN2arRu5tLuP61_Automate_PDF_Image_Extraction_&_Analysis_con_GPT-4o_and_Google_Drive.json)
-    Descripción: Este workflow Setup
--   [NGwD3pIHXBU0w5hC_[n8n]_-_Shopify_Orders_to_D365_Business_Central_Sales_Orders___Sales_Invoices.json](workflows/NGwD3pIHXBU0w5hC_[n8n]_-_Shopify_Orders_to_D365_Business_Central_Sales_Orders___Sales_Invoices.json)
-    Descripción: Este workflow Shopify Line Locations
--   [NLOITjwt4iZK16Qq_Business_WhatsApp_AI_RAG_Chatbot.json](workflows/NLOITjwt4iZK16Qq_Business_WhatsApp_AI_RAG_Chatbot.json)
-    Descripción: Este workflow STEP 4
--   [NLVfecejH0cTtcdd_Import_CSV_from_URL_to_GoogleSheet.json](workflows/NLVfecejH0cTtcdd_Import_CSV_from_URL_to_GoogleSheet.json)
-    Descripción: Este workflow Google API has rate-limits for read and write operations, that's why we take only a subset of the data
--   [NMGsDLoVZ7DUukGs_PG&E_Daily_Cost_Tracker.json](workflows/NMGsDLoVZ7DUukGs_PG&E_Daily_Cost_Tracker.json)
-    Descripción: Este workflow Heads up!
--   [NOycL25YOISt8OLU_Search_LinkedIn_companies_and_add_them_to_Airtable_CRM.json](workflows/NOycL25YOISt8OLU_Search_LinkedIn_companies_and_add_them_to_Airtable_CRM.json)
-    Descripción: Este workflow LinkedIn Company Search
--   [NPGAfBzz4nv8lTpl_Save_New_Sales_Opportunities.json](workflows/NPGAfBzz4nv8lTpl_Save_New_Sales_Opportunities.json)
-    Descripción: Este workflow Summarize emails and save them as notes on sales opportunity in Odoo
--   [Narrating_over_a_Video_using_Multimodal_AI.json](workflows/Narrating over a Video using Multimodal AI.json)
-    Descripción: Este workflow Try It Out!
--   [Nfh274NHoDy7pB4M_Integrating_AI_with_Open-Meteo_API_for_Enhanced_Weather_Forecasting.json](workflows/Nfh274NHoDy7pB4M_Integrating_AI_with_Open-Meteo_API_for_Enhanced_Weather_Forecasting.json)
-    Descripción: Este workflow Integrating AI with Open-Meteo API for Enhanced Weather Forecasting
--   [Notion_AI_Assistant_Generator.json](workflows/Notion AI Assistant Generator.json)
-    Descripción: Este workflow Generate new workflow version for specific notion db schema
--   [Notion_knowledge_base_AI_assistant.json](workflows/Notion knowledge base AI assistant.json)
-    Descripción: Este workflow Notion knowledge base assistant [v1]
--   [Notion_to_Pinecone_Vector_Store_Integration.json](workflows/Notion to Pinecone Vector Store Integration.json)
-    Descripción: Este workflow Prod: Notion to Vector Store - Dimension 768
--   [Nvn78tMRNnKji7Fg_Very_simple_Human_in_the_loop_system_email_with_AI_e_IMAP.json](workflows/Nvn78tMRNnKji7Fg_Very_simple_Human_in_the_loop_system_email_with_AI_e_IMAP.json)
-    Descripción: Este workflow Chain that summarizes the received email
--   [NzoLNV2FbS4eurJ7_WhatsApp_business_bot.json](workflows/NzoLNV2FbS4eurJ7_WhatsApp_business_bot.json)
-    Descripción: Este workflow Send a WhatsApp (WA) template message
--   [O2R3U22TB968fWUo_Generate_google_meet_links_in_slack.json](workflows/O2R3U22TB968fWUo_Generate_google_meet_links_in_slack.json)
-    Descripción: Este workflow 1. Setup: Add a Slack App
--   [O9FXr8iXzhSgYKaL_Post_New_YouTube_Videos_to_X.json](workflows/O9FXr8iXzhSgYKaL_Post_New_YouTube_Videos_to_X.json)
-    Descripción: Este workflow 🆔 Ensure you enter your YouTube Channel ID in the "Channel ID" field of this node. You can find your [Channel ID here](https://youtube.com/account_advanced).
--   [ODZpSQqCxkISEqv8_WooCommerce_AI_Chatbot_Workflow_for_Post-Sales_Support.json](workflows/ODZpSQqCxkISEqv8_WooCommerce_AI_Chatbot_Workflow_for_Post-Sales_Support.json)
-    Descripción: Este workflow STEP 1
--   [OO4izN00xPfIPGaB_Ahrefs_Keyword_Research_Workflow.json](workflows/OO4izN00xPfIPGaB_Ahrefs_Keyword_Research_Workflow.json)
-    Descripción: Este workflow Keyword Query Extraction
--   [OVSyGmI6YFviPu8Q_Generate_audio_from_text_using_OpenAI_-_text-to-speech_Workflow.json](workflows/OVSyGmI6YFviPu8Q_Generate_audio_from_text_using_OpenAI_-_text-to-speech_Workflow.json)
-    Descripción: Este workflow This `Webhook` node triggers the workflow when it receives a POST request.
--   [Obsidian_Notes_Read_Aloud_using_AI_Available_as_a_Podcast_Feed.json](workflows/Obsidian Notes Read Aloud using AI_ Available as a Podcast Feed.json)
-    Descripción: Este workflow Send Notes to Webhook
--   [OjwmaLrXhW4pO5ph_Structured_Bulk_Data_Extract_with_Bright_Data_Web_Scraper.json](workflows/OjwmaLrXhW4pO5ph_Structured_Bulk_Data_Extract_with_Bright_Data_Web_Scraper.json)
-    Descripción: Este workflow Note
--   [Open_Deep_Research_AI-Powered_Autonomous_Research_Workflow.json](workflows/Open Deep Research - AI-Powered Autonomous Research Workflow.json)
-    Descripción: Este workflow SerpAPI Setup Instructions
--   [OpenAI_Assistant_workflow_upload_file,_create_an_Assistant,_chat_with_it!.json](workflows/OpenAI Assistant workflow_ upload file, create an Assistant, chat with it!.json)
-    Descripción: Este workflow STEP 1. Get a Google Drive file and upload to OpenAI
--   [OpenAI_assistant_with_custom_tools.json](workflows/OpenAI assistant with custom tools.json)
-    Descripción: Este workflow Sub-workflow: Return the capitals of fictional countries
--   [OpenAI_examples_ChatGPT,_DALLE-2,_Whisper-1_–_5-in-1.json](workflows/OpenAI examples_ ChatGPT, DALLE-2, Whisper-1 – 5-in-1.json)
-    Descripción: Este workflow The old way of using text completion and text edit
--   [OpenAI-powered_tweet_generator.json](workflows/OpenAI-powered tweet generator.json)
-    Descripción: Este workflow OpenAI-powered tweet generator
--   [Optimize_Update_Printify_Title_and_Description_Workflow.json](workflows/Optimize & Update Printify Title and Description Workflow.json)
-    Descripción: Este workflow AlexK1919
--   [OqfQNcgTqUK7UvZG_Youtube_Discord_Bot.json](workflows/OqfQNcgTqUK7UvZG_Youtube_Discord_Bot.json)
-    Descripción: Este workflow Youtube Discord Bot
--   [Organise_Your_Local_File_Directories_With_AI.json](workflows/Organise Your Local File Directories With AI.json)
-    Descripción: Este workflow Step 1. Select the target folder
--   [OuHrYOR3uWGmrhWQ_AI_Email_processing_autoresponder_with_approval_(Yes_No).json](workflows/OuHrYOR3uWGmrhWQ_AI_Email_processing_autoresponder_with_approval_(Yes_No).json)
-    Descripción: Este workflow Main Flow
--   [OvuZIXwt9mdU2JGK_FLUX-fill_standalone.json](workflows/OvuZIXwt9mdU2JGK_FLUX-fill_standalone.json)
-    Descripción: Este workflow Deliver the editor with links to the images
--   [P307QnrxpA1ddsM5_Generate_SQL_queries_from_schema_only_-_AI-powered.json](workflows/P307QnrxpA1ddsM5_Generate_SQL_queries_from_schema_only_-_AI-powered.json)
-    Descripción: Este workflow Run this part only once
--   [P9Jr9s9yfcDXTe9R_n8n_Subworkflow_Dependency_Graph_&_Auto-Tagging.json](workflows/P9Jr9s9yfcDXTe9R_n8n_Subworkflow_Dependency_Graph_&_Auto-Tagging.json)
-    Descripción: Este workflow n8n Subworkflow Dependency Graph & Auto-Tagging
--   [PGLFPj5y01s26rE1_My_workflow_6.json](workflows/PGLFPj5y01s26rE1_My_workflow_6.json)
-    Descripción: Este workflow Command Trigger
--   [PHp3gKoyYfSztbTB_Automated_Daily_Weather_Data_Fetcher_and_Storage.json](workflows/PHp3gKoyYfSztbTB_Automated_Daily_Weather_Data_Fetcher_and_Storage.json)
-    Descripción: Este workflow Automated Daily Weather Data Fetcher and Storage
--   [PRQhetYFkuhxntVH_Matomo_Analytics_Report.json](workflows/PRQhetYFkuhxntVH_Matomo_Analytics_Report.json)
-    Descripción: Este workflow Send Matomo analytics to A.I. and save results to baserow
--   [PVBUCGQUOiOrIfli_n8n_update.json](workflows/PVBUCGQUOiOrIfli_n8n_update.json)
-    Descripción: Este workflow Default Variables
--   [Parents_smart_bot_(2).json](workflows/Parents_smart_bot (2).json)
-    Descripción: Este workflow Parents smart bot
--   [Parse_PDF_with_LlamaParse_and_save_to_Airtable.json](workflows/Parse PDF with LlamaParse and save to Airtable.json)
-    Descripción: Este workflow Parse PDF with LlamaParse and save to Airtable
--   [PcVz6j5XLU7Z9MPN_AirQuality_Scheduler.json](workflows/PcVz6j5XLU7Z9MPN_AirQuality_Scheduler.json)
-    Descripción: Este workflow How to Get Your Ambee API Key
--   [Personal_Shopper_Chatbot_for_WooCommerce_with_RAG_using_Google_Drive_and_openAI.json](workflows/Personal Shopper Chatbot for WooCommerce with RAG using Google Drive and openAI.json)
-    Descripción: Este workflow Replace the URL and Collection name with your own
--   [PoiRk5w0xd1ysq4U_AI_Agent_to_chat_with_you_Search_Console_Data,_using_OpenAI_and_Postgres.json](workflows/PoiRk5w0xd1ysq4U_AI_Agent_to_chat_with_you_Search_Console_Data,_using_OpenAI_and_Postgres.json)
-    Descripción: Este workflow Webhook - ChatInput
--   [Post_New_YouTube_Videos_to_X.json](workflows/Post New YouTube Videos to X.json)
-    Descripción: Este workflow 🆔 Ensure you enter your YouTube Channel ID in the "Channel ID" field of this node. You can find your [Channel ID here](https://youtube.com/account_advanced).
--   [PpFVCrTiYoa35q1m_Vision-Based_AI_Agent_Scraper_-_with_Google_Sheets,_ScrapingBee,_and_Gemini.json](workflows/PpFVCrTiYoa35q1m_Vision-Based_AI_Agent_Scraper_-_with_Google_Sheets,_ScrapingBee,_and_Gemini.json)
-    Descripción: Este workflow Trigger
--   [Prepare_CSV_files_with_GPT-4Prepare_CSV_files_with_GPT-4.json](workflows/Prepare CSV files with GPT-4Prepare CSV files with GPT-4.json)
-    Descripción: Este workflow This is a helper workflow to create 3 CSV files
--   [Prompt-based_Object_Detection_with_Gemini_2.0.json](workflows/Prompt-based Object Detection with Gemini 2.0.json)
-    Descripción: Este workflow Fig 1. Output of Object Detection
--   [Proxmox_AI_Agent_with_n8n_and_Generative_AI_Integration.json](workflows/Proxmox AI Agent with n8n and Generative AI Integration.json)
-    Descripción: Este workflow API Key for Proxmox
--   [PtPKIqDlz5xrrvHP_Sync_Todoist_tasks_to_Notion.json](workflows/PtPKIqDlz5xrrvHP_Sync_Todoist_tasks_to_Notion.json)
-    Descripción: Este workflow Sync Todoist tasks to Notion
--   [Q63cSgFlcqz291ec_✨📊Multi-AI_Agent_Chatbot_for_Postgres_Supabase_DB_and_QuickCharts_+_Tool_Router.json](workflows/Q63cSgFlcqz291ec_✨📊Multi-AI_Agent_Chatbot_for_Postgres_Supabase_DB_and_QuickCharts_+_Tool_Router.json)
-    Descripción: Este workflow 🤖Primary AI Manager Agent
--   [Q8On8rR6BkmPzDUd_chrome_extension_backend_with_AI.json](workflows/Q8On8rR6BkmPzDUd_chrome_extension_backend_with_AI.json)
-    Descripción: Este workflow N8N en OpenAI image analyser
--   [QCbb7Bm12gDIH0mI_Keep_discord_clean.json](workflows/QCbb7Bm12gDIH0mI_Keep_discord_clean.json)
-    Descripción: Este workflow **Note ☝️**
--   [QJZLBn9L6NbmjmLK_🤖🧠_AI_Agent_Chatbot_+_LONG_TERM_Memory_+_Note_Storage_+_Telegram.json](workflows/QJZLBn9L6NbmjmLK_🤖🧠_AI_Agent_Chatbot_+_LONG_TERM_Memory_+_Note_Storage_+_Telegram.json)
-    Descripción: Este workflow Retrieve Long Term Memories
--   [QO4Mg23JvVfNCICy_Build_a_Phone_Agent_to_qualify_outbound_leads_and_inbound_calls_with_RetellAI_-vide.json](workflows/QO4Mg23JvVfNCICy_Build_a_Phone_Agent_to_qualify_outbound_leads_and_inbound_calls_with_RetellAI_-vide.json)
-    Descripción: Este workflow Outbound lead qualification call workflow
--   [QObDE85a2ArfJkxV_Automated_Form_Submission_Data_Storage_in_Airtable.json](workflows/QObDE85a2ArfJkxV_Automated_Form_Submission_Data_Storage_in_Airtable.json)
-    Descripción: Este workflow Automated Form Submission Data Storage in Airtable
--   [QOePbDNCilLhfzbs_LINE_BOT_-_Google_Sheets_Record_Receipt.json](workflows/QOePbDNCilLhfzbs_LINE_BOT_-_Google_Sheets_Record_Receipt.json)
-    Descripción: Este workflow Prepare data
--   [QaMO9ji6T6vTZHQ4_Gmail_MCP_Server.json](workflows/QaMO9ji6T6vTZHQ4_Gmail_MCP_Server.json)
-    Descripción: Este workflow Message Tools
--   [Qj1307oyBx1hZJy5_SSL_Expiry_Alert.json](workflows/Qj1307oyBx1hZJy5_SSL_Expiry_Alert.json)
-    Descripción: Este workflow Triggers the workflow once a week.
--   [QnVdtKiTf3nbrNkh_Summarize_emails_with_A.I._then_send_to_messenger.json](workflows/QnVdtKiTf3nbrNkh_Summarize_emails_with_A.I._then_send_to_messenger.json)
-    Descripción: Este workflow Summarize emails with A.I.
--   [Qpxx8UnnACBONNJu_The_Easiest_Way_to_Send_SMS_Worldwide.json](workflows/Qpxx8UnnACBONNJu_The_Easiest_Way_to_Send_SMS_Worldwide.json)
-    Descripción: Este workflow STEP 1
--   [QqbYH25we4JDZrZD_🔍🛠️_Tavily_Search_&_Extract_-_Template.json](workflows/QqbYH25we4JDZrZD_🔍🛠️_Tavily_Search_&_Extract_-_Template.json)
-    Descripción: Este workflow Tavily API Search Endpoint
--   [Qualify_new_leads_in_Google_Sheets_via_OpenAI_s_GPT-4.json](workflows/Qualify new leads in Google Sheets via OpenAI_s GPT-4.json)
-    Descripción: Este workflow 1. Create a Google Sheet document
--   [Qualify_replies_from_Pipedrive_persons_with_AI.json](workflows/Qualify replies from Pipedrive persons with AI.json)
-    Descripción: Este workflow About the workflow
--   [Qualifying_Appointment_Requests_with_AI_&_n8n_Forms.json](workflows/Qualifying Appointment Requests with AI & n8n Forms.json)
-    Descripción: Este workflow 1. Qualify Enquiries Using AI
--   [Query_Perplexity_AI_from_your_n8n_workflows.json](workflows/Query Perplexity AI from your n8n workflows.json)
-    Descripción: Este workflow Credentials Setup
--   [Query_n8n_Credentials_with_AI_SQL_Agent.json](workflows/Query n8n Credentials with AI SQL Agent.json)
-    Descripción: Este workflow 🚨Required
--   [QyMyf3zraY0wxXDf_Load_Prompts_from_Github_Repo_and_auto_populate_n8n_expressions.json](workflows/QyMyf3zraY0wxXDf_Load_Prompts_from_Github_Repo_and_auto_populate_n8n_expressions.json)
-    Descripción: Este workflow Set The variables in your prompt here
--   [R4EuB1gx1IpMXCJM_CoinMarketCap_Crypto_Agent_Tool.json](workflows/R4EuB1gx1IpMXCJM_CoinMarketCap_Crypto_Agent_Tool.json)
-    Descripción: Este workflow 🧠 CoinMarketCap_Crypto_Agent_Tool Guide
--   [R6tFG45dQydBz63e_n8n_Community_Topic_Tracker_by_Keyword.json](workflows/R6tFG45dQydBz63e_n8n_Community_Topic_Tracker_by_Keyword.json)
-    Descripción: Este workflow Modify the Query Parameter
--   [RAG_Chatbot_for_Company_Documents_using_Google_Drive_and_Gemini.json](workflows/RAG Chatbot for Company Documents using Google Drive and Gemini.json)
-    Descripción: Este workflow Chat with company documents
--   [RAG_Context-Aware_Chunking_Google_Drive_to_Pinecone_via_OpenRouter_&_Gemini.json](workflows/RAG_Context-Aware Chunking _ Google Drive to Pinecone via OpenRouter & Gemini.json)
-    Descripción: Este workflow Prepare Document.
--   [RGVS0tHJV7Wh6aX4_Property_Lead_Contact_Enrichment_from_CRM.json](workflows/RGVS0tHJV7Wh6aX4_Property_Lead_Contact_Enrichment_from_CRM.json)
-    Descripción: Este workflow Property Lead Automation Workflow
--   [RJ4PaYq0JBr29KJm_Reschedule_overdue_Asana_tasks_and_clean_up_completed_tasks.json](workflows/RJ4PaYq0JBr29KJm_Reschedule_overdue_Asana_tasks_and_clean_up_completed_tasks.json)
-    Descripción: Este workflow ⚙️ Set Up
--   [RKbQHfblpcvMGZ4w_Form_with_Dynamic_Dropdown_Field.json](workflows/RKbQHfblpcvMGZ4w_Form_with_Dynamic_Dropdown_Field.json)
-    Descripción: Este workflow Form setup
--   [RLWjEhY8L4TORAIj_NeurochainAI_Basic_API_Integration.json](workflows/RLWjEhY8L4TORAIj_NeurochainAI_Basic_API_Integration.json)
-    Descripción: Este workflow ERROR
--   [RMxcTgpFGpE3RdLZ_Telegram_Tron_Wallet_Blacklist_Checker.json](workflows/RMxcTgpFGpE3RdLZ_Telegram_Tron_Wallet_Blacklist_Checker.json)
-    Descripción: Este workflow TRON USDT Blacklist Checker
--   [ReXF4z8ZKcEd6Kea_dub.co_URL_Shortener.json](workflows/ReXF4z8ZKcEd6Kea_dub.co_URL_Shortener.json)
-    Descripción: Este workflow Dub.co API Limits:
--   [Recipe_Recommendations_with_Qdrant_and_Mistral.json](workflows/Recipe Recommendations with Qdrant and Mistral.json)
-    Descripción: Este workflow Recipe Recommendations with Qdrant and Mistral
--   [Reconcile_Rent_Payments_with_Local_Excel_Spreadsheet_and_OpenAI.json](workflows/Reconcile Rent Payments with Local Excel Spreadsheet and OpenAI.json)
-    Descripción: Este workflow Step 1. Wait For Incoming Bank Statements
--   [Reddit_AI_digest.json](workflows/Reddit AI digest.json)
-    Descripción: Este workflow What this workflow does
--   [Remove_Personally_Identifiable_Information_PII_from_CSV_Files_with_OpenAI.json](workflows/Remove Personally Identifiable Information (PII) from CSV Files with OpenAI.json)
-    Descripción: Este workflow Remove PII from CSV Files
--   [Respond_to_WhatsApp_Messages_with_AI_Like_a_Pro.json](workflows/Respond to WhatsApp Messages with AI Like a Pro!.json)
-    Descripción: Este workflow 1. WhatsApp Trigger
--   [RtTHLr1SAwIpntKr_Push_Multiple_Files_to_Github_Repo_via_Github_REST_API.json](workflows/RtTHLr1SAwIpntKr_Push_Multiple_Files_to_Github_Repo_via_Github_REST_API.json)
-    Descripción: Este workflow Push Multiple Files to GitHub Repo
--   [SCUbdpVPX4USbQmr_youtube_chapter_generator.json](workflows/SCUbdpVPX4USbQmr_youtube_chapter_generator.json)
-    Descripción: Este workflow Get Captions
--   [SHgOqN3ednIo5gNu_Find_Top_Keywords.json](workflows/SHgOqN3ednIo5gNu_Find_Top_Keywords.json)
-    Descripción: Este workflow Create time for yesterday and today. This will be used to gather and search for news articles within a specific range.
--   [SHpLY12UobbcWRnl_Slack_AI_Chatbot_with_RAG_for_company_staff.json](workflows/SHpLY12UobbcWRnl_Slack_AI_Chatbot_with_RAG_for_company_staff.json)
-    Descripción: Este workflow STEP 1
--   [SJrqDqTBIAyaZQkq_UTM_Link_Creator_&_QR_Code_Generator_with_Scheduled_Google_Analytics_Reports.json](workflows/SJrqDqTBIAyaZQkq_UTM_Link_Creator_&_QR_Code_Generator_with_Scheduled_Google_Analytics_Reports.json)
-    Descripción: Este workflow Create a marketing link with UTM parameters. Easily store in database and have QR code created and ready as well.
--   [Scrape_Trustpilot_Reviews_with_DeepSeek_Analyze_Sentiment_with_OpenAI.json](workflows/Scrape Trustpilot Reviews with DeepSeek, Analyze Sentiment with OpenAI.json)
-    Descripción: Este workflow Change to the name of the company registered on Trustpilot and the maximum number of pages to scrape
--   [Scrape_and_summarize_posts_of_a_news_site_without_RSS_feed_using_AI_and_save_them_to_a_NocoDB.json](workflows/Scrape and summarize posts of a news site without RSS feed using AI and save them to a NocoDB.json)
-    Descripción: Este workflow Select only the newest news: todays date going back xy days
--   [Scrape_and_summarize_webpages_with_AI.json](workflows/Scrape and summarize webpages with AI.json)
-    Descripción: Este workflow Scrape latest Paul Graham essays
--   [Screen_Applicants_With_AI_notify_HR_and_save_them_in_a_Google_Sheet.json](workflows/Screen Applicants With AI, notify HR and save them in a Google Sheet.json)
-    Descripción: Este workflow AI CV Screening Workflow
--   [Sebvr1R2t4zkAg1V_Gratitude_Jar_Reminder.json](workflows/Sebvr1R2t4zkAg1V_Gratitude_Jar_Reminder.json)
-    Descripción: Este workflow Trigger
--   [Send_Google_analytics_data_to_A.I._to_analyze_then_save_results_in_Baserow.json](workflows/Send Google analytics data to A.I. to analyze then save results in Baserow.json)
-    Descripción: Este workflow Send Google analytics to A.I. and save results to baserow
--   [Send_Google_analytics_data_to_A.I._to_analyze_then_save_results_in_BaserowSend_Google_analytics_data_to_A.I._to_analyze_then_save_results_in_Baserow.json](workflows/Send Google analytics data to A.I. to analyze then save results in BaserowSend Google analytics data to A.I. to analyze then save results in Baserow.json)
-    Descripción: Este workflow Send Google analytics to A.I. and save results to baserow
--   [Send_a_ChatGPT_email_reply_and_save_responses_to_Google_Sheets.json](workflows/Send a ChatGPT email reply and save responses to Google Sheets.json)
-    Descripción: Este workflow Configuration
--   [Send_a_random_recipe_once_a_day_to_Telegram.json](workflows/Send a random recipe once a day to Telegram.json)
-    Descripción: Este workflow Send a random recipe once a day to Telegram
--   [Send_daily_translated_Calvin_and_Hobbes_Comics_to_Discord.json](workflows/Send daily translated Calvin and Hobbes Comics to Discord.json)
-    Descripción: Este workflow
--   [Send_specific_PDF_attachments_from_Gmail_to_Google_Drive_using_OpenAI.json](workflows/Send specific PDF attachments from Gmail to Google Drive using OpenAI.json)
-    Descripción: Este workflow Send specific PDF attachments from Gmail to Google Drive using OpenAI
--   [Sentiment_Analysis_Tracking_on_Support_Issues_with_Linear_and_Slack_(1).json](workflows/Sentiment Analysis Tracking on Support Issues with Linear and Slack (1).json)
-    Descripción: Este workflow 1. Continuously Monitor Active Linear Issues
--   [Sentiment_Analysis_Tracking_on_Support_Issues_with_Linear_and_Slack.json](workflows/Sentiment Analysis Tracking on Support Issues with Linear and Slack.json)
-    Descripción: Este workflow 1. Continuously Monitor Active Linear Issues
--   [Share_YouTube_Videos_with_AI_Summaries_on_Discord.json](workflows/Share YouTube Videos with AI Summaries on Discord.json)
-    Descripción: Este workflow Summarise Your YouTube Videos with AI for Discord
--   [SiQUWOBCyXCAA5f9_Generate_New_Keywords_with_Search_Volumes⚒️⚒️🟢🟢.json](workflows/SiQUWOBCyXCAA5f9_Generate_New_Keywords_with_Search_Volumes⚒️⚒️🟢🟢.json)
-    Descripción: Este workflow Generate new keywords for SEO with the monthly Search volumes
--   [Simple_Expense_Tracker_with_n8n_Chat_AI_Agent_and_Google_Sheets.json](workflows/Simple Expense Tracker with n8n Chat, AI Agent and Google Sheets.json)
-    Descripción: Este workflow Save your expenses via chat message.
--   [Siri_AI_Agent_Apple_Shortcuts_powered_voice_template.json](workflows/Siri AI Agent_ Apple Shortcuts powered voice template.json)
-    Descripción: Este workflow
--   [Slack_slash_commands_AI_Chat_Bot.json](workflows/Slack slash commands AI Chat Bot.json)
-    Descripción: Este workflow Command Trigger
--   [Social_Media_Analysis_and_Automated_Email_Generation.json](workflows/Social Media Analysis and Automated Email Generation.json)
-    Descripción: Este workflow Personalize here
--   [Speed_Up_Social_Media_Banners_With_BannerBear.com.json](workflows/Speed Up Social Media Banners With BannerBear.com.json)
-    Descripción: Este workflow 1. Start with n8n Forms
--   [Spot_Workplace_Discrimination_Patterns_with_AI.json](workflows/Spot Workplace Discrimination Patterns with AI.json)
-    Descripción: Este workflow Spot Workplace Discrimination Patterns using ScrapingBee, Glassdoor, OpenAI, and QuickChart
--   [Store_Notion_s_Pages_as_Vector_Documents_into_Supabase_with_OpenAI.json](workflows/Store Notion_s Pages as Vector Documents into Supabase with OpenAI.json)
-    Descripción: Este workflow Store Notion's Pages as Vector Documents into Supabase
--   [Suggest_meeting_slots_using_AI.json](workflows/Suggest meeting slots using AI.json)
-    Descripción: Este workflow Check if incoming email is about appointment
--   [Summarize_Google_Sheets_form_feedback_via_OpenAI_s_GPT-4.json](workflows/Summarize Google Sheets form feedback via OpenAI_s GPT-4.json)
-    Descripción: Este workflow 1. Create a Google Sheet document
--   [Summarize_SERPBear_data_with_AI_(via_Openrouter)_and_save_it_to_Baserow.json](workflows/Summarize SERPBear data with AI (via Openrouter) and save it to Baserow.json)
-    Descripción: Este workflow Send Matomo analytics to A.I. and save results to Baserow
--   [Summarize_Umami_data_with_AI_(via_Openrouter)_and_save_it_to_Baserow.json](workflows/Summarize Umami data with AI (via Openrouter) and save it to Baserow.json)
-    Descripción: Este workflow Send data from Umami to A.I. and then save to Baserow
--   [Summarize_YouTube_Videos_from_Transcript.json](workflows/Summarize YouTube Videos from Transcript.json)
-    Descripción: Este workflow **Summarize YouTube videos**
--   [Summarize_the_New_Documents_from_Google_Drive_and_Save_Summary_in_Google_Sheet.json](workflows/Summarize the New Documents from Google Drive and Save Summary in Google Sheet.json)
-    Descripción: Este workflow Get Latest File
--   [Summarize_your_emails_with_A.I._(via_Openrouter)_and_send_to_Line_messenger_(1).json](workflows/Summarize your emails with A.I. (via Openrouter) and send to Line messenger (1).json)
-    Descripción: Este workflow Summarize emails with A.I.
--   [Summarize_your_emails_with_A.I._(via_Openrouter)_and_send_to_Line_messenger.json](workflows/Summarize your emails with A.I. (via Openrouter) and send to Line messenger.json)
-    Descripción: Este workflow Summarize emails with A.I.
--   [Supabase_Insertion_&_Upsertion_&_Retrieval.json](workflows/Supabase Insertion & Upsertion & Retrieval.json)
-    Descripción: Este workflow INSERTING
--   [Survey_Insights_with_Qdrant_Python_and_Information_Extractor.json](workflows/Survey Insights with Qdrant, Python and Information Extractor.json)
-    Descripción: Este workflow Step 1. Import Survey Responses
--   [SvYHgLmzosuLAe4A_Google_Calendar_Event_Reminder.json](workflows/SvYHgLmzosuLAe4A_Google_Calendar_Event_Reminder.json)
-    Descripción: Este workflow Google Calendar Event Reminder
--   [SvZQB2gsI57KlfvO_💥AI_Social_Video_Generator_with_GPT-4,_Kling_&_Blotato_—Auto-Post_to_Instagram,_Facebook,_TikTok,_Twitter_&_Pinterest_-_vide.json](workflows/SvZQB2gsI57KlfvO_💥AI_Social_Video_Generator_with_GPT-4,_Kling_&_Blotato_—Auto-Post_to_Instagram,_Facebook,_TikTok,_Twitter_&_Pinterest_-_vide.json)
-    Descripción: Este workflow 🟫 STEP 1 — Create Video Using AI
--   [TBiW9x7O4ijo4yOX_Bitrix24_Open_Chanel_RAG_Chatbot_Application_Workflow_example_with_Webhook_Integration.json](workflows/TBiW9x7O4ijo4yOX_Bitrix24_Open_Chanel_RAG_Chatbot_Application_Workflow_example_with_Webhook_Integration.json)
-    Descripción: Este workflow Subworkflow for Register Bot
--   [TEA7K9MSVQGCWKe6_A_B_Split_Testing.json](workflows/TEA7K9MSVQGCWKe6_A_B_Split_Testing.json)
-    Descripción: Este workflow 1. Receive Message
--   [TS1wT16JCcy1Dt9Q_Airtop_Web_Agent.json](workflows/TS1wT16JCcy1Dt9Q_Airtop_Web_Agent.json)
-    Descripción: Este workflow Note
--   [TTj6BiN7bQKTa6FM_Indeed_Company_Data_Scraper_&_Summarization_with_Airtable,_Bright_Data_and_Google_Gemini.json](workflows/TTj6BiN7bQKTa6FM_Indeed_Company_Data_Scraper_&_Summarization_with_Airtable,_Bright_Data_and_Google_Gemini.json)
-    Descripción: Este workflow Note
--   [TWcBOEMLFs7e6KjP_Whisper_Transkription_copy.json](workflows/TWcBOEMLFs7e6KjP_Whisper_Transkription_copy.json)
-    Descripción: Este workflow Trigger and Download of audio file
--   [Talk_to_your_SQLite_database_with_a_LangChain_AI_Agent.json](workflows/Talk to your SQLite database with a LangChain AI Agent.json)
-    Descripción: Este workflow Run this part only once
--   [Telegram_AI_Bot_NeurochainAI_Text_&_Image_-_NeurochainAI_Basic_API_Integration.json](workflows/Telegram AI Bot_ NeurochainAI Text & Image - NeurochainAI Basic API Integration.json)
-    Descripción: Este workflow ERROR
--   [Telegram_AI_Chatbot.json](workflows/Telegram AI Chatbot.json)
-    Descripción: Este workflow Error fallback for unsupported commands
--   [Telegram_AI_bot_assistant_ready-made_template_for_voice_&_text_messages.json](workflows/Telegram AI bot assistant_ ready-made template for voice & text messages.json)
-    Descripción: Este workflow Receive and pre-process messages
--   [Telegram_AI_bot_with_LangChain_nodes.json](workflows/Telegram AI bot with LangChain nodes.json)
-    Descripción: Este workflow Generate an image with Dall-E 3 and send it via Telegram
--   [Telegram_Bot_with_Supabase_memory_and_OpenAI_assistant_integration.json](workflows/Telegram Bot with Supabase memory and OpenAI assistant integration.json)
-    Descripción: Este workflow SQL query to create table in Supabase:
--   [Telegram_chat_with_PDF.json](workflows/Telegram chat with PDF.json)
-    Descripción: Este workflow Load data into database
--   [Telegram_to_Spotify_with_OpenAI.json](workflows/Telegram to Spotify with OpenAI.json)
-    Descripción: Este workflow Telegram to Spotify
--   [Telr6HU0ltH7s9f7_🗨️Ollama_Chat.json](workflows/Telr6HU0ltH7s9f7_🗨️Ollama_Chat.json)
-    Descripción: Este workflow 🦙 Ollama Chat Workflow
--   [Text_automations_using_Apple_Shortcuts_(1).json](workflows/Text automations using Apple Shortcuts (1).json)
-    Descripción: Este workflow Workflow: Text automations using Apple Shortcuts
--   [Text_automations_using_Apple_Shortcuts.json](workflows/Text automations using Apple Shortcuts.json)
-    Descripción: Este workflow Workflow: Text automations using Apple Shortcuts
--   [TfwQRZkTBtykx1rM_Enrich_Company_Data_from_Google_Sheet_with_OpenAI_Agent_and_Scraper_Tool.json](workflows/TfwQRZkTBtykx1rM_Enrich_Company_Data_from_Google_Sheet_with_OpenAI_Agent_and_Scraper_Tool.json)
-    Descripción: Este workflow Enrich Company Data from Google Sheet with OpenAI Scraper Agent
--   [ThLx9WKLEujJHrvW_Github_Releases.json](workflows/ThLx9WKLEujJHrvW_Github_Releases.json)
-    Descripción: Este workflow GitHub Releases Config
--   [Tqa8dikBDLYEytx5_Automated_Content_SEO_Audit_Report.json](workflows/Tqa8dikBDLYEytx5_Automated_Content_SEO_Audit_Report.json)
-    Descripción: Este workflow Content SEO Audit Report
--   [TqnC0nyAa0LRfYBX_Amazon_Product_Price_Tracker.json](workflows/TqnC0nyAa0LRfYBX_Amazon_Product_Price_Tracker.json)
-    Descripción: Este workflow Amazon Product Price Tracker
--   [Transcribe_Audio_Files,_Summarize_with_GPT-4,_and_Store_in_Notion.json](workflows/Transcribe Audio Files, Summarize with GPT-4, and Store in Notion.json)
-    Descripción: Este workflow Trigger and Download of audio file
--   [Transcribing_Bank_Statements_To_Markdown_Using_Gemini_Vision_AI.json](workflows/Transcribing Bank Statements To Markdown Using Gemini Vision AI.json)
-    Descripción: Este workflow Try Me Out!
--   [Transform_Image_to_Lego_Style_Using_Line_and_Dall-E.json](workflows/Transform Image to Lego Style Using Line and Dall-E.json)
-    Descripción: Este workflow Transform Image to Lego Style Using Line and Dall-E
--   [Translate_Telegram_audio_messages_with_AI_(55_supported_languages).json](workflows/Translate Telegram audio messages with AI (55 supported languages).json)
-    Descripción: Este workflow Translation
--   [Translate_audio_using_AI.json](workflows/Translate audio using AI.json)
-    Descripción: Este workflow 1] In ElevenLabs, add a voice to your [voice lab](https://elevenlabs.io/voice-lab) and copy its ID. Open this node and add the ID there
--   [TtoDcjgthgA4NTkU_AI_Voice_Chat_using_Webhook,_Memory_Manager,_OpenAI,_Google_Gemini_&_ElevenLabs.json](workflows/TtoDcjgthgA4NTkU_AI_Voice_Chat_using_Webhook,_Memory_Manager,_OpenAI,_Google_Gemini_&_ElevenLabs.json)
-    Descripción: Este workflow Get Context
--   [Turn_Emails_into_AI-Enhanced_Tasks_in_Notion_(Multi-User_Support)_with_Gmail,_Airtable_and_Softr.json](workflows/Turn Emails into AI-Enhanced Tasks in Notion (Multi-User Support) with Gmail, Airtable and Softr.json)
-    Descripción: Este workflow Setup
--   [Twitter_Virtual_AI_Influencer.json](workflows/Twitter Virtual AI Influencer.json)
-    Descripción: Este workflow Scheduled posting
--   [Tygtx1aZi9pLdtUo_Fully_automated_Video_Captions_generation_with_json2video.json](workflows/Tygtx1aZi9pLdtUo_Fully_automated_Video_Captions_generation_with_json2video.json)
-    Descripción: Este workflow Check video status
--   [U1xUqDLvBYYSU6EU_Jira_Retrospective.json](workflows/U1xUqDLvBYYSU6EU_Jira_Retrospective.json)
-    Descripción: Este workflow Epic Done?
--   [U6cY7PPR0vaRl1I0_Scrape_Web_Data_with_Bright_Data,_Google_Gemini_and_MCP_Automated_AI_Agent.json](workflows/U6cY7PPR0vaRl1I0_Scrape_Web_Data_with_Bright_Data,_Google_Gemini_and_MCP_Automated_AI_Agent.json)
-    Descripción: Este workflow Bright Data Web Scraper
--   [U8EOTtZvmZPMYc6m_Agentic_Telegram_AI_bot_with_LangChain_nodes_and_new_tools.json](workflows/U8EOTtZvmZPMYc6m_Agentic_Telegram_AI_bot_with_LangChain_nodes_and_new_tools.json)
-    Descripción: Este workflow Generate an image with Dall-E-3 and send it via Telegram
--   [U9RofpXSIIUg12f9_AI_Social_Media_Publisher_from_WordPress.json](workflows/U9RofpXSIIUg12f9_AI_Social_Media_Publisher_from_WordPress.json)
-    Descripción: Este workflow Get the Post ID of the Wordpress article on which you want to generate the caption for social media
--   [UTM_Link_Creator_&_QR_Code_Generator_with_Scheduled_Google_Analytics_Reports.json](workflows/UTM Link Creator & QR Code Generator with Scheduled Google Analytics Reports.json)
-    Descripción: Este workflow Create a marketing link with UTM parameters. Easily store in database and have QR code created and ready as well.
--   [Ultimate_Scraper_Workflow_for_n8n.json](workflows/Ultimate Scraper Workflow for n8n.json)
-    Descripción: Este workflow N8N Ultimate Scraper - Workflow
--   [Ultimate_Personal_Assistant.json](workflows/Ultimate_Personal_Assistant.json)
-    Descripción: Este workflow Ultimate Personal Assistant
--   [Um37boya1U0mnCjS_Workflow_dashboard_with_mermaid.js.json](workflows/Um37boya1U0mnCjS_Workflow_dashboard_with_mermaid.js.json)
-    Descripción: Este workflow IMPORTANT NOTE FOR CLOUD USERS
--   [Update_Twitter_banner_using_HTTP_request.json](workflows/Update Twitter banner using HTTP request.json)
-    Descripción: Este workflow Update Twitter banner using HTTP request
--   [Upload_to_Instagram_and_Tiktok_from_Google_Drive.json](workflows/Upload to Instagram and Tiktok from Google Drive.json)
-    Descripción: Este workflow Description
--   [Upsert_huge_documents_in_a_vector_store_with_Supabase_and_Notion.json](workflows/Upsert huge documents in a vector store with Supabase and Notion.json)
-    Descripción: Este workflow Switch trigger (optional)
--   [UsBaGY83vnyZjRoB_TopSourcer_-_Finds_LinkedIn_Profiles_using_natural_language.json](workflows/UsBaGY83vnyZjRoB_TopSourcer_-_Finds_LinkedIn_Profiles_using_natural_language.json)
-    Descripción: Este workflow Click "Open Chat" after activating the workflow.
--   [Use_AI_to_organize_your_Todoist_Inbox.json](workflows/Use AI to organize your Todoist Inbox.json)
-    Descripción: Este workflow 💫 To setup this template
--   [Use_OpenRouter_in_n8n_versions_1.78.json](workflows/Use OpenRouter in n8n versions _1.78.json)
-    Descripción: Este workflow Settings
--   [Using_External_Workflows_as_Tools_in_n8n.json](workflows/Using External Workflows as Tools in n8n.json)
-    Descripción: Este workflow Send URL got Crawl
--   [UuuCIDvTNnloIlvq_Automate_Etsy_Data_Mining_with_Bright_Data_Scrape_&_Google_Gemini.json](workflows/UuuCIDvTNnloIlvq_Automate_Etsy_Data_Mining_with_Bright_Data_Scrape_&_Google_Gemini.json)
-    Descripción: Este workflow Note
--   [V1vbO2m79cFNH59h_Basic_PDF_Digital_Sign_Service.json](workflows/V1vbO2m79cFNH59h_Basic_PDF_Digital_Sign_Service.json)
-    Descripción: Este workflow Cryptographic Operations
--   [V8ypWn7oaOVS3zH0_AI_Social_Media_Caption_Creator.json](workflows/V8ypWn7oaOVS3zH0_AI_Social_Media_Caption_Creator.json)
-    Descripción: Este workflow Welcome to my AI Social Media Caption Creator Workflow!
--   [VLRbAr4OrtnHUU2l_Todoist_Weekly_Review_Template.json](workflows/VLRbAr4OrtnHUU2l_Todoist_Weekly_Review_Template.json)
-    Descripción: Este workflow Todoist Weekly Review Template
--   [VU0kmvnWzctSFm2M_Convert_Parquet,_Avro,_ORC_&_Feather_via_ParquetReader_to_JSON.json](workflows/VU0kmvnWzctSFm2M_Convert_Parquet,_Avro,_ORC_&_Feather_via_ParquetReader_to_JSON.json)
-    Descripción: Este workflow ✅ **How to Use This Flow**
--   [VY4TXYGmqth57Een_Docsify_example.json](workflows/VY4TXYGmqth57Een_Docsify_example.json)
-    Descripción: Este workflow Main Docsify webhook
--   [VaU41OXvni95OlAL_address_validation.json](workflows/VaU41OXvni95OlAL_address_validation.json)
-    Descripción: Este workflow Get and Prepare Oder Data
--   [Vector_Database_as_a_Big_Data_Analysis_Tool_for_AI_Agents_[1_3_anomaly][1_2_KNN].json](workflows/Vector Database as a Big Data Analysis Tool for AI Agents [1_3 anomaly][1_2 KNN].json)
-    Descripción: Este workflow In the next workflow, we're going to use Qdrant to get the number of images belonging to each crop type defined by `crop_name` (for example, *"cucumber"*).
--   [Vector_Database_as_a_Big_Data_Analysis_Tool_for_AI_Agents_[2_2_KNN]_(1).json](workflows/Vector Database as a Big Data Analysis Tool for AI Agents [2_2 KNN] (1).json)
-    Descripción: Este workflow Here we're classifying existing types of satellite imagery of land types:
--   [Vector_Database_as_a_Big_Data_Analysis_Tool_for_AI_Agents_[2_2_KNN].json](workflows/Vector Database as a Big Data Analysis Tool for AI Agents [2_2 KNN].json)
-    Descripción: Este workflow Here we're classifying existing types of satellite imagery of land types:
--   [Vector_Database_as_a_Big_Data_Analysis_Tool_for_AI_Agents_[2_3_-_anomaly].json](workflows/Vector Database as a Big Data Analysis Tool for AI Agents [2_3 - anomaly].json)
-    Descripción: Este workflow Setting Up Medoids for Anomaly Detection
--   [Vector_Database_as_a_Big_Data_Analysis_Tool_for_AI_Agents_[3_3_-_anomaly].json](workflows/Vector Database as a Big Data Analysis Tool for AI Agents [3_3 - anomaly].json)
-    Descripción: Este workflow We are working here with crops dataset:
--   [Venafi_Cloud_Slack_Cert_Bot.json](workflows/Venafi Cloud Slack Cert Bot.json)
-    Descripción: Este workflow
--   [VhN3CX6QPBkX77pZ_Use_any_LLM-Model_via_OpenRouter.json](workflows/VhN3CX6QPBkX77pZ_Use_any_LLM-Model_via_OpenRouter.json)
-    Descripción: Este workflow Settings
--   [ViCY8FzVGcRsxVcK_Sell_a_Used_Car.json](workflows/ViCY8FzVGcRsxVcK_Sell_a_Used_Car.json)
-    Descripción: Este workflow Sell a Used Car
--   [Visual_Regression_Testing_with_Apify_and_AI_Vision_Model.json](workflows/Visual Regression Testing with Apify and AI Vision Model.json)
-    Descripción: Este workflow Part A. Generate Base Images
--   [Visualize_your_SQL_Agent_queries_with_OpenAI_and_Quickchart.io.json](workflows/Visualize your SQL Agent queries with OpenAI and Quickchart.io.json)
-    Descripción: Este workflow Overview
--   [VoLT6Omw9KMQgPum_Weekly_Shodan_Query___Report_Accidents__no_function_node_.json](workflows/VoLT6Omw9KMQgPum_Weekly_Shodan_Query___Report_Accidents__no_function_node_.json)
-    Descripción: Este workflow
--   [VtiRiIGkdeUhyh0N_GoogleSheets_MySQL_Integration.json](workflows/VtiRiIGkdeUhyh0N_GoogleSheets_MySQL_Integration.json)
-    Descripción: Este workflow Create a new Google Form with several variables:
--   [VU0kmvnWzctSFm2M_Convert_Parquet,_Avro,_ORC_&_Feather_via_ParquetReader_to_JSON.json](workflows/VU0kmvnWzctSFm2M_Convert_Parquet,_Avro,_ORC_&_Feather_via_ParquetReader_to_JSON.json)
-    Descripción: Este workflow ✅ **How to Use This Flow**
--   [VwU1zMhcgzgPS9ak_List_Builder.json](workflows/VwU1zMhcgzgPS9ak_List_Builder.json)
-    Descripción: Este workflow List Builder
--   [W1ugowsjzt1SC4hH_Validate_Seatable_Webhooks_with_HMAC_SHA256_Authentication.json](workflows/W1ugowsjzt1SC4hH_Validate_Seatable_Webhooks_with_HMAC_SHA256_Authentication.json)
-    Descripción: Este workflow 📌 Validate Seatable Webhooks with HMAC SHA256 Authentication
--   [W1xEzKKEd1qV2D7V_2._Add_Beehiiv_newsletter_subscribers_from_Gumroad_sales.json](workflows/W1xEzKKEd1qV2D7V_2._Add_Beehiiv_newsletter_subscribers_from_Gumroad_sales.json)
-    Descripción: Este workflow Trigger on a new Gumroad sale
--   [W5cevjhP3xIQdMhT_Simple_LinkedIn_profile_collector.json](workflows/W5cevjhP3xIQdMhT_Simple_LinkedIn_profile_collector.json)
-    Descripción: Este workflow Adaptation required
--   [WBkJdubQjVzMUhwi_Shopify_to_Google_Sheets_Product_Sync_Automation.json](workflows/WBkJdubQjVzMUhwi_Shopify_to_Google_Sheets_Product_Sync_Automation.json)
-    Descripción: Este workflow This workflow automates the synchronization of product data from a Shopify store to a Google Sheets document, ensuring seamless management and tracking. It retrieves product details such as title, tags, description, and price from Shopify via GraphQL queries. The outcome is a comprehensive list of products neatly organized in Google Sheets for easy access and analysis.
--   [WCh8N9PrO0UIwrqW_Automatizacion_X.json](workflows/WCh8N9PrO0UIwrqW_Automatizacion_X.json)
-    Descripción: Este workflow Automatizacion X
--   [WETMyIJCbD3et6Rh_High-Level_Service_Page_SEO_Blueprint_Report.json](workflows/WETMyIJCbD3et6Rh_High-Level_Service_Page_SEO_Blueprint_Report.json)
-    Descripción: Este workflow Generate High-Level Service Page Blueprint Report
--   [WGUpujme8ctIkBF8_Live_link_checker.json](workflows/WGUpujme8ctIkBF8_Live_link_checker.json)
-    Descripción: Este workflow Connect your Google Sheets account.
--   [WLSqXECfQF7rOj2A_Open_Deep_Research_-_AI-Powered_Autonomous_Research_Workflow.json](workflows/WLSqXECfQF7rOj2A_Open_Deep_Research_-_AI-Powered_Autonomous_Research_Workflow.json)
-    Descripción: Este workflow SerpAPI Setup Instructions
--   [WUFuYk56jNNpjfZm_Real_Estate_Market_Scanning.json](workflows/WUFuYk56jNNpjfZm_Real_Estate_Market_Scanning.json)
-    Descripción: Este workflow Main Workflow Flow
--   [WUX0BsRA1dbzTKnl_Email_mailbox_as_Todoist_tasks.json](workflows/WUX0BsRA1dbzTKnl_Email_mailbox_as_Todoist_tasks.json)
-    Descripción: Este workflow Select Trigger
--   [WceMkVib0VLlF1BZ_Vector_DB_Loader_from_Google_Drive.json](workflows/WceMkVib0VLlF1BZ_Vector_DB_Loader_from_Google_Drive.json)
-    Descripción: Este workflow Creative Commons License
--   [WordPress_-_AI_Chatbot_to_enhance_user_experience_-_with_Supabase_and_OpenAI.json](workflows/WordPress - AI Chatbot to enhance user experience - with Supabase and OpenAI.json)
-    Descripción: Este workflow Workflow 1 : Initial Embedding
--   [Write_a_WordPress_post_with_AI_(starting_from_a_few_keywords).json](workflows/Write a WordPress post with AI (starting from a few keywords).json)
-    Descripción: Este workflow Data check
--   [WsksMHrmAQrG32db_ClockifyBlockiaWorkflow.json](workflows/WsksMHrmAQrG32db_ClockifyBlockiaWorkflow.json)
-    Descripción: Este workflow ClockifyBlockiaWorkflow
--   [WulUYgcXvako9hBy_Testing_Mulitple_Local_LLM_with_LM_Studio.json](workflows/WulUYgcXvako9hBy_Testing_Mulitple_Local_LLM_with_LM_Studio.json)
-    Descripción: Este workflow 🧠Text Analysis
--   [WwEFqNK4YP6UJcg2_Auto_Knowledge_Base_Article_Generator.json](workflows/WwEFqNK4YP6UJcg2_Auto_Knowledge_Base_Article_Generator.json)
-    Descripción: Este workflow Writer Agent
--   [XGFs5jZNCeURd4OT_Publish_Image_Post_to_Bluesky.json](workflows/XGFs5jZNCeURd4OT_Publish_Image_Post_to_Bluesky.json)
-    Descripción: Este workflow Define Your Post Caption Here
--   [XSyVFC1tsGSxNwX9_Complete_Youtube.json](workflows/XSyVFC1tsGSxNwX9_Complete_Youtube.json)
-    Descripción: Este workflow Main Workflow
--   [XY0cZQwrhzOkisSt_Monitor_Competitor_Pricing.json](workflows/XY0cZQwrhzOkisSt_Monitor_Competitor_Pricing.json)
-    Descripción: Este workflow Monitor Competitor Pricing
--   [XYz1JYUXFHFVdlLj_Restore_your_workflows_from_GitHub.json](workflows/XYz1JYUXFHFVdlLj_Restore_your_workflows_from_GitHub.json)
-    Descripción: Este workflow Restore from GitHub
--   [XbawQw3cvClu2wsx_Automated_Image_Metadata_Tagging.json](workflows/XbawQw3cvClu2wsx_Automated_Image_Metadata_Tagging.json)
-    Descripción: Este workflow Welcome to my Automated Image Metadata Tagging Workflow!
--   [Xfz2YRxH6qFfpqHw_SEO_Blog_Generator_with_GPT-4o,_Perplexity,_and_Telegram_Integration.json](workflows/Xfz2YRxH6qFfpqHw_SEO_Blog_Generator_with_GPT-4o,_Perplexity,_and_Telegram_Integration.json)
-    Descripción: Este workflow Write SEO Optimized Blog Post
--   [XiwLd0JwGmDoY0mr_Image-to-3D.json](workflows/XiwLd0JwGmDoY0mr_Image-to-3D.json)
-    Descripción: Este workflow Image-to-3D
--   [Xk0W98z9DVrNHeku_AI-Powered_Information_Monitoring_with_OpenAI,_Google_Sheets,_Jina_AI_and_Slack.json](workflows/Xk0W98z9DVrNHeku_AI-Powered_Information_Monitoring_with_OpenAI,_Google_Sheets,_Jina_AI_and_Slack.json)
-    Descripción: Este workflow LLM Call 1 - Article Topic Relevance Classification
--   [XnGZZfT5u0Cw1X3p_Attachments_Gmail_to_drive_and_google_sheets.json](workflows/XnGZZfT5u0Cw1X3p_Attachments_Gmail_to_drive_and_google_sheets.json)
-    Descripción: Este workflow Setup
--   [Xs7x61YMFsbpB4vg_Colombian_Invoices_Processing.json](workflows/Xs7x61YMFsbpB4vg_Colombian_Invoices_Processing.json)
-    Descripción: Este workflow 🧾 Colombian electronic invoices processing
--   [Xx4zOjRFLI8W9PiC_Analyze_Reddit_Posts_with_AI_to_Identify_Business_Opportunities.json](workflows/Xx4zOjRFLI8W9PiC_Analyze_Reddit_Posts_with_AI_to_Identify_Business_Opportunities.json)
-    Descripción: Este workflow Data Collection
--   [XxkmcgZC4OtIOVoD_Youtube_Video_Transcript_Extraction.json](workflows/XxkmcgZC4OtIOVoD_Youtube_Video_Transcript_Extraction.json)
-    Descripción: Este workflow Youtube Video Transcript Extraction
--   [Y5URlIlbX4HDzWKA_airflow_dag_run.json](workflows/Y5URlIlbX4HDzWKA_airflow_dag_run.json)
-    Descripción: Este workflow airflow dag_run
--   [YCQFaJdmJc6Rx4o7_Sync_Jira_issues_with_subsequent_comments_to_Notion_database.json](workflows/YCQFaJdmJc6Rx4o7_Sync_Jira_issues_with_subsequent_comments_to_Notion_database.json)
-    Descripción: Este workflow `IF` & `Switch` nodes
--   [YKZBEx4DTf0KGEBR_Image-Based_Data_Extraction_API_using_Gemini_AI.json](workflows/YKZBEx4DTf0KGEBR_Image-Based_Data_Extraction_API_using_Gemini_AI.json)
-    Descripción: Este workflow Sample API Call (cURL)
--   [YOUR_WORKFLOW_ID_Automated_Content_Generation_&_Publishing_-_Wordpress.json](workflows/YOUR_WORKFLOW_ID_Automated_Content_Generation_&_Publishing_-_Wordpress.json)
-    Descripción: Este workflow Automated Article Scheduling
--   [YSjQ7TVCNY9v1F2A_Monitor_security_advisories.json](workflows/YSjQ7TVCNY9v1F2A_Monitor_security_advisories.json)
-    Descripción: Este workflow
--   [YVNJOltj0jMQatGz_Stripe_Payment_Order_Sync_–_Auto_Retrieve_Customer_&_Product_Purchased.json](workflows/YVNJOltj0jMQatGz_Stripe_Payment_Order_Sync_–_Auto_Retrieve_Customer_&_Product_Purchased.json)
-    Descripción: Este workflow Stripe Payment Order Sync – Auto Retrieve Customer & Product Purchased
--   [YZpFvpXOTYkBpiUU_Extract_Business_Leads_from_Google_Maps_with_Dumpling_AI_to_Google_Sheets.json](workflows/YZpFvpXOTYkBpiUU_Extract_Business_Leads_from_Google_Maps_with_Dumpling_AI_to_Google_Sheets.json)
-    Descripción: Este workflow 🔍 Workflow Goal
--   [YkATyvsBXigxnMgo_AI-Driven_WooCommerce_Product_Importer_with_SEO.json](workflows/YkATyvsBXigxnMgo_AI-Driven_WooCommerce_Product_Importer_with_SEO.json)
-    Descripción: Este workflow STEP 1
--   [YoUP55V241b9F2ze_Qdrant_Vector_Database_Embedding_Pipeline.json](workflows/YoUP55V241b9F2ze_Qdrant_Vector_Database_Embedding_Pipeline.json)
-    Descripción: Este workflow Fetch JSON File List
--   [YybYYc430rmZWJPJ_Log_errors_and_avoid_sending_too_many_emails.json](workflows/YybYYc430rmZWJPJ_Log_errors_and_avoid_sending_too_many_emails.json)
-    Descripción: Este workflow Log errors and avoid sending too many emails
--   [Z5OgwYfK4reCTv9y_LINE_Assistant_with_Google_Calendar_and_Gmail_Integration.json](workflows/Z5OgwYfK4reCTv9y_LINE_Assistant_with_Google_Calendar_and_Gmail_Integration.json)
-    Descripción: Este workflow LINE Assistant with Google Calendar and Gmail Integration
--   [ZBH1ExE58wsoodkZ_OpenSea_NFT_Agent_Tool.json](workflows/ZBH1ExE58wsoodkZ_OpenSea_NFT_Agent_Tool.json)
-    Descripción: Este workflow OpenSea NFT Agent Tool (n8n Workflow) Guide
--   [ZCAkUSpaxzoRPbse_Search_&_Summarize_Web_Data_with_Perplexity,_Gemini_AI_&_Bright_Data_to_Webhooks.json](workflows/ZCAkUSpaxzoRPbse_Search_&_Summarize_Web_Data_with_Perplexity,_Gemini_AI_&_Bright_Data_to_Webhooks.json)
-    Descripción: Este workflow Note
--   [ZDL9028SnyCxS5tf_Bitrix24_Task_Form_Widget_Application_Workflow_example_with_Webhook_Integration.json](workflows/ZDL9028SnyCxS5tf_Bitrix24_Task_Form_Widget_Application_Workflow_example_with_Webhook_Integration.json)
-    Descripción: Este workflow Bitrix24 Task Form Widget Application Workflow example with Webhook Integration
--   [ZI0PxugfKsyepqeH_Shopify_order_UTM_to_Baserow.json](workflows/ZI0PxugfKsyepqeH_Shopify_order_UTM_to_Baserow.json)
-    Descripción: Este workflow Shopify API
--   [ZdGZh4qmOqTQe1oq_MONDAY_GET_FULL_ITEM.json](workflows/ZdGZh4qmOqTQe1oq_MONDAY_GET_FULL_ITEM.json)
-    Descripción: Este workflow PULL ALL BOARDRELATION COLUMNS AND THEIR DATA
--   [ZeSJSbwXI593H1Qj_Social_Media_AI_Agent_-_Telegram.json](workflows/ZeSJSbwXI593H1Qj_Social_Media_AI_Agent_-_Telegram.json)
-    Descripción: Este workflow Automate the curation and sharing of trending GitHub discussions from Hacker News to Twitter and LinkedIn. This workflow leverages AI to generate engaging posts, streamlining your social media content creation and distribution.
--   [ZiIoKEClTk83g1Jt_Gmail_to_Vector_Embeddings_with_PGVector_and_Ollama.json](workflows/ZiIoKEClTk83g1Jt_Gmail_to_Vector_Embeddings_with_PGVector_and_Ollama.json)
-    Descripción: Este workflow Bulk e-mail import
--   [ZkIH2ygj2BNSfMOh_Dynamic_Form_with_AI.json](workflows/ZkIH2ygj2BNSfMOh_Dynamic_Form_with_AI.json)
-    Descripción: Este workflow Avoid Asking Redundant Questions with Dynamically Generated Forms using OpenAI
--   [Zoom_AI_Meeting_Assistant_creates_mail_summary,_ClickUp_tasks_and_follow-up_call.json](workflows/Zoom AI Meeting Assistant creates mail summary, ClickUp tasks and follow-up call.json)
-    Descripción: Este workflow Sub workflow: Create Task in ClickUp
--   [Zp0R3I1dUjZOIz2l_Sync_New_Shopify_Customers_to_Odoo_Contacts.json](workflows/Zp0R3I1dUjZOIz2l_Sync_New_Shopify_Customers_to_Odoo_Contacts.json)
-    Descripción: Este workflow Sync New Shopify Customers to Odoo Contacts
--   [ZpgJpdtmq6MM1jr2_AI_T-Shirt_Redesign_Workflow_from_any_Mockup_Image.json](workflows/ZpgJpdtmq6MM1jr2_AI_T-Shirt_Redesign_Workflow_from_any_Mockup_Image.json)
-    Descripción: Este workflow Send a mockup image url to chat
--   [Zrd98BnbmN1Px9an_Youtube_Searcher.json](workflows/Zrd98BnbmN1Px9an_Youtube_Searcher.json)
-    Descripción: Este workflow Save Videos To Database
--   [CENSORED_G_LineChatBot_Google_Sheets_as_a_memory.json](workflows/[CENSORED]_(G)_LineChatBot_+_Google_Sheets_(as_a_memory).json)
-    Descripción: Este workflow Connect to Line Official Account's API
--   [Easily_Compare_LLMs_Using_OpenAI_and_Google_Sheets.json](workflows/_Easily_Compare_LLMs_Using_OpenAI_and_Google_Sheets.json)
-    Descripción: Este workflow Easily Compare LLMs Using OpenAI and Google Sheets
--   [Generate_AI-Ready_llms.txt_Files_from_Screaming_Frog_Website_Crawls.json](workflows/_Generate_AI-Ready_llms.txt_Files_from_Screaming_Frog_Website_Crawls.json)
-    Descripción: Este workflow Form - Screaming Frog internal_html.csv upload
--   [Calendar_Agent.json](workflows/__Calendar_Agent.json)
-    Descripción: Este workflow 🤖Calendar Agent
--   [Contact_Agent.json](workflows/__Contact_Agent.json)
-    Descripción: Este workflow 🤖Contact Agent
--   [Content_Creator_Agent.json](workflows/__Content_Creator_Agent.json)
-    Descripción: Este workflow 🤖Content Creator Agent
--   [Email_Agent.json](workflows/__Email_Agent.json)
-    Descripción: Este workflow 🤖Email Agent
--   [piepdrive-test.json](workflows/_piepdrive-test.json)
-    Descripción: Este workflow Enrich Pipedrive's Organization Data with GPT-4o When an Organization is Created in Pipedrive
--   [a4GTp998ENMMfuqK_Save_new_Files_received_on_Telegram_to_Google_Drive.json](workflows/a4GTp998ENMMfuqK_Save_new_Files_received_on_Telegram_to_Google_Drive.json)
-    Descripción: Este workflow Save new Files received on Telegram to Google Drive
--   [a58HZKwcOy7lmz56_Building_RAG_Chatbot_for_Movie_Recommendations_with_Qdrant_and_Open_AI.json](workflows/a58HZKwcOy7lmz56_Building_RAG_Chatbot_for_Movie_Recommendations_with_Qdrant_and_Open_AI.json)
-    Descripción: Este workflow Tool, calling Qdrant's recommendation API based on user's request, transformed by AI agent
--   [a5tCsfMzJPd8WDUj_line_message_api_demo.json](workflows/a5tCsfMzJPd8WDUj_line_message_api_demo.json)
-    Descripción: Este workflow Line Message API Reply
--   [aDPpPIaeM7zfUCdJ_GROQ_LLAVA_V1.5_7B.json](workflows/aDPpPIaeM7zfUCdJ_GROQ_LLAVA_V1.5_7B.json)
-    Descripción: Este workflow Set Up
--   [aOP0D1cAqzGv7Xa8_spy_tool.json](workflows/aOP0D1cAqzGv7Xa8_spy_tool.json)
-    Descripción: Este workflow Note: almost never works right away
--   [aVienX696oMCH1DR_Tiktok_Downloader.json](workflows/aVienX696oMCH1DR_Tiktok_Downloader.json)
-    Descripción: Este workflow 1. Load the video page
--   [aZSJ2BZQhNduZZ8w_Get_Airtable_data_in_Obsidian_Notes.json](workflows/aZSJ2BZQhNduZZ8w_Get_Airtable_data_in_Obsidian_Notes.json)
-    Descripción: Este workflow lo explican en https://www.youtube.com/watch?v=2PIdeTgsENo
--   [af8RV5b2TWB2LclA_Chat_with_local_LLMs_using_n8n_and_Ollama.json](workflows/af8RV5b2TWB2LclA_Chat_with_local_LLMs_using_n8n_and_Ollama.json)
-    Descripción: Este workflow Chat with local LLMs using n8n and Ollama
--   [aqLL3BAXqQIjeJDt_AI_Automated_TikTok_Youtube_Shorts_Reels_Generator.json](workflows/aqLL3BAXqQIjeJDt_AI_Automated_TikTok_Youtube_Shorts_Reels_Generator.json)
-    Descripción: Este workflow 2. 🖼️Generate images with Flux using [PiAPI](https://piapi.ai/?via=n8n)
--   [aswQJmksAOmHmn8c_Fetch_the_Most_Recent_Document_from_Google_Drive.json](workflows/aswQJmksAOmHmn8c_Fetch_the_Most_Recent_Document_from_Google_Drive.json)
-    Descripción: Este workflow Get Latest File
--   [ax8PJlp1UDb6EGFt_Telegram_AI_Langchain_bot.json](workflows/ax8PJlp1UDb6EGFt_Telegram_AI_Langchain_bot.json)
-    Descripción: Este workflow Generate an image with Dall-E 3 and send it via Telegram
--   [b0KRVIuuUxE5afHo_Blog_Automation_TEMPLATE.json](workflows/b0KRVIuuUxE5afHo_Blog_Automation_TEMPLATE.json)
-    Descripción: Este workflow Settings
--   [b8a4IwiwD9SlgF42_🔥📈🤖_AI_Agent__for_n8n_Creators_Leaderboard_-_Find_Popular_Workflows.json](workflows/b8a4IwiwD9SlgF42_🔥📈🤖_AI_Agent__for_n8n_Creators_Leaderboard_-_Find_Popular_Workflows.json)
-    Descripción: Este workflow AI Agent for n8n Creator Leaderboard Stats
--   [bPxDenPJ5Ixx0txY_Line_Chatbot_Extract_Text_from_Pay_Slip_with_Gemini.json](workflows/bPxDenPJ5Ixx0txY_Line_Chatbot_Extract_Text_from_Pay_Slip_with_Gemini.json)
-    Descripción: Este workflow Extract text from image
--   [bV0JTA5NtRZxiD1q_Telegram-bot_AI_Da_Nang.json](workflows/bV0JTA5NtRZxiD1q_Telegram-bot_AI_Da_Nang.json)
-    Descripción: Este workflow Chat input triggered inside n8n
--   [bh3H2b654RSYgIm9_Inverview_Scheduler.json](workflows/bh3H2b654RSYgIm9_Inverview_Scheduler.json)
-    Descripción: Este workflow Check Day Names Tool
--   [bhWsUxipJ9wuTA5K_n8n_workflow_deployer.json](workflows/bhWsUxipJ9wuTA5K_n8n_workflow_deployer.json)
-    Descripción: Este workflow Setup Instructions
--   [bpq5aoogWibWq94t_puq-docker-influxdb-deploy.json](workflows/bpq5aoogWibWq94t_puq-docker-influxdb-deploy.json)
-    Descripción: Este workflow 👋 Welcome to PUQ Docker InfluxDB deploy!
--   [brRSLvIkYp3mLq0K_OpenSea_Marketplace_Agent_Tool.json](workflows/brRSLvIkYp3mLq0K_OpenSea_Marketplace_Agent_Tool.json)
-    Descripción: Este workflow OpenSea Marketplace Agent Tool (n8n Workflow) Guide
--   [cDmsWx8ASzIxE3zw_Update_all_Zammad_Roles_to_default_values.json](workflows/cDmsWx8ASzIxE3zw_Update_all_Zammad_Roles_to_default_values.json)
-    Descripción: Este workflow Update all Zammad Roles to default values
--   [cGNK44mkCzIh4113_My_workflow_3.json](workflows/cGNK44mkCzIh4113_My_workflow_3.json)
-    Descripción: Este workflow I'm a note
--   [cGTxHYV93kS71hLL_Send_Discord_message_from_Webflow_form_submission.json](workflows/cGTxHYV93kS71hLL_Send_Discord_message_from_Webflow_form_submission.json)
-    Descripción: Este workflow Manage Webflow form submissions in Discord
--   [cGqPi5Uy2u1ShmoO_💻_Schedule_workflow_activity_time.json](workflows/cGqPi5Uy2u1ShmoO_💻_Schedule_workflow_activity_time.json)
-    Descripción: Este workflow Set targeted Workflow ID
--   [cKFPrgXstN3JgdJs_Extract_&_Summarize_Yelp_Business_Review_with_Bright_Data_and_Google_Gemini.json](workflows/cKFPrgXstN3JgdJs_Extract_&_Summarize_Yelp_Business_Review_with_Bright_Data_and_Google_Gemini.json)
-    Descripción: Este workflow LLM Usages
--   [cMccNWyyvptrhRt6_Baserow_markdown_to_html.json](workflows/cMccNWyyvptrhRt6_Baserow_markdown_to_html.json)
-    Descripción: Este workflow Tutorial
--   [cQAILffOajE9n2cf_Generate_Leads_with_Google_Maps_-_AlexK1919.json](workflows/cQAILffOajE9n2cf_Generate_Leads_with_Google_Maps_-_AlexK1919.json)
-    Descripción: Este workflow AlexK1919
--   [cRprVEUCjjvozkfb_Get_all_orders_in_Squarespace_to_Google_Sheets.json](workflows/cRprVEUCjjvozkfb_Get_all_orders_in_Squarespace_to_Google_Sheets.json)
-    Descripción: Este workflow Edit this node 👇
--   [cY8OVKzHS0ScRhP9_puq-docker-n8n-deploy.json](workflows/cY8OVKzHS0ScRhP9_puq-docker-n8n-deploy.json)
-    Descripción: Este workflow 👋 Welcome to PUQ Docker n8n deploy!
--   [caaf1WFANPKAikiH_Auto_categorize_wordpress_template.json](workflows/caaf1WFANPKAikiH_Auto_categorize_wordpress_template.json)
-    Descripción: Este workflow How to Auto-Categorize 82 Blog Posts in 2 Minutes using A.I. (No Coding Required)
--   [cmGsNvW9bEORABdo_Bitrix24_Chatbot_Application_Workflow_example_with_Webhook_Integration.json](workflows/cmGsNvW9bEORABdo_Bitrix24_Chatbot_Application_Workflow_example_with_Webhook_Integration.json)
-    Descripción: Este workflow Bitrix24 Chatbot Application Workflow example with Webhook Integration
--   [cpuFyJYHKmjHTncz_Adaptive_RAG.json](workflows/cpuFyJYHKmjHTncz_Adaptive_RAG.json)
-    Descripción: Este workflow Factual Strategy
--   [create_e-mail_responses_with_fastmail_and_OpenAI.json](workflows/create e-mail responses with fastmail and OpenAI.json)
-    Descripción: Este workflow Workflow Description:
--   [d23vz3qcBf6KfuZA_🎦🚀_YouTube_Video_Comment_Analysis_Agent.json](workflows/d23vz3qcBf6KfuZA_🎦🚀_YouTube_Video_Comment_Analysis_Agent.json)
-    Descripción: Este workflow 🛠️YouTube Video Details & Comments Processing Tool
--   [d3xtaER6gl4aqLZR_PUQ_Docker_NextCloud_deploy.json](workflows/d3xtaER6gl4aqLZR_PUQ_Docker_NextCloud_deploy.json)
-    Descripción: Este workflow 👋 Welcome to PUQ Docker NextCloud deploy!
--   [dCLvOuZgc8tToQwu_Add_new_incoming_emails_to_a_Google_Sheets_spreadsheet_as_a_new_row..json](workflows/dCLvOuZgc8tToQwu_Add_new_incoming_emails_to_a_Google_Sheets_spreadsheet_as_a_new_row..json)
-    Descripción: Este workflow Add new incoming emails to a Google Sheets spreadsheet as a new row.
--   [dDAqkobn2pqgdl2N_AI_Logo_Sheet_Extractor_to_Airtable.json](workflows/dDAqkobn2pqgdl2N_AI_Logo_Sheet_Extractor_to_Airtable.json)
-    Descripción: Este workflow Attribute Creation and Mapping those created or existing Ids
--   [dDInVHNAfSedBUCb_外送記帳.json](workflows/dDInVHNAfSedBUCb_外送記帳.json)
-    Descripción: Este workflow 外送記帳
--   [dLKIZxM6c0lRVbjb_Tech_Radar.json](workflows/dLKIZxM6c0lRVbjb_Tech_Radar.json)
-    Descripción: Este workflow 1.Rag-friendly Document
--   [dMiUunCiaMsCr1Wu_📄🛠️PDF2Blog.json](workflows/dMiUunCiaMsCr1Wu_📄🛠️PDF2Blog.json)
-    Descripción: Este workflow Upload PDF and Extract Text
--   [dQC8kExvbCrovWf0_Dynamically_switch_between_LLMs_Template.json](workflows/dQC8kExvbCrovWf0_Dynamically_switch_between_LLMs_Template.json)
-    Descripción: Este workflow Customer complaint - example
--   [dVDyWWhO5FdPM3qx_OCR_receipts_from_Google_Drive.json](workflows/dVDyWWhO5FdPM3qx_OCR_receipts_from_Google_Drive.json)
-    Descripción: Este workflow Recognize invoices and convert them into structured JSON
--   [dYjQS1bJmVSAxNnj_BambooHR_AI-Powered_Company_Policies_and_Benefits_Chatbot.json](workflows/dYjQS1bJmVSAxNnj_BambooHR_AI-Powered_Company_Policies_and_Benefits_Chatbot.json)
-    Descripción: Este workflow STEP #1: Retrieve company policies and load them into a vector store
--   [dgBdnnnY0622JwGy_workflow_dgBdnnnY0622JwGy.json](workflows/dgBdnnnY0622JwGy_workflow_dgBdnnnY0622JwGy.json)
-    Descripción: Este workflow dgBdnnnY0622JwGy_workflow_dgBdnnnY0622JwGy
--   [do4h6jnTGWDjCXV7_Merge.json](workflows/do4h6jnTGWDjCXV7_Merge.json)
-    Descripción: Este workflow Authentication
--   [eB4rTdZFvrdKK5VP_Backup_Squarespace_code_Injections_to_Github.json](workflows/eB4rTdZFvrdKK5VP_Backup_Squarespace_code_Injections_to_Github.json)
-    Descripción: Este workflow Backup to GitHub
--   [eF84e2NyJWTCVClW_Create_Custom_Presentations_per_Lead.json](workflows/eF84e2NyJWTCVClW_Create_Custom_Presentations_per_Lead.json)
-    Descripción: Este workflow Duplicate Template and Create Custom Presentations
--   [eHuvG2I1vOYj0U6k_My_workflow.json](workflows/eHuvG2I1vOYj0U6k_My_workflow.json)
-    Descripción: Este workflow OAuth2 Settings Finder with OpenRouter Chat Model and Llama 3.3
--   [eMxH0GjgfWEvBDic_HR_Job_Posting_and_Evaluation_with_AI.json](workflows/eMxH0GjgfWEvBDic_HR_Job_Posting_and_Evaluation_with_AI.json)
-    Descripción: Este workflow Grab User Details and Update in Airtable
--   [eOUewYsEzJmQixI6_Chat_with_Postgresql_Database.json](workflows/eOUewYsEzJmQixI6_Chat_with_Postgresql_Database.json)
-    Descripción: Este workflow 👨‍🎤 Setup
--   [ePnGZtZ8zLcf1UZZ_n8n_Error_Report_to_Line.json](workflows/ePnGZtZ8zLcf1UZZ_n8n_Error_Report_to_Line.json)
-    Descripción: Este workflow Error Handling
--   [eXiaTDyKfXpMeyLh_Dynamically_generate_HTML_page_from_user_request_using_OpenAI_Structured_Output.json](workflows/eXiaTDyKfXpMeyLh_Dynamically_generate_HTML_page_from_user_request_using_OpenAI_Structured_Output.json)
-    Descripción: Este workflow Generate HTML from user query
--   [eZT6SZ4Kvmq5TzyQ_Umami_analytics_template.json](workflows/eZT6SZ4Kvmq5TzyQ_Umami_analytics_template.json)
-    Descripción: Este workflow Send data from Umami to A.I. and then save to Baserow
--   [emPRhyWgxygwHgWh_Compare_2_SQL_datasets.json](workflows/emPRhyWgxygwHgWh_Compare_2_SQL_datasets.json)
-    Descripción: Este workflow Compare 2 SQL datasets
--   [f3BtfIEQ7lWiXBWQ_Connect_Airtable_Contacts_to_telli_for_Automated_AI_Voice_Call_Scheduling.json](workflows/f3BtfIEQ7lWiXBWQ_Connect_Airtable_Contacts_to_telli_for_Automated_AI_Voice_Call_Scheduling.json)
-    Descripción: Este workflow Upload your CRM contacts to telli and schedule AI voice-agent calls
--   [fEJliGTxbsE0G8z2_Create_Google_Creds.json](workflows/fEJliGTxbsE0G8z2_Create_Google_Creds.json)
-    Descripción: Este workflow Create Google Creds
--   [fGq0vUaD6JoqAbDa_Query_List_of_Sign-in_IPs.json](workflows/fGq0vUaD6JoqAbDa_Query_List_of_Sign-in_IPs.json)
-    Descripción: Este workflow Query the SaaS Alerts API
--   [fSG22q8TeUtsGUGD_📄✨_Easy_Wordpress_Content_Creation_from_PDF_Document_+_Human_In_The_Loop_with_Gmail_Approval.json](workflows/fSG22q8TeUtsGUGD_📄✨_Easy_Wordpress_Content_Creation_from_PDF_Document_+_Human_In_The_Loop_with_Gmail_Approval.json)
-    Descripción: Este workflow Upload PDF and Extract Text
--   [fW6PV9IaePKSMGbN_Unique_QRcode_coupon_assignment_and_validation_for_Lead_Generation_system.json](workflows/fW6PV9IaePKSMGbN_Unique_QRcode_coupon_assignment_and_validation_for_Lead_Generation_system.json)
-    Descripción: Este workflow Check if the lead has already received the coupon
--   [fa2TGWrY9rPurC30_Agent_Access_Control_Template.json](workflows/fa2TGWrY9rPurC30_Agent_Access_Control_Template.json)
-    Descripción: Este workflow Choose Base
--   [fqQcmSdoVqnPeGHj_OpenAI_Personal_Shopper_with_RAG_and_WooCommerce.json](workflows/fqQcmSdoVqnPeGHj_OpenAI_Personal_Shopper_with_RAG_and_WooCommerce.json)
-    Descripción: Este workflow Replace the URL and Collection name with your own
--   [fqaNojXWrspqjfkY_RAG_Workflow_For_Stock_Earnings_Report_Analysis.json](workflows/fqaNojXWrspqjfkY_RAG_Workflow_For_Stock_Earnings_Report_Analysis.json)
-    Descripción: Este workflow Set up steps
--   [fvYgcG9s1pqP5cQ6_Monitor_ProductHunt.json](workflows/fvYgcG9s1pqP5cQ6_Monitor_ProductHunt.json)
-    Descripción: Este workflow Monitor ProductHunt
--   [fvgP264GysfRJXdr_WordPress_Contact_Form_(CF7)_Responses_and_Classification.json](workflows/fvgP264GysfRJXdr_WordPress_Contact_Form_(CF7)_Responses_and_Classification.json)
-    Descripción: Este workflow PRELIMINARY STEP
--   [g25bM3Hj71T3ZVVe_Streamline_data_from_an_n8n_form_into_Google_Sheet_and_Airtable.json](workflows/g25bM3Hj71T3ZVVe_Streamline_data_from_an_n8n_form_into_Google_Sheet_and_Airtable.json)
-    Descripción: Este workflow Workflow Description:
--   [g3q68zSOQvTcydLs_Calculate_the_Centroid_of_a_Set_of_Vectors.json](workflows/g3q68zSOQvTcydLs_Calculate_the_Centroid_of_a_Set_of_Vectors.json)
-    Descripción: Este workflow 📌 **Description:**
--   [gAzsjTGbfWuvAObi_Fine-tuning_with_OpenAI_models.json](workflows/gAzsjTGbfWuvAObi_Fine-tuning_with_OpenAI_models.json)
-    Descripción: Este workflow Step 2
--   [gI3QGKTf52zwyh6O_AutoClip_–_Automatically_Generate_Video_Clips_and_Upload_to_YouTube.json](workflows/gI3QGKTf52zwyh6O_AutoClip_–_Automatically_Generate_Video_Clips_and_Upload_to_YouTube.json)
-    Descripción: Este workflow Data Preparation & File Selection
--   [gIZpJgLpUgdoNNDZ_YT_New_Video_Upload.json](workflows/gIZpJgLpUgdoNNDZ_YT_New_Video_Upload.json)
-    Descripción: Este workflow Upload New Video to Youtube 🎥⬆️
--   [gP9EsxKN5agUGzDS_Automate_Pinterest_Analysis_&_AI-Powered_Content_Suggestions_With_Pinterest_API.json](workflows/gP9EsxKN5agUGzDS_Automate_Pinterest_Analysis_&_AI-Powered_Content_Suggestions_With_Pinterest_API.json)
-    Descripción: Este workflow Scheduled trigger at 8:00am to start the workflow.
--   [gUx6hY0bOoReluxE_Supabase_Setup_Postgres.json](workflows/gUx6hY0bOoReluxE_Supabase_Setup_Postgres.json)
-    Descripción: Este workflow Supabase Setup Postgres
--   [gemC8tYGZk3LtBHG_Spotify_Sync_Liked_Songs_to_Playlist.json](workflows/gemC8tYGZk3LtBHG_Spotify_Sync_Liked_Songs_to_Playlist.json)
-    Descripción: Este workflow Spotify add all missing song from your Liked Songs to the Playlist.
--   [ghfbOYrOSiQVAbl5_Chatbot_AI.json](workflows/ghfbOYrOSiQVAbl5_Chatbot_AI.json)
-    Descripción: Este workflow For non-text, we do not process and just provide user that it's not supported right now
--   [gkOayLvJnwcTiHbk_itemMatching()_example.json](workflows/gkOayLvJnwcTiHbk_itemMatching()_example.json)
-    Descripción: Este workflow Generate example data
--   [gqwYlZvL1dwy9W3T_getBible_Query_v1.0.json](workflows/gqwYlZvL1dwy9W3T_getBible_Query_v1.0.json)
-    Descripción: Este workflow GetBible Query Workflow Documentation
--   [grxwlyzZb3z4WLAa_MCP_CALENDAR.json](workflows/grxwlyzZb3z4WLAa_MCP_CALENDAR.json)
-    Descripción: Este workflow MCP_CALENDAR
--   [gsra9JToRDftNEvH_🤓_Conversion_Rate_Optimizer.json](workflows/gsra9JToRDftNEvH_🤓_Conversion_Rate_Optimizer.json)
-    Descripción: Este workflow 🤓 Conversion Rate Optimizer
--   [h2uiciRa1D3ntSTT_My_workflow.json](workflows/h2uiciRa1D3ntSTT_My_workflow.json)
-    Descripción: Este workflow Automatic Weekly Digital PR Stories Suggestions
--   [hKkZYhJqBNir8amQ_🎥_Gemini_AI_Video_Analysis.json](workflows/hKkZYhJqBNir8amQ_🎥_Gemini_AI_Video_Analysis.json)
-    Descripción: Este workflow Video Analysis with Gemini AI
--   [heyKyETy1uK0xoX4_Optimize_Prompt.json](workflows/heyKyETy1uK0xoX4_Optimize_Prompt.json)
-    Descripción: Este workflow Trigger
--   [hiCTcf6srJl3Xsxh_Auto-create_and_publish_AI_social_videos_with_Telegram,_GPT-4_and_Blotato.json](workflows/hiCTcf6srJl3Xsxh_Auto-create_and_publish_AI_social_videos_with_Telegram,_GPT-4_and_Blotato.json)
-    Descripción: Este workflow 🟥 STEP 5 — Auto-Publish to 9 Social Platforms
--   [hmgR6wOkuqrn5y4Y_N_01_Simple_Lead_Tracker_Automation_v4.json](workflows/hmgR6wOkuqrn5y4Y_N_01_Simple_Lead_Tracker_Automation_v4.json)
-    Descripción: Este workflow Lead Submission
--   [hzwyrm761fxBLiG8_Personal_Portfolio_Resume_CV_Chatbot.json](workflows/hzwyrm761fxBLiG8_Personal_Portfolio_Resume_CV_Chatbot.json)
-    Descripción: Este workflow Set up steps
--   [i89dNLYeOVdTwtcL_Extract_&_Summarize_Indeed_Company_Info_with_Bright_Data_and_Google_Gemini.json](workflows/i89dNLYeOVdTwtcL_Extract_&_Summarize_Indeed_Company_Info_with_Bright_Data_and_Google_Gemini.json)
-    Descripción: Este workflow Note
--   [i8nBvPOtFYWk5eoq_Get_PDF_with_JSReport.json](workflows/i8nBvPOtFYWk5eoq_Get_PDF_with_JSReport.json)
-    Descripción: Este workflow Streamlining Billing Processes: From Data Input to Document Generation
--   [iA0rm7IWi7xmY5sQ_Get_Long_Lived_Facebook_User_or_Page_Access_Token.json](workflows/iA0rm7IWi7xmY5sQ_Get_Long_Lived_Facebook_User_or_Page_Access_Token.json)
-    Descripción: Este workflow Set Required Facebook Parameter
--   [iFkGAiVn3yBlykIG_Chinese_Translator.json](workflows/iFkGAiVn3yBlykIG_Chinese_Translator.json)
-    Descripción: Este workflow **Webhook from Line**
--   [iGAzT789R7Q1fOOE_Travel_Planning_Agent_with_Couchbase_Vector_Search,_Gemini_2.0_Flash_and_OpenAI.json](workflows/iGAzT789R7Q1fOOE_Travel_Planning_Agent_with_Couchbase_Vector_Search,_Gemini_2.0_Flash_and_OpenAI.json)
-    Descripción: Este workflow AI Travel Agent Powered by Couchbase.
--   [iLpBIRuhpWToO22N_🤖_On-Page_SEO_Audit.json](workflows/iLpBIRuhpWToO22N_🤖_On-Page_SEO_Audit.json)
-    Descripción: Este workflow Send Email
--   [ibiHg6umCqvcTF4g_Voice_RAG_Chatbot_with_ElevenLabs_and_OpenAI.json](workflows/ibiHg6umCqvcTF4g_Voice_RAG_Chatbot_with_ElevenLabs_and_OpenAI.json)
-    Descripción: Este workflow STEP 4
--   [ift5iHQG9G2lzJzP_Linkedin_to_Airtable.json](workflows/ift5iHQG9G2lzJzP_Linkedin_to_Airtable.json)
-    Descripción: Este workflow 📝 Description
--   [ikxQzs58WxtUjbuE_Entra_Contacts_to_Zammad_User_Sync.json](workflows/ikxQzs58WxtUjbuE_Entra_Contacts_to_Zammad_User_Sync.json)
-    Descripción: Este workflow Select Entra Contacts that should be synced to Zammad
--   [itzURpN5wbUNOXOw_[2_2]_KNN_classifier_(lands_dataset).json](workflows/itzURpN5wbUNOXOw_[2_2]_KNN_classifier_(lands_dataset).json)
-    Descripción: Este workflow Here we're classifying existing types of satellite imagery of land types:
--   [jAML9xW28lOdsObH_Daily_meetings_summarization_with_Gemini_AI.json](workflows/jAML9xW28lOdsObH_Daily_meetings_summarization_with_Gemini_AI.json)
-    Descripción: Este workflow Gemini Flash model a base
--   [jOI7FRhG1FkeqBLG_Wordpress_Form_to_Mautic.json](workflows/jOI7FRhG1FkeqBLG_Wordpress_Form_to_Mautic.json)
-    Descripción: Este workflow Receive Data from Wordpress Form
--   [jbTm6O9bLBMm6RWy_My_workflow_3.json](workflows/jbTm6O9bLBMm6RWy_My_workflow_3.json)
-    Descripción: Este workflow My workflow 3
--   [jhNsy4dPQYw9QDaa_Zoom_AI_Meeting_Assistant.json](workflows/jhNsy4dPQYw9QDaa_Zoom_AI_Meeting_Assistant.json)
-    Descripción: Este workflow Sub workflow: Create Task in ClickUp
--   [jzcvnlV8g6aseE4A_GitLab_MR_Auto-Review_&_Risk_Assessment.json](workflows/jzcvnlV8g6aseE4A_GitLab_MR_Auto-Review_&_Risk_Assessment.json)
-    Descripción: Este workflow - Triggers workflow when a merge request (MR) is created or updated.
--   [k22TSNIZXHaQ9rGr_Clockify_Backup_Template.json](workflows/k22TSNIZXHaQ9rGr_Clockify_Backup_Template.json)
-    Descripción: Este workflow Set Globals
--   [k9abwUyVzl7OCsAl_Realtime_Notion_Todoist_2-way_Sync_Template.json](workflows/k9abwUyVzl7OCsAl_Realtime_Notion_Todoist_2-way_Sync_Template.json)
-    Descripción: Este workflow Keep in sync
--   [kJMoiGRorIlsTYZv_Amazon_keywords.json](workflows/kJMoiGRorIlsTYZv_Amazon_keywords.json)
-    Descripción: Este workflow How to build your own Amazon keywords tool with n8n (For free and no coding)
--   [kS9EfgZeaK3QV6Mw_Build_an_MCP_server_with_Airtable.json](workflows/kS9EfgZeaK3QV6Mw_Build_an_MCP_server_with_Airtable.json)
-    Descripción: Este workflow Update SSE endpoint
--   [kZ3aL4r7xc96Q7lp_Selenium_Ultimate_Scraper_Workflow.json](workflows/kZ3aL4r7xc96Q7lp_Selenium_Ultimate_Scraper_Workflow.json)
-    Descripción: Este workflow N8N Ultimate Scraper - Workflow
--   [kZarev2IMUaKHhCI_Auto_-_Resume_Disabled_Workflows.json](workflows/kZarev2IMUaKHhCI_Auto_-_Resume_Disabled_Workflows.json)
-    Descripción: Este workflow Auto - Resume Disabled Workflows
--   [kbJb4VMD3SZlcS2u_CoinMarketCap_Exchange_and_Community_Agent_Tool.json](workflows/kbJb4VMD3SZlcS2u_CoinMarketCap_Exchange_and_Community_Agent_Tool.json)
-    Descripción: Este workflow 🧠 CoinMarketCap_Exchange_and_Community_Agent_Tool Guide
--   [keFEBUqHOrsib60G_🦙👁️👁️_Find_the_Best_Local_Ollama_Vision_Models_by_Comparison.json](workflows/keFEBUqHOrsib60G_🦙👁️👁️_Find_the_Best_Local_Ollama_Vision_Models_by_Comparison.json)
-    Descripción: Este workflow 👁️ Analyze Image with Local Ollama LLM
--   [kjyWJWfDlyXkKL3m_✨🔪_Advanced_AI_Powered_Document_Parsing_&_Text_Extraction_with_Llama_Parse.json](workflows/kjyWJWfDlyXkKL3m_✨🔪_Advanced_AI_Powered_Document_Parsing_&_Text_Extraction_with_Llama_Parse.json)
-    Descripción: Este workflow Send to LlamaParse
--   [knmxcsujuHmViJl4_Online_Marketing_Weekly_Report.json](workflows/knmxcsujuHmViJl4_Online_Marketing_Weekly_Report.json)
-    Descripción: Este workflow Sub-Workflow: Google Analytics Data
--   [lC8xkfCSTjIiUhpk_Google_Drive_Automation.json](workflows/lC8xkfCSTjIiUhpk_Google_Drive_Automation.json)
-    Descripción: Este workflow Google Drive Automation
--   [lStrENIdqN2WyGqW_Business_Canvas_Generator.json](workflows/lStrENIdqN2WyGqW_Business_Canvas_Generator.json)
-    Descripción: Este workflow 🔁 Changeable LLM Model
--   [lWfWe93aNGuNPLBz_Automate_Your_Customer_Service_With_WhatsApp_Business_Cloud_&_Asana.json](workflows/lWfWe93aNGuNPLBz_Automate_Your_Customer_Service_With_WhatsApp_Business_Cloud_&_Asana.json)
-    Descripción: Este workflow Setup
--   [lYOQGMEJDxugrfrT_MCP_GMAIL.json](workflows/lYOQGMEJDxugrfrT_MCP_GMAIL.json)
-    Descripción: Este workflow MCP_GMAIL
--   [lemlist__GPT-3_Supercharge_your_sales_workflows.json](workflows/lemlist __ GPT-3_ Supercharge your sales workflows.json)
-    Descripción: Este workflow lemlist __ GPT-3_ Supercharge your sales workflows
--   [lifB7iUXlDzr5dmI_LinkedIn_Profile_Discovery.json](workflows/lifB7iUXlDzr5dmI_LinkedIn_Profile_Discovery.json)
-    Descripción: Este workflow LinkedIn Profile Discovery
--   [ly8aZhPk5ZI8uB0Y_Discord_MCP_Server.json](workflows/ly8aZhPk5ZI8uB0Y_Discord_MCP_Server.json)
-    Descripción: Este workflow This gets all of the servers that your discord bot is currently in. If you have a bot in more than one server, you will need to let it know or at least hint at which server it is, or it may get stuck. If you specify a channel through your natural language request, then the model may keep trying to get servers' channels via the get channel node or it may give up before getting to the right one).
--   [m8gr0YZgCx5Qrsia_(G)_-_Email_Classification.json](workflows/m8gr0YZgCx5Qrsia_(G)_-_Email_Classification.json)
-    Descripción: Este workflow 2) Change to your desire LLMs
--   [m9aACcHqydEbH4nR_[2_3]_Set_up_medoids_(2_types)_for_anomaly_detection_(crops_dataset).json](workflows/m9aACcHqydEbH4nR_[2_3]_Set_up_medoids_(2_types)_for_anomaly_detection_(crops_dataset).json)
-    Descripción: Este workflow Setting Up Medoids for Anomaly Detection
--   [mE7Zvhv1lOd4Q3xY_CoinMarketCap_AI_Data_Analyst_Agent.json](workflows/mE7Zvhv1lOd4Q3xY_CoinMarketCap_AI_Data_Analyst_Agent.json)
-    Descripción: Este workflow 📊 CoinMarketCap AI Analyst Agent (n8n Workflow)
--   [mN7jDJoWHtJuyKpS_Generate_Graphic_Wallpaper_with_Midjourney,_GPT-4o-mini_and_Canvas_APIs.json](workflows/mN7jDJoWHtJuyKpS_Generate_Graphic_Wallpaper_with_Midjourney,_GPT-4o-mini_and_Canvas_APIs.json)
-    Descripción: Este workflow Generate Graphic Wallpaper with Midjourney, GPT-4o-mini and Canvas APIs
--   [mNbQmMNEvpiZqASG_Format_US_Phone_Number.json](workflows/mNbQmMNEvpiZqASG_Format_US_Phone_Number.json)
-    Descripción: Este workflow Format US Phone Number
--   [mOcaSIUAvpt3QjQ1_🌐_Confluence_Page_AI_Powered_Chatbot.json](workflows/mOcaSIUAvpt3QjQ1_🌐_Confluence_Page_AI_Powered_Chatbot.json)
-    Descripción: Este workflow Confluence
--   [mW6b4dMHkIDfnaIj_My_workflow_4.json](workflows/mW6b4dMHkIDfnaIj_My_workflow_4.json)
-    Descripción: Este workflow My workflow 4
--   [mb2MU4xOaT3NrvqN_Automate_LinkedIn_Posts_with_AI.json](workflows/mb2MU4xOaT3NrvqN_Automate_LinkedIn_Posts_with_AI.json)
-    Descripción: Este workflow Fetch the day's post from my Notion database
--   [mbgpq1PH1SFkHi6w_Add_new_clients_from_Notion_to_Clockify.json](workflows/mbgpq1PH1SFkHi6w_Add_new_clients_from_Notion_to_Clockify.json)
-    Descripción: Este workflow Notion
--   [mqdP7Aw1KnkIq2W5_Line_Save_File_to_Google_Drive_and_Log_File's_URL.json](workflows/mqdP7Aw1KnkIq2W5_Line_Save_File_to_Google_Drive_and_Log_File's_URL.json)
-    Descripción: Este workflow Workflow Entry & Configuration
--   [mqindLlOy0A0e5aA_Outlook.json](workflows/mqindLlOy0A0e5aA_Outlook.json)
-    Descripción: Este workflow Trigger Action
--   [mvgpK03LMiYSiyxH_SearchApi_AI_Agent.json](workflows/mvgpK03LMiYSiyxH_SearchApi_AI_Agent.json)
-    Descripción: Este workflow SearchApi AI Agent
--   [my335cY3wVwMqvqy_Reservation_Medcin.json](workflows/my335cY3wVwMqvqy_Reservation_Medcin.json)
-    Descripción: Este workflow **AI Agent 👇**
--   [n8cwEZfJLGn15Lqx_ERP_AI_chatbot_for_Odoo_sales_module.json](workflows/n8cwEZfJLGn15Lqx_ERP_AI_chatbot_for_Odoo_sales_module.json)
-    Descripción: Este workflow ERP chatbot for Odoo sales module
--   [nGpVbW7RTylKujyT_AI_powered_SEO_Keyword_Research_Automation_-_The_vibe_Marketer.json](workflows/nGpVbW7RTylKujyT_AI_powered_SEO_Keyword_Research_Automation_-_The_vibe_Marketer.json)
-    Descripción: Este workflow Notification and Update Status
--   [nJwkSOrJIFvutw1n_Flux_Dev_Image_Generation_Fal.ai.json](workflows/nJwkSOrJIFvutw1n_Flux_Dev_Image_Generation_Fal.ai.json)
-    Descripción: Este workflow Set Parameter Here
--   [nV1xFcF5HWJcD6w7_Automatically_Send_Daily_Meeting_List_to_Telegram.json](workflows/nV1xFcF5HWJcD6w7_Automatically_Send_Daily_Meeting_List_to_Telegram.json)
-    Descripción: Este workflow This workflow
--   [ni6SfqC3kthAlPtX_Personalized_AI_Tech_Newsletter_Using_RSS,_OpenAI_and_Gmail.json](workflows/ni6SfqC3kthAlPtX_Personalized_AI_Tech_Newsletter_Using_RSS,_OpenAI_and_Gmail.json)
-    Descripción: Este workflow 1. Save news in a vector store (runs daily)
--   [nkMjcOC4hpte1a0t_Extract_spend_details_(template).json](workflows/nkMjcOC4hpte1a0t_Extract_spend_details_(template).json)
-    Descripción: Este workflow A. Get data
--   [nkPjDxMrrkKbgHaV_Effortless_Email_Management_with_AI.json](workflows/nkPjDxMrrkKbgHaV_Effortless_Email_Management_with_AI.json)
-    Descripción: Este workflow STEP 1
--   [nmVATBvrztDxZX6z_LinkedIn_Profile_Finder_via_Form_using_Bright_Data_&_GPT-4o-mini.json](workflows/nmVATBvrztDxZX6z_LinkedIn_Profile_Finder_via_Form_using_Bright_Data_&_GPT-4o-mini.json)
-    Descripción: Este workflow LinkedIn Profile Finder via Form using Bright Data & GPT-4o-mini
--   [o4sdVtTrkuZXDATf_✨😃Automated_Workflow_Backups_to_Google_Drive.json](workflows/o4sdVtTrkuZXDATf_✨😃Automated_Workflow_Backups_to_Google_Drive.json)
-    Descripción: Este workflow Save Workflows to Google Drive
--   [o8HjmolfMilbaEkk_Telegram_echo-bot.json](workflows/o8HjmolfMilbaEkk_Telegram_echo-bot.json)
-    Descripción: Este workflow This is a workflow for a Telegram-echo bot
--   [o8iTqIh2sVvnuWz5_RAG_&_GenAI_App_With_WordPress_Content.json](workflows/o8iTqIh2sVvnuWz5_RAG_&_GenAI_App_With_WordPress_Content.json)
-    Descripción: Este workflow Workflow 1 : Initial Embedding
--   [oNJCLq4egGByMeSl_Remove_Advanced_Background_from_Google_Drive_Images.json](workflows/oNJCLq4egGByMeSl_Remove_Advanced_Background_from_Google_Drive_Images.json)
-    Descripción: Este workflow About this worfklow
--   [okMME97B70fXzK5U_send_file_to_kindle_through_telegram_bot.json](workflows/okMME97B70fXzK5U_send_file_to_kindle_through_telegram_bot.json)
-    Descripción: Este workflow preparations
--   [okjjim5PVb2dZUgg_FetchGithubIssues.json](workflows/okjjim5PVb2dZUgg_FetchGithubIssues.json)
-    Descripción: Este workflow Get Github Issues HTTP Request
--   [olDVR3wuxbUsTvuW_Get_all_scaleway_server_info_copy.json](workflows/olDVR3wuxbUsTvuW_Get_all_scaleway_server_info_copy.json)
-    Descripción: Este workflow Technical Documentation
--   [oowUGM7ey6gWxzEG_MCP_SUPABASE_AGENT.json](workflows/oowUGM7ey6gWxzEG_MCP_SUPABASE_AGENT.json)
-    Descripción: Este workflow AGENT_MESSAGE
--   [ozo5jlbwPHgaMnVt_Error_Handler_send_Telegram.json](workflows/ozo5jlbwPHgaMnVt_Error_Handler_send_Telegram.json)
-    Descripción: Este workflow **How to Use Telegram Error Notifier**
--   [p5bfwpcRy6LK33Io_Automate_Content_Generator_for_WordPress_with_DeepSeek_R1.json](workflows/p5bfwpcRy6LK33Io_Automate_Content_Generator_for_WordPress_with_DeepSeek_R1.json)
-    Descripción: Este workflow Target
--   [p7xESnT1xMZD2hRk_🧠_Give_Your_AI_Agent_Chatbot_Long_Term_Memory_Tools_Router.json](workflows/p7xESnT1xMZD2hRk_🧠_Give_Your_AI_Agent_Chatbot_Long_Term_Memory_Tools_Router.json)
-    Descripción: Este workflow 1️⃣ Save Memories
--   [pDLtBJkNSXXWSvB0_Training_Feedback_Automation.json](workflows/pDLtBJkNSXXWSvB0_Training_Feedback_Automation.json)
-    Descripción: Este workflow UserTask
--   [pPtCy6qPfEv1qNRn_[1_3_-_anomaly_detection]_[1_2_-_KNN_classification]_Batch_upload_dataset_to_Qdrant_(crops_dataset).json](workflows/pPtCy6qPfEv1qNRn_[1_3_-_anomaly_detection]_[1_2_-_KNN_classification]_Batch_upload_dataset_to_Qdrant_(crops_dataset).json)
-    Descripción: Este workflow In the next workflow, we're going to use Qdrant to get the number of images belonging to each crop type defined by `crop_name` (for example, *"cucumber"*).
--   [pcLi17oUJK9pSaee_Web_Server_Monitor..json](workflows/pcLi17oUJK9pSaee_Web_Server_Monitor..json)
-    Descripción: Este workflow 📘 Node Descriptions for Your Web Server Monitor Workflow
--   [pdgNdag49lwoTxUP_Track_Working_Time_and_Pauses.json](workflows/pdgNdag49lwoTxUP_Track_Working_Time_and_Pauses.json)
-    Descripción: Este workflow Track start time
--   [phqg5Kk3YowxoMHQ_Namesilo_Bulk_Domain_Availability_[Template].json](workflows/phqg5Kk3YowxoMHQ_Namesilo_Bulk_Domain_Availability_[Template].json)
-    Descripción: Este workflow How-To
--   [piapgd2e6zmzFxAq_HDW_Lead_Geländewagen.json](workflows/piapgd2e6zmzFxAq_HDW_Lead_Geländewagen.json)
-    Descripción: Este workflow Find leads in LinkedIn
--   [pkw1vY5q1p2nNfNC_Forward_Netflix_emails_to_multiple_email_addresses_with_GMail_and_Mailjet.json](workflows/pkw1vY5q1p2nNfNC_Forward_Netflix_emails_to_multiple_email_addresses_with_GMail_and_Mailjet.json)
-    Descripción: Este workflow Gmail
--   [plzObaqgoEvV4UU0_Post_on_X.json](workflows/plzObaqgoEvV4UU0_Post_on_X.json)
-    Descripción: Este workflow Heads up!
--   [pmJUJj7FAnrOS6Jc_Send_Slack_message_from_Webflow_form_submission.json](workflows/pmJUJj7FAnrOS6Jc_Send_Slack_message_from_Webflow_form_submission.json)
-    Descripción: Este workflow Manage Webflow form submissions in Slack
--   [ppsHlJlSpHPQJp4Q_workflow_ppsHlJlSpHPQJp4Q.json](workflows/ppsHlJlSpHPQJp4Q_workflow_ppsHlJlSpHPQJp4Q.json)
-    Descripción: Este workflow ppsHlJlSpHPQJp4Q_workflow_ppsHlJlSpHPQJp4Q
--   [q1DorytEoEw1QLGj_Generate_Company_Stories_from_LinkedIn_with_Bright_Data_&_Google_Gemini.json](workflows/q1DorytEoEw1QLGj_Generate_Company_Stories_from_LinkedIn_with_Bright_Data_&_Google_Gemini.json)
-    Descripción: Este workflow Note
--   [q8GNbRhjQDwDpXoo_How_to_automatically_import_CSV_files_into_postgres.json](workflows/q8GNbRhjQDwDpXoo_How_to_automatically_import_CSV_files_into_postgres.json)
-    Descripción: Este workflow How to automatically import CSV files into postgres
--   [q8IFGLeOCGSfoWZu_Email_AI_Auto-responder._Summerize_and_send_email.json](workflows/q8IFGLeOCGSfoWZu_Email_AI_Auto-responder._Summerize_and_send_email.json)
-    Descripción: Este workflow STEP 1
--   [qAzZekQuABuH8uho_Retry_on_fail_except_for_known_error_Template.json](workflows/qAzZekQuABuH8uho_Retry_on_fail_except_for_known_error_Template.json)
-    Descripción: Este workflow Set filter
--   [qhZvZVCoV3HLjRkq_Google_Maps_FULL.json](workflows/qhZvZVCoV3HLjRkq_Google_Maps_FULL.json)
-    Descripción: Este workflow AI-Powered Lead Generation Workflow
--   [qmmXKcpJOCm9qaCk_SERPBear_analytics_template.json](workflows/qmmXKcpJOCm9qaCk_SERPBear_analytics_template.json)
-    Descripción: Este workflow Send Matomo analytics to A.I. and save results to baserow
--   [qps97Q4NEet1Pkm4_puq-docker-immich-deploy.json](workflows/qps97Q4NEet1Pkm4_puq-docker-immich-deploy.json)
-    Descripción: Este workflow 👋 Welcome to PUQ Docker Immich deploy!
--   [qww129cm4TM9N8Ru_InstaTest.json](workflows/qww129cm4TM9N8Ru_InstaTest.json)
-    Descripción: Este workflow Easy Instagram(via ManyChat) bot
--   [r1u4HOJu5j5sP27x_Social_Media_Publisher.json](workflows/r1u4HOJu5j5sP27x_Social_Media_Publisher.json)
-    Descripción: Este workflow SETTINGS
--   [r3qHlCVCczqTw3pP_Zip_multiple_files.json](workflows/r3qHlCVCczqTw3pP_Zip_multiple_files.json)
-    Descripción: Este workflow About
--   [R4EuB1gx1IpMXCJM_CoinMarketCap_Crypto_Agent_Tool.json](workflows/R4EuB1gx1IpMXCJM_CoinMarketCap_Crypto_Agent_Tool.json)
-    Descripción: Este workflow 🧠 CoinMarketCap_Crypto_Agent_Tool Guide
--   [R6tFG45dQydBz63e_n8n_Community_Topic_Tracker_by_Keyword.json](workflows/R6tFG45dQydBz63e_n8n_Community_Topic_Tracker_by_Keyword.json)
-    Descripción: Este workflow Modify the Query Parameter
--   [ra8MrqshnzXPy55O_upload-post_images.json](workflows/ra8MrqshnzXPy55O_upload-post_images.json)
-    Descripción: Este workflow POST : to Instagram
--   [RAG_Chatbot_for_Company_Documents_using_Google_Drive_and_Gemini.json](workflows/RAG Chatbot for Company Documents using Google Drive and Gemini.json)
-    Descripción: Este workflow Chat with company documents
--   [RAG_Context-Aware_Chunking_Google_Drive_to_Pinecone_via_OpenRouter_&_Gemini.json](workflows/RAG_Context-Aware Chunking _ Google Drive to Pinecone via OpenRouter & Gemini.json)
-    Descripción: Este workflow Prepare Document.
--   [Recipe_Recommendations_with_Qdrant_and_Mistral.json](workflows/Recipe Recommendations with Qdrant and Mistral.json)
-    Descripción: Este workflow Recipe Recommendations with Qdrant and Mistral
--   [Reconcile_Rent_Payments_with_Local_Excel_Spreadsheet_and_OpenAI.json](workflows/Reconcile Rent Payments with Local Excel Spreadsheet and OpenAI.json)
-    Descripción: Este workflow Step 1. Wait For Incoming Bank Statements
--   [Reddit_AI_digest.json](workflows/Reddit AI digest.json)
-    Descripción: Este workflow What this workflow does
--   [Remove_Personally_Identifiable_Information_(PII)_from_CSV_Files_with_OpenAI.json](workflows/Remove Personally Identifiable Information (PII) from CSV Files with OpenAI.json)
-    Descripción: Este workflow Remove PII from CSV Files
--   [reQhibpNwU63Y8sn_Microsoft_Outlook_AI_Email_Assistant.json](workflows/reQhibpNwU63Y8sn_Microsoft_Outlook_AI_Email_Assistant.json)
-    Descripción: Este workflow Microsoft Outlook AI Email Assistant
--   [Respond_to_WhatsApp_Messages_with_AI_Like_a_Pro!.json](workflows/Respond to WhatsApp Messages with AI Like a Pro!.json)
-    Descripción: Este workflow 1. WhatsApp Trigger
--   [ReXF4z8ZKcEd6Kea_dub.co_URL_Shortener.json](workflows/ReXF4z8ZKcEd6Kea_dub.co_URL_Shortener.json)
-    Descripción: Este workflow Dub.co API Limits:
--   [RGVS0tHJV7Wh6aX4_Property_Lead_Contact_Enrichment_from_CRM.json](workflows/RGVS0tHJV7Wh6aX4_Property_Lead_Contact_Enrichment_from_CRM.json)
-    Descripción: Este workflow Property Lead Automation Workflow
--   [RJ4PaYq0JBr29KJm_Reschedule_overdue_Asana_tasks_and_clean_up_completed_tasks.json](workflows/RJ4PaYq0JBr29KJm_Reschedule_overdue_Asana_tasks_and_clean_up_completed_tasks.json)
-    Descripción: Este workflow ⚙️ Set Up
--   [rJNvM4vU6SLUeC1d_Sync_Youtube_Video_Urls_with_Google_Sheets.json](workflows/rJNvM4vU6SLUeC1d_Sync_Youtube_Video_Urls_with_Google_Sheets.json)
-    Descripción: Este workflow Sync Youtube Video Urls with Google Sheets
--   [RKbQHfblpcvMGZ4w_Form_with_Dynamic_Dropdown_Field.json](workflows/RKbQHfblpcvMGZ4w_Form_with_Dynamic_Dropdown_Field.json)
-    Descripción: Este workflow Form setup
--   [rLoXUoKSZ4a9XUAv_My_workflow_6.json](workflows/rLoXUoKSZ4a9XUAv_My_workflow_6.json)
-    Descripción: Este workflow My workflow 6
--   [RLWjEhY8L4TORAIj_NeurochainAI_Basic_API_Integration.json](workflows/RLWjEhY8L4TORAIj_NeurochainAI_Basic_API_Integration.json)
-    Descripción: Este workflow ERROR
--   [RMxcTgpFGpE3RdLZ_Telegram_Tron_Wallet_Blacklist_Checker.json](workflows/RMxcTgpFGpE3RdLZ_Telegram_Tron_Wallet_Blacklist_Checker.json)
-    Descripción: Este workflow TRON USDT Blacklist Checker
--   [rYuhIChQyjpGNvuR_Luma_AI_-_Webhook_Response_v1_-_AK.json](workflows/rYuhIChQyjpGNvuR_Luma_AI_-_Webhook_Response_v1_-_AK.json)
-    Descripción: Este workflow Define your SETTINGS here
--   [rtsvydad1MOCryia_🐋🤖_DeepSeek_AI_Agent_+_Telegram_+_LONG_TERM_Memory_🧠.json](workflows/rtsvydad1MOCryia_🐋🤖_DeepSeek_AI_Agent_+_Telegram_+_LONG_TERM_Memory_🧠.json)
-    Descripción: Este workflow Receive Telegram Message with Webhook
--   [RtTHLr1SAwIpntKr_Push_Multiple_Files_to_Github_Repo_via_Github_REST_API.json](workflows/RtTHLr1SAwIpntKr_Push_Multiple_Files_to_Github_Repo_via_Github_REST_API.json)
-    Descripción: Este workflow Push Multiple Files to GitHub Repo
--   [SCUbdpVPX4USbQmr_youtube_chapter_generator.json](workflows/SCUbdpVPX4USbQmr_youtube_chapter_generator.json)
-    Descripción: Este workflow Get Captions
--   [SHgOqN3ednIo5gNu_Find_Top_Keywords.json](workflows/SHgOqN3ednIo5gNu_Find_Top_Keywords.json)
-    Descripción: Este workflow Create time for yesterday and today. This will be used to gather and search for news articles within a specific range.
--   [SHpLY12UobbcWRnl_Slack_AI_Chatbot_with_RAG_for_company_staff.json](workflows/SHpLY12UobbcWRnl_Slack_AI_Chatbot_with_RAG_for_company_staff.json)
-    Descripción: Este workflow STEP 1
--   [SJrqDqTBIAyaZQkq_UTM_Link_Creator_&_QR_Code_Generator_with_Scheduled_Google_Analytics_Reports.json](workflows/SJrqDqTBIAyaZQkq_UTM_Link_Creator_&_QR_Code_Generator_with_Scheduled_Google_Analytics_Reports.json)
-    Descripción: Este workflow Create a marketing link with UTM parameters. Easily store in database and have QR code created and ready as well.
--   [Scrape_Trustpilot_Reviews_with_DeepSeek_Analyze_Sentiment_with_OpenAI.json](workflows/Scrape Trustpilot Reviews with DeepSeek, Analyze Sentiment with OpenAI.json)
-    Descripción: Este workflow Change to the name of the company registered on Trustpilot and the maximum number of pages to scrape
--   [Scrape_and_summarize_posts_of_a_news_site_without_RSS_feed_using_AI_and_save_them_to_a_NocoDB.json](workflows/Scrape and summarize posts of a news site without RSS feed using AI and save them to a NocoDB.json)
-    Descripción: Este workflow Select only the newest news: todays date going back xy days
--   [Scrape_and_summarize_webpages_with_AI.json](workflows/Scrape and summarize webpages with AI.json)
-    Descripción: Este workflow Scrape latest Paul Graham essays
--   [Screen_Applicants_With_AI_notify_HR_and_save_them_in_a_Google_Sheet.json](workflows/Screen Applicants With AI, notify HR and save them in a Google Sheet.json)
-    Descripción: Este workflow AI CV Screening Workflow
--   [Sebvr1R2t4zkAg1V_Gratitude_Jar_Reminder.json](workflows/Sebvr1R2t4zkAg1V_Gratitude_Jar_Reminder.json)
-    Descripción: Este workflow Trigger
--   [Send_Google_analytics_data_to_A.I._to_analyze_then_save_results_in_Baserow.json](workflows/Send Google analytics data to A.I. to analyze then save results in Baserow.json)
-    Descripción: Este workflow Send Google analytics to A.I. and save results to baserow
--   [Send_Google_analytics_data_to_A.I._to_analyze_then_save_results_in_BaserowSend_Google_analytics_data_to_A.I._to_analyze_then_save_results_in_Baserow.json](workflows/Send Google analytics data to A.I. to analyze then save results in BaserowSend Google analytics data to A.I. to analyze then save results in Baserow.json)
-    Descripción: Este workflow Send Google analytics to A.I. and save results to baserow
--   [Send_a_ChatGPT_email_reply_and_save_responses_to_Google_Sheets.json](workflows/Send a ChatGPT email reply and save responses to Google Sheets.json)
-    Descripción: Este workflow Configuration
--   [Send_a_random_recipe_once_a_day_to_Telegram.json](workflows/Send a random recipe once a day to Telegram.json)
-    Descripción: Este workflow Send a random recipe once a day to Telegram
--   [Send_daily_translated_Calvin_and_Hobbes_Comics_to_Discord.json](workflows/Send daily translated Calvin and Hobbes Comics to Discord.json)
-    Descripción: Este workflow
--   [Send_specific_PDF_attachments_from_Gmail_to_Google_Drive_using_OpenAI.json](workflows/Send specific PDF attachments from Gmail to Google Drive using OpenAI.json)
-    Descripción: Este workflow Send specific PDF attachments from Gmail to Google Drive using OpenAI
--   [Sentiment_Analysis_Tracking_on_Support_Issues_with_Linear_and_Slack_(1).json](workflows/Sentiment Analysis Tracking on Support Issues with Linear and Slack (1).json)
-    Descripción: Este workflow 1. Continuously Monitor Active Linear Issues
--   [Sentiment_Analysis_Tracking_on_Support_Issues_with_Linear_and_Slack.json](workflows/Sentiment Analysis Tracking on Support Issues with Linear and Slack.json)
-    Descripción: Este workflow 1. Continuously Monitor Active Linear Issues
--   [Share_YouTube_Videos_with_AI_Summaries_on_Discord.json](workflows/Share YouTube Videos with AI Summaries on Discord.json)
-    Descripción: Este workflow Summarise Your YouTube Videos with AI for Discord
--   [SiQUWOBCyXCAA5f9_Generate_New_Keywords_with_Search_Volumes⚒️⚒️🟢🟢.json](workflows/SiQUWOBCyXCAA5f9_Generate_New_Keywords_with_Search_Volumes⚒️⚒️🟢🟢.json)
-    Descripción: Este workflow Generate new keywords for SEO with the monthly Search volumes
--   [Simple_Expense_Tracker_with_n8n_Chat_AI_Agent_and_Google_Sheets.json](workflows/Simple Expense Tracker with n8n Chat, AI Agent and Google Sheets.json)
-    Descripción: Este workflow Save your expenses via chat message.
--   [Siri_AI_Agent_Apple_Shortcuts_powered_voice_template.json](workflows/Siri AI Agent_ Apple Shortcuts powered voice template.json)
-    Descripción: Este workflow
--   [Slack_slash_commands_AI_Chat_Bot.json](workflows/Slack slash commands AI Chat Bot.json)
-    Descripción: Este workflow Command Trigger
--   [Social_Media_Analysis_and_Automated_Email_Generation.json](workflows/Social Media Analysis and Automated Email Generation.json)
-    Descripción: Este workflow Personalize here
--   [Speed_Up_Social_Media_Banners_With_BannerBear.com.json](workflows/Speed Up Social Media Banners With BannerBear.com.json)
-    Descripción: Este workflow 1. Start with n8n Forms
--   [Spot_Workplace_Discrimination_Patterns_with_AI.json](workflows/Spot Workplace Discrimination Patterns with AI.json)
-    Descripción: Este workflow Spot Workplace Discrimination Patterns using ScrapingBee, Glassdoor, OpenAI, and QuickChart
--   [Store_Notion_s_Pages_as_Vector_Documents_into_Supabase_with_OpenAI.json](workflows/Store Notion_s Pages as Vector Documents into Supabase with OpenAI.json)
-    Descripción: Este workflow Store Notion's Pages as Vector Documents into Supabase
--   [Suggest_meeting_slots_using_AI.json](workflows/Suggest meeting slots using AI.json)
-    Descripción: Este workflow Check if incoming email is about appointment
--   [Summarize_Google_Sheets_form_feedback_via_OpenAI_s_GPT-4.json](workflows/Summarize Google Sheets form feedback via OpenAI_s GPT-4.json)
-    Descripción: Este workflow 1. Create a Google Sheet document
--   [Summarize_SERPBear_data_with_AI_(via_Openrouter)_and_save_it_to_Baserow.json](workflows/Summarize SERPBear data with AI (via Openrouter) and save it to Baserow.json)
-    Descripción: Este workflow Send Matomo analytics to A.I. and save results to Baserow
--   [Summarize_Umami_data_with_AI_(via_Openrouter)_and_save_it_to_Baserow.json](workflows/Summarize Umami data with AI (via Openrouter) and save it to Baserow.json)
-    Descripción: Este workflow Send data from Umami to A.I. and then save to Baserow
--   [Summarize_YouTube_Videos_from_Transcript.json](workflows/Summarize YouTube Videos from Transcript.json)
-    Descripción: Este workflow **Summarize YouTube videos**
--   [Summarize_the_New_Documents_from_Google_Drive_and_Save_Summary_in_Google_Sheet.json](workflows/Summarize the New Documents from Google Drive and Save Summary in Google Sheet.json)
-    Descripción: Este workflow Get Latest File
--   [Summarize_your_emails_with_A.I._(via_Openrouter)_and_send_to_Line_messenger_(1).json](workflows/Summarize your emails with A.I. (via Openrouter) and send to Line messenger (1).json)
-    Descripción: Este workflow Summarize emails with A.I.
--   [Summarize_your_emails_with_A.I._(via_Openrouter)_and_send_to_Line_messenger.json](workflows/Summarize your emails with A.I. (via Openrouter) and send to Line messenger.json)
-    Descripción: Este workflow Summarize emails with A.I.
--   [Supabase_Insertion_&_Upsertion_&_Retrieval.json](workflows/Supabase Insertion & Upsertion & Retrieval.json)
-    Descripción: Este workflow INSERTING
--   [Survey_Insights_with_Qdrant_Python_and_Information_Extractor.json](workflows/Survey Insights with Qdrant, Python and Information Extractor.json)
-    Descripción: Este workflow Step 1. Import Survey Responses
--   [SvYHgLmzosuLAe4A_Google_Calendar_Event_Reminder.json](workflows/SvYHgLmzosuLAe4A_Google_Calendar_Event_Reminder.json)
-    Descripción: Este workflow Google Calendar Event Reminder
--   [SvZQB2gsI57KlfvO_💥AI_Social_Video_Generator_with_GPT-4,_Kling_&_Blotato_—Auto-Post_to_Instagram,_Facebook,_TikTok,_Twitter_&_Pinterest_-_vide.json](workflows/SvZQB2gsI57KlfvO_💥AI_Social_Video_Generator_with_GPT-4,_Kling_&_Blotato_—Auto-Post_to_Instagram,_Facebook,_TikTok,_Twitter_&_Pinterest_-_vide.json)
-    Descripción: Este workflow 🟫 STEP 1 — Create Video Using AI
--   [TBiW9x7O4ijo4yOX_Bitrix24_Open_Chanel_RAG_Chatbot_Application_Workflow_example_with_Webhook_Integration.json](workflows/TBiW9x7O4ijo4yOX_Bitrix24_Open_Chanel_RAG_Chatbot_Application_Workflow_example_with_Webhook_Integration.json)
-    Descripción: Este workflow Subworkflow for Register Bot
--   [TEA7K9MSVQGCWKe6_A_B_Split_Testing.json](workflows/TEA7K9MSVQGCWKe6_A_B_Split_Testing.json)
-    Descripción: Este workflow 1. Receive Message
--   [TS1wT16JCcy1Dt9Q_Airtop_Web_Agent.json](workflows/TS1wT16JCcy1Dt9Q_Airtop_Web_Agent.json)
-    Descripción: Este workflow Note
--   [TTj6BiN7bQKTa6FM_Indeed_Company_Data_Scraper_&_Summarization_with_Airtable,_Bright_Data_and_Google_Gemini.json](workflows/TTj6BiN7bQKTa6FM_Indeed_Company_Data_Scraper_&_Summarization_with_Airtable,_Bright_Data_and_Google_Gemini.json)
-    Descripción: Este workflow Note
--   [TWcBOEMLFs7e6KjP_Whisper_Transkription_copy.json](workflows/TWcBOEMLFs7e6KjP_Whisper_Transkription_copy.json)
-    Descripción: Este workflow Trigger and Download of audio file
--   [Talk_to_your_SQLite_database_with_a_LangChain_AI_Agent.json](workflows/Talk to your SQLite database with a LangChain AI Agent.json)
-    Descripción: Este workflow Run this part only once
--   [Telegram_AI_Bot_NeurochainAI_Text_&_Image_-_NeurochainAI_Basic_API_Integration.json](workflows/Telegram AI Bot_ NeurochainAI Text & Image - NeurochainAI Basic API Integration.json)
-    Descripción: Este workflow ERROR
--   [Telegram_AI_Chatbot.json](workflows/Telegram AI Chatbot.json)
-    Descripción: Este workflow Error fallback for unsupported commands
--   [Telegram_AI_bot_assistant_ready-made_template_for_voice_&_text_messages.json](workflows/Telegram AI bot assistant_ ready-made template for voice & text messages.json)
-    Descripción: Este workflow Receive and pre-process messages
--   [Telegram_AI_bot_with_LangChain_nodes.json](workflows/Telegram AI bot with LangChain nodes.json)
-    Descripción: Este workflow Generate an image with Dall-E 3 and send it via Telegram
--   [Telegram_Bot_with_Supabase_memory_and_OpenAI_assistant_integration.json](workflows/Telegram Bot with Supabase memory and OpenAI assistant integration.json)
-    Descripción: Este workflow SQL query to create table in Supabase:
--   [Telegram_chat_with_PDF.json](workflows/Telegram chat with PDF.json)
-    Descripción: Este workflow Load data into database
--   [Telegram_to_Spotify_with_OpenAI.json](workflows/Telegram to Spotify with OpenAI.json)
-    Descripción: Este workflow Telegram to Spotify
--   [Telr6HU0ltH7s9f7_🗨️Ollama_Chat.json](workflows/Telr6HU0ltH7s9f7_🗨️Ollama_Chat.json)
-    Descripción: Este workflow 🦙 Ollama Chat Workflow
--   [Text_automations_using_Apple_Shortcuts_(1).json](workflows/Text automations using Apple Shortcuts (1).json)
-    Descripción: Este workflow Workflow: Text automations using Apple Shortcuts
--   [Text_automations_using_Apple_Shortcuts.json](workflows/Text automations using Apple Shortcuts.json)
-    Descripción: Este workflow Workflow: Text automations using Apple Shortcuts
--   [TfwQRZkTBtykx1rM_Enrich_Company_Data_from_Google_Sheet_with_OpenAI_Agent_and_Scraper_Tool.json](workflows/TfwQRZkTBtykx1rM_Enrich_Company_Data_from_Google_Sheet_with_OpenAI_Agent_and_Scraper_Tool.json)
-    Descripción: Este workflow Enrich Company Data from Google Sheet with OpenAI Scraper Agent
--   [ThLx9WKLEujJHrvW_Github_Releases.json](workflows/ThLx9WKLEujJHrvW_Github_Releases.json)
-    Descripción: Este workflow GitHub Releases Config
--   [Tqa8dikBDLYEytx5_Automated_Content_SEO_Audit_Report.json](workflows/Tqa8dikBDLYEytx5_Automated_Content_SEO_Audit_Report.json)
-    Descripción: Este workflow Content SEO Audit Report
--   [TqnC0nyAa0LRfYBX_Amazon_Product_Price_Tracker.json](workflows/TqnC0nyAa0LRfYBX_Amazon_Product_Price_Tracker.json)
-    Descripción: Este workflow Amazon Product Price Tracker
--   [Transcribe_Audio_Files,_Summarize_with_GPT-4,_and_Store_in_Notion.json](workflows/Transcribe Audio Files, Summarize with GPT-4, and Store in Notion.json)
-    Descripción: Este workflow Trigger and Download of audio file
--   [Transcribing_Bank_Statements_To_Markdown_Using_Gemini_Vision_AI.json](workflows/Transcribing Bank Statements To Markdown Using Gemini Vision AI.json)
-    Descripción: Este workflow Try Me Out!
--   [Transform_Image_to_Lego_Style_Using_Line_and_Dall-E.json](workflows/Transform Image to Lego Style Using Line and Dall-E.json)
-    Descripción: Este workflow Transform Image to Lego Style Using Line and Dall-E
--   [Translate_Telegram_audio_messages_with_AI_(55_supported_languages).json](workflows/Translate Telegram audio messages with AI (55 supported languages).json)
-    Descripción: Este workflow Translation
--   [Translate_audio_using_AI.json](workflows/Translate audio using AI.json)
-    Descripción: Este workflow 1] In ElevenLabs, add a voice to your [voice lab](https://elevenlabs.io/voice-lab) and copy its ID. Open this node and add the ID there
--   [TtoDcjgthgA4NTkU_AI_Voice_Chat_using_Webhook,_Memory_Manager,_OpenAI,_Google_Gemini_&_ElevenLabs.json](workflows/TtoDcjgthgA4NTkU_AI_Voice_Chat_using_Webhook,_Memory_Manager,_OpenAI,_Google_Gemini_&_ElevenLabs.json)
-    Descripción: Este workflow Get Context
--   [Turn_Emails_into_AI-Enhanced_Tasks_in_Notion_(Multi-User_Support)_with_Gmail,_Airtable_and_Softr.json](workflows/Turn Emails into AI-Enhanced Tasks in Notion (Multi-User Support) with Gmail, Airtable and Softr.json)
-    Descripción: Este workflow Setup
--   [Twitter_Virtual_AI_Influencer.json](workflows/Twitter Virtual AI Influencer.json)
-    Descripción: Este workflow Scheduled posting
--   [Tygtx1aZi9pLdtUo_Fully_automated_Video_Captions_generation_with_json2video.json](workflows/Tygtx1aZi9pLdtUo_Fully_automated_Video_Captions_generation_with_json2video.json)
-    Descripción: Este workflow Check video status
--   [U1xUqDLvBYYSU6EU_Jira_Retrospective.json](workflows/U1xUqDLvBYYSU6EU_Jira_Retrospective.json)
-    Descripción: Este workflow Epic Done?
--   [U6cY7PPR0vaRl1I0_Scrape_Web_Data_with_Bright_Data,_Google_Gemini_and_MCP_Automated_AI_Agent.json](workflows/U6cY7PPR0vaRl1I0_Scrape_Web_Data_with_Bright_Data,_Google_Gemini_and_MCP_Automated_AI_Agent.json)
-    Descripción: Este workflow Bright Data Web Scraper
--   [U8EOTtZvmZPMYc6m_Agentic_Telegram_AI_bot_with_LangChain_nodes_and_new_tools.json](workflows/U8EOTtZvmZPMYc6m_Agentic_Telegram_AI_bot_with_LangChain_nodes_and_new_tools.json)
-    Descripción: Este workflow Generate an image with Dall-E-3 and send it via Telegram
--   [U9RofpXSIIUg12f9_AI_Social_Media_Publisher_from_WordPress.json](workflows/U9RofpXSIIUg12f9_AI_Social_Media_Publisher_from_WordPress.json)
-    Descripción: Este workflow Get the Post ID of the Wordpress article on which you want to generate the caption for social media
--   [UTM_Link_Creator_&_QR_Code_Generator_with_Scheduled_Google_Analytics_Reports.json](workflows/UTM Link Creator & QR Code Generator with Scheduled Google Analytics Reports.json)
-    Descripción: Este workflow Create a marketing link with UTM parameters. Easily store in database and have QR code created and ready as well.
--   [Ultimate_Scraper_Workflow_for_n8n.json](workflows/Ultimate Scraper Workflow for n8n.json)
-    Descripción: Este workflow N8N Ultimate Scraper - Workflow
--   [Ultimate_Personal_Assistant.json](workflows/Ultimate_Personal_Assistant.json)
-    Descripción: Este workflow Ultimate Personal Assistant
--   [Um37boya1U0mnCjS_Workflow_dashboard_with_mermaid.js.json](workflows/Um37boya1U0mnCjS_Workflow_dashboard_with_mermaid.js.json)
-    Descripción: Este workflow IMPORTANT NOTE FOR CLOUD USERS
--   [Update_Twitter_banner_using_HTTP_request.json](workflows/Update Twitter banner using HTTP request.json)
-    Descripción: Este workflow Update Twitter banner using HTTP request
--   [Upload_to_Instagram_and_Tiktok_from_Google_Drive.json](workflows/Upload to Instagram and Tiktok from Google Drive.json)
-    Descripción: Este workflow Description
--   [Upsert_huge_documents_in_a_vector_store_with_Supabase_and_Notion.json](workflows/Upsert huge documents in a vector store with Supabase and Notion.json)
-    Descripción: Este workflow Switch trigger (optional)
--   [UsBaGY83vnyZjRoB_TopSourcer_-_Finds_LinkedIn_Profiles_using_natural_language.json](workflows/UsBaGY83vnyZjRoB_TopSourcer_-_Finds_LinkedIn_Profiles_using_natural_language.json)
-    Descripción: Este workflow Click "Open Chat" after activating the workflow.
--   [Use_AI_to_organize_your_Todoist_Inbox.json](workflows/Use AI to organize your Todoist Inbox.json)
-    Descripción: Este workflow 💫 To setup this template
--   [Use_OpenRouter_in_n8n_versions_1.78.json](workflows/Use OpenRouter in n8n versions _1.78.json)
-    Descripción: Este workflow Settings
--   [Using_External_Workflows_as_Tools_in_n8n.json](workflows/Using External Workflows as Tools in n8n.json)
-    Descripción: Este workflow Send URL got Crawl
--   [UuuCIDvTNnloIlvq_Automate_Etsy_Data_Mining_with_Bright_Data_Scrape_&_Google_Gemini.json](workflows/UuuCIDvTNnloIlvq_Automate_Etsy_Data_Mining_with_Bright_Data_Scrape_&_Google_Gemini.json)
-    Descripción: Este workflow Note
--   [V1vbO2m79cFNH59h_Basic_PDF_Digital_Sign_Service.json](workflows/V1vbO2m79cFNH59h_Basic_PDF_Digital_Sign_Service.json)
-    Descripción: Este workflow Cryptographic Operations
--   [V8ypWn7oaOVS3zH0_AI_Social_Media_Caption_Creator.json](workflows/V8ypWn7oaOVS3zH0_AI_Social_Media_Caption_Creator.json)
-    Descripción: Este workflow Welcome to my AI Social Media Caption Creator Workflow!
--   [VLRbAr4OrtnHUU2l_Todoist_Weekly_Review_Template.json](workflows/VLRbAr4OrtnHUU2l_Todoist_Weekly_Review_Template.json)
-    Descripción: Este workflow Todoist Weekly Review Template
--   [VU0kmvnWzctSFm2M_Convert_Parquet,_Avro,_ORC_&_Feather_via_ParquetReader_to_JSON.json](workflows/VU0kmvnWzctSFm2M_Convert_Parquet,_Avro,_ORC_&_Feather_via_ParquetReader_to_JSON.json)
-    Descripción: Este workflow ✅ **How to Use This Flow**
--   [VY4TXYGmqth57Een_Docsify_example.json](workflows/VY4TXYGmqth57Een_Docsify_example.json)
-    Descripción: Este workflow Main Docsify webhook
--   [VaU41OXvni95OlAL_address_validation.json](workflows/VaU41OXvni95OlAL_address_validation.json)
-    Descripción: Este workflow Get and Prepare Oder Data
--   [Vector_Database_as_a_Big_Data_Analysis_Tool_for_AI_Agents_[1_3_anomaly][1_2_KNN].json](workflows/Vector Database as a Big Data Analysis Tool for AI Agents [1_3 anomaly][1_2 KNN].json)
-    Descripción: Este workflow In the next workflow, we're going to use Qdrant to get the number of images belonging to each crop type defined by `crop_name` (for example, *"cucumber"*).
--   [Vector_Database_as_a_Big_Data_Analysis_Tool_for_AI_Agents_[2_2_KNN]_(1).json](workflows/Vector Database as a Big Data Analysis Tool for AI Agents [2_2 KNN] (1).json)
-    Descripción: Este workflow Here we're classifying existing types of satellite imagery of land types:
--   [Vector_Database_as_a_Big_Data_Analysis_Tool_for_AI_Agents_[2_2_KNN].json](workflows/Vector Database as a Big Data Analysis Tool for AI Agents [2_2 KNN].json)
-    Descripción: Este workflow Here we're classifying existing types of satellite imagery of land types:
--   [Vector_Database_as_a_Big_Data_Analysis_Tool_for_AI_Agents_[2_3_-_anomaly].json](workflows/Vector Database as a Big Data Analysis Tool for AI Agents [2_3 - anomaly].json)
-    Descripción: Este workflow Setting Up Medoids for Anomaly Detection
--   [Vector_Database_as_a_Big_Data_Analysis_Tool_for_AI_Agents_[3_3_-_anomaly].json](workflows/Vector Database as a Big Data Analysis Tool for AI Agents [3_3 - anomaly].json)
-    Descripción: Este workflow We are working here with crops dataset:
--   [Venafi_Cloud_Slack_Cert_Bot.json](workflows/Venafi Cloud Slack Cert Bot.json)
-    Descripción: Este workflow
--   [VhN3CX6QPBkX77pZ_Use_any_LLM-Model_via_OpenRouter.json](workflows/VhN3CX6QPBkX77pZ_Use_any_LLM-Model_via_OpenRouter.json)
-    Descripción: Este workflow Settings
--   [ViCY8FzVGcRsxVcK_Sell_a_Used_Car.json](workflows/ViCY8FzVGcRsxVcK_Sell_a_Used_Car.json)
-    Descripción: Este workflow Sell a Used Car
--   [Visual_Regression_Testing_with_Apify_and_AI_Vision_Model.json](workflows/Visual Regression Testing with Apify and AI Vision Model.json)
-    Descripción: Este workflow Part A. Generate Base Images
--   [Visualize_your_SQL_Agent_queries_with_OpenAI_and_Quickchart.io.json](workflows/Visualize your SQL Agent queries with OpenAI and Quickchart.io.json)
-    Descripción: Este workflow Overview
--   [VoLT6Omw9KMQgPum_Weekly_Shodan_Query___Report_Accidents__no_function_node_.json](workflows/VoLT6Omw9KMQgPum_Weekly_Shodan_Query___Report_Accidents__no_function_node_.json)
-    Descripción: Este workflow
--   [VtiRiIGkdeUhyh0N_GoogleSheets_MySQL_Integration.json](workflows/VtiRiIGkdeUhyh0N_GoogleSheets_MySQL_Integration.json)
-    Descripción: Este workflow Create a new Google Form with several variables:
--   [VwU1zMhcgzgPS9ak_List_Builder.json](workflows/VwU1zMhcgzgPS9ak_List_Builder.json)
-    Descripción: Este workflow List Builder
--   [W1ugowsjzt1SC4hH_Validate_Seatable_Webhooks_with_HMAC_SHA256_Authentication.json](workflows/W1ugowsjzt1SC4hH_Validate_Seatable_Webhooks_with_HMAC_SHA256_Authentication.json)
-    Descripción: Este workflow 📌 Validate Seatable Webhooks with HMAC SHA256 Authentication
--   [W1xEzKKEd1qV2D7V_2._Add_Beehiiv_newsletter_subscribers_from_Gumroad_sales.json](workflows/W1xEzKKEd1qV2D7V_2._Add_Beehiiv_newsletter_subscribers_from_Gumroad_sales.json)
-    Descripción: Este workflow Trigger on a new Gumroad sale
--   [W5cevjhP3xIQdMhT_Simple_LinkedIn_profile_collector.json](workflows/W5cevjhP3xIQdMhT_Simple_LinkedIn_profile_collector.json)
-    Descripción: Este workflow Adaptation required
--   [WBkJdubQjVzMUhwi_Shopify_to_Google_Sheets_Product_Sync_Automation.json](workflows/WBkJdubQjVzMUhwi_Shopify_to_Google_Sheets_Product_Sync_Automation.json)
-    Descripción: Este workflow This workflow automates the synchronization of product data from a Shopify store to a Google Sheets document, ensuring seamless management and tracking. It retrieves product details such as title, tags, description, and price from Shopify via GraphQL queries. The outcome is a comprehensive list of products neatly organized in Google Sheets for easy access and analysis.
--   [WCh8N9PrO0UIwrqW_Automatizacion_X.json](workflows/WCh8N9PrO0UIwrqW_Automatizacion_X.json)
-    Descripción: Este workflow Automatizacion X
--   [WETMyIJCbD3et6Rh_High-Level_Service_Page_SEO_Blueprint_Report.json](workflows/WETMyIJCbD3et6Rh_High-Level_Service_Page_SEO_Blueprint_Report.json)
-    Descripción: Este workflow Generate High-Level Service Page Blueprint Report
--   [WGUpujme8ctIkBF8_Live_link_checker.json](workflows/WGUpujme8ctIkBF8_Live_link_checker.json)
-    Descripción: Este workflow Connect your Google Sheets account.
--   [WLSqXECfQF7rOj2A_Open_Deep_Research_-_AI-Powered_Autonomous_Research_Workflow.json](workflows/WLSqXECfQF7rOj2A_Open_Deep_Research_-_AI-Powered_Autonomous_Research_Workflow.json)
-    Descripción: Este workflow SerpAPI Setup Instructions
--   [WUFuYk56jNNpjfZm_Real_Estate_Market_Scanning.json](workflows/WUFuYk56jNNpjfZm_Real_Estate_Market_Scanning.json)
-    Descripción: Este workflow Main Workflow Flow
--   [WUX0BsRA1dbzTKnl_Email_mailbox_as_Todoist_tasks.json](workflows/WUX0BsRA1dbzTKnl_Email_mailbox_as_Todoist_tasks.json)
-    Descripción: Este workflow Select Trigger
--   [WceMkVib0VLlF1BZ_Vector_DB_Loader_from_Google_Drive.json](workflows/WceMkVib0VLlF1BZ_Vector_DB_Loader_from_Google_Drive.json)
-    Descripción: Este workflow Creative Commons License
--   [WordPress_-_AI_Chatbot_to_enhance_user_experience_-_with_Supabase_and_OpenAI.json](workflows/WordPress - AI Chatbot to enhance user experience - with Supabase and OpenAI.json)
-    Descripción: Este workflow Workflow 1 : Initial Embedding
--   [Write_a_WordPress_post_with_AI_(starting_from_a_few_keywords).json](workflows/Write a WordPress post with AI (starting from a few keywords).json)
-    Descripción: Este workflow Data check
--   [WsksMHrmAQrG32db_ClockifyBlockiaWorkflow.json](workflows/WsksMHrmAQrG32db_ClockifyBlockiaWorkflow.json)
-    Descripción: Este workflow ClockifyBlockiaWorkflow
--   [WulUYgcXvako9hBy_Testing_Mulitple_Local_LLM_with_LM_Studio.json](workflows/WulUYgcXvako9hBy_Testing_Mulitple_Local_LLM_with_LM_Studio.json)
-    Descripción: Este workflow 🧠Text Analysis
--   [WwEFqNK4YP6UJcg2_Auto_Knowledge_Base_Article_Generator.json](workflows/WwEFqNK4YP6UJcg2_Auto_Knowledge_Base_Article_Generator.json)
-    Descripción: Este workflow Writer Agent
--   [XGFs5jZNCeURd4OT_Publish_Image_Post_to_Bluesky.json](workflows/XGFs5jZNCeURd4OT_Publish_Image_Post_to_Bluesky.json)
-    Descripción: Este workflow Define Your Post Caption Here
--   [XSyVFC1tsGSxNwX9_Complete_Youtube.json](workflows/XSyVFC1tsGSxNwX9_Complete_Youtube.json)
-    Descripción: Este workflow Main Workflow
--   [XY0cZQwrhzOkisSt_Monitor_Competitor_Pricing.json](workflows/XY0cZQwrhzOkisSt_Monitor_Competitor_Pricing.json)
-    Descripción: Este workflow Monitor Competitor Pricing
--   [XYz1JYUXFHFVdlLj_Restore_your_workflows_from_GitHub.json](workflows/XYz1JYUXFHFVdlLj_Restore_your_workflows_from_GitHub.json)
-    Descripción: Este workflow Restore from GitHub
--   [XbawQw3cvClu2wsx_Automated_Image_Metadata_Tagging.json](workflows/XbawQw3cvClu2wsx_Automated_Image_Metadata_Tagging.json)
-    Descripción: Este workflow Welcome to my Automated Image Metadata Tagging Workflow!
--   [Xfz2YRxH6qFfpqHw_SEO_Blog_Generator_with_GPT-4o,_Perplexity,_and_Telegram_Integration.json](workflows/Xfz2YRxH6qFfpqHw_SEO_Blog_Generator_with_GPT-4o,_Perplexity,_and_Telegram_Integration.json)
-    Descripción: Este workflow Write SEO Optimized Blog Post
--   [XiwLd0JwGmDoY0mr_Image-to-3D.json](workflows/XiwLd0JwGmDoY0mr_Image-to-3D.json)
-    Descripción: Este workflow Image-to-3D
--   [Xk0W98z9DVrNHeku_AI-Powered_Information_Monitoring_with_OpenAI,_Google_Sheets,_Jina_AI_and_Slack.json](workflows/Xk0W98z9DVrNHeku_AI-Powered_Information_Monitoring_with_OpenAI,_Google_Sheets,_Jina_AI_and_Slack.json)
-    Descripción: Este workflow LLM Call 1 - Article Topic Relevance Classification
--   [XnGZZfT5u0Cw1X3p_Attachments_Gmail_to_drive_and_google_sheets.json](workflows/XnGZZfT5u0Cw1X3p_Attachments_Gmail_to_drive_and_google_sheets.json)
-    Descripción: Este workflow Setup
--   [Xs7x61YMFsbpB4vg_Colombian_Invoices_Processing.json](workflows/Xs7x61YMFsbpB4vg_Colombian_Invoices_Processing.json)
-    Descripción: Este workflow 🧾 Colombian electronic invoices processing
--   [Xx4zOjRFLI8W9PiC_Analyze_Reddit_Posts_with_AI_to_Identify_Business_Opportunities.json](workflows/Xx4zOjRFLI8W9PiC_Analyze_Reddit_Posts_with_AI_to_Identify_Business_Opportunities.json)
-    Descripción: Este workflow Data Collection
--   [XxkmcgZC4OtIOVoD_Youtube_Video_Transcript_Extraction.json](workflows/XxkmcgZC4OtIOVoD_Youtube_Video_Transcript_Extraction.json)
-    Descripción: Este workflow Youtube Video Transcript Extraction
--   [Y5URlIlbX4HDzWKA_airflow_dag_run.json](workflows/Y5URlIlbX4HDzWKA_airflow_dag_run.json)
-    Descripción: Este workflow airflow dag_run
--   [YCQFaJdmJc6Rx4o7_Sync_Jira_issues_with_subsequent_comments_to_Notion_database.json](workflows/YCQFaJdmJc6Rx4o7_Sync_Jira_issues_with_subsequent_comments_to_Notion_database.json)
-    Descripción: Este workflow `IF` & `Switch` nodes
--   [YKZBEx4DTf0KGEBR_Image-Based_Data_Extraction_API_using_Gemini_AI.json](workflows/YKZBEx4DTf0KGEBR_Image-Based_Data_Extraction_API_using_Gemini_AI.json)
-    Descripción: Este workflow Sample API Call (cURL)
--   [YOUR_WORKFLOW_ID_Automated_Content_Generation_&_Publishing_-_Wordpress.json](workflows/YOUR_WORKFLOW_ID_Automated_Content_Generation_&_Publishing_-_Wordpress.json)
-    Descripción: Este workflow Automated Article Scheduling
--   [YSjQ7TVCNY9v1F2A_Monitor_security_advisories.json](workflows/YSjQ7TVCNY9v1F2A_Monitor_security_advisories.json)
-    Descripción: Este workflow
--   [YVNJOltj0jMQatGz_Stripe_Payment_Order_Sync_–_Auto_Retrieve_Customer_&_Product_Purchased.json](workflows/YVNJOltj0jMQatGz_Stripe_Payment_Order_Sync_–_Auto_Retrieve_Customer_&_Product_Purchased.json)
-    Descripción: Este workflow Stripe Payment Order Sync – Auto Retrieve Customer & Product Purchased
--   [YZpFvpXOTYkBpiUU_Extract_Business_Leads_from_Google_Maps_with_Dumpling_AI_to_Google_Sheets.json](workflows/YZpFvpXOTYkBpiUU_Extract_Business_Leads_from_Google_Maps_with_Dumpling_AI_to_Google_Sheets.json)
-    Descripción: Este workflow 🔍 Workflow Goal
--   [YkATyvsBXigxnMgo_AI-Driven_WooCommerce_Product_Importer_with_SEO.json](workflows/YkATyvsBXigxnMgo_AI-Driven_WooCommerce_Product_Importer_with_SEO.json)
-    Descripción: Este workflow STEP 1
--   [YoUP55V241b9F2ze_Qdrant_Vector_Database_Embedding_Pipeline.json](workflows/YoUP55V241b9F2ze_Qdrant_Vector_Database_Embedding_Pipeline.json)
-    Descripción: Este workflow Fetch JSON File List
--   [YybYYc430rmZWJPJ_Log_errors_and_avoid_sending_too_many_emails.json](workflows/YybYYc430rmZWJPJ_Log_errors_and_avoid_sending_too_many_emails.json)
-    Descripción: Este workflow Log errors and avoid sending too many emails
--   [Z5OgwYfK4reCTv9y_LINE_Assistant_with_Google_Calendar_and_Gmail_Integration.json](workflows/Z5OgwYfK4reCTv9y_LINE_Assistant_with_Google_Calendar_and_Gmail_Integration.json)
-    Descripción: Este workflow LINE Assistant with Google Calendar and Gmail Integration
--   [ZBH1ExE58wsoodkZ_OpenSea_NFT_Agent_Tool.json](workflows/ZBH1ExE58wsoodkZ_OpenSea_NFT_Agent_Tool.json)
-    Descripción: Este workflow OpenSea NFT Agent Tool (n8n Workflow) Guide
--   [ZCAkUSpaxzoRPbse_Search_&_Summarize_Web_Data_with_Perplexity,_Gemini_AI_&_Bright_Data_to_Webhooks.json](workflows/ZCAkUSpaxzoRPbse_Search_&_Summarize_Web_Data_with_Perplexity,_Gemini_AI_&_Bright_Data_to_Webhooks.json)
-    Descripción: Este workflow Note
--   [ZDL9028SnyCxS5tf_Bitrix24_Task_Form_Widget_Application_Workflow_example_with_Webhook_Integration.json](workflows/ZDL9028SnyCxS5tf_Bitrix24_Task_Form_Widget_Application_Workflow_example_with_Webhook_Integration.json)
-    Descripción: Este workflow Bitrix24 Task Form Widget Application Workflow example with Webhook Integration
--   [ZI0PxugfKsyepqeH_Shopify_order_UTM_to_Baserow.json](workflows/ZI0PxugfKsyepqeH_Shopify_order_UTM_to_Baserow.json)
-    Descripción: Este workflow Shopify API
--   [ZdGZh4qmOqTQe1oq_MONDAY_GET_FULL_ITEM.json](workflows/ZdGZh4qmOqTQe1oq_MONDAY_GET_FULL_ITEM.json)
-    Descripción: Este workflow PULL ALL BOARDRELATION COLUMNS AND THEIR DATA
--   [ZeSJSbwXI593H1Qj_Social_Media_AI_Agent_-_Telegram.json](workflows/ZeSJSbwXI593H1Qj_Social_Media_AI_Agent_-_Telegram.json)
-    Descripción: Este workflow Automate the curation and sharing of trending GitHub discussions from Hacker News to Twitter and LinkedIn. This workflow leverages AI to generate engaging posts, streamlining your social media content creation and distribution.
--   [ZiIoKEClTk83g1Jt_Gmail_to_Vector_Embeddings_with_PGVector_and_Ollama.json](workflows/ZiIoKEClTk83g1Jt_Gmail_to_Vector_Embeddings_with_PGVector_and_Ollama.json)
-    Descripción: Este workflow Bulk e-mail import
--   [ZkIH2ygj2BNSfMOh_Dynamic_Form_with_AI.json](workflows/ZkIH2ygj2BNSfMOh_Dynamic_Form_with_AI.json)
-    Descripción: Este workflow Avoid Asking Redundant Questions with Dynamically Generated Forms using OpenAI
--   [Zoom_AI_Meeting_Assistant_creates_mail_summary,_ClickUp_tasks_and_follow-up_call.json](workflows/Zoom AI Meeting Assistant creates mail summary, ClickUp tasks and follow-up call.json)
-    Descripción: Este workflow Sub workflow: Create Task in ClickUp
--   [Zp0R3I1dUjZOIz2l_Sync_New_Shopify_Customers_to_Odoo_Contacts.json](workflows/Zp0R3I1dUjZOIz2l_Sync_New_Shopify_Customers_to_Odoo_Contacts.json)
-    Descripción: Este workflow Sync New Shopify Customers to Odoo Contacts
--   [ZpgJpdtmq6MM1jr2_AI_T-Shirt_Redesign_Workflow_from_any_Mockup_Image.json](workflows/ZpgJpdtmq6MM1jr2_AI_T-Shirt_Redesign_Workflow_from_any_Mockup_Image.json)
-    Descripción: Este workflow Send a mockup image url to chat
--   [Zrd98BnbmN1Px9an_Youtube_Searcher.json](workflows/Zrd98BnbmN1Px9an_Youtube_Searcher.json)
-    Descripción: Este workflow Save Videos To Database
--   [zeyTmqqmXaQIFWzV_OIDC_client_workflow.json](workflows/zeyTmqqmXaQIFWzV_OIDC_client_workflow.json)
-    Descripción: Este workflow In this set, you have to retrieve from your identity provider :
--   [ziJG3tgG91Gkbina_n8n-農產品.json](workflows/ziJG3tgG91Gkbina_n8n-農產品.json)
-    Descripción: Este workflow n8n-農產品
--   [zic2ZEHvxHR4UAYI_Import_multiple_CSV_to_GoogleSheet.json](workflows/zic2ZEHvxHR4UAYI_Import_multiple_CSV_to_GoogleSheet.json)
-    Descripción: Este workflow Import multiple CSV to GoogleSheet
--   [zlHbtHIcCZ9enKwg_v1_helper_-_Find_params_with_affected_expressions.json](workflows/zlHbtHIcCZ9enKwg_v1_helper_-_Find_params_with_affected_expressions.json)
-    Descripción: Este workflow v1 Helper
--   [zmgSshZ5xESr3ozl_HR_&_IT_Helpdesk_Chatbot_with_Audio_Transcription.json](workflows/zmgSshZ5xESr3ozl_HR_&_IT_Helpdesk_Chatbot_with_Audio_Transcription.json)
-    Descripción: Este workflow 1. Download & Extract Internal Policy Documents
--   [zMtPPjJ80JJznrJP_AI-Powered_WhatsApp_Chatbot_for_Text,_Voice,_Images_&_PDFs.json](workflows/zMtPPjJ80JJznrJP_AI-Powered_WhatsApp_Chatbot_for_Text,_Voice,_Images_&_PDFs.json)
-    Descripción: Este workflow Text
--   [znRwva47HzXesOYk_Travel_AssistantAgent.json](workflows/znRwva47HzXesOYk_Travel_AssistantAgent.json)
-    Descripción: Este workflow Workflow AI Traveling Agent, powered by MongoDB Atlas for memory and vector search.
+- [0001-nostr-damus-ai-report.json](workflows/0001-nostr-damus-ai-report.json)
+  Descripción: Este flujo automatizado analiza contenido Nostr con el hashtag #damus usando modelos de lenguaje para generar informes y luego envía los resultados por correo electrónico y Telegram.
+
+- [0002-Gumroad-MailerLite-trigger.json](workflows/0002-Gumroad-MailerLite-trigger.json)
+  Descripción: Este flujo automático añade un suscriptor a MailerLite cuando se produce una venta en Gumroad y lo asigna inmediatamente a un grupo específico.
+
+- [0003-line-chatgpt-image-flow.json](workflows/0003-line-chatgpt-image-flow.json)
+  Descripción: Este flujo automático procesa solicitudes de generación de imágenes a través del chatbot LINE y los almacena en Google Drive como archivos binarios y en una hoja de cálculo con detalles incluyendo prompts, costos estimados e información relevante.
+
+- [0004-connectwise-ticket-alerts-to-teams.json](workflows/0004-connectwise-ticket-alerts-to-teams.json)
+  Descripción: Este flujo automático se activa cada día entre las 8 y las 4 de la tarde para consultar tickets nuevos en Connectwise con ciertas condiciones, filtrar aquellos ya notificados usando Redis, combinarlos por empresa o sitio en mensajes HTML y enviar alertas a Microsoft Teams.
+
+- [0005-google-calendar-outlook-sync.json](workflows/0005-google-calendar-outlook-sync.json)
+  Descripción: Este flujo sincroniza eventos entre Google Calendar y Microsoft Outlook, creando automáticamente eventos en Outlook cuando se añaden en Gmail y eliminándolos al cancelarse.
+
+- [0006-airtable-hn-job-scraping.json](workflows/0006-airtable-hn-job-scraping.json)
+  Descripción: Este flujo automático permite extraer y estructurar ofertas de trabajo publicadas en 'Ask HN: Who is hiring' en Hacker News utilizando la API de Algolia.
+
+- [0007-social-media-creator.json](workflows/0007-social-media-creator.json)
+  Descripción: Este flujo automático permite a un chatbot crear contenido optimizado para múltiples redes sociales (X-Twitter, Instagram, Facebook, LinkedIn, Threads, YouTube Shorts) utilizando modelos LLM y herramientas de búsqueda web. Genera posts con estructuras JSON específicas y crea imágenes usando servicios externos como pollinations.ai.
+
+- [0008-notion_linkedin_pub.json](workflows/0008-notion_linkedin_pub.json)
+  Descripción: Este flujo automático publica cada día en LinkedIn un post seleccionado desde una base de datos de Notion, basándose en la fecha y hora programadas.
+
+- [0009-multi-agente-ia.json](workflows/0009-multi-agente-ia.json)
+  Descripción: Este flujo permite mantener una conversación multirrútil con múltiples agentes de IA basados en los modelos y configuraciones definidos, combinando sus respuestas e incorporando memoria para seguimiento.
+
+- [0010-crm-lead-batchdata-calification.json](workflows/0010-crm-lead-batchdata-calification.json)
+  Descripción: Este flujo verifica y califica leads utilizando BatchData para consultar detalles de propiedades como valor estimado, tamaño o antigüedad, y luego actualiza automáticamente el registro del lead en el CRM con esta información.
+
+- [0011-totp-generator.json](workflows/0011-totp-generator.json)
+  Descripción: Este flujo de trabajo genera códigos TOTP automáticamente al ejecutar el botón 'Test workflow'.
+
+- [0012-typeform-feedback-route.json](workflows/0012-typeform-feedback-route.json)
+  Descripción: Este flujo analiza respuestas de formularios Typeform y las clasifica en hojas de cálculo de Google según si el valor numérico 'usefulness' es mayor o igual a 3.
+
+- [0013-bitwarden-line-sync.json](workflows/0013-bitwarden-line-sync.json)
+  Descripción: Este flujo automático crea un nuevo grupo en Bitwarden, obtiene la lista de miembros del chatbot de LINE para sincronizar suscripciones, actualiza los miembros dentro del grupo creado y finalmente verifica el resultado obtenido.
+
+- [0014-monitor-verstappen-tweets.json](workflows/0014-monitor-verstappen-tweets.json)
+  Descripción: Este flujo busca los últimos tweets públicos y privados con la palabra clave 'Verstappen', luego compara esos resultados con una lista existente en Airtable para identificar y guardar solo las nuevas entradas, eliminando duplicados.
+
+- [0015-berlin-clima-plivo.json](workflows/0015-berlin-clima-plivo.json)
+  Descripción: Este flujo automático envía cada día a las 9:00 el pronóstico del tiempo actual de Berlín mediante un mensaje usando Plivo.
+
+- [0016-todoist-task-creator.json](workflows/0016-todoist-task-creator.json)
+  Descripción: Este flujo permite crear una nueva tarea en la aplicación Todoist a través de un trigger manual.
+
+- [0017-stripe-hubspot-slack.json](workflows/0017-stripe-hubspot-slack.json)
+  Descripción: Este flujo automático actualiza un deal en HubSpot a pagado cuando una factura de Stripe se paga exitosamente e informa sobre el pago y detalles del mismo mediante mensajes en Slack.
+
+- [0018-entrevistas-y-participantes.json](workflows/0018-entrevistas-y-participantes.json)
+  Descripción: Este flujo procesa dos conjuntos de datos separados que contienen información sobre entrevistas y sus participantes, convirtiendo cada entrada individual en un objeto independiente para luego fusionarlos basándose en claves específicas.
+
+- [0019-EscrituraJSONBinario.json](workflows/0019-EscrituraJSONBinario.json)
+  Descripción: Este flujo automatizado crea datos JSON de ejemplo, los convierte a formato binario (Base64) y escribe este contenido en un archivo.
+
+
+- [0020-todoist-ai-categorization.json](workflows/0020-todoist-ai-categorization.json)
+  Descripción: Este flujo organiza automáticamente tareas de Todoist en proyectos específicos usando inteligencia artificial para categorizarlas.
+
+- [0021-mock-contacts-to-sheet.json](workflows/0021-mock-contacts-to-sheet.json)
+  Descripción: Este flujo carga datos de ejemplo de contacto del servicio HubSpot en un conjunto (Set) para luego simular una operación de 'agregar fila' o similar hacia Google Sheets/Airtable.
+
+- [0022-copper-person-flow.json](workflows/0022-copper-person-flow.json)
+  Descripción: Este flujo automatizado crea un registro en Copper con el nombre Harshil y su correo electrónico, luego actualiza ese registro agregando un número telefónico específico e finalmente obtiene los detalles actualizados de la persona.
+
+- [0023-coda-insert-data.json](workflows/0023-coda-insert-data.json)
+  Descripción: Este flujo n8n inserta datos nuevos en una tabla específica de un documento Coda cuando se activa manualmente mediante un clic.
+
+- [0024-iss-position-updates.json](workflows/0024-iss-position-updates.json)
+  Descripción: Este flujo automático obtiene cada minuto la posición actual de la Estación Espacial Internacional (ISS) desde una API externa y envía los datos a un topic en ActiveMQ.
+
+- [0025-google-slides-thumbnail.json](workflows/0025-google-slides-thumbnail.json)
+  Descripción: Este flujo automático permite descargar una miniatura de página específica en Google Slides después de haber obtenido previamente todos los slides de la presentación.
+
+- [0026-linkedin-top-sourcer.json](workflows/0026-linkedin-top-sourcer.json)
+  Descripción: Este flujo permite encontrar perfiles de LinkedIn utilizando técnicas de búsqueda booleana a partir de una descripción natural del candidato.
+
+- [0027-chargebee-nuevo-cliente.json](workflows/0027-chargebee-nuevo-cliente.json)
+  Descripción: Este flujo automático permite crear un nuevo cliente en Chargebee al ejecutar la tarea manual.
+
+- [0028-verificacion-email-deliverable.json](workflows/0028-verificacion-email-deliverable.json)
+  Descripción: Este flujo verifica si el correo electrónico 'mcolomer@gmail.com' es válido y entregable utilizando un servicio externo.
+
+- [0029-mattermost-emelia-trigger.json](workflows/0029-mattermost-emelia-trigger.json)
+  Descripción: Este flujo automático envía notificaciones a Mattermost cuando alguien responde en una campaña específica de Emelia.
+
+- [0030-iss-monitoring-sqs.json](workflows/0030-iss-monitoring-sqs.json)
+  Descripción: Este flujo automático verifica cada minuto la posición del satélite ISS mediante una API y almacena los datos en variables para su uso posterior.
+
+- [0031-webflow-crear-y-actualizar.json](workflows/0031-webflow-crear-y-actualizar.json)
+  Descripción: Este flujo permite crear e actualizar un elemento en la colección de Webflow mediante una activación manual.
+
+- [0032-iss-satellite-monitoring.json](workflows/0032-iss-satellite-monitoring.json)
+  Descripción: Este flujo automatizado consulta periódicamente la posición del satélite ISS mediante una API y carga los datos en Google BigQuery.
+
+- [0033-ip-location-email.json](workflows/0033-ip-location-email.json)
+  Descripción: Este flujo verifica si el usuario está en España mediante su IP y envía un correo de bienvenida en español o inglés según la ubicación detectada.
+
+- [0034-clearbit-persona-buscar.json](workflows/0034-clearbit-persona-buscar.json)
+  Descripción: Este flujo permite buscar información detallada de una persona utilizando su correo electrónico mediante la API Clearbit.
+
+- [0035-airtable-mailcheck-validacion.json](workflows/0035-airtable-mailcheck-validacion.json)
+  Descripción: Este flujo verifica automáticamente el correo electrónico de un contacto en la base de datos y actualiza el campo 'Valid' en una tabla de Airtable con el resultado. Primero lista registros de Airtable, luego toma el email para hacer la verificación mediante Mailcheck API.
+
+- [0036-mattermost-notificacion-iniciado.json](workflows/0036-mattermost-notificacion-iniciado.json)
+  Descripción: Este flujo de trabajo utiliza el inicio automático de n8n para enviar un mensaje en el canal especificado de Mattermost con la hora exacta del momento de activación.
+
+- [0037-mattermost-trigger.json](workflows/0037-mattermost-trigger.json)
+  Descripción: Este flujo inverso utiliza una actualización de Mattermost como entrada para disparar un evento y enviar el mensaje configurado.
+
+- [0038-orbit-member-update.json](workflows/0038-orbit-member-update.json)
+  Descripción: Este flujo automatiza la creación y actualización de un miembro en Orbit, añade sus etiquetas, crea una nota personalizada para él y publica un artículo existente en su perfil.
+
+- [0039-clickup-task-creator.json](workflows/0039-clickup-task-creator.json)
+  Descripción: Este flujo automático permite crear una tarea en ClickUp mediante un desencadenador manual.
+
+- [0040-screenshot-automation.json](workflows/0040-screenshot-automation.json)
+  Descripción: Este flujo automatizado genera capturas de pantalla de la página web https://uproc.io en modo completo y normal, las sube a Dropbox con rutas específicas y envía un email con ambos archivos adjuntos.
+
+- [0041-filemaker-multi-step.json](workflows/0041-filemaker-multi-step.json)
+  Descripción: Este flujo automático ejecuta acciones secuenciales de FileMaker: primero crea un registro en 'My Form Layout', luego edita el país en la misma tabla y finalmente consulta un registro existente.
+
+- [0042-iss-mqtt-flow.json](workflows/0042-iss-mqtt-flow.json)
+  Descripción: Este flujo automático ejecuta una llamada HTTP cada minuto para obtener la posición actual de la Estación Espacial Internacional desde api.wheretheiss.at, procesa los datos y los envía a través de MQTT al tópico 'iss-position'.
+
+- [0043-rag-supabase-notion.json](workflows/0043-rag-supabase-notion.json)
+  Descripción: Este flujo automatizado permite a un chatbot mantener una conversación contextualizada con datos actuales de Notion utilizando embeddings almacenados en Supabase.
+
+- [0044-gmail-drive-adjunto.json](workflows/0044-gmail-drive-adjunto.json)
+  Descripción: Este flujo automático extrae mensajes de Gmail, guarda adjuntos en Google Drive y luego obtiene el enlace directo para facilitar su acceso.
+
+- [0045-google-books-automation.json](workflows/0045-google-books-automation.json)
+  Descripción: Este flujo automático obtiene información de un volumen específico y lo añade a una estantería en la API de Google Books mediante secuencia de llamadas con autenticación OAuth2.
+
+- [0046-email-invite-calendar.json](workflows/0046-email-invite-calendar.json)
+  Descripción: Este flujo automático envía un email de invitación al encuentro concreto cuando se hace clic en el botón 'execute', adjuntando la iCal correspondiente.
+
+- [0047-calendly-notion-auto.json](workflows/0047-calendly-notion-auto.json)
+  Descripción: Este flujo automatizado crea un nuevo registro en una base de datos Notion cada vez que se crea un 'invitee' (invitado) en Calendly.
+
+- [0048-notion-mattermost-marketing.json](workflows/0048-notion-mattermost-marketing.json)
+  Descripción: Este flujo automático verifica si una página nueva en la base de datos Notion específica es del equipo Marketing y, en ese caso, envía un mensaje a Mattermost con detalles sobre la nueva página.
+
+- [0049-chargebee-event-trigger.json](workflows/0049-chargebee-event-trigger.json)
+  Descripción: Este flujo automático recibe actualizaciones para cualquier evento en Chargebee.
+
+- [0050-calendly-humantic-personality-analysis.json](workflows/0050-calendly-humantic-personality-analysis.json)
+  Descripción: Este flujo automatizado responde a eventos de Calendly (como la creación de un invitado) para ejecutar análisis de personalidad con Humantic AI y almacenar posteriormente los resultados en una página de base de datos de Notion.
+
+- [0052-release-content-publisher.json](workflows/0052-release-content-publisher.json)
+  Descripción: Este flujo automático permite obtener y publicar todos los contenidos cuyo nombre comienza con 'release' utilizando Storyblok.
+
+- [0053-ssl-expiry-checker.json](workflows/0053-ssl-expiry-checker.json)
+  Descripción: Este flujo automático verifica si el certificado SSL de n8n.io ha caducado y envía una notificación por Telegram en caso afirmativo.
+
+- [0054-clickup-trigger.json](workflows/0054-clickup-trigger.json)
+  Descripción: Este flujo automático se activa al recibir actualizaciones de cualquier evento en la herramienta ClickUp.
+
+- [0055-line-message-processing.json](workflows/0055-line-message-processing.json)
+  Descripción: Este flujo analiza mensajes recibidos y procesa diferentes acciones según su tipo.
+
+- [0056-aws-transcribe-s3.json](workflows/0056-aws-transcribe-s3.json)
+  Descripción: Este flujo ejecuta AWS Transcribe con todos los archivos encontrados en el bucket 'n8n-docs' de S3.
+
+- [0057-uptime-robot-monitor-management.json](workflows/0057-uptime-robot-monitor-management.json)
+  Descripción: Este flujo automatizado utiliza UptimeRobot para gestionar monitoreos web: primero crea un monitor con los parámetros dados, luego lo actualiza inmediatamente y finalmente obtiene el estado del monitor existente.
+
+- [0058-microsoft-todo-blueprint.json](workflows/0058-microsoft-todo-blueprint.json)
+  Descripción: Este flujo permite crear y actualizar tareas en Microsoft To Do mediante un trigger manual. Comienza con la activación del trigger que inicializa el proceso. Luego crea una nueva tarea (create) especificando detalles como lista de tareas, importancia alta y contenido. Posteriormente, actualiza esa misma tarea usando los datos retornados por la creación para identificarla.
+
+- [0059-mattermost-bot-config.json](workflows/0059-mattermost-bot-config.json)
+  Descripción: Este flujo de trabajo inicializa y guarda en un archivo binario las configuraciones necesarias para el funcionamiento del bot de Mattermost.
+
+- [0060-notion-sigalerts.json](workflows/0060-notion-sigalerts.json)
+  Descripción: Este flujo automático utiliza el desencadenador de Notion para recibir eventos relacionados con cambios en la base de datos, procesa estos eventos mediante funciones y luego actualiza registros en Notion según los estados detectados (Abierto, Resuelto, Anotado o No hay alguien al tanto). Además, integra con SIGNL4 para enviar alertas.
+
+- [0061-flujo-buscar-empresa.json](workflows/0061-flujo-buscar-empresa.json)
+  Descripción: Este flujo busca y verifica la existencia de una empresa por su nombre usando un servicio externo.
+
+- [0062-active-campaign-account-trigger.json](workflows/0062-active-campaign-account-trigger.json)
+  Descripción: Este flujo de trabajo se activa cuando un administrador añade una nueva cuenta en ActiveCampaign.
+
+- [0063-standup-bot-config.json](workflows/0063-standup-bot-config.json)
+  Descripción: Este flujo automático permite al bot de standup cargar una configuración desde un archivo local.
+
+- [0064-twitter-if-trigger.json](workflows/0064-twitter-if-trigger.json)
+  Descripción: Este flujo automático ejecuta un mensaje fijo en Twitter cuando se activa mediante un clic manual o por la evaluación de una condición numérica que depende del índice de iteración ($runIndex), pasando luego a nodos NoOp y Twitter según los resultados.
+
+- [0065-telegram-deploy-automation.json](workflows/0065-telegram-deploy-automation.json)
+  Descripción: Este flujo automático escucha mensajes de Telegram, verifica si contienen '/deploy', y si es así extrae el primer argumento como etiqueta de versión. Luego desencadena una acción en GitHub para crear un release.
+
+- [0066-pipedrive-crear-deal.json](workflows/0066-pipedrive-crear-deal.json)
+  Descripción: Este flujo automático crea un nuevo deal en Pipedrive cuando se hace clic en el manualTrigger.
+
+- [0067-obtener-registros-dns.json](workflows/0067-obtener-registros-dns.json)
+  Descripción: Este flujo automático obtiene los registros DNS de un dominio específico usando n8n.
+
+- [0068-line-chatbot-config-override.json](workflows/0068-line-chatbot-config-override.json)
+  Descripción: Este flujo permite actualizar la configuración del chatbot mediante un trigger manual y guardarla en formato binario.
+
+- [0069-line-weather-kelvin.json](workflows/0069-line-weather-kelvin.json)
+  Descripción: Este flujo automático envía un mensaje de actualización del clima cada día a las 9:00 AM con la temperatura actual en Kelvin (grados Celsius) para Berlin mediante LINE.
+
+- [0070-114_validar_telefono.json](workflows/0070-114_validar_telefono.json)
+  Descripción: Este flujo automático verifica si el número telefónico +34605281220 es válido utilizando un proceso de validación mediante uProc. Comienza con un trigger manual que inicia el flujo, luego configura una variable 'phone' en los datos del flujo y la envía a una validación por parte de un servicio de verificación.
+
+- [0071-pipedrive-change-monitor.json](workflows/0071-pipedrive-change-monitor.json)
+  Descripción: Este flujo monitoriza todos los cambios en Pipedrive mediante su webhook y ejecuta acciones automatizadas.
+
+- [0072-medium-rss-feed.json](workflows/0072-medium-rss-feed.json)
+  Descripción: Este flujo automático procesa RSS feeds de N8N desde Medium en lotes.
+
+- [0073-hubspot-pagination.json](workflows/0073-hubspot-pagination.json)
+  Descripción: Este flujo automático obtiene múltiples páginas de resultados desde la API HubSpot para contactos.
+
+- [0074-getresponse-contact-update-flow.json](workflows/0074-getresponse-contact-update-flow.json)
+  Descripción: Este flujo automático permite obtener todos los contactos de GetResponse y actualizar su campo campaignId si la campaña no es igual a 'n8n'.
+
+- [0075-syncro-opsgenie-integration.json](workflows/0075-syncro-opsgenie-integration.json)
+  Descripción: Este flujo automático permite integrar incidentes de la herramienta Syncro con OpsGenie, creando y cerrando alertas automáticamente basadas en eventos recibidos por un webhook.
+
+- [0076-google-calendar-status-hue.json](workflows/0076-google-calendar-status-hue.json)
+  Descripción: Este flujo verifica automáticamente eventos comenzados en Google Calendar cada 5 minutos. Luego, asigna colores o estados específicos (como '4dw_leading' o 'Lavendar') a una variable llamada calColor y utiliza esta información para controlar luces inteligentes Philips Hue mediante webhooks HTTP POST según el estado determinado. Finalmente, actualiza el perfil de usuario en Slack con texto e emoji relacionados.
+
+- [0077-conversor-json-a-xml.json](workflows/0077-conversor-json-a-xml.json)
+  Descripción: Este flujo convierte datos JSON en XML utilizando el nodo 'Set' para definir valores específicos y los responde mediante un webhook.
+
+- [0078-comida-diaria-recipe.json](workflows/0078-comida-diaria-recipe.json)
+  Descripción: Este flujo automático busca recetas en Edamam según parámetros especificados, incluyendo dieta y condición de salud aleatorias si se configura así. Luego calcula el rango correcto de recetas para enviar por correo.
+
+- [0079-sheets-to-dropbox.json](workflows/0079-sheets-to-dropbox.json)
+  Descripción: Este flujo automático lee una hoja de cálculo cada 15 minutos y la convierte en archivo XLS para subirlo a Dropbox.
+
+- [0080-shopify-product-alerts.json](workflows/0080-shopify-product-alerts.json)
+  Descripción: Este flujo automático envía un mensaje cuando se crea un nuevo producto en Shopify, tanto a Twitter como al chat de Telegram.
+
+- [0081-shopify-pedidos-trigger.json](workflows/0081-shopify-pedidos-trigger.json)
+  Descripción: Este flujo automático procesa la creación de nuevos pedidos en Shopify para sincronizar datos con Zoho CRM, crear tareas en Trello y enviar comunicaciones por correo electrónico si el pedido supera un valor mínimo.
+
+- [0082-shopify-reportes-semanal.json](workflows/0082-shopify-reportes-semanal.json)
+  Descripción: Este flujo automático ejecuta cada semana a las 10:00 un informe que recoge todos los pedidos de Shopify, calcula el número total y su suma, añade estos datos a una hoja de Google Sheets y envía un mensaje en Slack con esta información.
+
+- [0083-harvest-cliente-ciclo.json](workflows/0083-harvest-cliente-ciclo.json)
+  Descripción: Este flujo n8n permite crear un cliente en Harvest mediante una ejecución manual.
+
+- [0084-telegram-profanity-detector.json](workflows/0084-telegram-profanity-detector.json)
+  Descripción: Este flujo automático detecta y responde con un mensaje de advertencia cuando se identifica lenguaje inapropiado (profanidad) en mensajes recibidos por el bot de Telegram.
+
+- [0085-n8n_LinkedIn_Interactions_Automation.json](workflows/0085-n8n_LinkedIn_Interactions_Automation.json)
+  Descripción: Este flujo automático procesa interacciones de LinkedIn (comentarios y me gusta) para obtener datos de contactos y actualizarlos o crear nuevos registros en Airtable, además de agregarlos a Lemlist y Hubspot.
+
+- [0086-calendly-pipedrive-slack.json](workflows/0086-calendly-pipedrive-slack.json)
+  Descripción: Este flujo automático se activa cuando un invitado se crea en Calendly. Crea una actividad en Pipedrive con los detalles de la reunión y envía a Slack un recordatorio al equipo de ventas sobre el encuentro, pidiéndoles que redacten sus notas.
+
+- [0087-github-backup-flujos.json](workflows/0087-github-backup-flujos.json)
+  Descripción: Este flujo automático ejecuta trabajos todos los días a las 23:59 y guarda el contenido editado en archivos JSON en un repositorio de GitHub.
+
+- [0088-typeform-hubspot-email.json](workflows/0088-typeform-hubspot-email.json)
+  Descripción: Este flujo automatizado captura datos desde un formulario Typeform, crea o actualiza contactos en HubSpot y envía información personalizada por email cuando el prospecto demuestra interés.
+
+- [0089-hubspot-deals-processing.json](workflows/0089-hubspot-deals-processing.json)
+  Descripción: Este flujo automatizado procesa las propiedades de una negociación (deal) en HubSpot, determinando si es de alta prioridad o no. Luego envía notificaciones a Slack y guarda información en Airtable, además de generar presentaciones en Google Slides.
+
+- [0090-GitHub-issue-autoassign.json](workflows/0090-GitHub-issue-autoassign.json)
+  Descripción: Este flujo asigna automáticamente el autor del issue o a quién se le pide en una conversación.
+
+- [0091-steam-cloudflare-phishing-monitor.json](workflows/0091-steam-cloudflare-phishing-monitor.json)
+  Descripción: Este flujo verifica dominios en Steam para detectar si están alojados en Cloudflare mediante comandos dig y envía alertas por correo cuando se identifican posibles sitios de phishing.
+
+- [0092-segment-track-event.json](workflows/0092-segment-track-event.json)
+  Descripción: Este flujo permite enviar un evento manualmente a Segment cuando se activa mediante el botón 'execute'.
+
+- [0093-pokemon-rate-limiter.json](workflows/0093-pokemon-rate-limiter.json)
+  Descripción: Este flujo verifica límites de uso por minuto y hora mediante Redis, consulta datos de Airtable sobre Pokémon y utiliza webhooks para procesar respuestas.
+
+- [0094-zendesk-ticket-flow.json](workflows/0094-zendesk-ticket-flow.json)
+  Descripción: Este flujo automático permite crear un ticket en Zendesk mediante una activación manual.
+
+- [0095-sequential-http-post.json](workflows/0095-sequential-http-post.json)
+  Descripción: Este flujo permite iniciar manualmente la ejecución, obtener todos los datos de clientes desde un almacenamiento, dividirlos en lotes individuales y enviar cada uno mediante una solicitud HTTP POST a la API de JSONPlaceholder.
+
+- [0096-news-hacker.json](workflows/0096-news-hacker.json)
+  Descripción: Este flujo automático recoge títulos y URLs de noticias de Hacker News, las exporta como un archivo en formato CSV o Excel y envía una notificación por correo electrónico.
+
+- [0097-netlify-to-airtable.json](workflows/0097-netlify-to-airtable.json)
+  Descripción: Este flujo automático captura envíos formularios de Netlify y los agrega automáticamente a una tabla específica en Airtable.
+
+- [0098-line-chatbot-memory.json](workflows/0098-line-chatbot-memory.json)
+  Descripción: Este flujo automático permite que un mensaje recibido en el webhook se utilice para crear un recurso en Netlify usando datos dinámicos.
+
+- [0099-crear-contacto-drift.json](workflows/0099-crear-contacto-drift.json)
+  Descripción: Este flujo permite crear un contacto en la plataforma Drift manualmente al hacer clic en el trigger.
+
+- [0100-zulip-send-private-message.json](workflows/0100-zulip-send-private-message.json)
+  Descripción: Este flujo permite enviar un mensaje privado en Zulip mediante un desencadenador manual.
+
+- [0101-github-issue-auto-assignment.json](workflows/0101-github-issue-auto-assignment.json)
+  Descripción: Este flujo automático asigna automáticamente los issues de GitHub a la persona que lo creó o comentó, cuando no tienen asignado nadie.
+
+- [0102-google-calendar-meetings-slack.json](workflows/0102-google-calendar-meetings-slack.json)
+  Descripción: Este flujo automático consulta eventos de la agenda Gmail y los compara con hoy para enviar por Slack una lista de reuniones programadas.
+
+- [0104-vero-profile-creation.json](workflows/0104-vero-profile-creation.json)
+  Descripción: Este flujo manual permite crear perfiles de usuario en Vero mediante una ejecución directa, utilizando los parámetros definidos en el nodo Vero.
+
+- [0105-invoicing-textract-s3.json](workflows/0105-invoicing-textract-s3.json)
+  Descripción: Al hacer clic en el botón, se sube un archivo 'Rechnung.jpg' a la carpeta S3 y luego Amazon Textract lo procesa.
+
+- [0106-google-drive-email-alert.json](workflows/0106-google-drive-email-alert.json)
+  Descripción: Este flujo automático envía un email cuando se crea un archivo en una carpeta específica de Google Drive.
+
+- [0107-salesmate-company-creator.json](workflows/0107-salesmate-company-creator.json)
+  Descripción: Este flujo permite crear una entrada de empresa en el sistema Salesmate mediante un desencadenador manual cuando se hace clic.
+
+- [0108-hubspot-trigger-para-chatbot.json](workflows/0108-hubspot-trigger-para-chatbot.json)
+  Descripción: Este flujo automático utiliza el desencadenador de HubSpot para iniciar y actualizar datos de contacto con información obtenida de Clearbit mediante la dirección de correo electrónico.
+
+- [0109-ph-discord-rank.json](workflows/0109-ph-discord-rank.json)
+  Descripción: Este flujo automático consulta cada hora la API de Product Hunt para obtener los proyectos más votados y envía los detalles formateados en un mensaje a Discord.
+
+- [0110-info-uplead-company.json](workflows/0110-info-uplead-company.json)
+  Descripción: Este flujo automático permite obtener información detallada sobre una empresa específica utilizando el servicio UpLead.
+
+- [0111-onfleet-tasks-from-spreadsheet.json](workflows/0111-onfleet-tasks-from-spreadsheet.json)
+  Descripción: Este flujo carga un archivo Excel desde una ruta local y lo utiliza para crear tareas en Onfleet.
+
+- [0112-lem-list-carga.json](workflows/0112-lem-list-carga.json)
+  Descripción: Este flujo permite cargar datos de contacto desde Dropcontact en una hoja de Google y luego transferirlos como leads a Lemlist.
+
+- [0113-webhook-html-response.json](workflows/0113-webhook-html-response.json)
+  Descripción: Este flujo básico configura un webhook que escucha la ruta 'my-form' y responde con un HTML que incluye Bootstrap.
+
+- [0114-flujo-tareas.json](workflows/0114-flujo-tareas.json)
+  Descripción: Este flujo permite obtener todas las tareas de un flujo específico mediante un trigger manual.
+
+- [0115-facebook-profile-changes-mattermost.json](workflows/0115-facebook-profile-changes-mattermost.json)
+  Descripción: Este flujo automatizado envía una notificación por Mattermost cuando un usuario actualiza su perfil en Facebook.
+
+- [0116-typeform_lead_workflow.json](workflows/0116-typeform_lead_workflow.json)
+  Descripción: Este flujo automático permite a un chatbot procesar leads de Typeform y realizar operaciones en Airtable: si el contacto no existe, lo crea; si ya existe, actualiza sus campos. Además envía notificaciones por Slack cuando se añade o actualiza un lead.
+
+- [0117-calendly-dropcontact-notion-integracion.json](workflows/0117-calendly-dropcontact-notion-integracion.json)
+  Descripción: Este flujo automatizado permite integrar eventos de Calendly con el sistema DropContact y almacenar los datos en una base de datos de Notion.
+
+- [0118-slack-error-alert.json](workflows/0118-slack-error-alert.json)
+  Descripción: Este flujo automático envía una notificación por mensaje al nodo Slack cuando ocurre un error en el workflow 'Error Trigger'.
+
+- [0119-close-date-automation.json](workflows/0119-close-date-automation.json)
+  Descripción: Este flujo automático verifica si existe una fecha de cierre y, en caso negativo, la establece a tres semanas después.
+
+- [0120-customer-data-post.json](workflows/0120-customer-data-post.json)
+  Descripción: Este flujo automatizado inicia manualmente con un clic, establece una clave API y luego obtiene todos los datos de personas del dataStore para enviarlos mediante POST a webhook.site.
+
+- [0121-crm-sync.json](workflows/0121-crm-sync.json)
+  Descripción: Este flujo sincroniza contactos entre Pipedrive y HubSpot mediante la obtención de todos los registros de ambos sistemas, luego utiliza 'Merge' para combinar datos cuando coinciden en email o nombre.
+
+- [0122-sync-hubspot-pipedrive.json](workflows/0122-sync-hubspot-pipedrive.json)
+  Descripción: Este flujo sincroniza contactos entre HubSpot y Pipedrive mediante un desencadenador de cron cada minuto, utilizando coincidencias por email para fusionar los registros.
+
+- [0125-flow-trigger-task.json](workflows/0125-flow-trigger-task.json)
+  Descripción: Este flujo automático se dispara cuando ocurre una actualización en cualquier tarea especificada.
+
+- [0126-sanitized-invoices-upload.json](workflows/0126-sanitized-invoices-upload.json)
+  Descripción: Este flujo lee correos electrónicos de la bandeja 'Invoices' en un servidor IMAP y procesa cada archivo adjunto, sanitizando el nombre del archivo para eliminar caracteres especiales, antes de subirlo a Nextcloud.
+
+- [0127-github-release-to-gitlab-issue.json](workflows/0127-github-release-to-gitlab-issue.json)
+  Descripción: Este flujo monitoriza las últimas publicaciones de un repositorio de GitHub semanalmente y verifica si existe una incidencia correspondiente en el repositorio GitLab adjunto. Si no hay coincidencia, crea automáticamente una nueva incidencia.
+
+- [0128-iss-position-firebase.json](workflows/0128-iss-position-firebase.json)
+  Descripción: Este flujo automatizado recoge cada minuto la posición actual del ISS desde una API y almacena los datos en tiempo real en una base de datos Firebase.
+
+- [0129-twitter-banner-creator.json](workflows/0129-twitter-banner-creator.json)
+  Descripción: Este flujo automático permite descargar los perfiles de seguidores recientes de Twitter, procesar sus imágenes de avatar (redimensionando y recortando), combinarlas con una imagen de fondo mediante composición multiestadio, y finalmente subirlas como banner usando la API OAuth1.0.
+
+- [0130-config-impresao.json](workflows/0130-config-impresao.json)
+  Descripción: Este flujo automático consulta la configuración de impressão e informações dos rolos de tecido para emitir etiquetas.
+
+- [0131-limpia_pacotes_telegram.json](workflows/0131-limpia_pacotes_telegram.json)
+  Descripción: Este flujo automático ejecuta consultas SQL diarias para limpiar pacotes de transporte en la base de datos 'PPM' y luego actualiza registros antiguos a 'DELETE'. Después, envía un mensaje predefinido al chatId especificado.
+
+- [0132-line-chatbot-memory.json](workflows/0132-line-chatbot-memory.json)
+  Descripción: Este flujo automático permite a un chatbot de LINE mantener una conversación contextualizada recordando el nombre y correo del usuario que lo activa.
+
+- [0133-gitlab-release-outline.json](workflows/0133-gitlab-release-outline.json)
+  Descripción: Este flujo detecta automáticamente la creación de un nuevo tag en el repositorio GitLab 'ci-test' y, si es una etiqueta de lanzamiento (release), crea un documento Outline basado en los datos proporcionados.
+
+- [0134-tweet-image-jokes.json](workflows/0134-tweet-image-jokes.json)
+  Descripción: Este flujo automático ejecuta una tarea cada día a las 17:00 horas para obtener chistes gráficos desde la API de Blablagues y luego los publica en Twitter utilizando imágenes.
+
+- [0135-dominio-email-extractor.json](workflows/0135-dominio-email-extractor.json)
+  Descripción: Este flujo extrae el dominio de un correo electrónico proporcionado mediante una función.
+
+- [0136-torrent-search-transmission.json](workflows/0136-torrent-search-transmission.json)
+  Descripción: Este flujo automático busca torrents en KickassTorrents y Rarbg a partir de un título proporcionado por una solicitud POST Webhook. Si se encuentra un torrent, intenta añadirlo al cliente Transmission para descargarlo. En caso de no encontrar resultados o recibir un error 409 (conflicto), notifica que la película no está disponible.
+
+- [0137-tareas-toggl-alertas.json](workflows/0137-tareas-toggl-alertas.json)
+  Descripción: Este flujo automático monitoriza continuamente entradas de tiempo nuevas en Toggl.
+
+- [0138-telegram-receipts-textract.json](workflows/0138-telegram-receipts-textract.json)
+  Descripción: Este flujo automático permite recibir un documento (probablemente una factura) a través del bot de Telegram, descargarlo y subirlo al almacenamiento en la nube S3. Posteriormente, utiliza AWS Textract para analizar el texto contenido en ese archivo y finalmente guarda los resultados extraídos en una tabla específica de Airtable.
+
+- [0139-gdrive-aws-s3-sync.json](workflows/0139-gdrive-aws-s3-sync.json)
+  Descripción: Este flujo monitoriza cambios en un archivo de Google Drive específico y sincroniza archivos con el bucket 'mybucket' en AWS S3 mediante operaciones de obtención y subida, utilizando un nodo 'merge' para combinar datos.
+
+- [0140-onfleet-shopify-task.json](workflows/0140-onfleet-shopify-task.json)
+  Descripción: Este flujo automático sincroniza la creación de un nuevo cumplimiento en Shopify con la generación correspondiente de una tarea en Onfleet.
+
+- [0141-twilio-mautic-form-sms.json](workflows/0141-twilio-mautic-form-sms.json)
+  Descripción: Este flujo automático recibe notificaciones cuando se envía un formulario en Mautic y envía un SMS de confirmación.
+
+- [0142-xml-to-json-dropbox.json](workflows/0142-xml-to-json-dropbox.json)
+  Descripción: Este flujo toma datos XML desde una URL, los convierte a formato JSON utilizando el nodo 'To JSON', luego actualiza el título del mensaje con el parámetro 'Change title' y finalmente sube el contenido JSON al Dropbox usando la ruta especificada.
+
+- [0143-rekognition-google-images.json](workflows/0143-rekognition-google-images.json)
+  Descripción: Este flujo automatizado busca imágenes de calles desde Google y utiliza AWS Rekognition para analizarlas y extraer etiquetas. Luego combina estos resultados junto con los datos originales y guarda todo en una hoja de cálculo de Google.
+
+- [0144-funcion-hoy.json](workflows/0144-funcion-hoy.json)
+  Descripción: Este flujo utiliza el nodo Function para obtener la fecha actual en formato ISO y el día de la semana.
+
+- [0145-readwise_telegram_sync.json](workflows/0145-readwise_telegram_sync.json)
+  Descripción: Este flujo automático sincroniza libros y artículos de Readwise con Telegram, enviando resúmenes y detalles.
+
+- [0146-baserow-release-feed.json](workflows/0146-baserow-release-feed.json)
+  Descripción: Este flujo automático recopila artículos de blog sobre 'release' desde baserow.io y genera una respuesta XML que puede ser utilizada para alimentar feeds o webhooks.
+
+- [0147-set-variables-flujo.json](workflows/0147-set-variables-flujo.json)
+  Descripción: Este flujo utiliza un trigger manual para ejecutar un nodo Set, que permite definir valores predeterminados para distintas variables en base al tipo especificado.
+
+- [0148-daily-weather-spontit.json](workflows/0148-daily-weather-spontit.json)
+  Descripción: Este flujo automático verifica cada día a las 9 de la mañana las condiciones climáticas actuales en Berlin y envía una notificación push al usuario con la temperatura actual.
+
+- [0150-workflow-spreadsheet-export.json](workflows/0150-workflow-spreadsheet-export.json)
+  Descripción: Este flujo n8n procesa una entrada de webhook que contiene listas de elementos, convierte estos en un archivo de Excel (.xlsx) y responde al webhook con la hoja de cálculo como archivo adjunto.
+
+- [0151-line-chatbot-response-token.json](workflows/0151-line-chatbot-response-token.json)
+  Descripción: Este flujo procesa solicitudes webhooks de LINE, utilizando HMAC SHA256 sobre un token recibido y almacenando el resultado como 'response_token' para mantener memoria contextualizada.
+
+- [0152-gdpr-data-deletion.json](workflows/0152-gdpr-data-deletion.json)
+  Descripción: Este flujo automatizado maneja comandos de barra en Slack para solicitar la eliminación de datos según GDPR. Valida que el token y el correo electrónico estén presentes, procesa las eliminaciones de diferentes servicios (Paddle, Customer.io y Zendesk) y luego registra estos eventos en una base de Airtable.
+
+- [0153-145-traductor-cocinas.json](workflows/0153-145-traductor-cocinas.json)
+  Descripción: Este flujo automatizado permite obtener instrucciones de cóctel desde una API y traducirlas automáticamente al italiano.
+
+- [0154-hubspot-company-alerts.json](workflows/0154-hubspot-company-alerts.json)
+  Descripción: Este flujo se activa al crear una nueva empresa en HubSpot y verifica si tiene problemas de entregabilidad o si su dominio no es válido/¿email desechable?, enviando alertas por Slack.
+
+- [0155-mattermost-financial-metrics-cron.json](workflows/0155-mattermost-financial-metrics-cron.json)
+  Descripción: Este flujo automático envía métricas financieras mensuales de ProfitWell a Mattermost cada día en horario programado.
+
+- [0156-news-ycombinator-telegram.json](workflows/0156-news-ycombinator-telegram.json)
+  Descripción: Este flujo verifica periódicamente si la respuesta del servidor de noticias cambió usando dos peticiones HTTP iguales y un bot de Telegram para notificar cuando ocurren cambios.
+
+- [0157-line-syncro-timer-sync.json](workflows/0157-line-syncro-timer-sync.json)
+  Descripción: Este flujo automático sincroniza entradas de tiempo en Syncro a partir de una webhook que recibe información sobre llamadas telefónicas desde un chatbot.
+
+- [0159-strava-accountability-checker.json](workflows/0159-strava-accountability-checker.json)
+  Descripción: Este flujo diario verifica que un usuario ha registrado suficiente tiempo activo en Strava (mínimo definido en las horas de responsabilidad) y envía correos motivacionales a su equipo si no lo hace.
+
+- [0160-sendy-subscribe-campaign.json](workflows/0160-sendy-subscribe-campaign.json)
+  Descripción: Este flujo automático permite añadir un suscriptor a una lista y crear/enviar una campaña cuando se activa manualmente.
+
+- [0161-onfleet-driver-signup-alert.json](workflows/0161-onfleet-driver-signup-alert.json)
+  Descripción: Este flujo automático envía un mensaje a Slack cuando se crea un nuevo conductor en Onfleet.
+
+- [0162-crypto-portfolio-updater.json](workflows/0162-crypto-portfolio-updater.json)
+  Descripción: Este flujo automático actualiza los valores de activos cripto en una base Airtable cada hora con datos actuales desde CoinGecko.
+
+- [0163-mock-transactions-sum.json](workflows/0163-mock-transactions-sum.json)
+  Descripción: Este flujo utiliza nodos de función para generar datos mockados con montos en USD y calcular la suma total.
+
+- [0164-mattermost-airtable-trigger.json](workflows/0164-mattermost-airtable-trigger.json)
+  Descripción: Este flujo monitoriza un registro en Airtable llamado 'Data' y envía una notificación al canal de Mattermost especificado cuando se añade nueva información.
+
+- [0165-hashtag-tweet-generator.json](workflows/0165-hashtag-tweet-generator.json)
+  Descripción: Este flujo selecciona aleatoriamente un hashtag de una lista predefinida, genera un tweet utilizando la API de OpenAI y lo guarda en una tabla de Airtable.
+
+- [0167-shopify-onfleet-tags-sync.json](workflows/0167-shopify-onfleet-tags-sync.json)
+  Descripción: Este flujo automático actualiza las etiquetas de un producto en Shopify cada vez que se detecta una demora en una tarea de Onfleet.
+
+- [0168-Onfleet-to-QuickBooks-Invoices.json](workflows/0168-Onfleet-to-QuickBooks-Invoices.json)
+  Descripción: Este flujo automático crea una factura en QuickBooks Online cuando se genera un nuevo tareas en Onfleet.
+
+- [0169-onfleet-task-from-google-drive.json](workflows/0169-onfleet-task-from-google-drive.json)
+  Descripción: Este flujo automático crea una tarea en Onfleet cuando un archivo específico en Google Drive es actualizado.
+
+- [0170-rss-security-monitor.json](workflows/0170-rss-security-monitor.json)
+  Descripción: Este flujo automático monitoriza múltiples fuentes RSS en busca de contenido nuevo, utilizando un mecanismo para evitar envíos duplicados. Cuando se detecta nueva información, envía notificaciones a distintas cuentas de Telegram según su categoría (seguridad, IT o Microsoft 365).
+
+- [0171-if-condition-checker.json](workflows/0171-if-condition-checker.json)
+  Descripción: Este flujo toma una salida JSON predefinida, la parsea y luego comprueba si el valor de 'value1' (que siempre es true en este ejemplo) cumple con la condición esperada.
+
+- [0172-slack-file-downloader.json](workflows/0172-slack-file-downloader.json)
+  Descripción: Este flujo manual descarga un archivo de la URL especificada y lo envía al canal de Slack usando autenticación OAuth2.
+
+- [0173-sinonimos_aleman_openthesaurus_api.json](workflows/0173-sinonimos_aleman_openthesaurus_api.json)
+  Descripción: Este flujo permite obtener los sinónimos de un término en alemán utilizando la API de OpenThesaurus.
+
+- [0174-adobesign-webhook-data.json](workflows/0174-adobesign-webhook-data.json)
+  Descripción: Este flujo automatizado configura una respuesta webhook que incluye la variable clientID y extrae datos específicos del cuerpo JSON sobre acuerdos y participantes.
+
+- [0175-pagerduty-incident-flow.json](workflows/0175-pagerduty-incident-flow.json)
+  Descripción: Este flujo automático permite crear una incidencia en PagerDuty, actualizarla y luego obtener sus detalles.
+
+- [0176-weather-api.json](workflows/0176-weather-api.json)
+  Descripción: Este flujo automático permite obtener información meteorológica (temperatura y descripción) de cualquier ciudad que se especifique mediante una solicitud HTTP. Recolecta los datos desde la API de OpenWeatherMap y crea dos variables: 'temp' para la temperatura y 'description' para el estado del tiempo.
+
+- [0177-youtube-telegram-monitor.json](workflows/0177-youtube-telegram-monitor.json)
+  Descripción: Este flujo automático verifica cada 30 minutos si hay nuevos videos de YouTube en un canal específico, los compara con los IDs ya procesados para evitar duplicados y envía por Telegram una notificación cuando se detecta contenido nuevo.
+
+- [0178-thehive-case-management.json](workflows/0178-thehive-case-management.json)
+  Descripción: Este flujo automático permite crear, actualizar y obtener un caso en TheHive mediante secuencia de pasos conectados.
+
+- [0179-bubble-data-access.json](workflows/0179-bubble-data-access.json)
+  Descripción: Este flujo permite realizar una solicitud HTTP autenticada para acceder datos de usuarios desde la API de Bubble.
+
+- [0180-gitlab-backup.json](workflows/0180-gitlab-backup.json)
+  Descripción: Este flujo automatizado permite realizar respaldos de workflows y credenciales de n8n mediante comandos de Git, que se ejecutan periódicamente o manualmente.
+
+- [0181-cortex-abuse-detector.json](workflows/0181-cortex-abuse-detector.json)
+  Descripción: Este flujo analiza una URL utilizando el nodo de Abuse Finder en Cortex, y luego obtiene los detalles del trabajo usando la ID devuelta.
+
+- [0182-logo-download-script.json](workflows/0182-logo-download-script.json)
+  Descripción: Este flujo automatizado descarga una imagen de un URL y la escribe en el sistema de archivos local.
+
+- [0183-questdb-tabla-datos.json](workflows/0183-questdb-tabla-datos.json)
+  Descripción: Este flujo automático crea una tabla 'test' con columnas id y name en QuestDB al ejecutarse manualmente.
+
+- [0184-thehive-event-monitor.json](workflows/0184-thehive-event-monitor.json)
+  Descripción: Este flujo monitoriza todos los eventos en el sistema TheHive y desencadena una acción cuando ocurre alguno.
+
+- [0185-datos-binarios-descomprimidos.json](workflows/0185-datos-binarios-descomprimidos.json)
+  Descripción: Este flujo automático descarga un archivo ZIP que contiene datos binarios y los divide en elementos individuales, cada uno con una única secuencia de datos binarios bajo la clave 'data'.
+
+- [0186-164_Crear-canal-invitar-y-subir-archivo.json](workflows/0186-164_Crear-canal-invitar-y-subir-archivo.json)
+  Descripción: Este flujo automatizado crea un canal en Slack usando un bot, invita a los usuarios especificados y luego envía un mensaje de bienvenida junto con el logo de n8n.
+
+- [0187-165_create_update_get_user_iterable.json](workflows/0187-165_create_update_get_user_iterable.json)
+  Descripción: Este flujo permite crear, actualizar y recuperar información de usuarios a través de la API de Iterable.
+
+- [0188-kafka-temp-alert.json](workflows/0188-kafka-temp-alert.json)
+  Descripción: Este flujo recibe mensajes de Kafka desde el tópico topic_test y envía un SMS cuando la temperatura supera los 50 grados.
+
+- [0189-url-shortener-stats.json](workflows/0189-url-shortener-stats.json)
+  Descripción: Este flujo n8n crea una URL corta de un enlace proporcionado y luego obtiene estadísticas sobre el rendimiento y alcance de esa misma URL acortada.
+
+- [0190-smart-factory-data-generator.json](workflows/0190-smart-factory-data-generator.json)
+  Descripción: Este flujo automatizado genera datos aleatorios de temperatura y tiempo de actividad de una máquina industrial, utilizando un nombre fijo 'n8n_cr8' como identificador, y los envía periódicamente a través de AMQP.
+
+- [0192-reporte-tiempo-hilo.json](workflows/0192-reporte-tiempo-hilo.json)
+  Descripción: Este flujo automático genera un informe HTML detallado a partir de registros de hoja de tiempo para usuarios y tareas.
+
+- [0193-user-request-management.json](workflows/0193-user-request-management.json)
+  Descripción: Este flujo automatizado maneja solicitudes de usuario provenientes de un formulario Typeform y las clasifica en diferentes tipos (Documentación, Presentación, etc.) para procesarlas adecuadamente en ClickUp.
+
+- [0194-customer-data-processing.json](workflows/0194-customer-data-processing.json)
+  Descripción: Este flujo de trabajo utiliza un desencadenador manual para obtener datos de clientes desde el 'Customer Datastore' y luego los edita en una variable mediante el nodo Set.
+
+- [0195-ghost-post-automation.json](workflows/0195-ghost-post-automation.json)
+  Descripción: Este flujo automático permite crear un post en Ghost, actualizar su estado a publicado y luego obtener información sobre el post creado.
+
+- [0196-airtable-insert-update.json](workflows/0196-airtable-insert-update.json)
+  Descripción: Este flujo automático inserta un registro inicial en la tabla Table 1 de Airtable, luego lista registros filtrados por el campo 'Name' igual a 'n8n', y finalmente actualiza el primer registro encontrado con los valores definidos en el paso Set.
+
+- [0197-snowflake-table-management.json](workflows/0197-snowflake-table-management.json)
+  Descripción: Este flujo automático permite crear una tabla en Snowflake y realizar inserciones e actualizaciones de datos utilizando operaciones definidas previamente.
+
+- [0198-csv-conversion.json](workflows/0198-csv-conversion.json)
+  Descripción: Este flujo le permite leer un archivo CSV, procesarlo como una hoja de cálculo y convertirlo a formato JSON para almacenamiento.
+
+- [0200-users-api-spreadsheet.json](workflows/0200-users-api-spreadsheet.json)
+  Descripción: Este flujo utiliza la API de randomuser.me para obtener datos y luego los extrae en formato JSON. Posteriormente, actualiza una hoja de cálculo Google con estos valores y también genera un archivo CSV.
+
+- [0201-users-data-flow.json](workflows/0201-users-data-flow.json)
+  Descripción: Este flujo obtiene datos aleatorios de usuarios de la API de randomuser.me, los procesa y almacena en una hoja de Google. También crea un archivo CSV con esos datos y prepara un correo electrónico para adjuntar el JSON.
+
+- [0202-twist-channel-automation.json](workflows/0202-twist-channel-automation.json)
+  Descripción: Este flujo automático permite crear un nuevo canal en Twist y luego enviarle una notificación personalizada con un enlace de acción al usuario.
+
+- [0203-n8n-fecha-dinamica.json](workflows/0203-n8n-fecha-dinamica.json)
+  Descripción: Este flujo utiliza expresiones de Luxon para calcular y formatear fechas dinámicamente en n8n.
+
+- [0204-clientes-condicion.json](workflows/0204-clientes-condicion.json)
+  Descripción: Este flujo procesa datos de clientes mediante filtros y bifurcaciones condicionales para segmentarlos por país.
+
+- [0205-workflow-merge-demo.json](workflows/0205-workflow-merge-demo.json)
+  Descripción: Este flujo demuestra cómo el nodo Merge de n8n combina datos de diferentes fuentes usando diferentes modos de unión, mostrando ejemplos desde ingredientes hasta la formación de bandas.
+
+- [0206-n8n_paginacion_ejemplo.json](workflows/0206-n8n_paginacion_ejemplo.json)
+  Descripción: Este flujo automático utiliza nodos HTTP para obtener datos de manera estructurada (como listas de álbumes o páginas web) y manejar respuestas mediante la creación de elementos.
+
+- [0207-workflow-automatico-mensajes-clientes.json](workflows/0207-workflow-automatico-mensajes-clientes.json)
+  Descripción: Este flujo automático envía mensajes personalizados a cada cliente obtenido desde un almacenamiento de datos, esperando brevemente entre cada mensaje para evitar exceder límites de solicitud y luego les proporciona una URL específica para su interacción.
+
+- [0208-apod-telegram-daily.json](workflows/0208-apod-telegram-daily.json)
+  Descripción: Este flujo automático envía la Astronomy Picture of The Day (APOD) de NASA cada día a las 8:00 PM en un mensaje con su título como subtítulo mediante el bot de Telegram.
+
+- [0209-google-search-url-generator.json](workflows/0209-google-search-url-generator.json)
+  Descripción: Este flujo utiliza el nodo Webhook para recibir datos de entrada, luego crea una URL concatenando esos valores (primera y última letra) para generar una búsqueda en Google, y finalmente responde al webhook mostrando la URL generada.
+
+- [0210-google-sheets-data-preparation.json](workflows/0210-google-sheets-data-preparation.json)
+  Descripción: Este flujo procesa datos provenientes del nodo 'Customer Datastore' para prepararlos antes de realizar una operación UPSERT en Google Sheets. El formato de los campos se ajusta: el campo 'name' del input se renombra a 'Full name', y se añade un nuevo campo 'Created time' con la fecha actual.
+
+- [0211-etl-weekly-google-sheets-mysql.json](workflows/0211-etl-weekly-google-sheets-mysql.json)
+  Descripción: Este flujo automático ejecuta una inserción en MySQL cada semana usando datos de Google Sheets.
+
+- [0212-mysql-gsheets-semanal.json](workflows/0212-mysql-gsheets-semanal.json)
+  Descripción: Este flujo automatizado ejecuta una consulta SQL semanalmente en la tabla de libros y escribe el resultado en una hoja de Google.
+
+- [0213-google-sheets-process-timer.json](workflows/0213-google-sheets-process-timer.json)
+  Descripción: Este flujo automático verifica cada 5 minutos si hay filas no procesadas en una hoja de cálculo y las marca como tales al ejecutarse manualmente.
+
+- [0214-hoja-html-flujo.json](workflows/0214-hoja-html-flujo.json)
+  Descripción: Este flujo automático lee datos de una hoja de cálculo específica y los convierte en un archivo HTML cuando se recibe una solicitud a través de Webhook.
+
+- [0215-html-sheet.json](workflows/0215-html-sheet.json)
+  Descripción: Este flujo automatizado lee datos de una hoja de Google Sheets y los convierte en un HTML con formato tabla para responder a través de webhook.
+
+- [0216-typeform-pipedrive-mapeo.json](workflows/0216-typeform-pipedrive-mapeo.json)
+  Descripción: Este flujo automático recoge datos de un formulario de Typeform y los integra en Pipedrive para crear automáticamente registros de organización, persona y lead, manteniendo la lógica de mapeo entre el formato original y las propiedades personalizadas.
+
+- [0217-gestionar-correos-eliminar-y-agregar.json](workflows/0217-gestionar-correos-eliminar-y-agregar.json)
+  Descripción: Este flujo permite obtener mensajes de Gmail marcados con una etiqueta específica, eliminar dicha etiqueta y añadir otra nueva.
+
+- [0218-asana-notion-sync.json](workflows/0218-asana-notion-sync.json)
+  Descripción: Este flujo n8n sincroniza tareas entre Asana y Notion mediante webhooks, creando o actualizando entradas en la base de datos de Notion según los cambios detectados en las tareas de Asana.
+
+- [0219-company-data-airtable.json](workflows/0219-company-data-airtable.json)
+  Descripción: Este flujo extrae el logo, icon y datos de una empresa usando Brandfetch, y los almacena automáticamente en una tabla de Airtable.
+
+- [0220-mailchimp-nueva-cita.json](workflows/0220-mailchimp-nueva-cita.json)
+  Descripción: Este flujo automático busca contactos nuevos creados hoy en HubSpot, extrae sus propiedades principales y los agrega como miembros a una lista específica de Mailchimp cada día a las 07:00.
+
+- [0221-line-mailchimp-sync.json](workflows/0221-line-mailchimp-sync.json)
+  Descripción: Este flujo sincroniza contactos entre LINE y Mailchimp utilizando el HubSpot API.
+
+- [0222-pipedrive-stripe-deal.json](workflows/0222-pipedrive-stripe-deal.json)
+  Descripción: Este flujo verifica si un deal en Pipedrive ha sido ganado recientemente y, si no existe el cliente asociado en Stripe, lo crea utilizando los datos proporcionados.
+
+- [0223-stripe-organization-sync.json](workflows/0223-stripe-organization-sync.json)
+  Descripción: Este flujo automático busca procesar cargas exitosas de Stripe que ocurrieron antes del último tiempo de ejecución, buscando en Pipedrive la organización correspondiente a cada cliente y creando una nota con los detalles de la carga.
+
+- [0224-pipedrive-stripe-product-sync.json](workflows/0224-pipedrive-stripe-product-sync.json)
+  Descripción: Este flujo automático sincroniza productos nuevos de Pipedrive con Stripe mediante una API y luego crea sus registros de precios correspondientes.
+
+- [0225-pipedrive-datagma-enrichment.json](workflows/0225-pipedrive-datagma-enrichment.json)
+  Descripción: Este flujo automatizado utiliza Pipedrive para rastrear organizaciones y personal, enriqueciendo sus datos con información de Datorama como Fondo de Inversión y tráfico web.
+
+- [0226-tradegate-investment-report.json](workflows/0226-tradegate-investment-report.json)
+  Descripción: Este flujo automático recoge datos de inversiones almacenados en una tabla de Baserow y consulta cotizaciones actuales en la plataforma Tradegate para generar un informe detallado que se envía vía email utilizando SendGrid.
+
+- [0227-pipedrive-organization-sync.json](workflows/0227-pipedrive-organization-sync.json)
+  Descripción: Este flujo monitoriza un archivo Excel en Google Drive y crea organizaciones e información de contacto en Pipedrive basada en su contenido.
+
+- [0228-github-fork-to-pipedrive-lead.json](workflows/0228-github-fork-to-pipedrive-lead.json)
+  Descripción: Este flujo detecta forks en GitHub y crea leads en Pipedrive si no existe la persona.
+
+- [0229-github-pullrequest-pipedrive.json](workflows/0229-github-pullrequest-pipedrive.json)
+  Descripción: Este flujo automático busca en Pipedrive un usuario existente basado en el correo electrónico de un creador de PR (Pull Request) detectado por una webhook de GitHub, y si existe añade una nota a su cuenta.
+
+- [0230-mattermost-channel-onboarding.json](workflows/0230-mattermost-channel-onboarding.json)
+  Descripción: Este flujo automático crea un canal de Mattermost, agrega miembros a él y luego publica un mensaje en ese mismo canal.
+
+- [0231-line-chatbot-context.json](workflows/0231-line-chatbot-context.json)
+  Descripción: Este flujo automático permite a un chatbot de LINE mantener una conversación contextualizada al utilizar datos del usuario en mensajes personalizados.
+
+- [0232-agregar-archivo-json-a-hoja-google.json](workflows/0232-agregar-archivo-json-a-hoja-google.json)
+  Descripción: Este flujo lee un archivo JSON y lo agrega en las hojas de cálculo Google.
+
+- [0233-salesforce-sync.json](workflows/0233-salesforce-sync.json)
+  Descripción: Este flujo automatizado permite mantener la relación entre empresas de Google Sheets y sus datos correspondientes en Salesforce al crear registros tanto de cuenta como contacto.
+
+- [0234-excel-to-salesforce.json](workflows/0234-excel-to-salesforce.json)
+  Descripción: Este flujo automático extrae datos de Microsoft Excel para buscar y crear registros tanto en cuenta como contacto en Salesforce.
+
+- [0235-salesforce-carga-hoja-calculo.json](workflows/0235-salesforce-carga-hoja-calculo.json)
+  Descripción: Este flujo procesa datos de una hoja de cálculo para crear registros en Salesforce: primero busca cuentas existentes, luego crea nuevas cuentas si no se encuentran y finalmente agrega contactos vinculados a las mismas.
+
+- [0236-ard-podcast-scraper.json](workflows/0236-ard-podcast-scraper.json)
+  Descripción: Este flujo automatizado extrae enlaces de episodios de una página web, luego obtiene y procesa la información de cada episode para generar un feed RSS completo.
+
+- [0237-firestore-document-management.json](workflows/0237-firestore-document-management.json)
+  Descripción: Este flujo automatizado permite crear y actualizar documentos en Google Cloud Firestore.
+
+- [0238-nextcloud-spreadsheet.json](workflows/0238-nextcloud-spreadsheet.json)
+  Descripción: Este flujo automático permite descargar un archivo de Excel desde NextCloud, procesarlo y subirlo nuevamente a la misma ubicación después de integrar datos.
+
+- [0239-github-issue-notion-sync.json](workflows/0239-github-issue-notion-sync.json)
+  Descripción: Este flujo sincroniza eventos de GitHub Issues con acciones en una base de datos de Notion, permitiendo la actualización automática de propiedades como título y estado.
+
+- [0240-shopify-zendesk-sync.json](workflows/0240-shopify-zendesk-sync.json)
+  Descripción: Este flujo automático sincroniza la información de clientes entre Shopify y Zendesk al actualizar un contacto en Shopify.
+
+- [0241-shopify-zendesk-sync.json](workflows/0241-shopify-zendesk-sync.json)
+  Descripción: Este flujo verifica si un pedido de Shopify ya existe en Zendesk. Si no se encuentra, crea un nuevo ticket con la información del pedido y actualiza el flujo.
+
+- [0243-google-drive-notion.json](workflows/0243-google-drive-notion.json)
+  Descripción: Este flujo automático crea una página en la base de datos de Notion cuando se sube un nuevo archivo a una carpeta específica de Google Drive.
+
+- [0244-zendesk-slack-sync.json](workflows/0244-zendesk-slack-sync.json)
+  Descripción: Este flujo automático sincroniza eventos de Zendesk con mensajes en Slack mediante webhooks.
+
+- [0245-workflow-zendesk-asana.json](workflows/0245-workflow-zendesk-asana.json)
+  Descripción: Este flujo automático verifica si una tarea Asana ya existe en base a un campo personalizado de Zendesk, y actualiza el ticket con la información correspondiente.
+
+- [0246-monday-mautic-automation.json](workflows/0246-monday-mautic-automation.json)
+  Descripción: Este flujo automático crea un elemento en Monday.com con el nombre y email de contacto cuando se guarda uno nuevo en Mautic.
+
+- [0247-calendly-mautic-sync.json](workflows/0247-calendly-mautic-sync.json)
+  Descripción: Este flujo automático sincroniza datos de Calendly con Mautic para crear o actualizar contactos cuando se genera un nuevo evento.
+
+- [0248-shopify-mautic-contact.json](workflows/0248-shopify-mautic-contact.json)
+  Descripción: Este flujo automático permite crear un contacto en Mautic cada vez que se crea un nuevo cliente en Shopify.
+
+- [0249-zendesk-github-integration.json](workflows/0249-zendesk-github-integration.json)
+  Descripción: Este flujo automatizado sincroniza tickets de Zendesk con problemas y comentarios en GitHub.
+
+- [0250-zendesk-jira-integracion.json](workflows/0250-zendesk-jira-integracion.json)
+  Descripción: Este flujo automático integra Zendesk y Jira: si un ticket en Zendesk ya tiene asociado un Jira Issue Key, se añade un comentario a esa issue existente; si no existe, se crea automáticamente una nueva issue en Jira basada en el ticket de Zendesk.
+
+- [0251-notion-clockify-invoices.json](workflows/0251-notion-clockify-invoices.json)
+  Descripción: Este flujo automático crea automáticamente un registro en una base de datos de Notion cada vez que se genera una nueva factura en Clockify.
+
+- [0252-flujo-captura-emails.json](workflows/0252-flujo-captura-emails.json)
+  Descripción: Este flujo automático procesa respuestas por correo electrónico categorizándolas y ejecutando acciones como crear leads en HubSpot o marcarlas en Lemlist, además de enviar notificaciones vía Slack.
+
+- [0253-hubspot-zendesk-company-sync.json](workflows/0253-hubspot-zendesk-company-sync.json)
+  Descripción: Este flujo sincroniza datos de compañías de HubSpot con la API de Zendesk para mantener organizaciones actualizadas.
+
+- [0254-hubspot-zendesk-sync.json](workflows/0254-hubspot-zendesk-sync.json)
+  Descripción: Este flujo automatizado sincroniza datos entre los sistemas HubSpot y Zendesk, verificando si existe el ticket antes de realizar acciones como crear o actualizar contactos y tickets.
+
+- [0255-iss-position-rabbitmq.json](workflows/0255-iss-position-rabbitmq.json)
+  Descripción: Este flujo envía cada minuto la posición actualizada de la Estación Espacial Internacional (ISS) a una cola RabbitMQ.
+
+- [0256-github-light-alert.json](workflows/0256-github-light-alert.json)
+  Descripción: Este flujo activa un interruptor en Home Assistant a color rojo cuando hay actualizaciones en el repositorio de GitHub.
+
+- [0257-analisis-domini.json](workflows/0257-analisis-domini.json)
+  Descripción: Este flujo automatizado toma una lista de dominios web (dividida en lotes), consulta su contenido mediante solicitudes HTTP, pide a OpenAI que analice el texto para obtener propiedades clave sobre valor proposicional, audiencia y sector, y luego guarda estos datos clasificados en un hoja de Google Sheets.
+
+- [0258-rabbitmq-sms-alert.json](workflows/0258-rabbitmq-sms-alert.json)
+  Descripción: Este flujo recibe mensajes de una cola RabbitMQ que contienen un campo 'temp', y si este excede los 50 grados Celsius, envía un SMS de alerta usando Vonage.
+
+- [0259-mysql-export-spreadsheet.json](workflows/0259-mysql-export-spreadsheet.json)
+  Descripción: Este flujo automatiza la descarga de datos de una tabla MySQL específica en formato Excel, permitiendo así almacenar el contenido del catálogo.
+
+- [0260-woo-product-flow.json](workflows/0260-woo-product-flow.json)
+  Descripción: Este flujo automático permite crear un producto en WooCommerce, actualizar su stock y luego obtener el producto creado.
+
+- [0261-mattermost-woocommerce-pedido.json](workflows/0261-mattermost-woocommerce-pedido.json)
+  Descripción: Este flujo automático envía un mensaje en el canal especificado de Mattermost cuando se crea un nuevo pedido en WooCommerce, incluyendo el nombre del comprador y el primer producto adquirido.
+
+- [0262-diagnostico-migracion-n8n.json](workflows/0262-diagnostico-migracion-n8n.json)
+  Descripción: Este flujo identifica workflows afectados por la migración de n8n 0.214.3 en nodos con múltiple salida.
+
+- [0263-egoi-suscriptor-creacion_actualizacion_recuperacion.json](workflows/0263-egoi-suscriptor-creacion_actualizacion_recuperacion.json)
+  Descripción: Este flujo permite crear un suscriptor en una lista específica de e-goi, modificar luego algunos campos (como el nombre) y finalmente obtener los detalles actualizados del contacto.
+
+- [0264-mattermost-language-inclusion.json](workflows/0264-mattermost-language-inclusion.json)
+  Descripción: Este flujo automatizado detecta términos de género excluyente (como 'guys', 'bros') en los mensajes entrantes y sugiere el uso de lenguaje inclusivo mediante un mensaje predefinido en Mattermost.
+
+- [0265-customer-data-count-set.json](workflows/0265-customer-data-count-set.json)
+  Descripción: Este flujo manual cuenta el número de registros de clientes en la base de datos de n8n Training.
+
+- [0266-mssql-to-csv.json](workflows/0266-mssql-to-csv.json)
+  Descripción: Este flujo permite ejecutar una consulta SQL en la tabla 'SalesLT.ProductCategory' y guardar el resultado como un archivo CSV con ese nombre.
+
+- [0267-imagenes-line-merge.json](workflows/0267-imagenes-line-merge.json)
+  Descripción: Este flujo automático descarga múltiples imágenes de ejemplo mediante solicitudes HTTP y las fusiona en un único resultado que contiene todos los datos binarios concatenados.
+
+- [0268-uProc_telegram_screenshot.json](workflows/0268-uProc_telegram_screenshot.json)
+  Descripción: Este flujo automático permite crear capturas de pantalla de sitios web y enviarlas automáticamente a un canal de Telegram.
+
+- [0269-download-pdf-robot.json](workflows/0269-download-pdf-robot.json)
+  Descripción: Este flujo automático permite descargar un archivo PDF específico de Deutsche Bahn cuando se recibe una solicitud GET en el webhook.
+
+- [0270-postgres-google-sheets-sync.json](workflows/0270-postgres-google-sheets-sync.json)
+  Descripción: Este flujo automático escucha actualizaciones en la tabla de usuarios y las filtra para guardar solo aquellos que no tienen @n8n.io en el correo.
+
+- [0271-linear-alert-slack.json](workflows/0271-linear-alert-slack.json)
+  Descripción: Este flujo automático detecta eventos de incidencias urgentes en Linear y envía una alerta a un canal específico de Slack para notificar al equipo.
+
+- [0272-datos-aleatorios.json](workflows/0272-datos-aleatorios.json)
+  Descripción: Este workflow realiza una solicitud HTTP a un servicio de API para obtener datos y los guarda en Google Sheets.
+
+- [0273-outlook-automated-email.json](workflows/0273-outlook-automated-email.json)
+  Descripción: Este flujo automático permite a un usuario crear automáticamente un borrador de correo electrónico en Outlook, adjuntar una imagen descargada y enviarlo.
+
+- [0274-discord-calendar-sync.json](workflows/0274-discord-calendar-sync.json)
+  Descripción: Este flujo sincroniza automáticamente los eventos programados en Discord a Google Calendar. Detecta si un evento ya existe o es nuevo y procede a actualizarlo o crearlo respectivamente.
+
+- [0275-sheets-discord-table.json](workflows/0275-sheets-discord-table.json)
+  Descripción: Este flujo automatizado envía un mensaje formateado en tabla ASCII de Google Sheets al canal Discord cuando hay cambios (nueva fila o actualización) en la hoja de cálculo especificada.
+
+- [0276-notion-outlook-sync.json](workflows/0276-notion-outlook-sync.json)
+  Descripción: Este flujo automático sincroniza eventos del calendario Outlook con páginas de base de datos en Notion mediante la verificación y creación/actualización basada en el ID del evento.
+
+- [0277-products-to-xml.json](workflows/0277-products-to-xml.json)
+  Descripción: Este flujo consulta aleatoriamente 16 productos de una base de datos MySQL y los transforma en dos archivos XML diferentes, manteniendo la estructura con etiquetas mediante funciones set.
+
+- [0278-paul_graham_essays.json](workflows/0278-paul_graham_essays.json)
+  Descripción: Este flujo automático permite extraer y resumir los textos de hasta tres ensayos recientes publicados en la web de Paul Graham.
+
+- [0279-gmail-appointment-autoresponder.json](workflows/0279-gmail-appointment-autoresponder.json)
+  Descripción: Este flujo automatizado procesa correos electrónicos no leídos para determinar si son citas y responde apropiadamente.
+
+- [0280-line-chatbot-agent.json](workflows/0280-line-chatbot-agent.json)
+  Descripción: Este flujo automático utiliza un chatbot de LINE para manejar mensajes, almacenar el contexto en memoria buffer y acceder al modelo GPT-4o-mini de OpenAI. También integra la herramienta SerpAPI para búsqueda web.
+
+- [0281-llm-chain-ai-agent.json](workflows/0281-llm-chain-ai-agent.json)
+  Descripción: Este flujo ejecuta una cadena LLM para generar respuestas y utiliza un agente de IA con herramientas como Wikipedia para mejorar las búsquedas en conversaciones.
+
+- [0282-llm-output-structured.json](workflows/0282-llm-output-structured.json)
+  Descripción: Este flujo procesa solicitudes con modelos de lenguaje grandes (LLM) para generar respuestas estructuradas, utilizando un parser automático que intenta corregir salidas no válidas mediante otro modelo LLM.
+
+- [0283-cadena-q-a.json](workflows/0283-cadena-q-a.json)
+  Descripción: Este flujo configura un procesamiento de cadenas para realizar búsquedas basadas en preguntas y responderlas, utilizando asignaciones como entrada.
+
+- [0284-n8n-chat-conversational.json](workflows/0284-n8n-chat-conversational.json)
+  Descripción: Este flujo permite a la conversación mantener contexto con los últimos mensajes gracias al almacenamiento en memoria buffer. Utiliza herramientas de búsqueda (SerpAPI) y Wikipedia para mejorar las respuestas del agente.
+
+- [0285-bitcoin-chat-flow-pinecone.json](workflows/0285-bitcoin-chat-flow-pinecone.json)
+  Descripción: Este flujo permite cargar datos del Bitcoin White Paper desde Google Drive en Pinecone usando embeddings de GPT-4o-mini y responder preguntas mediante herramientas vectoriales.
+
+- [0286-slack-gilfoyle-chatbot.json](workflows/0286-slack-gilfoyle-chatbot.json)
+  Descripción: Este flujo n8n procesa mensajes en Slack a través de una Webhook, utilizando al agente Gilfoyle para generar respuestas sarcásticas e irritable sobre temas definidos. El sistema verifica si el mensaje es humano y no generado por bot, usa herramientas como búsqueda web (SerpAPI) e información de Wikipedia según sea necesario y mantiene en memoria la conversación usando el ID del canal como clave.
+
+- [0287-google-drive-summarizer.json](workflows/0287-google-drive-summarizer.json)
+  Descripción: Este flujo permite descargar y procesar un archivo de Google Drive para generar resúmenes utilizando cadenas de sumarización.
+
+- [0288-line-ai-color-bot.json](workflows/0288-line-ai-color-bot.json)
+  Descripción: Este flujo automatizado permite a un chatbot de línea generar respuestas con funciones específicas como seleccionar colores aleatorios.
+
+- [0289-mistral-cadena-hf.json](workflows/0289-mistral-cadena-hf.json)
+  Descripción: Este flujo utiliza una cadena LLM básica conectada al modelo Mistral-7B-Instruct-v0.1 de Hugging Face junto con opciones de generación como temperatura y penalización.
+
+- [0290-feedback-openai-google.json](workflows/0290-feedback-openai-google.json)
+  Descripción: Este flujo automático permite recoger comentarios de clientes a través de un formulario y utilizar OpenAI para analizar su sentimiento. Los resultados junto con los datos del formulario se combinan y guardan automáticamente en una hoja de Google.
+
+- [0291-telegram-n8n-control.json](workflows/0291-telegram-n8n-control.json)
+  Descripción: Este flujo permite activar o desactivar workflows de n8n mediante comandos de Telegram. Los mensajes deben comenzar con '/start' o '/stop' seguidos del nombre del workflow para realizar la acción correspondiente.
+
+- [0292-snowflake-csv-insert.json](workflows/0292-snowflake-csv-insert.json)
+  Descripción: Este flujo carga datos desde un archivo CSV alojado en Azure Blob Storage, los procesa y luego inserta las columnas especificadas en la tabla 'users' de Snowflake.
+
+- [0293-email-validation-flow.json](workflows/0293-email-validation-flow.json)
+  Descripción: Este flujo verifica automáticamente la validez de una dirección de correo electrónico capturada mediante un formulario y añade el contacto a una lista si es válida.
+
+- [0294-twentycrm-eventos-canales.json](workflows/0294-twentycrm-eventos-canales.json)
+  Descripción: Este flujo automatizado obtiene notificaciones/eventos de TwentyCRM y las distribuye por los canales preferidos según el tipo de evento.
+
+- [0295-brightdata-screenshot.json](workflows/0295-brightdata-screenshot.json)
+  Descripción: Este flujo automático permite capturar una pantalla web usando Bright Data Web Unlocker y guardarla en un archivo local.
+
+- [0296-calendario-eventos.json](workflows/0296-calendario-eventos.json)
+  Descripción: Este flujo automático permite añadir eventos a la agenda de Gmail especificados manualmente al iniciar una ejecución.
+
+- [0297-imagen-texto-automatico.json](workflows/0297-imagen-texto-automatico.json)
+  Descripción: Este flujo automático permite descargar una imagen de la internet y agregar texto a ella.
+
+- [0298-cheems-discord.json](workflows/0298-cheems-discord.json)
+  Descripción: Este flujo automático envía recordatorios humorísticos en Discord todos los viernes y jueves por la mañana a las 9 AM, además de mensajes cada 30 minutos también utilizando el mismo webhook.
+
+- [0299-airtable-mailchimp-sync.json](workflows/0299-airtable-mailchimp-sync.json)
+  Descripción: Este flujo automático sincroniza entradas de la tabla Users en Airtable con una lista específica de Mailchimp, convirtiendo el campo Email en suscriptor y usando Name como valor para el campo FNAME.
+
+- [0300-nextcloud-deck-email.json](workflows/0300-nextcloud-deck-email.json)
+  Descripción: Este flujo automático lee correos electrónicos por IMAP, limpia su contenido y crea tarjetas en Nextcloud Deck.
+
+- [0301-telegram-journal-reminder.json](workflows/0301-telegram-journal-reminder.json)
+  Descripción: Este flujo automático envía cada mañana un recordatorio por Telegram para reflexionar sobre las actividades realizadas el día anterior.
+
+- [0302-zoom-from-google-calendar.json](workflows/0302-zoom-from-google-calendar.json)
+  Descripción: Este flujo automatizado crea reuniones en Zoom basándose en eventos filtrados de Google Calendar.
+
+- [0303-google-sheets-sync.json](workflows/0303-google-sheets-sync.json)
+  Descripción: Este flujo automático lee datos de una hoja de cálculo Google y los sincroniza periódicamente en el listado de suscriptores de Mailchimp.
+
+- [0304-email-xml-to-http-post.json](workflows/0304-email-xml-to-http-post.json)
+  Descripción: Este flujo automatizado extrae un email de IMAP, procesa el XML contenido en la primera adjunción y envía los datos mediante una solicitud HTTP POST a una API.
+
+- [0305-certificate-email-batch.json](workflows/0305-certificate-email-batch.json)
+  Descripción: Este flujo automático lee un archivo CSV, lo divide en lotes y utiliza su contenido para enviar correos electrónicos con certificados generados previamente.
+
+- [0306-twake-message-trigger.json](workflows/0306-twake-message-trigger.json)
+  Descripción: Este flujo automático se activa manualmente y envía un mensaje vacío a Twake sin especificar contenido ni canal.
+
+- [0307-send-sms-from-airtable.json](workflows/0307-send-sms-from-airtable.json)
+  Descripción: Este flujo automático permite enviar SMS utilizando Twilio a números y nombres almacenados en Airtable.
+
+- [0308-typeform-whatsapp-message.json](workflows/0308-typeform-whatsapp-message.json)
+  Descripción: Este flujo automático permite recibir nuevas respuestas de Typeform y enviarlas formateadas a WhatsApp usando Twilio.
+
+- [0309-twitter-mentions-rocketchat.json](workflows/0309-twitter-mentions-rocketchat.json)
+  Descripción: Este flujo verifica cada minuto en Twitter las menciones de '@n8n_io' y, si son nuevas, envía a RocketChat un mensaje con el texto del tweet y su URL.
+
+- [0310-twitter-monitor.json](workflows/0310-twitter-monitor.json)
+  Descripción: Este flujo monitoriza las menciones recientes de 'n8n_io' en Twitter y las publica en un canal de Mattermost.
+
+- [0311-website-stock-alert.json](workflows/0311-website-stock-alert.json)
+  Descripción: Este flujo verifica periódicamente el contenido de una respuesta HTTP para determinar si contiene 'Out Of Stock', enviando notificaciones en Discord según los resultados.
+
+- [0312-wordpress-csv-export.json](workflows/0312-wordpress-csv-export.json)
+  Descripción: Este flujo automatizado extrae y exporta todos los artículos de WordPress a un archivo CSV.
+
+- [0313-insertar-productos-desde-excel.json](workflows/0313-insertar-productos-desde-excel.json)
+  Descripción: Este flujo lee un archivo Excel (.xls), lo interpreta y luego inserta cada fila de este archivo en la tabla 'product' de una base de datos PostgreSQL.
+
+- [0314-bill-bot.json](workflows/0314-bill-bot.json)
+  Descripción: Este flujo automático procesa facturas recibidas por WhatsApp o Telegram, analiza los detalles con la API de Mindee, almacena la información en Google Sheets y envía una notificación por SMS.
+
+- [0315-icypeas-email-verifier.json](workflows/0315-icypeas-email-verifier.json)
+  Descripción: Este flujo automático procesa listas de correos electrónicos en lotes desde una hoja de Google, utilizando credenciales API para autenticación y realizando solicitudes HTTP POST a la plataforma Icypeas.
+
+- [0316-icypeas-email-search.json](workflows/0316-icypeas-email-search.json)
+  Descripción: Este flujo procesa resultados de búsqueda en tiempo real desde Icypeas y almacena el email, nombre y apellido.
+
+- [0317-phantom-airtable-store.json](workflows/0317-phantom-airtable-store.json)
+  Descripción: Este flujo permite ejecutar una operación Phantom Buster y almacenar el resultado estructurado en Airtable mediante la opción 'append'.
+
+- [0318-line-chatbot-memory.json](workflows/0318-line-chatbot-memory.json)
+  Descripción: Este flujo automático permite a un chatbot de LINE mantener una conversación contextualizada mediante el uso de memoria y herramientas personalizadas.
+
+- [0319-fastmail-mailbox-email.json](workflows/0319-fastmail-mailbox-email.json)
+  Descripción: Este flujo automático obtiene y procesa información de bandeja y correos electrónicos desde la API JMAP de Fastmail.
+
+- [0320-dingtalk-tfs-automation.json](workflows/0320-dingtalk-tfs-automation.json)
+  Descripción: Este flujo automatizado envía una notificación por DingTalk cuando se crea un nuevo Pull Request en Azure DevOps, utilizando mapas de base de datos MySQL para traducir cuentas de usuario.
+
+- [0321-airtable-image-automation.json](workflows/0321-airtable-image-automation.json)
+  Descripción: Este flujo automático busca y actualiza registros en Airtable para agregar imágenes mediante URL.
+
+- [0322-notion-bookmark-tracker.json](workflows/0322-notion-bookmark-tracker.json)
+  Descripción: Este flujo automatizado recibe URLs a través de un webhook POST y las crea como nuevas páginas en una base de datos Notion especificada.
+
+- [0323-crm_lead_automation.json](workflows/0323-crm_lead_automation.json)
+  Descripción: Este flujo automático detecta respuestas por email a campañas de marketing, evalúa el interés del prospecto mediante inteligencia artificial y, en caso de estar interesado, crea un nuevo trato en Pipedrive.
+
+- [0324-google-drive-file-share.json](workflows/0324-google-drive-file-share.json)
+  Descripción: Este flujo n8n permite obtener y compartir archivos de Google Drive en modo público mediante una ejecución manual.
+
+- [0325-binance_telegram_price_alert.json](workflows/0325-binance_telegram_price_alert.json)
+  Descripción: Este flujo automático vigila los cambios de precio en Binance y envía alertas por mensajes formateados vía Telegram cuando una criptomoneda experimenta un cambio mayor o igual al 15% (diferente a la menciona inicial) en las últimas 24 horas.
+
+- [0326-spotify-discover-weekly-archiver.json](workflows/0326-spotify-discover-weekly-archiver.json)
+  Descripción: Este flujo automático archiva los tracks de la playlist 'Discover Weekly' en Spotify comparando y añadiendo solo las canciones que no están ya presentes.
+
+- [0327-tron_wallet_monitor.json](workflows/0327-tron_wallet_monitor.json)
+  Descripción: Este flujo automático consulta y procesa transacciones recientes en una billetera TRC20, mostrando información formateada sobre los tokens recibidos.
+
+- [0328-analytics-airtable.json](workflows/0328-analytics-airtable.json)
+  Descripción: Este flujo automatizado obtiene datos de análisis web históricos y los almacena en una tabla de Airtable.
+
+- [0329-blog-medium-publisher.json](workflows/0329-blog-medium-publisher.json)
+  Descripción: Este flujo automático extrae contenido de blogs WordPress para publicar en Medium utilizando HTML y HTTP requests.
+
+- [0330-monday-error-tracking.json](workflows/0330-monday-error-tracking.json)
+  Descripción: Este flujo automático detecta cuando ocurre un error durante el procesamiento de ejecuciones, captura su stack trace y mensaje, y luego actualiza automáticamente un ítem en Monday.com con esta información.
+
+- [0331-eleven-openai-audio-translation.json](workflows/0331-eleven-openai-audio-translation.json)
+  Descripción: Este flujo ejecuta un proceso de conversión y transcripción de texto francés a voz y luego al inglés.
+
+- [0332-strava-beeminder-datapoint-flow.json](workflows/0332-strava-beeminder-datapoint-flow.json)
+  Descripción: Este flujo agrega un punto de datos en Beeminder cuando se crea una nueva actividad en Strava.
+
+- [0333-bored-api-activity-tool.json](workflows/0333-bored-api-activity-tool.json)
+  Descripción: Este flujo permite a un agente AI llamar a un subflujo para extraer información sobre tipo y número de participantes, luego usar esa información para filtrar actividades mediante la Bored API y devolver el resultado combinado en una respuesta del chatbot.
+
+- [0334-line-chatbot-memory.json](workflows/0334-line-chatbot-memory.json)
+  Descripción: Este flujo automatizado procesa mensajes de chat en LINE utilizando memoria contextualizada para mantener un historial significativo y llama al asistente especificado para generar respuestas.
+
+- [0335-sendgrid-contact-flow.json](workflows/0335-sendgrid-contact-flow.json)
+  Descripción: Este flujo permite crear, actualizar y obtener información de contactos en SendGrid a través del nodo SendGrid.
+
+- [0336-google-contacts-test.json](workflows/0336-google-contacts-test.json)
+  Descripción: Este flujo automatizado permite crear un contacto en Google Contacts con los datos de n8n y luego actualizar e inmediatamente obtener ese mismo contacto.
+
+- [0337-empresa-noticias-automatizacion.json](workflows/0337-empresa-noticias-automatizacion.json)
+  Descripción: Este flujo automático busca mantener informados sobre las noticias más recientes de empresas relacionadas con cada reunión programada en el calendario diario, enviando un resumen por email a la hora convenida.
+
+- [0338-hubspot-exact-enrichment.json](workflows/0338-hubspot-exact-enrichment.json)
+  Descripción: Este flujo automático permite a n8n enriquecer automáticamente perfiles de contacto en HubSpot con información adicional obtenida desde la API de ExactBuyer.
+
+- [0339-hubspot-engagement-automation.json](workflows/0339-hubspot-engagement-automation.json)
+  Descripción: Este flujo automático envía correos de seguimiento a contactos no contactados en HubSpot usando Gmail y registra el engagement.
+
+- [0340-telegram-ai-bot.json](workflows/0340-telegram-ai-bot.json)
+  Descripción: Este flujo automático permite a un bot de Telegram mantener una conversación utilizando el modelo OpenAI GPT-4o-mini, enviando respuestas con emojis.
+
+- [0341-hubspot-seguimiento-email.json](workflows/0341-hubspot-seguimiento-email.json)
+  Descripción: Este flujo automático busca contactos en HubSpot que hayan sido contactados anteriormente y solo hayan tenido un engagement, para enviarles un email educado de seguimiento.
+
+- [0342-lead-verification-madkudu-slack.json](workflows/0342-lead-verification-madkudu-slack.json)
+  Descripción: Este flujo automático verifica y califica leads usando Hunter e integra con MadKudu para enviar notificaciones por Slack cuando el ajuste del cliente supera un umbral.
+
+- [0343-validacion-email-madkudu-n8n.json](workflows/0343-validacion-email-madkudu-n8n.json)
+  Descripción: Este flujo automatizado valida emails con Hunter y puntúa leads con MadKudu mediante un formulario webhook, enviando alertas por email solo si la puntuación es mayor a 60.
+
+- [0344-form-contacto-telegram.json](workflows/0344-form-contacto-telegram.json)
+  Descripción: Este flujo automático recopila correos electrónicos mediante un formulario de contacto, verifica su validez usando Hunter API y, si es válido, calcula el score de ajuste del cliente a través de MadKudu. Los resultados se envían a Telegram para seguimiento rápido.
+
+- [0345-google-indexing-sitemap.json](workflows/0345-google-indexing-sitemap.json)
+  Descripción: Este flujo automático extrae URLs de un sitemap XML y las envía por lotes a la API de Google Indexing para notificar sobre actualizaciones.
+
+- [0346-lead-alertas-n8n.json](workflows/0346-lead-alertas-n8n.json)
+  Descripción: Este flujo automático monitoriza nuevas empresas calientes en HubSpot y envía alertas a un usuario específico en Slack cada 5 minutos.
+
+- [0347-euro-exchange-rate-processor.json](workflows/0347-euro-exchange-rate-processor.json)
+  Descripción: Este flujo automático obtiene y procesa tasas de cambio del euro en tiempo real mediante una solicitud HTTP a la API de la Reserva Europea Central.
+
+- [0348-mail-api-scraper.json](workflows/0348-mail-api-scraper.json)
+  Descripción: Este flujo permite extraer direcciones de correo electrónico de cualquier sitio web mediante una solicitud HTTP a un webhook.
+
+- [0349-stoic-twitter-bot.json](workflows/0349-stoic-twitter-bot.json)
+  Descripción: Este flujo automático permite crear y publicar tweets virales con un estilo personal sobre estóicismo moderno, programados cada 6 horas de manera aleatoria.
+
+- [0350-slack-idea-capture.json](workflows/0350-slack-idea-capture.json)
+  Descripción: Este flujo automatizado permite a un usuario enviar una solicitud viajera (comando slash) '/idea' en Slack para crear automáticamente una página de base de datos en Notion y solicitar detalles adicionales.
+
+- [0351-slack-feature-ideas.json](workflows/0351-slack-feature-ideas.json)
+  Descripción: Este flujo automatizado permite recibir ideas a través de comandos Slack y agregarlas en una hoja Google con un enlace para añadir detalles.
+
+- [0352-rss-monitor.json](workflows/0352-rss-monitor.json)
+  Descripción: Este flujo revisa periódicamente (cada hora) múltiples fuentes RSS específicas, verifica si los artículos fueron publicados en el último ciclo horario y envía correos con las novedades.
+
+- [0353-gmail-archivar.json](workflows/0353-gmail-archivar.json)
+  Descripción: Este flujo automático archiva los mensajes y hilos de correo en la bandeja de entrada que no están marcados como favoritos (estrellas) desde la última ejecución, dejando solo las estrelladas.
+
+- [0354-todoist-recurring-tasks.json](workflows/0354-todoist-recurring-tasks.json)
+  Descripción: Este flujo n8n procesa tareas de un proyecto Todoist para crear nuevas tareas en la bandeja de entrada cada día, basadas en parámetros como días y horas específicas. Analiza las descripciones de las tareas, verifica si coinciden con el día actual, genera tareas nuevas y elimina aquellas que ya existen.
+
+- [0355-slack-error-notification.json](workflows/0355-slack-error-notification.json)
+  Descripción: Este flujo automático envía una notificación por Slack cuando un workflow falla, informando del nombre del workflow y la URL de ejecución.
+
+- [0356-sync-n8n-notion.json](workflows/0356-sync-n8n-notion.json)
+  Descripción: Este flujo sincroniza automáticamente los workflows de n8n con el sistema Notion cada 15 minutos.
+
+- [0357-auto-seo-keywords-generator.json](workflows/0357-auto-seo-keywords-generator.json)
+  Descripción: Este flujo automático recibe una consulta por Webhook, genera keywords relacionadas usando el API de Google Suggest y las formatea para su uso en investigación SEO.
+
+- [0358-telegram-error-notification.json](workflows/0358-telegram-error-notification.json)
+  Descripción: Este flujo automatizado envía una notificación por Telegram cuando ocurre un error en otro workflow o proceso.
+
+- [0359-crea_actualiza_y_consulta_usuario_gsuite.json](workflows/0359-crea_actualiza_y_consulta_usuario_gsuite.json)
+  Descripción: Este flujo crea un usuario en Google Workspace usando el nodo de administrador y luego lo actualiza y obtiene para confirmar los cambios.
+
+- [0360-gmail-error-alert.json](workflows/0360-gmail-error-alert.json)
+  Descripción: Este flujo automático detecta errores en ejecuciones de otros trabajos y envía un correo detallado al usuario a través de la cuenta Gmail configurada.
+
+- [0361-workflow-error-config.json](workflows/0361-workflow-error-config.json)
+  Descripción: Este flujo actualiza la configuración de manejo de errores en workflows mediante Postgres y utiliza variables predefinidas para excluir ciertos casos.
+
+- [0362-country-query-formatter.json](workflows/0362-country-query-formatter.json)
+  Descripción: Este flujo automático consulta datos de país mediante GraphQL usando un código como parámetro, luego extrae el objeto del país y lo convierte en texto formateado para ser enviado a través de una URL.
+
+- [0363-highlevel-address-verification.json](workflows/0363-highlevel-address-verification.json)
+  Descripción: Este flujo automático verifica la dirección postal de nuevos contactos en HighLevel mediante una API de verificación y agrega un tag según si es válida o no.
+
+- [0364-documentacion-n8n-automatica.json](workflows/0364-documentacion-n8n-automatica.json)
+  Descripción: Este flujo automático permite a los usuarios generar documentación de sus workflows n8n utilizando la API de OpenAI.
+
+- [0365-reporte-fallas-telegram.json](workflows/0365-reporte-fallas-telegram.json)
+  Descripción: Este flujo revisa las ejecuciones falladas de una tarea en la última semana y envía un resumen por Telegram.
+
+- [0366-slack-to-clickup-tasks.json](workflows/0366-slack-to-clickup-tasks.json)
+  Descripción: Este flujo analiza un archivo JSON
+
+- [0367-tweets-publicador.json](workflows/0367-tweets-publicador.json)
+  Descripción: Este flujo automático extrae y publica los últimos Tweets almacenados en una hoja de Google llamada 'Tweets' cada 6 horas.
+
+- [0368-youtube-upload-create-playlist.json](workflows/0368-youtube-upload-create-playlist.json)
+  Descripción: Este flujo automático permite subir un video a YouTube y crear una lista de reproducción, añadiendo el ID del video recién cargado.
+
+- [0369-youtube-description-automation.json](workflows/0369-youtube-description-automation.json)
+  Descripción: Este flujo automático permite añadir un texto predefinido a la descripción de todos tus videos de YouTube manteniendo el contenido original existente y verificando si es necesario realizar actualizaciones.
+
+- [0370-flujo-confirmacion-transferencia.json](workflows/0370-flujo-confirmacion-transferencia.json)
+  Descripción: Este flujo automático verifica si un registro ya existe en Grist antes de crear uno nuevo basado en una entrada webhooks con un campo 'Confirmed' para asegurar que solo se realiza la operación cuando es necesario.
+
+- [0371-telegram-chatbot-ai.json](workflows/0371-telegram-chatbot-ai.json)
+  Descripción: Este flujo automático permite a un chatbot de Telegram generar respuestas inteligentes basadas en mensajes recibidos y enviar esas respuestas junto con imágenes generadas por IA.
+
+- [0372-xml-to-json-converter.json](workflows/0372-xml-to-json-converter.json)
+  Descripción: Este flujo permite convertir archivos XML a JSON, tiene múltiples conexiones y maneja errores con respuestas HTTP personalizadas.
+
+- [0373-nasa-api-credentials.json](workflows/0373-nasa-api-credentials.json)
+  Descripción: Este flujo utiliza una forma para ingresar dinámicamente la clave API de NASA, que luego se usa en el nodo de conexión con NASA mediante expresiones.
+
+- [0374-crm-address-verification.json](workflows/0374-crm-address-verification.json)
+  Descripción: Este flujo verifica la validez del domicilio postal de los contactos nuevos importados desde Groundhogg CRM utilizando la API de Lob. Si el resultado indica que es entregable, agrega una etiqueta y actualiza el contacto; si no, agrega otra etiqueta y desencadena acciones manuales o automatizadas.
+
+- [0375-email-validation-domain-extraction.json](workflows/0375-email-validation-domain-extraction.json)
+  Descripción: Este flujo prueba la validación de direcciones de correo electrónico y extrae el dominio utilizando funciones nativas de n8n.
+
+- [0376-unsubscribe-mautic.json](workflows/0376-unsubscribe-mautic.json)
+  Descripción: Este flujo automático permite a los usuarios desuscribirse de correos marketing al responder un mensaje específico en Gmail, integrando con Mautic CRM para gestionar sus datos.
+
+- [0377-google_slides_image_replacer.json](workflows/0377-google_slides_image_replacer.json)
+  Descripción: Este flujo automático permite reemplazar imágenes en presentaciones de Google Slides mediante una solicitud POST con parámetros como presentation_id, image_key y image_url.
+
+- [0378-elevenlabs-text-to-speech.json](workflows/0378-elevenlabs-text-to-speech.json)
+  Descripción: Este flujo verifica parámetros de entrada y utiliza la API de ElevenLabs para generar respuestas de voz a partir del texto proporcionado.
+
+- [0379-Keap-Lob-Address-Verification.json](workflows/0379-Keap-Lob-Address-Verification.json)
+  Descripción: Este flujo automático verifica la dirección postal de un contacto en Keap usando Lob a través de una API, y actualiza automáticamente los campos o aplica etiquetas según si es entregable o no.
+
+- [0380-hacker-news-monitor.json](workflows/0380-hacker-news-monitor.json)
+  Descripción: Este flujo verifica cada día a las 1:00 PM si hay artículos destacados de 'Show HN' en la página principal de Hacker News y envía un correo con los más recientes.
+
+- [0381-airtable-seo-metatags.json](workflows/0381-airtable-seo-metatags.json)
+  Descripción: Este flujo automatizado busca en Airtable los registros que no tienen URL ni título/metadata de descripción definidos y actualiza esos campos con valores reales extraídos desde el contenido web.
+
+- [0382-webhook-google-sheets.json](workflows/0382-webhook-google-sheets.json)
+  Descripción: Este flujo lee datos de una hoja específica de Google Sheets cuando se recibe una solicitud a través del webhook.
+
+- [0383-workflow-estado.json](workflows/0383-workflow-estado.json)
+  Descripción: Este flujo automático ejecuta un workflow principal con intervalos de disparo y verifica en Redis si el workflow está actualmente en ejecución para evitar múltiples instancias concurrentes.
+
+- [0384-api-flutterflow-data.json](workflows/0384-api-flutterflow-data.json)
+  Descripción: Este flujo n8n se utiliza para crear una API en FlutterFlow que recibe datos desde un almacén de datos (como 'Customer Datastore') y los inserta en una variable antes de devolverlos como JSON a la aplicación.
+
+- [0385-convertapi-docx2pdf.json](workflows/0385-convertapi-docx2pdf.json)
+  Descripción: Este flujo automático descarga un archivo DOCX desde una URL y lo convierte a PDF usando las credenciales de ConvertAPI para luego escribirlo en el sistema de archivos.
+
+- [0386-ejecuciones_workflow.csv](workflows/0386-ejecuciones_workflow.csv)
+  Descripción: Este flujo permite obtener todos los registros de ejecución del workflow y convertirlos en un archivo CSV.
+
+- [0387-convertir-docx-a-pdf.json](workflows/0387-convertir-docx-a-pdf.json)
+  Descripción: Este flujo automático permite convertir archivos DOCX enlazados de una URL remota al formato PDF utilizando ConvertAPI.
+
+- [0388-scrappey-test-schedule.json](workflows/0388-scrappey-test-schedule.json)
+  Descripción: Este flujo automatizado programa un proceso de prueba cada cierto tiempo para extraer datos mediante la API de Scrappey.
+
+- [0389-chat-movie-recommendations.json](workflows/0389-chat-movie-recommendations.json)
+  Descripción: Este flujo permite a una IA conversacional interactuar con datos de MongoDB mediante agregaciones, mantener contexto en memoria buffer y registrar preferencias del usuario.
+
+- [0390-convertapi-xlsx-to-pdf-test.json](workflows/0390-convertapi-xlsx-to-pdf-test.json)
+  Descripción: Este flujo automático permite probar la conversión de archivos XLSX a PDF utilizando una API pública.
+
+- [0391-convertir-pptx-a-json.json](workflows/0391-convertir-pptx-a-json.json)
+  Descripción: Este flujo automático descarga un archivo PPTX de demostración, lo convierte a PDF usando ConvertAPI autenticado y guarda el resultado como 'document.pdf' en el sistema local.
+
+- [0392-proteccion-pdf-google.json](workflows/0392-proteccion-pdf-google.json)
+  Descripción: Este flujo descarga automáticamente un PDF demo y lo escribe en disco o sube a Google Drive.
+
+- [0393-2310_webpage-to-pdf_test.json](workflows/0393-2310_webpage-to-pdf_test.json)
+  Descripción: Este flujo de prueba convierte la página web https://n8n.io en un archivo PDF y lo guarda como document.pdf.
+
+- [0394-manejador-errores.json](workflows/0394-manejador-errores.json)
+  Descripción: Este flujo verifica si un workflow está activo y no tiene configurado un manejador de errores. Si es así, actualiza sus ajustes asignando el ID del manejador de error predeterminado mediante una llamada a la API.
+
+- [0395-html-to-pdf-automation.json](workflows/0395-html-to-pdf-automation.json)
+  Descripción: Este flujo automático convierte documentos HTML en PDF utilizando ConvertAPI.
+
+- [0396-convertapi-jpg-to-pdf.json](workflows/0396-convertapi-jpg-to-pdf.json)
+  Descripción: Este flujo automático descarga una imagen demo y convierte el archivo JPG al formato PDF utilizando la API de ConvertAPI.
+
+- [0397-convertapi-pdf-conversion.json](workflows/0397-convertapi-pdf-conversion.json)
+  Descripción: Este flujo automatizado descarga un archivo demo, lo convierte a formato PDFA utilizando la API de ConvertAPI y escribe el resultado en un archivo PDFA.
+
+- [0398-agente-ia-herramientas.json](workflows/0398-agente-ia-herramientas.json)
+  Descripción: Este flujo demostrativo permite a un agente de IA interactuar con herramientas web y APIs para proporcionar actividades o información mediante mensajes.
+
+- [0399-workflow-credentials-agent.json](workflows/0399-workflow-credentials-agent.json)
+  Descripción: Este flujo permite almacenar configuraciones de n8n en una base de datos SQLite y consultarlas mediante un agente conversacional.
+
+- [0400-gmail-attachment-upload.json](workflows/0400-gmail-attachment-upload.json)
+  Descripción: Este flujo detecta nuevos correos electrónicos en Gmail con archivos adjuntos, extrae cada archivo individualmente y lo sube a la carpeta raíz de Google Drive.
+
+- [0401-line-chatbot-memory-automation.json](workflows/0401-line-chatbot-memory-automation.json)
+  Descripción: Este flujo automático extrae datos de nodos Webhook específicos en una ejecución y los pasa al nodo de procesamiento.
+
+- [0402-github-release-monitor.json](workflows/0402-github-release-monitor.json)
+  Descripción: Este flujo verifica las últimas publicaciones (releases) de repositorios GitHub seleccionados cada día y envía una notificación a Slack si hay una nueva versión disponible.
+
+- [0403-stripe-checkout-filters.json](workflows/0403-stripe-checkout-filters.json)
+  Descripción: Este flujo automático recupera todas las sesiones de checkout de Stripe del último mes y permite filtrarlas basándose en campos personalizados como nickname o job_title.
+
+- [0404-systeme-io-contact-flow.json](workflows/0404-systeme-io-contact-flow.json)
+  Descripción: Este flujo automático recopila todos los contactos y etiquetas de Systeme.io utilizando la paginación para manejar las limitaciones de API.
+
+- [0406-zigbee-backups-schedule.json](workflows/0406-zigbee-backups-schedule.json)
+  Descripción: Este flujo automático realiza copias de seguridad semanalmente (todos los lunes a las 2:45 am) mediante mensajes MQTT, descodifica la respuesta JSON para obtener el archivo ZIP y lo sube automáticamente a un servidor SFTP.
+
+- [0407-n8n-totp-authentication.json](workflows/0407-n8n-totp-authentication.json)
+  Descripción: Este flujo verifica la validez de un código TOTP introducido utilizando el secreto proporcionado.
+
+- [0408-confluence-template-automation.json](workflows/0408-confluence-template-automation.json)
+  Descripción: Este flujo automatiza la creación de una página en Confluence a partir de un template predefinido. Los parámetros base URL y ID del template son fijos, mientras que el espacio objetivo y las relaciones parentales se configuran mediante un set node.
+
+- [0409-todoist-categorizador.json](workflows/0409-todoist-categorizador.json)
+  Descripción: Este flujo automático toma tareas de la bandeja de entrada de Todoist, descarta subtareas y utiliza IA para asignarlas a proyectos específicos basados en prioridades predefinidas o etiquetarlas como 'other'.
+
+- [0411-backup-n8n-workflows.json](workflows/0411-backup-n8n-workflows.json)
+  Descripción: Este flujo automático realiza el respaldo de los workflows de n8n a un repositorio Bitbucket, evitando así la exceder de límites de rate.
+
+- [0412-zendesk-unassigned-tickets-to-slack.json](workflows/0412-zendesk-unassigned-tickets-to-slack.json)
+  Descripción: Este flujo automatizado consulta los tickets no asignados y pendientes de Zendesk, formatea su información y envía un mensaje resumen a un canal específico de Slack.
+
+- [0413-analisis-multimodal-cv.json](workflows/0413-analisis-multimodal-cv.json)
+  Descripción: Este flujo analiza currículums en PDF utilizando modelos visuales para detectar 'bypass' con prompts ocultos, evitando así que los candidatos intenten engañar al sistema.
+
+- [0414-passport-photo-validator.json](workflows/0414-passport-photo-validator.json)
+  Descripción: Este flujo automático verifica la validez de fotos de pasaporte siguiendo los criterios del gobierno británico mediante un modelo de IA.
+
+- [0415-siri-ai-agente.json](workflows/0415-siri-ai-agente.json)
+  Descripción: Este flujo de trabajo permite interactuar con un agente AI a través del comando 'Hey Siri' en dispositivos móviles.
+
+- [0416-zotero-pagination-bibliography.json](workflows/0416-zotero-pagination-bibliography.json)
+  Descripción: Este flujo automático permite descargar colecciones e items (artículos) de la API de Zotero mediante un bucle que maneja paginaciones.
+
+- [0417-image-composite-overlay.json](workflows/0417-image-composite-overlay.json)
+  Descripción: Este flujo automático permite componer dos imágenes, superponiendo una sobre la otra en el centro de la imagen base.
+
+- [0418-fastmail-masked-email-generator.json](workflows/0418-fastmail-masked-email-generator.json)
+  Descripción: Este flujo automático permite crear direcciones de correo electrónico enmascaradas utilizando la API de Fastmail. Se inicia mediante una solicitud POST a un webhook, que procesa y genera las direcciones solicitadas con los parámetros necesarios.
+
+- [0419-google-ads-keyword-data.json](workflows/0419-google-ads-keyword-data.json)
+  Descripción: Este flujo de trabajo utiliza la API de Google Ads para obtener datos históricos y volúmenes de búsqueda de hasta 20 palabras clave.
+
+- [0420-xero-webhook-verifier.json](workflows/0420-xero-webhook-verifier.json)
+  Descripción: Este flujo verifica la autenticidad de webhooks entrantes de Xero mediante el cálculo y comparación del hash HMAC utilizando SHA-256 para garantizar integridad y seguridad.
+
+- [0421-alertas-azure-task.json](workflows/0421-alertas-azure-task.json)
+  Descripción: Este flujo automático verifica periódicamente en Elasticsearch la cantidad de alertas, y si supera un umbral específico (probablemente 0), crea automáticamente una incidencia en Azure DevOps.
+
+- [0422-image-processing-flow.json](workflows/0422-image-processing-flow.json)
+  Descripción: Este flujo procesa imágenes subidas a ImgBB, las optimiza con ReSmush.it y almacena la versión optimizada en ImgBB.
+
+- [0423-spotify-youtube-sync.json](workflows/0423-spotify-youtube-sync.json)
+  Descripción: Este flujo sincroniza canciones entre listas de reproducción de YouTube y Spotify añadiendo solo las nuevas sin duplicados.
+
+- [0424-prism-elastic-alert-email.json](workflows/0424-prism-elastic-alert-email.json)
+  Descripción: Este flujo automático verifica periódicamente alerts de seguridad en un sistema Elastic y envía correos electrónicos notificando sobre incidentes detectados.
+
+- [0425-n8n-flujos-backup-github.json](workflows/0425-n8n-flujos-backup-github.json)
+  Descripción: Este flujo automático respalda workflows de n8n en un repositorio git verificando cambios y actualizando archivos.
+
+- [0426-token-management.json](workflows/0426-token-management.json)
+  Descripción: Este flujo utiliza variables estáticas persistentes para gestionar un token de acceso que caduca después de 1 minuto. Cuando el token expira (por la verificación en 'if token is valid'), se solicita uno nuevo mediante HTTP y actualiza los datos estáticos.
+
+- [0427-zoom-wordpress-schedule.json](workflows/0427-zoom-wordpress-schedule.json)
+  Descripción: Este flujo automático programa una nueva reunión de Zoom cada 360 días y actualiza un post en WordPress con su URL.
+
+- [0428-libros-historicos-extractor.json](workflows/0428-libros-historicos-extractor.json)
+  Descripción: Este flujo extrae información sobre libros históricos de Toscrape usando Jina.ai y se utiliza el modelo OpenAI ChatGPT para analizar los datos, guardando finalmente los resultados en una hoja de Google.
+
+- [0429-webflow-to-gsheets.json](workflows/0429-webflow-to-gsheets.json)
+  Descripción: Este flujo automatizado recoge datos de envíos de formulario en Webflow y los añade automáticamente como nuevas filas a una hoja de cálculo Google.
+
+- [0430-calvin-hobbes-discord-daily-comic.json](workflows/0430-calvin-hobbes-discord-daily-comic.json)
+  Descripción: Este flujo automático publica las tiras del cómic Calvin y Hobbes en Discord, con traducciones al coreano junto a los diálogues originales.
+
+- [0431-blue-sky-rss.json](workflows/0431-blue-sky-rss.json)
+  Descripción: Este flujo automatiza la publicación de artículos RSS convertidos en posts multimedia de BlueSky.
+
+- [0432-meal-plan-generator.json](workflows/0432-meal-plan-generator.json)
+  Descripción: Este flujo automático genera un plan de comidas aleatorias basado en recetas específicas para días futuros y lo envía a la API de Mealie.
+
+- [0433-github-release-monitor.json](workflows/0433-github-release-monitor.json)
+  Descripción: Este flujo automático verifica cada día los lanzamientos más recientes de n8n en GitHub, convierte cualquier contenido en formato markdown a HTML y envía un email notificando si hay una nueva versión disponible.
+
+- [0434-convertkit-list-subscribe-tag.json](workflows/0434-convertkit-list-subscribe-tag.json)
+  Descripción: Este flujo manual permite agregar un suscriptor a una lista de ConvertKit específicamente identificada mediante su ID, crear una etiqueta asociada y añadir al mismo suscriptor existente en esa lista a la nueva etiqueta.
+
+- [0435-openai-supabase-sql-chat.json](workflows/0435-openai-supabase-sql-chat.json)
+  Descripción: Este flujo permite a un usuario interactuar conversacionalmente con una base de datos PostgreSQL en Supabase mediante el uso de funciones de OpenAI para ejecutar consultas y generar respuestas.
+
+- [0436-cleaner-old-executions.json](workflows/0436-cleaner-old-executions.json)
+  Descripción: Este flujo n8n verifica ejecuciones antiguas y las elimina si tienen más de 10 días.
+
+- [0437-youtube-transcript-summary.json](workflows/0437-youtube-transcript-summary.json)
+  Descripción: Este flujo permite extraer la ID de un video de YouTube desde su URL mediante expresión regular, obtener sus datos principales como título y descripción, concatenar las transcripciones si están disponibles, y enviar un mensaje formateado con el resumen a través de Telegram.
+
+- [0438-twitch-stream-checker.json](workflows/0438-twitch-stream-checker.json)
+  Descripción: Este flujo verifica si un usuario de Twitch específico está realizando una transmisión en vivo consultando su API GraphQL.
+
+- [0439-hn-lookback-bot.json](workflows/0439-hn-lookback-bot.json)
+  Descripción: Este flujo automático permite revisar las principales historias de Hacker News del día actual y los días anteriores en múltiples años, analizarlas con un modelo LLM para categorizarlas en temas usando Google Gemini y enviar el resumen formateado en Markdown a través de Telegram.
+
+- [0440-jira_telegram_webhook.json](workflows/0440-jira_telegram_webhook.json)
+  Descripción: Este flujo envía actualizaciones por Telegram según el tipo de evento en Jira (creación, cambio o asignación).
+
+- [0441-youtube-video-summarizer.json](workflows/0441-youtube-video-summarizer.json)
+  Descripción: Este flujo automático permite obtener la transcripción de un video de YouTube y generar su resumen utilizando modelos de lenguaje.
+
+- [0442-transform-image-to-lego-line.json](workflows/0442-transform-image-to-lego-line.json)
+  Descripción: Este flujo automático permite recibir una imagen por un webhook de LINE, analizarla con GPT-4O-MINI para crear el prompt adecuado en DALL-E 3, generar la imagen alegorada como si estuviera hecha de LEGO y finalmente enviar esta nueva imagen al usuario mediante Line.
+
+- [0443-comparativo-llm-pdf.json](workflows/0443-comparativo-llm-pdf.json)
+  Descripción: Este flujo automatizado permite probar y comparar la capacidad de los modelos Gemini 2.0 Flash y Claude 3.5 Sonnet para extraer información directamente desde PDFs utilizando credenciales predefinidas.
+
+- [0444-google-drive-pii-detector.json](workflows/0444-google-drive-pii-detector.json)
+  Descripción: Este flujo automático detecta la creación de nuevos archivos CSV en Google Drive, identifica columnas que contienen datos personales (PII) mediante OpenAI, elimina esas columnas y vuelve a subir el archivo procesado.
+
+- [0445-sentry-release-flow.json](workflows/0445-sentry-release-flow.json)
+  Descripción: Este flujo automático permite crear una nueva versión de un proyecto en Sentry y luego obtener todas las versiones existentes.
+
+- [0446-telegram-welcome-bidirectional.json](workflows/0446-telegram-welcome-bidirectional.json)
+  Descripción: Este flujo automático permite a un bot de Telegram enviar saludos personalizados en español cuando alguien se une o abandona un chat, utilizando webhooks.
+
+- [0447-perplexity-ai-chat.json](workflows/0447-perplexity-ai-chat.json)
+  Descripción: Este flujo automatizado envía una solicitud al API de Perplexity AI usando la clave proporcionada, incluyendo parámetros como prompt y dominios para filtrado.
+
+- [0448-upwork-jobs-sync.json](workflows/0448-upwork-jobs-sync.json)
+  Descripción: Este flujo consulta trabajos recientes de Upwork usando Apify y MongoDB. Si las horas son entre 2-15, verifica si ya existen entradas similares por título y presupuesto antes de insertarlas.
+
+- [0449-rankmath-update-product.json](workflows/0449-rankmath-update-product.json)
+  Descripción: Este flujo automatizado se ejecuta cuando el usuario hace clic en 'Probar flujo' y actualiza los metadatos SEO de un producto específico utilizando la API del plugin Rank Math.
+
+- [0450-gitlab-merge-request-flow.json](workflows/0450-gitlab-merge-request-flow.json)
+  Descripción: Este flujo automático verifica si existe una solicitud de fusión abierta con el mismo nombre de rama y, en caso afirmativo, cierra; si no existe, crea una nueva.
+
+- [0451-backups-workflow-google.json](workflows/0451-backups-workflow-google.json)
+  Descripción: Este flujo automático ejecuta backups periódicos de workflows en Google Drive cada 4 horas y elimina los archivos originales para mantener el almacenamiento optimizado.
+
+- [0452-wordpress-posts-csv.json](workflows/0452-wordpress-posts-csv.json)
+  Descripción: Este flujo automático permite obtener posts publicados de WordPress en formato JSON y convertirlos posteriormente en archivo CSV para subirlo automáticamente al Google Drive.
+
+- [0453-convertkit-form-subscribe.json](workflows/0453-convertkit-form-subscribe.json)
+  Descripción: Este flujo de trabajo monitoriza cuando un nuevo suscriptor se añade a través del formulario específico número 165198 en ConvertKit.
+
+- [0454-vps-upgrade-email-checker.json](workflows/0454-vps-upgrade-email-checker.json)
+  Descripción: Este flujo automático ejecuta diariamente el comando 'apt list --upgradable' vía SSH en una máquina remota y envía un correo electrónico formateado en HTML si hay paquetes actualizables.
+
+- [0456-keywords-analysis.json](workflows/0456-keywords-analysis.json)
+  Descripción: Este flujo automático procesa keywords de una hoja de Google, las analiza para determinar si contienen nombres de software IT mediante un agente AI y actualiza la hoja con los resultados.
+
+- [0457-vps-resource-monitor.json](workflows/0457-vps-resource-monitor.json)
+  Descripción: Este flujo verifica el uso de CPU, RAM y disco en una VPS cada 15 minutos mediante tres nodos SSH ejecutados en intervalo. Si algún recurso excede el umbral del 80%, envía un email con la información detallada.
+
+- [0458-google-drive-batch-upload.json](workflows/0458-google-drive-batch-upload.json)
+  Descripción: Este flujo automático permite subir múltiples archivos a Google Drive de forma organizada mediante un formulario que verifica y crea automáticamente la carpeta destino.
+
+- [0459-imagen-gen-config.json](workflows/0459-imagen-gen-config.json)
+  Descripción: Este flujo n8n permite generar imágenes personalizadas a partir de parámetros definidos en los nodos Set Image Properties.
+
+- [0461-milvus-rag-chatbot-flow.json](workflows/0461-milvus-rag-chatbot-flow.json)
+  Descripción: Este flujo automático permite a un chatbot de LINE mantener una conversación contextualizada utilizando documentos PDF insertados en Milvus y consultas RAG con embeddings de Cohere.
+
+- [0462-n8n-blueprint-backoff.json](workflows/0462-n8n-blueprint-backoff.json)
+  Descripción: Este flujo implementa un mecanismo de backoff exponencial para manejar limitaciones de tasa (rate limiting) en la API de Google Sheets, reintentando una acción con incrementos exponenciales del tiempo entre intentos hasta alcanzar un máximo de 5 reintentos.
+
+- [0463-add-task-google.json](workflows/0463-add-task-google.json)
+  Descripción: Este flujo manual permite añadir una tarea específica de Google Tasks mediante un clic ejecutando el nodo correspondiente.
+
+- [0464-telegram-affirmations-daily.json](workflows/0464-telegram-affirmations-daily.json)
+  Descripción: Este flujo automático ejecuta un script todos los días a las 9 AM para obtener y enviar un mensaje de afirmación diario mediante la API de affirmations.dev.
+
+- [0465-discord-webhook-message.json](workflows/0465-discord-webhook-message.json)
+  Descripción: Este flujo automático permite enviar un mensaje 'Hello World!' a una canal de Discord mediante el uso de webhooks.
+
+- [0466-mattermost-rss-monitor.json](workflows/0466-mattermost-rss-monitor.json)
+  Descripción: Este flujo automático publica cada nuevo artículo de un feed RSS en el canal correspondiente de Mattermost, utilizando Mastodon como intermediario para la verificación.
+
+- [0467-signl4-event-processing.json](workflows/0467-signl4-event-processing.json)
+  Descripción: Este flujo automático procesa eventos pendientes del sistema SIG SIGNL4 cada hora, leyendo datos previos almacenados en un archivo binario y verificando si ya han sido resueltos para enviar las alertas correspondientes.
+
+- [0468-syncro-clockify-tasks.json](workflows/0468-syncro-clockify-tasks.json)
+  Descripción: Este flujo automático recibe datos vía webhook y los usa para crear tareas en Clockify.
+
+- [0469-telegram-meteogram.json](workflows/0469-telegram-meteogram.json)
+  Descripción: Este flujo automático permite recibir mensajes en Telegram sobre el clima y enviar de vuelta un informe con la descripción del tiempo actual, temperatura real y sensación térmica para la ciudad especificada.
+
+- [0470-postgres-excel-generator.json](workflows/0470-postgres-excel-generator.json)
+  Descripción: Este flujo ejecuta una consulta en PostgreSQL para obtener los nombres y códigos EAN de los productos, convierte el resultado en un archivo Excel y lo escribe.
+
+- [0471-line-chatbot-ssh.json](workflows/0471-line-chatbot-ssh.json)
+  Descripción: Este flujo automático permite a un chatbot de LINE solicitar interactivamente ayuda sobre comandos SSH y ejecutarlos en una VPS, utilizando herramientas como ReAct Agent y la extensión n8n-nodes-base.
+
+- [0472-workflow-wordpress-tts.json](workflows/0472-workflow-wordpress-tts.json)
+  Descripción: Este flujo automático permite obtener un artículo de WordPress, generar su resumen o transcripción con una IA y convertirlo a audio para ser insertado como contenido multimedia en el mismo post.
+
+- [0473-line-chatbot-memory.json](workflows/0473-line-chatbot-memory.json)
+  Descripción: Este flujo automático permite a un chatbot de LINE mantener una conversación contextualizada con los usuarios mediante el almacenamiento y recuperación de estados.
+
+- [0474-update-youtube-descriptions.json](workflows/0474-update-youtube-descriptions.json)
+  Descripción: Este flujo automático permite insertar un texto específico entre dos líneas determinadas en las descripciones de todos los videos de YouTube. Se recogen primero todos los videos, luego para cada uno se obtiene su ID y se busca el texto a insertar basado en variables definidas previamente.
+
+- [0475-nocodebot-multilang.json](workflows/0475-nocodebot-multilang.json)
+  Descripción: Este flujo automático permite a un chatbot de Telegram mantener una conversación contextualizada sobre herramientas de código abierto (No-Code) mediante la integración con una base de datos Strapi.
+
+- [0476-mailerlite-airtable-sync.json](workflows/0476-mailerlite-airtable-sync.json)
+  Descripción: Este flujo detecta cuando un suscriptor es añadido a un grupo en MailerLite y guarda automáticamente su nombre y email en una tabla de Airtable.
+
+- [0477-n8n-workflow-backup-schedule.json](workflows/0477-n8n-workflow-backup-schedule.json)
+  Descripción: Este flujo automatizado realiza copias de seguridad diarias a las 1:30 AM de todos los workflows de n8n en un archivo JSON y lo guarda en una carpeta especificada de Google Drive.
+
+- [0478-formulario-google-docs.json](workflows/0478-formulario-google-docs.json)
+  Descripción: Este flujo automático permite al usuario enviar datos a través de un formulario y que estos se utilicen para rellenar texto en un documento de Google Docs utilizando la API.
+
+- [0479-ideas-para-post.json](workflows/0479-ideas-para-post.json)
+  Descripción: Este flujo automatizado lee ideas de una hoja de Google, genera un post para la plataforma especificada usando OpenAI y, si es Twitter, lo publica. Después actualiza la hoja con el texto del post.
+
+- [0480-calendar-voice-reminder.json](workflows/0480-calendar-voice-reminder.json)
+  Descripción: Este flujo automático busca citas próximas y genera recordatorios por voz sintetizada para enviar a los asistentes.
+
+- [0481-shopify-orders-sync.json](workflows/0481-shopify-orders-sync.json)
+  Descripción: Este flujo automático obtiene pedidos de Shopify mediante API y los almacena en Google Sheets.
+
+- [0482-invitaciones-google-sheets-n8n.json](workflows/0482-invitaciones-google-sheets-n8n.json)
+  Descripción: Este flujo automatizado compara usuarios en n8n con datos de una hoja de Google Sheets para enviar invitaciones a los que no existen en la plataforma.
+
+- [0483-mailchimp-google-sheets-newsletter.json](workflows/0483-mailchimp-google-sheets-newsletter.json)
+  Descripción: Este flujo automatizado procesa nuevas suscripciones a la newsletter en Google Sheets y las añade como contactos activos en Mailchimp.
+
+- [0484-merge-pdfs-from-urls.json](workflows/0484-merge-pdfs-from-urls.json)
+  Descripción: Este flujo permite combinar múltiples PDFs provenientes de URLs en un solo archivo usando una función JavaScript personalizada.
+
+- [0485-library-install.json](workflows/0485-library-install.json)
+  Descripción: Este flujo automatizado permite instalar bibliotecas de Node.js (especificadas como una lista separada por comas) mediante la ejecución de comandos npm.
+
+- [0486-telegram-chinese-tutor.json](workflows/0486-telegram-chinese-tutor.json)
+  Descripción: Este flujo automático permite a un chatbot de Telegram practicar eficientemente el idioma chino mediante ejercicios de opción múltiple, utilizando memoria para mantener el contexto de la conversación.
+
+- [0487-shopify-fulfillment-auto.json](workflows/0487-shopify-fulfillment-auto.json)
+  Descripción: Este flujo automático busca filtrar y obtener las ordenes pendientes de fulfillment en Shopify para digital downloads o gift cards.
+
+- [0488-crear_cliente_segment.json](workflows/0488-crear_cliente_segment.json)
+  Descripción: Este flujo automatizado crea un nuevo cliente en Customer.io con la propiedad personalizada 'Name' configurada y luego añade inmediatamente a ese cliente a un segmento especificado.
+
+- [0489-line-n8n-assistant.json](workflows/0489-line-n8n-assistant.json)
+  Descripción: Este flujo implementa un asistente de IA en n8n que responde a mensajes de LINE utilizando modelos GPT y herramientas MCP.
+
+- [0490-mediamarkt-deals.json](workflows/0490-mediamarkt-deals.json)
+  Descripción: Este flujo automático procesa y envía ofertas de productos clasificadas por categoría mediante scraping web.
+
+- [0491-ai-chat-agent-memory.json](workflows/0491-ai-chat-agent-memory.json)
+  Descripción: Este flujo utiliza un agente de IA con memoria para mantener el contexto durante la interacción y realizar consultas a BigQuery sobre datos de envíos.
+
+- [0492-notion-tasks-slack.json](workflows/0492-notion-tasks-slack.json)
+  Descripción: Este flujo verifica cada hora a las 8 am los To Do de Notion, busca tareas asignadas al usuario 'NAME' y si hay alguna pendiente, envía una notificación directa en Slack a un usuario específico.
+
+- [0493-proyectos-coste-missing.json](workflows/0493-proyectos-coste-missing.json)
+  Descripción: Este flujo automático ejecuta una consulta SQL semanal para obtener proyectos externos activos con coste presupuestado faltante y envía correos electrónicos personalizados a diferentes equipos de cost centers según sus nombres.
+
+- [0494-monitor-alertas-postgres.json](workflows/0494-monitor-alertas-postgres.json)
+  Descripción: Este flujo automático verifica periódicamente registros en la base de datos PostgreSQL donde el valor es mayor a 70 y no ha sido notificado, luego actualiza el estado de dichos registros para marcarlos como notificados e informa por SMS mediante Twilio.
+
+- [0495-gumroad-sale-trigger.json](workflows/0495-gumroad-sale-trigger.json)
+  Descripción: Este flujo automático se activa cuando ocurre una venta en Gumroad.
+
+- [0496-gmail-news-to-linkedin.json](workflows/0496-gmail-news-to-linkedin.json)
+  Descripción: Este flujo automático permite a un usuario recibir newsletters de Gmail y utilizar OpenAI para identificar las noticias principales, resumirlas y generar publicaciones para LinkedIn con un estilo inteligente y humor sutil.
+
+- [0497-incident-integracion.json](workflows/0497-incident-integracion.json)
+  Descripción: Este flujo automatizado integra el monitoreo de incidentes con seguimiento en Jira, notificando al equipo a través de canales Mattermost.
+
+- [0498-resume-screener.json](workflows/0498-resume-screener.json)
+  Descripción: Este flujo n8n escucha nuevos correos electrónicos en Gmail con adjuntos, extrae el texto del PDF, lo evalúa usando un agente de IA basado en LangChain y OpenAI, y registra los resultados estructurados (nombre, email, LinkedIn y puntuación) en una hoja de Google.
+
+- [0499-tts-generation.json](workflows/0499-tts-generation.json)
+  Descripción: Este flujo automático permite ejecutar un script de Python para generar archivos de audio MP3 basados en texto y voz predefinidos.
+
+- [0500-pagerduty-mattermost-update.json](workflows/0500-pagerduty-mattermost-update.json)
+  Descripción: Este flujo automático permite a un sistema recibir una notificación vía webhook que contiene el ID de un incidente en PagerDuty. Una vez recibida la información, actualiza automáticamente el estado del incidente a 'acknowledged' y envía una confirmación al canal correspondiente de Mattermost.
+
+- [0501-pager-duty-jira-integracion.json](workflows/0501-pager-duty-jira-integracion.json)
+  Descripción: Este flujo automático actualiza el estado de un incidente en PagerDuty y su correspondiente incidencia en Jira, notificando luego a canales Mattermost.
+
+- [0502-chart-upload.json](workflows/0502-chart-upload.json)
+  Descripción: Este flujo crea dinámicamente un gráfico de línea a partir de datos JSON y lo sube al Google Drive.
+
+- [0503-error-alertas.json](workflows/0503-error-alertas.json)
+  Descripción: Este flujo automático detecta errores en trabajos y envía notificaciones tanto por SMS como por Mattermost.
+
+- [0504-sharepoint-upload.json](workflows/0504-sharepoint-upload.json)
+  Descripción: Este flujo automático sube archivos a Microsoft SharePoint utilizando Graph API.
+
+- [0505-openai-image-generation-edit.json](workflows/0505-openai-image-generation-edit.json)
+  Descripción: Este flujo de trabajo permite generar una imagen inicial usando la API de OpenAI, convertirla en formato binario y luego editarla añadiendo elementos como cuernos mediante la misma API.
+
+- [0506-facebook-lead-to-klicktipp.json](workflows/0506-facebook-lead-to-klicktipp.json)
+  Descripción: Este flujo automático importa datos de formularios de Facebook Lead Ads y los sincroniza en KlickTipp para iniciar campañas de email.
+
+- [0507-whatsapp-crm-automation.json](workflows/0507-whatsapp-crm-automation.json)
+  Descripción: Este flujo automático recoge datos de WhatsApp mediante un webhook, los guarda en una hoja de Google y añade el contacto a la CRM con etiqueta 'Nuevo Lead'. Posteriormente envía un correo y un mensaje en WhatsApp para dar la bienvenida al cliente.
+
+- [0508-google-autocomplete-letter.json](workflows/0508-google-autocomplete-letter.json)
+  Descripción: Este flujo combina un keyword inicial con todas las letras del alfabeto para obtener múltiples autocompletaciones de Google y devuelve la lista completa.
+
+- [0509-html-pdf-compress.json](workflows/0509-html-pdf-compress.json)
+  Descripción: Este flujo automático permite convertir un bloque de HTML en un archivo PDF y comprimirlo, así como procesar una URL específica para generar otro PDF a partir de ella.
+
+- [0510-html-pdf-png-conversion.json](workflows/0510-html-pdf-png-conversion.json)
+  Descripción: Este flujo n8n permite probar la conversión de HTML a PDF y su posterior conversión a PNG al hacer clic en el botón 'Test workflow'.
+
+- [0511-outlook-jira-ai-tickets.json](workflows/0511-outlook-jira-ai-tickets.json)
+  Descripción: Este flujo automático monitoriza el correo electrónico en la bandeja de Outlook para tickets de soporte, los clasifica y prioriza con inteligencia artificial, luego crea un ticket en Jira utilizando esos datos estructurados. Las notas adhesivas proporcionan instrucciones y contexto sobre cómo funciona el flujo.
+
+- [0512-web-scraper-structured.json](workflows/0512-web-scraper-structured.json)
+  Descripción: Este flujo automático permite extraer información estructurada sobre productos web (nombre, descripción, precio, valoración y número de reseñas) a partir de páginas HTML limpiadas. Utiliza Google Sheets para obtener listas de URLs a procesar, limpia el contenido con un script Node.js antes de enviarlo al modelo GPT-4 via OpenRouter, y finalmente anexa los resultados estructurados en JSON a otra hoja del documento.
+
+- [0513-email-tracking-pixel.json](workflows/0513-email-tracking-pixel.json)
+  Descripción: Este flujo automatizado permite detectar cuando se abre un correo electrónico mediante el envío de una imagen PNG transparente a través de webhook, capturando parámetros como userId para identificar al remitente.
+
+- [0515-auto-iniciar-flujos-n8n.json](workflows/0515-auto-iniciar-flujos-n8n.json)
+  Descripción: Este flujo permite iniciar manualmente dos instancias de ejecución en n8n mediante el trigger. La descripción explica que estos flujos no se inician automáticamente después de importar, a menos que tengan la etiqueta 'Auto start' y estén configurados para autodesplegar.
+
+- [0516-email-classification-ai.json](workflows/0516-email-classification-ai.json)
+  Descripción: Este flujo procesa correos electrónicos, clasifica en categorías específicas usando modelos de OpenAI y extrae información relevante sobre las candidatas.
+
+- [0517-postgres-csv-export.json](workflows/0517-postgres-csv-export.json)
+  Descripción: Este flujo automático consulta datos de una tabla específica (booksRead) en PostgreSQL mediante un trigger manual y exporta el resultado a un archivo CSV.
+
+- [0518-google-drive-pdf-to-html.json](workflows/0518-google-drive-pdf-to-html.json)
+  Descripción: Este flujo automático convierte archivos PDF nuevos guardados en Google Drive a HTML y los guarda automáticamente en la misma carpeta.
+
+- [0519-clockify-syncro-timer-sync.json](workflows/0519-clockify-syncro-timer-sync.json)
+  Descripción: Este flujo sincroniza entradas de tiempo entre Clockify y Syncro mediante Google Sheets.
+
+- [0520-daily-english-poems.json](workflows/0520-daily-english-poems.json)
+  Descripción: Este flujo automático envía un poema aleatorio diario de forma traducida al inglés británico, utilizando la API de Poemist y Telegram.
+
+- [0521-mailchimp-subscribe.json](workflows/0521-mailchimp-subscribe.json)
+  Descripción: Este flujo manual permite suscribirse a la lista de Mailchimp con el correo electrónico especificado y añadir campos predefinidos como FNAME.
+
+- [0522-namecheap-ddns-updater.json](workflows/0522-namecheap-ddns-updater.json)
+  Descripción: Este flujo automático verifica cada 15 minutos si la IP pública ha cambiado y actualiza automáticamente en Namecheap los registros DNS de múltiples subdominios.
+
+- [0523-orlen-factura-automatizada.json](workflows/0523-orlen-factura-automatizada.json)
+  Descripción: Este flujo automático descarga y procesa facturas electrónicas diarias del correo Gmail de Orlen, las sube a una carpeta en Google Drive organizada por año y mes, marca como leídas y notifica mediante Slack el directorio donde se han cargado.
+
+- [0524-mattermost-instagram-stats.json](workflows/0524-mattermost-instagram-stats.json)
+  Descripción: Este flujo automático verifica las estadísticas de un perfil Instagram (como seguidores y posts) cada día a las 8:00 AM y envía los datos actualizados en un mensaje formateado con fecha y hora actuales.
+
+- [0525-the-hive-alerts.json](workflows/0525-the-hive-alerts.json)
+  Descripción: Este flujo automático verifica cuando se crea una nueva alerta en TheHive que no esté cerrada. Si la condición se cumple, envía una notificación a SIGNL4 (probablemente para enviar alarma por LINE) con los detalles de la alerta y también inicia un proceso adicional si es necesario.
+
+- [0526-webhook-analisis-datos.json](workflows/0526-webhook-analisis-datos.json)
+  Descripción: Este flujo analiza un webhook para extraer datos y generar una respuesta.
+
+- [0527-3-xml-transform.json](workflows/0527-3-xml-transform.json)
+  Descripción: Este flujo procesa y transforma datos en formato XML mediante la conversión de una cadena XML en un objeto estructurado.
+
+- [0528-twilio_trigger.json](workflows/0528-twilio_trigger.json)
+  Descripción: Este flujo automático permite ejecutar manualmente acciones en Twilio a través de una API utilizando el trigger manual.
+
+- [0529-active-campaign-contact.json](workflows/0529-active-campaign-contact.json)
+  Descripción: Este flujo permite cargar manualmente información de los usuarios a ActiveCampaign desde n8n.
+
+- [0530-workflow-bloqueo-medio-dev-to.json](workflows/0530-workflow-bloqueo-medio-dev-to.json)
+  Descripción: Este flujo automatizado permite enviar artículos tanto a la plataforma Medium como al API de dev.to mediante una solicitud HTTP, utilizando credenciales configuradas para ambas acciones.
+
+- [0531-webflow-form-trigger.json](workflows/0531-webflow-form-trigger.json)
+  Descripción: Este flujo automático se activa cuando un formulario es enviado en una página web de Webflow y recoge los datos para su procesamiento.
+
+- [0532-hackernoon-extractor.json](workflows/0532-hackernoon-extractor.json)
+  Descripción: Este flujo manual extrae los títulos y enlaces de artículos desde la página principal de Hacker Noon (hackernoon.com) mediante análisis HTML.
+
+- [0533-digitalocean-create-droplet.json](workflows/0533-digitalocean-create-droplet.json)
+  Descripción: Este flujo automático crea una instancia Droplet en DigitalOcean usando los parámetros especificados y autenticándose con un token de acceso personal.
+
+- [0534-speech-recognition-wit-ai.json](workflows/0534-speech-recognition-wit-ai.json)
+  Descripción: Este flujo automatizado utiliza el nodo Read Binary File para leer un archivo WAV en la ruta especificada y lo envía a la API de Wit.ai mediante una solicitud HTTP POST para procesamiento.
+
+- [0535-pay-pal-batch-operation.json](workflows/0535-pay-pal-batch-operation.json)
+  Descripción: Este flujo ejecuta una operación en la cuenta de PayPal utilizando el ID del lote proporcionado.
+
+- [0536-signl4-test-alert.json](workflows/0536-signl4-test-alert.json)
+  Descripción: Este flujo manual permite desencadenar una alerta predefinida en SIGNL4 al hacer clic en el botón 'execute', enviando un mensaje y título de ejemplo.
+
+- [0537-shopify-odoo-product-sync.json](workflows/0537-shopify-odoo-product-sync.json)
+  Descripción: Este flujo sincroniza automáticamente productos nuevos de Shopify con Odoo. Se activa cuando se crea un producto en Shopify (evento 'products/create') y busca si ya existe en Odoo mediante el código por defecto. Si no existe, lo crea; si ya existe, verifica los datos del producto para realizar una actualización.
+
+- [0538-postgres-query.json](workflows/0538-postgres-query.json)
+  Descripción: Este flujo automático permite ejecutar un comando SQL de selección en una base de datos PostgreSQL mediante una activación manual.
+
+- [0539-banner-cocktail.json](workflows/0539-banner-cocktail.json)
+  Descripción: Este flujo automático muestra una receta aleatoria de cóctel cada viernes a las 18:00 mediante un mensaje con imagen en Rocket.Chat.
+
+- [0540-paypal-billing-plan-activated-trigger.json](workflows/0540-paypal-billing-plan-activated-trigger.json)
+  Descripción: Este flujo automático permite a n8n recibir notificaciones cuando PayPal activa un plan de facturación.
+
+- [0541-github-notifications-monitor.json](workflows/0541-github-notifications-monitor.json)
+  Descripción: Este flujo automático consulta periódicamente (cada minuto) las notificaciones del usuario en GitHub y si existen, envía un resumen formateado a una aplicación de Discord.
+
+- [0542-asana-tweet-event-trigger.json](workflows/0542-asana-tweet-event-trigger.json)
+  Descripción: Este flujo automático permite recibir actualizaciones cuando ocurre un evento en Asana relacionado con tweets.
+
+- [0543-postmark-email-events-trigger.json](workflows/0543-postmark-email-events-trigger.json)
+  Descripción: Este flujo recoge actualizaciones de eventos específicos de Postmark para correos electrónicos, como rebotes o aperturas.
+
+- [0544-n8n-daily-ai-news.json](workflows/0544-n8n-daily-ai-news.json)
+  Descripción: Este flujo automático busca artículos relacionados con inteligencia artificial (IA) usando las APIs de NewsAPI y GNews, los fusiona y utiliza GPT-4 para resumirlos y traducirlos al chino tradicional manteniendo términos técnicos en inglés.
+
+- [0545-google-page-entity-extraction.json](workflows/0545-google-page-entity-extraction.json)
+  Descripción: Este flujo analiza el contenido HTML de cualquier página web para extraer datos estructurados sobre entidades reconocidas por Google.
+
+- [0546-thehive-email-iocs.json](workflows/0546-thehive-email-iocs.json)
+  Descripción: Este flujo automático procesa correos electrónicos entrantes mediante IMAP, los analiza con Cortex para detectar indicaciones de compromiso (IoCs), y crea observables correspondientes en TheHive para cada tipo de IoC identificado.
+
+- [0547-wallabag-ttrss-sync.json](workflows/0547-wallabag-ttrss-sync.json)
+  Descripción: Este flujo automático se utiliza para guardar artículos marcados como favoritos (starred) en TT-RSS a la aplicación Wallabag.
+
+- [0548-telegram-journal-saver.json](workflows/0548-telegram-journal-saver.json)
+  Descripción: Este flujo automático captura respuestas de usuario en Telegram para guardar entradas diarias en una hoja de cálculo.
+
+- [0549-github-stars-slack.json](workflows/0549-github-stars-slack.json)
+  Descripción: Este flujo automático monitorea cambios en estrellas del repositorio de GitHub 'n8n' y envía mensajes en tiempo real a un canal de Slack.
+
+- [0550-zammad-tickets-summary.json](workflows/0550-zammad-tickets-summary.json)
+  Descripción: Este flujo automático permite consultar el número de tickets abiertos y nuevos en Zammad, filtrándolos por estado, y enviar un resumen a la sala de soporte de Zulip.
+
+- [0551-manual-aws-sns-trigger.json](workflows/0551-manual-aws-sns-trigger.json)
+  Descripción: Este flujo manual permite enviar un mensaje predefinido a una topic específica de AWS SNS al hacer clic en el botón 'execute'.
+
+- [0552-insertar-valor-mongodb.json](workflows/0552-insertar-valor-mongodb.json)
+  Descripción: Este flujo manual inserta un valor específico en la base de datos MongoDB cuando se ejecuta.
+
+- [0553-aws-ses-email.json](workflows/0553-aws-ses-email.json)
+  Descripción: Este flujo automático permite enviar un correo electrónico predefinido a través de AWS SES cuando se ejecuta manualmente.
+
+- [0554-aws-sns-trigger.json](workflows/0554-aws-sns-trigger.json)
+  Descripción: Este flujo utiliza una suscripción de AWS SNS para recibir notificaciones y potencialmente iniciar procesos o workflows en respuesta.
+
+- [0555-manual-aws-lambda-test.json](workflows/0555-manual-aws-lambda-test.json)
+  Descripción: Este flujo manual permite desencadenar un AWS Lambda específico mediante una acción clic.
+
+- [0556-msg91-sms-flow.json](workflows/0556-msg91-sms-flow.json)
+  Descripción: Este flujo automático permite enviar SMS utilizando el servicio MSG91 a través de una activación manual.
+
+- [0557-facebook_datos_basicos.json](workflows/0557-facebook_datos_basicos.json)
+  Descripción: Este flujo obtiene manualmente los datos personales básicos (nombre y apellido) del usuario actual en Facebook mediante una llamada a la API.
+
+- [0558-google-drive-download.json](workflows/0558-google-drive-download.json)
+  Descripción: Este flujo automático permite descargar un archivo de Google Drive y guardarlo localmente con un nombre específico.
+
+- [0559-mailchimp-subscribe-alert.json](workflows/0559-mailchimp-subscribe-alert.json)
+  Descripción: Este flujo activa una acción cuando alguien se suscribe a la lista de Mailchimp especificada.
+
+- [0560-trigger-cockpit-sample.json](workflows/0560-trigger-cockpit-sample.json)
+  Descripción: Este flujo automático permite iniciar un proceso manual y conectarlo inmediatamente con el nodo de Cockpit para visualizar datos de la colección 'samplecollection'.
+
+- [0561-flujo-verificacion-email-hunter.json](workflows/0561-flujo-verificacion-email-hunter.json)
+  Descripción: Este flujo automático verifica el correo electrónico utilizando la API de Hunter cuando se activa manualmente.
+
+- [0562-mqtt-trigger.json](workflows/0562-mqtt-trigger.json)
+  Descripción: Este flujo automático recibe mensajes de una cola MQTT cuando se publica un mensaje en el tópico correspondiente.
+
+- [0563-mailjet-correo-test.json](workflows/0563-mailjet-correo-test.json)
+  Descripción: Este flujo manual permite enviar un correo electrónico utilizando Mailjet. Se incluye texto predefinido, asunto, dirección de envío y dirección del destinatario.
+
+- [0564-line-chatbot-memory.json](workflows/0564-line-chatbot-memory.json)
+  Descripción: Este flujo se activa cuando un email es enviado mediante la API de Mailjet.
+
+- [0565-mailgun-email-sender-test.json](workflows/0565-mailgun-email-sender-test.json)
+  Descripción: Este flujo manual permite enviar un mensaje de email predefinido cuando se hace clic en el botón 'execute'.
+
+- [0566-hacker-news-trigger.json](workflows/0566-hacker-news-trigger.json)
+  Descripción: Este flujo automático permite ejecutar una acción manuala para obtener datos de todas las categorías de Hacker News.
+
+- [0567-github-monitor-repo.json](workflows/0567-github-monitor-repo.json)
+  Descripción: Este flujo monitoriza cualquier actividad en el repositorio de GitHub 'n8n-io/n827-docs' mediante una webhook, utilizando credenciales predefinidas para la API.
+
+- [0568-gitlab-trigger-n8n-docs.json](workflows/0568-gitlab-trigger-n8n-docs.json)
+  Descripción: Este flujo monitorea eventos en el repositorio GitLab n8n-io/n8n-docs mediante una webhook.
+
+- [0569-bitbucket-push-monitor.json](workflows/0569-bitbucket-push-monitor.json)
+  Descripción: Este flujo se activa automáticamente cuando hay un evento de push en el repositorio 'test' de Bitbucket.
+
+- [0570-travis-ci-trigger-build.json](workflows/0570-travis-ci-trigger-build.json)
+  Descripción: Este flujo manual permite iniciar un build en Travis CI haciendo clic, integrando el servicio de manera automatizada.
+
+- [0571-acuity-appointment-trigger.json](workflows/0571-acuity-appointment-trigger.json)
+  Descripción: Este flujo se activa cuando un usuario programa una cita a través de Acuity Scheduling.
+
+- [0572-invoice-ninja-getall.json](workflows/0572-invoice-ninja-getall.json)
+  Descripción: Este flujo manual permite obtener todos los facturas de la cuenta usando el servicio de API de Invoice Ninja.
+
+- [0573-invoice-creation-trigger.json](workflows/0573-invoice-creation-trigger.json)
+  Descripción: Este flujo automático se activa cuando se crea una factura en la API de Invoice Ninja.
+
+- [0574-clockify-event-poller.json](workflows/0574-clockify-event-poller.json)
+  Descripción: Este flujo automático monitoriza periódicamente la workspace especificada de Clockify cada minuto, esperando que ocurra algún evento para desencadenar acciones posteriores.
+
+- [0575-copper-project-trigger.json](workflows/0575-copper-project-trigger.json)
+  Descripción: Este flujo automático se activa mediante un webhook de Copper cuando ocurren eventos 'new' en recursos de tipo 'project'.
+
+- [0576-eventbrite-order-triggers.json](workflows/0576-eventbrite-order-triggers.json)
+  Descripción: Este flujo activa una integración cuando ocurren eventos relacionados con órdenes de entradas en Eventbrite, como la creación, actualización o reembolso.
+
+- [0577-rundeck-job-trigger.json](workflows/0577-rundeck-job-trigger.json)
+  Descripción: Este flujo permite iniciar manualmente la ejecución de una tarea específica en Rundeck al hacer clic en el botón 'execute'.
+
+- [0578-calendly-eventos-monitor.json](workflows/0578-calendly-eventos-monitor.json)
+  Descripción: Este flujo monitoriza eventos de Calendly para recibir notificaciones cuando se crea o cancela un participante en una cita.
+
+- [0579-jotform-trigger.json](workflows/0579-jotform-trigger.json)
+  Descripción: Este flujo automático se activa cuando un formulario específico de JotForm (ID: 202012795501445) es completado, utilizando credenciales de autenticación con la API de JotForm.
+
+- [0580-xero-get-all.json](workflows/0580-xero-get-all.json)
+  Descripción: Este flujo manual permite iniciar la ejecución para obtener todos los ítems de Xero mediante autenticación OAuth2.
+
+- [0582-bannerbear-imagen-manual.json](workflows/0582-bannerbear-imagen-manual.json)
+  Descripción: Este flujo automático permite a un usuario iniciar manualmente la generación de una imagen utilizando el servicio Bannerbear con un identificador específico y parámetros predefinidos para texto, color y fondo.
+
+- [0583-wordpress-get-all.json](workflows/0583-wordpress-get-all.json)
+  Descripción: Este flujo permite ejecutar manualmente una acción que obtiene todos los artículos desde una instancia de WordPress mediante sus credenciales API.
+
+- [0584-shopify-order-trigger.json](workflows/0584-shopify-order-trigger.json)
+  Descripción: Este flujo activo se dispara cuando se crea un nuevo pedido en Shopify mediante webhook.
+
+- [0585-shopify-get-all-records.json](workflows/0585-shopify-get-all-records.json)
+  Descripción: Este flujo ejecuta manualmente el desencadenador 'execute' que luego obtiene todos los registros de una cuenta Shopify.
+
+- [0586-typeform-seleccion-automatizada.json](workflows/0586-typeform-seleccion-automatizada.json)
+  Descripción: Este flujo automatizado permite registrar selecciones de formulario Typeform en Airtable.
+
+- [0587-paddle-coupon-creator.json](workflows/0587-paddle-coupon-creator.json)
+  Descripción: Este flujo automático permite crear una oferta de cupón en Paddle utilizando parámetros específicos.
+
+- [0588-survey-monkey-trigger.json](workflows/0588-survey-monkey-trigger.json)
+  Descripción: Este flujo automático se activa cuando una nueva respuesta se crea en la encuesta específica de SurveyMonkey.
+
+- [0589-zoho-crm-get-all.json](workflows/0589-zoho-crm-get-all.json)
+  Descripción: Este flujo manual inicia la ejecución para obtener todos los registros de Zoho CRM mediante autenticación OAuth2.
+
+- [0590-keap-contact-all.json](workflows/0590-keap-contact-all.json)
+  Descripción: Este flujo activa manualmente una ejecución que obtiene todos los contactos de Keap.
+
+- [0591-line-keap-integracion-automatica.json](workflows/0591-line-keap-integracion-automatica.json)
+  Descripción: Este flujo automático inicia procesos en n8n cuando un nuevo contacto se agrega en Keap.
+
+- [0592-monday-board-data.json](workflows/0592-monday-board-data.json)
+  Descripción: Este flujo ejecuta una acción manual en n8n para obtener datos de un tablero específico en Monday.com.
+
+- [0593-line-chatbot-memory.json](workflows/0593-line-chatbot-memory.json)
+  Descripción: Este flujo automático permite a un chatbot de LINE mantener una conversación contextualizada mediante la persistencia en Redis.
+
+- [0594-spacex-graphql-query.json](workflows/0594-spacex-graphql-query.json)
+  Descripción: Este flujo manual consulta la API de SpaceX mediante GraphQL para obtener detalles sobre los últimos lanzamientos y datos de las naves espaciales.
+
+- [0595-box-folder-execution.json](workflows/0595-box-folder-execution.json)
+  Descripción: Este flujo ejecuta automáticamente una acción sobre una carpeta específica de Box cuando se hace clic en el botón 'execute'.
+
+- [0596-cfp-trello-cards.json](workflows/0596-cfp-trello-cards.json)
+  Descripción: Este flujo selecciona solicitantes de un evento CFP con puntuación mayor que 15 en Airtable y crea tarjetas en Trello a partir de la información del formulario usando Bannerbear para generar imágenes publicitarias.
+
+- [0597-cocktaildb-json-xml-conversion.json](workflows/0597-cocktaildb-json-xml-conversion.json)
+  Descripción: Este flujo automático convierte los datos de respuesta en JSON de la API CocktailDB a XML.
+
+- [0598-expense-receipt-automation.json](workflows/0598-expense-receipt-automation.json)
+  Descripción: Este flujo automático recoge recibos a través de Typeform, extrae información relevante usando Mindee y almacena los datos en Airtable.
+
+- [0599-box-folder-file-events.json](workflows/0599-box-folder-file-events.json)
+  Descripción: Este flujo automático se activa cuando archivos o carpetas son movidas o descargadas en una carpeta específica de Box.
+
+- [0600-one-drive-folder-creation.json](workflows/0600-one-drive-folder-creation.json)
+  Descripción: Este flujo manual permite crear una carpeta en OneDrive al hacer clic en el botón 'execute'.
+
+- [0601-excel-trigger.json](workflows/0601-excel-trigger.json)
+  Descripción: Este flujo ejecuta un proceso manual al hacer clic en el botón de inicio, que luego consulta todos los datos disponibles a través del conector Microsoft Excel.
+
+- [0602-helpscout-mailbox-fetcher.json](workflows/0602-helpscout-mailbox-fetcher.json)
+  Descripción: Este flujo permite obtener todos los correos electrónicos almacenados en una caja específica mediante integración con HelpScout.
+
+- [0603-jira-trigger-any-event.json](workflows/0603-jira-trigger-any-event.json)
+  Descripción: Este flujo monitoriza cualquier evento en Jira Software Cloud mediante una conexión web.
+
+- [0604-sms-alert-error-notification.json](workflows/0604-sms-alert-error-notification.json)
+  Descripción: Este flujo de trabajo envía una alerta por SMS cuando un workflow específico falla en su ejecución.
+
+- [0605-mandrill-email.json](workflows/0605-mandrill-email.json)
+  Descripción: Este flujo permite enviar un correo utilizando la plantilla 'welcomeemailv2' desde el nodo Mandrill al hacer clic en 'execute'.
+
+- [0606-n8n-rocks-crypto-example.json](workflows/0606-n8n-rocks-crypto-example.json)
+  Descripción: Este flujo manual permite ejecutar una operación de cifrado en la cadena 'n8n rocks!' simplemente haciendo clic.
+
+- [0607-manual-execute-date.json](workflows/0607-manual-execute-date.json)
+  Descripción: Este flujo automático permite al usuario iniciar un proceso manualmente con la fecha específica '14/02/2020' usando el formato DD/MM/YYYY.
+
+- [0608-analisis-imagen-http.json](workflows/0608-analisis-imagen-http.json)
+  Descripción: Este flujo manual permite descargar una imagen de un URL específica y extraer información sobre ella.
+
+- [0609-trigger-leer-imagen-binaria.json](workflows/0609-trigger-leer-imagen-binaria.json)
+  Descripción: Este flujo permite cargar archivos binarios como imágenes al hacer clic en el desencadenador.
+
+- [0610-read-images-trigger.json](workflows/0610-read-images-trigger.json)
+  Descripción: Este flujo automático permite a un usuario iniciar manualmente una ejecución, la cual lee archivos binarios (específicamente imágenes jpg) desde el directorio /data/lol.
+
+- [0611-telegram-cocktails-daily.json](workflows/0611-telegram-cocktails-daily.json)
+  Descripción: Este flujo automático envía cada día a las 20:00 un cóctel aleatorio de TheCocktailDB mediante una foto con su receta.
+
+- [0612-workflow-n8n-581.json](workflows/0612-workflow-n8n-581.json)
+  Descripción: Este flujo inicia con un trigger manual, procesa datos a través de una función que devuelve dos objetos (con IDs 0 y 1), y luego utiliza un nodo condicional para evaluar si el valor 'value1' coincide con los resultados esperados.
+
+- [0613-manual-trigger-renamer.json](workflows/0613-manual-trigger-renamer.json)
+  Descripción: Este flujo se activa manualmente y luego establece un valor para la clave 'somevalue', que posteriormente es renombrada a 'newkey'.
+
+- [0614-read-rss-feed.json](workflows/0614-read-rss-feed.json)
+  Descripción: Este flujo automático permite ejecutar la lectura de un RSS feed específico mediante un botón manual.
+
+- [0615-send-email-example.json](workflows/0615-send-email-example.json)
+  Descripción: Este flujo manual permite enviar un correo electrónico predefinido al hacer clic en el botón de ejecución.
+
+- [0616-pdf-binario-lector.json](workflows/0616-pdf-binario-lector.json)
+  Descripción: Este flujo automático, al hacer clic en 'execute', lee un archivo PDF binario almacenado localmente y lo procesa.
+
+- [0618-flujo-email-imap.json](workflows/0618-flujo-email-imap.json)
+  Descripción: Este flujo automático permite leer correos electrónicos desde un servidor IMAP.
+
+- [0619-trigger-workflow.json](workflows/0619-trigger-workflow.json)
+  Descripción: Este flujo manual permite iniciar la ejecución de otro workflow al hacer clic en el botón.
+
+- [0620-58_telegram_coktai_random.json](workflows/0620-58_telegram_coktai_random.json)
+  Descripción: Este flujo automático captura mensajes de Telegram usando el webhook. Luego realiza una solicitud GET a la API de TheCocktailDB para obtener un cóctel aleatorio y extrae su imagen y nombre.
+
+- [0621-crear-tabla-y-insertar.json](workflows/0621-crear-tabla-y-insertar.json)
+  Descripción: Este flujo manual crea una tabla en CrateDB si no existe y luego inserta un registro con valores predefinidos.
+
+- [0622-crear-tabla-json.json](workflows/0622-crear-tabla-json.json)
+  Descripción: Este flujo ejecuta una consulta SQL para crear una tabla denominada 'test' con columnas id e name, luego configura un conjunto de valores que incluye esos datos.
+
+- [0623-postgres-create-set-insert.json](workflows/0623-postgres-create-set-insert.json)
+  Descripción: Este flujo automatizado inicia con un clic manual que ejecuta una consulta SQL para crear una tabla llamada 'test' en PostgreSQL. Luego, toma la salida de esa creación y la utiliza como entrada para establecer valores en el nodo Set (específicamente, espera establecer un valor numérico para 'id' y una cadena fija para 'name'). Finalmente, estos valores se envían a otra operación PostgreSQL.
+
+- [0624-mocean-sms.json](workflows/0624-mocean-sms.json)
+  Descripción: Este flujo automático permite enviar un mensaje de texto (SMS) a través del servicio Mocean mediante una activación manual.
+
+- [0625-facebook_comments_flow.json](workflows/0625-facebook_comments_flow.json)
+  Descripción: Este flujo obtiene los mensajes y comentarios más recientes de posts en una página de Facebook según la configuración inicial.
+
+- [0626-github-release-slack-notification.json](workflows/0626-github-release-slack-notification.json)
+  Descripción: Este flujo automático monitoriza nuevas publicaciones (releases) en el repositorio 'Mesdocteurs/mda-admin-partner-api' de GitHub y envía una notificación por mensaje en Slack al canal 'extranet-md'.
+
+- [0627-figma-jira-sync.json](workflows/0627-figma-jira-sync.json)
+  Descripción: Este flujo detecta actualizaciones en versiones de Figma a través del webhook del plugin Commit y agrega un comentario al issue específico JAJ-368 en Jira con los detalles pertinentes.
+
+- [0628-perplexity-research.json](workflows/0628-perplexity-research.json)
+  Descripción: Este flujo automatizado busca y extrae información relacionada con una consulta específica utilizando la API de Perplexity AI, formateando el resultado para obtener contenido limpio.
+
+- [0629-chatbot-pizza-order.json](workflows/0629-chatbot-pizza-order.json)
+  Descripción: Este flujo permite a un chatbot manejar órdenes de pizza manteniendo memoria conversacional y usando herramientas como calculadora, menú de productos e historial de pedidos.
+
+- [0630-telegram-bash-automated-response.json](workflows/0630-telegram-bash-automated-response.json)
+  Descripción: Este flujo automatizado permite que cuando se recibe un mensaje en el bot de Telegram (bash-dash), se envíe automáticamente una respuesta.
+
+- [0631-manual-github-profile-request.json](workflows/0631-manual-github-profile-request.json)
+  Descripción: Este flujo permite desencadenar manualmente una solicitud al API de GitHub para obtener el perfil de un repositorio.
+
+- [0632-slack-github-email-query.json](workflows/0632-slack-github-email-query.json)
+  Descripción: Este flujo automático consulta información de usuario y sus últimas contribuciones en GitHub mediante GraphQL, procesa los correos electrónicos encontrados (filtrando aquellos que no corresponden a un usuario real) y envía un mensaje formateado con estos datos al canal Slack especificado.
+
+- [0633-syncro-ticket-proyecto.json](workflows/0633-syncro-ticket-proyecto.json)
+  Descripción: Este flujo sincroniza el estado de tickets no resueltos desde una fuente externa con sus proyectos correspondientes en Clockify.
+
+- [0634-dos_pasos_google_sheets.json](workflows/0634-dos_pasos_google_sheets.json)
+  Descripción: Este flujo automático permite al usuario iniciar la ejecución manual y luego anexar datos en Google Sheets.
+
+- [0635-api-reqres-interactions.json](workflows/0635-api-reqres-interactions.json)
+  Descripción: Este flujo realiza una solicitud GET a la API de usuarios de reqres.in, seguida de un POST para crear un usuario y finalmente un PATCH para actualizar su job.
+
+- [0636-wp-post-automation.json](workflows/0636-wp-post-automation.json)
+  Descripción: Este flujo automático crea un nuevo post en WordPress y actualiza inmediatamente el contenido después.
+
+- [0637-60_n8n_mysql_purge_older_records.json](workflows/0637-60_n8n_mysql_purge_older_records.json)
+  Descripción: Este flujo elimina automáticamente registros de ejecución en la base de datos MySQL que sean antiguos (más de un mes) para optimizar el almacenamiento.
+
+- [0638-mattermost-chatbot-response.json](workflows/0638-mattermost-chatbot-response.json)
+  Descripción: Este flujo automatizado utiliza una webhook de Mattermost para procesar mensajes y enviar notificaciones con información almacenada mediante el nodo Set.
+
+- [0639-dropbox-http-image.json](workflows/0639-dropbox-http-image.json)
+  Descripción: Este flujo n8n permite la interacción con Dropbox mediante una solicitud HTTP, primero listando archivos de un directorio y luego subiendo un archivo específico.
+
+- [0640-helpscout-customer-created.json](workflows/0640-helpscout-customer-created.json)
+  Descripción: Este flujo escucha específicamente el evento 'customer.created' en HelpScout utilizando un webhook OAuth.
+
+- [0641-nextcloud-http-image-upload.json](workflows/0641-nextcloud-http-image-upload.json)
+  Descripción: Este flujo permite descargar una imagen desde un servidor HTTP y luego subirla a la carpeta 'n8n' en NextCloud, así como guardarla directamente con el nombre especificado.
+
+- [0642-hubspot-trigger-dghert3.json](workflows/0642-hubspot-trigger-dghert3.json)
+  Descripción: Este flujo automático es un trigger para procesar eventos específicos en HubSpot con appId dghert3.
+
+- [0643-email-excuse-notification.json](workflows/0643-email-excuse-notification.json)
+  Descripción: Este flujo automático analiza el remitente de un correo electrónico, lee datos de una hoja de cálculo para generar excusas aleatorias y envía ambos resultados (el correo original modificado y notificaciones en Slack) cuando el remitente es Louis Litt.
+
+- [0644-hoja-mautic-sync.json](workflows/0644-hoja-mautic-sync.json)
+  Descripción: Este flujo automático lee datos de una hoja de Google Sheets cada 5 minutos y los envía como campos personalizados al CRM Mautic.
+
+- [0645-sse-trigger-n8n.json](workflows/0645-sse-trigger-n8n.json)
+  Descripción: Este flujo automático utiliza un nodo de activación SSE para iniciar procesos basados en eventos enviados desde el servidor n8n.io.
+
+- [0646-nuevo-triage-afinidad-lista.json](workflows/0646-nuevo-triage-afinidad-lista.json)
+  Descripción: Este flujo se activa cuando se crea una nueva lista en la API de Affinity.
+
+- [0647-contentful-get-all.json](workflows/0647-contentful-get-all.json)
+  Descripción: Este flujo automático permite obtener todos los elementos de contenido desde una instancia de Contentful mediante un desencadenador manual.
+
+- [0648-unleashed-ordenes-completadas.json](workflows/0648-unleashed-ordenes-completadas.json)
+  Descripción: Este flujo manual ejecuta una consulta en el sistema Unleashed solo para órdenes completadas.
+
+- [0649-amazon-s3-upload-list-json.json](workflows/0649-amazon-s3-upload-list-json.json)
+  Descripción: Descarga un archivo desde una URL, lo sube a Amazon S3 y muestra todos los archivos en el bucket.
+
+- [0650-cocktail-storage.json](workflows/0650-cocktail-storage.json)
+  Descripción: Este flujo automático permite almacenar de forma persistente los datos en bruto de un trago aleatorio obtenido de la API de CocktailDB mediante el guardado como archivo JSON.
+
+- [0651-ejemplo-merge.json](workflows/0651-ejemplo-merge.json)
+  Descripción: Este flujo analiza datos de ejemplo para fusionar información sobre nombre y saludo en función del idioma común.
+
+- [0652-product-feedback-workflow.json](workflows/0652-product-feedback-workflow.json)
+  Descripción: Este flujo automatizado recoge comentarios y valoraciones sobre un producto a través de Typeform, los almacena en Airtable y, cuando el puntaje es igual a 7, crea una tarjeta en Trello con la información proporcionada.
+
+- [0653-bidirectional-sync.json](workflows/0653-bidirectional-sync.json)
+  Descripción: Este flujo sincroniza bidireccionalmente datos entre la base de datos MySQL y el CRM Pipedrive.
+
+- [0654-descargar-y-subir-imagen.json](workflows/0654-descargar-y-subir-imagen.json)
+  Descripción: Este flujo automático permite descargar una imagen de n8n.io y subirla directamente a un servidor FTP mediante el botón 'execute'.
+
+- [0655-salesforce-update-and-note.json](workflows/0655-salesforce-update-and-note.json)
+  Descripción: Este flujo automatizado permite actualizar campos específicos de un registro en Salesforce y añadir una nota al mismo, utilizando el ID del registro precedente.
+
+- [0656-teams-automation.json](workflows/0656-teams-automation.json)
+  Descripción: Este flujo automático permite ejecutar manualmente una secuencia de acciones en Microsoft Teams, donde primero se inicia la conexión con un equipo predefinido, luego se actualiza su nombre y finalmente se envía un mensaje a un canal específico.
+
+- [0657-linkedin-automation.json](workflows/0657-linkedin-automation.json)
+  Descripción: Este flujo automatizado descarga una imagen de la URL especificada y publica esa imagen en LinkedIn junto a un mensaje predefinido.
+
+- [0658-demo-n8n-flujo.json](workflows/0658-demo-n8n-flujo.json)
+  Descripción: Este flujo demuestra cómo n8n puede usar nodos 'function' para generar datos y nodos 'switch' para crear rutas de respuesta basadas en comparaciones.
+
+- [0659-error-alert-email.json](workflows/0659-error-alert-email.json)
+  Descripción: Este flujo detecta errores en cualquier nodo y envía un correo electrónico detallado al administrador con información sobre el error, workflow afectado y detalles técnicos.
+
+- [0660-taiga-issue-management.json](workflows/0660-taiga-issue-management.json)
+  Descripción: Este flujo automático permite crear, actualizar y obtener una incidencia en Taiga a partir de un desencadenador manual.
+
+- [0661-weather-alert.json](workflows/0661-weather-alert.json)
+  Descripción: Este flujo automático consulta cada cierto tiempo la temperatura en Berlín y envía un mensaje de texto notificando que es necesario abrigarse si el valor actual del 'sentimiento' está por debajo de los 18 grados Celsius.
+
+- [0662-brave-search-chatbot.json](workflows/0662-brave-search-chatbot.json)
+  Descripción: Este flujo de trabajo implementa un chatbot que utiliza GPT-4o y herramientas MCP para realizar búsquedas web en Brave, manteniendo memoria contextualizada.
+
+- [0663-iot-mqtt-influxdb-monitoring.json](workflows/0663-iot-mqtt-influxdb-monitoring.json)
+  Descripción: Este flujo automatizado recibe datos de sensores IoT remotos a través de un tema MQTT 'wokwi-weather', procesa y validan las lecturas de temperatura y humedad, luego escribe estos valores en formato JSON en una base de datos InfluxDB.
+
+- [0664-tts-openai.json](workflows/0664-tts-openai.json)
+  Descripción: Este flujo permite la conversión de texto en voz mediante el servicio de síntesis hablada de OpenAI.
+
+- [0665-pipeline-etl-twitter-sentiment.json](workflows/0665-pipeline-etl-twitter-sentiment.json)
+  Descripción: Este flujo automatizado busca tweets con el hashtag #OnThisDay, inserta los textos en una base de datos MongoDB y realiza un análisis de sentimiento utilizando Google Cloud Natural Language para almacenar las métricas score y magnitude en PostgreSQL. Si la puntuación es alta, envía un mensaje a Slack.
+
+- [0666-sheets-sync-every-2min.json](workflows/0666-sheets-sync-every-2min.json)
+  Descripción: Este flujo automatizado ejecuta una actualización en dos hojas de Google cada dos minutos, utilizando datos leídos previamente.
+
+- [0667-taiga-event-trigger.json](workflows/0667-taiga-event-trigger.json)
+  Descripción: Este flujo escucha eventos en el proyecto específico de Taiga mediante un desencadenador webhooks.
+
+- [0668-wekan-board-creation.json](workflows/0668-wekan-board-creation.json)
+  Descripción: Este flujo automático permite a un usuario ejecutar manualmente el proceso de creación de tableros Wekan, listas y tarjetas.
+
+- [0669-event-registration.json](workflows/0669-event-registration.json)
+  Descripción: Este flujo automático permite registrar asistentes y gestionar sus participaciones en n8nConf, la conferencia de no código.
+
+- [0670-n8n-cron-google-sheets-mattermost.json](workflows/0670-n8n-cron-google-sheets-mattermost.json)
+  Descripción: Este flujo automático ejecuta una tarea en Mattermost cada año el 17 de diciembre a las 00:00 (UTC), utilizando valores dinámicos extraídos de Google Sheets.
+
+- [0671-weather-processing.json](workflows/0671-weather-processing.json)
+  Descripción: Este flujo automático procesa datos meteorológicos utilizando la API de OpenWeatherMap para obtener información sobre temperatura, humedad, velocidad del viento y descripción.
+
+- [0672-webhook-weather-sync.json](workflows/0672-webhook-weather-sync.json)
+  Descripción: Este flujo automatizado recibe datos via webhook, extrae información clave y la almacena en Airtable para su posterior uso. Posteriormente, consulta el clima de la ciudad proporcionada utilizando OpenWeatherMap API y envía un mensaje por SMS a un número específico con los detalles del pronóstico mediante Twilio.
+
+- [0673-expense-tracker-mindee-airtable.json](workflows/0673-expense-tracker-mindee-airtable.json)
+  Descripción: Este flujo permite recibir un webhook con datos de factura que Mindee procesa y almacena en una tabla de Airtable.
+
+- [0674-transformador-array.json](workflows/0674-transformador-array.json)
+  Descripción: Este flujo automatizado inicia con un nodo que genera datos estáticos en forma de array y luego utiliza una función personalizada para transformar cada elemento del array en un objeto individual JSON.
+
+- [0675-clockify-proyecto-entrada-tiempo.json](workflows/0675-clockify-proyecto-entrada-tiempo.json)
+  Descripción: Este flujo automático crea un proyecto en Clockify con detalles específicos y luego agrega una entrada de tiempo usando ese proyecto, manteniendo la coherencia del contexto.
+
+- [0676-google-sheets-telegram-batch.json](workflows/0676-google-sheets-telegram-batch.json)
+  Descripción: Este flujo procesa entradas de Google Sheets por lotes y envía cada lote a Telegram.
+
+- [0677-mindee-receipt-extractor.json](workflows/0677-mindee-receipt-extractor.json)
+  Descripción: Este flujo automático procesa una imagen de recibo utilizando Mindee para extraer información estructurada y devuelve el resultado en formato JSON.
+
+- [0678-wufoo-form-submission.json](workflows/0678-wufoo-form-submission.json)
+  Descripción: Este flujo automático recibe actualizaciones cuando se envía un formulario específico en Wufoo.
+
+- [0679-bitcoin-monitor-sms.json](workflows/0679-bitcoin-monitor-sms.json)
+  Descripción: Este flujo verifica cada minuto el precio de Bitcoin en euros desde CoinGecko y envía un SMS si supera los 9000 EUR.
+
+- [0680-firecrawl-markdown-extractor.json](workflows/0680-firecrawl-markdown-extractor.json)
+  Descripción: Este flujo automático utiliza FireCrawl para realizar un scrapeo web a partir de una URL proporcionada, formateando el resultado como texto markdown para facilitar su uso en aplicaciones y agentes.
+
+- [0681-notion-ai-blog-update.json](workflows/0681-notion-ai-blog-update.json)
+  Descripción: Este flujo automático reacciona a actualizaciones en una base de datos de Notion usando DeepSeek para crear artículos SEO y publicarlos tanto en WordPress como actualizar el registro original.
+
+- [0682-sitemap-json-filter.json](workflows/0682-sitemap-json-filter.json)
+  Descripción: Este flujo lee un archivo sitemap.xml y extrae todas sus URLs individualmente.
+
+- [0683-github-credentials-restore.json](workflows/0683-github-credentials-restore.json)
+  Descripción: Este flujo automático permite restaurar todas las credenciales de la instancia desde un repositorio de GitHub.
+
+- [0684-hubspot-contactos-getall.json](workflows/0684-hubspot-contactos-getall.json)
+  Descripción: Este flujo automático inicia manualmente la obtención de todos los contactos de HubSpot mediante el nodo 'getAll' del recurso 'contact'.
+
+- [0685-coffee-bot-mattermost.json](workflows/0685-coffee-bot-mattermost.json)
+  Descripción: Este flujo automático organiza a los empleados en grupos aleatorios para sesiones de café virtual cada lunes y envía invitaciones a su calendario, además de anunciar los grupos formados.
+
+- [0686-language-learning-words.json](workflows/0686-language-learning-words.json)
+  Descripción: Este flujo automatizado extrae palabras de los títulos de las tres noticias principales de Hacker News, las traduce al alemán y guarda el resultado. Luego envía un SMS con una selección de cinco palabras alemanas junto con su correspondiente término en inglés.
+
+- [0687-medium-publication.json](workflows/0687-medium-publication.json)
+  Descripción: Este flujo permite publicar artículos en una publicación de Medium.
+
+- [0688-youtube-raindrop-sync.json](workflows/0688-youtube-raindrop-sync.json)
+  Descripción: Este flujo automático verifica cada 30 minutos la lista de reproducción especificada en YouTube y agrega los videos nuevos a Raindrop como marcadores con título compuesto por el nombre del propietario y el título del video, y etiqueta 'youtube'.
+
+- [0689-nuevo-producto-slack.json](workflows/0689-nuevo-producto-slack.json)
+  Descripción: Este flujo automático detecta la creación de nuevos productos en WooCommerce y envía una notificación al canal Slack.
+
+- [0690-github-sync-n8n.json](workflows/0690-github-sync-n8n.json)
+  Descripción: Este flujo sincroniza automáticamente los workflows de N8N con un archivo en GitHub mediante comparación y edición diferida.
+
+- [0691-openai-image-gen.json](workflows/0691-openai-image-gen.json)
+  Descripción: Este flujo automático utiliza la API de OpenAI ImageGen v1 para editar imágenes y generar una nueva versión basada en el prompt proporcionado.
+
+- [0692-disco-alerta-cron.json](workflows/0692-disco-alerta-cron.json)
+  Descripción: Este flujo verifica automáticamente cada día las 9:00 AM y 4:00 PM el espacio en disco de la raíz del sistema (host). Si detecta que está superior al 80%, envía una alerta por SMS a Twilio, notificando el porcentaje exacto de uso. En caso contrario, no realiza ninguna acción.
+
+- [0693-woocommerce-order-notification.json](workflows/0693-woocommerce-order-notification.json)
+  Descripción: Este flujo automático envía una notificación a Slack cuando se crea un nuevo pedido en WooCommerce, siempre que el total de la orden sea igual o superior a 100.
+
+- [0694-orbit-import-from-sheets.json](workflows/0694-orbit-import-from-sheets.json)
+  Descripción: Este flujo automatizado importa datos de miembros y actividades desde Google Sheets a la plataforma Orbit utilizando credenciales OAuth2.
+
+- [0695-automizy-list-management.json](workflows/0695-automizy-list-management.json)
+  Descripción: Este flujo automatiza la creación de una nueva lista en Automizy, añade un contacto con email predeterminado y actualizado, luego obtiene todos los contactos almacenados.
+
+- [0696-woocommerce-refund-notification.json](workflows/0696-woocommerce-refund-notification.json)
+  Descripción: Este flujo verifica cuando un pedido WooCommerce se actualiza a estado refundado y si el total supera o iguala los 100, enviando automáticamente una notificación al canal Slack 'woo-commerce' con detalles específicos.
+
+- [0697-weather-daily-update.json](workflows/0697-weather-daily-update.json)
+  Descripción: Este flujo programado envía cada día una notificación Pushcut con el pronóstico meteorológico de Berlin.
+
+- [0698-matrix-room-invite.json](workflows/0698-matrix-room-invite.json)
+  Descripción: Este flujo automático crea una sala de discusión en Matrix y la invita al usuario actual si no ya está invitado.
+
+- [0699-zoom-crear-reunion.json](workflows/0699-zoom-crear-reunion.json)
+  Descripción: Este flujo automático crea una reunión en Zoom usando la API OAuth2 mediante el desencadenante manual.
+
+- [0700-mautic-woocommerce-sync.json](workflows/0700-mautic-woocommerce-sync.json)
+  Descripción: Este flujo verifica si existe un cliente de WooCommerce en Mautic mediante una búsqueda en Mautic y crea o actualiza automáticamente contactos en Mautic.
+
+- [0701-circleci-api-trigger.json](workflows/0701-circleci-api-trigger.json)
+  Descripción: Este flujo permite ejecutar una acción en la plataforma de CI/CD CircleCI a través de su API al activar manualmente el trigger.
+
+- [0702-daily-weather-alert.json](workflows/0702-daily-weather-alert.json)
+  Descripción: Este flujo automático envía cada día un mensaje SMS con la temperatura actual del usuario especificado en OpenWeatherMap.
+
+- [0703-new-product-twitter-telegram.json](workflows/0703-new-product-twitter-telegram.json)
+  Descripción: Este flujo automático anuncia la creación de nuevos productos en WooCommerce en Twitter y Telegram.
+
+- [0704-messagebird-sms-trigger.json](workflows/0704-messagebird-sms-trigger.json)
+  Descripción: Este flujo automático permite enviar un SMS utilizando MessageBird mediante una activación manual.
+
+- [0705-google-sheets-mattermost-notification.json](workflows/0705-google-sheets-mattermost-notification.json)
+  Descripción: Este flujo automático verifica cada 45 minutos datos nuevos de una hoja Google Sheets y envía al chatbot un mensaje formateado indicando la adición.
+
+- [0706-mautic-email-validation-alert.json](workflows/0706-mautic-email-validation-alert.json)
+  Descripción: Este flujo verifica si un contacto de Mautic tiene una dirección de correo electrónico inválida o con baja calidad, y en caso afirmativo envía una alerta a Slack.
+
+- [0707-Crear-Issue-Jira.json](workflows/0707-Crear-Issue-Jira.json)
+  Descripción: Este flujo automático permite crear rápidamente una nueva incidencia (issue) en Jira Software mediante la activación de un desencadenador manual.
+
+- [0708-workflow-timer-unique.json](workflows/0708-workflow-timer-unique.json)
+  Descripción: Este flujo revisa las conexiones de un workflow en n8n para detectar si hay nuevos elementos de entrada que no han sido procesados antes, basándose en la marca de tiempo.
+
+- [0709-openweathermap-weather.json](workflows/0709-openweathermap-weather.json)
+  Descripción: Este flujo automático permite al usuario ejecutar un proceso manual que consulta los datos meteorológicos actuales de la ciudad especificada (en este caso, Berlin) mediante el servicio OpenWeatherMap.
+
+- [0710-hoja-calc-binaria-lector.json](workflows/0710-hoja-calc-binaria-lector.json)
+  Descripción: Este flujo lee un archivo de hoja de cálculo binario y lo almacena en memoria.
+
+- [0711-phishing-analysis-n8n.json](workflows/0711-phishing-analysis-n8n.json)
+  Descripción: Este flujo automático analiza indicadores de compromiso en correos electrónicos, extrae URLs y las escanea con VirusTotal y URLScan.io para detectar posibles amenazas de phishing.
+
+- [0712-lead-calification.json](workflows/0712-lead-calification.json)
+  Descripción: Este flujo automatiza la calificación de leads nuevos en una hoja de cálculo con Google mediante OpenAI's GPT-4.
+
+- [0713-bright-data-gemini-chat-enhancement.json](workflows/0713-bright-data-gemini-chat-enhancement.json)
+  Descripción: Este flujo permite a la IA de Gemini incorporar resultados de búsqueda en tiempo real de Google, Bing o Yandex para mejorar las respuestas del chatbot.
+
+- [0714-telegram-bot-ai-integration.json](workflows/0714-telegram-bot-ai-integration.json)
+  Descripción: Este flujo automático procesa mensajes de texto, audio e imágenes de un bot de Telegram usando webhooks y la API de OpenAI para análisis.
+
+- [0715-ai-calendar-mcp.json](workflows/0715-ai-calendar-mcp.json)
+  Descripción: Este flujo de trabajo n8n utiliza un agente de IA con OpenAI para gestionar interacciones conversacionales relacionadas con el calendario Google Calendar. Permite crear, buscar, actualizar y eliminar eventos, así como modificar texto entre mayúsculas y minúsculas mediante herramientas que responden a comandos.
+
+- [0716-blotato-social-publishing.json](workflows/0716-blotato-social-publishing.json)
+  Descripción: Este flujo automático publica videos e imágenes en múltiples redes sociales como Instagram, Facebook, LinkedIn, TikTok y más utilizando la plataforma Blotato. La automatización extrae contenido de Airtable, genera títulos virales para YouTube con OpenAI y gestiona el estado de publicación.
+
+- [0717-rag-chatbot-docs.json](workflows/0717-rag-chatbot-docs.json)
+  Descripción: Este flujo automático permite a un chatbot de IA mantener una conversación contextualizada usando documentos almacenados en Google Drive y Qdrant. Extrae metadatos relevantes como temas principales, puntos dolorosos e información clave para mejorar la búsqueda semántica y las respuestas del asistente.
+
+- [0718-crypto-news-sentiment-bot.json](workflows/0718-crypto-news-sentiment-bot.json)
+  Descripción: Este flujo automático analiza la consulta del usuario para extraer una palabra clave, busca noticias relacionadas en múltiples fuentes RSS de criptomonedas y utiliza GPT-4o para sintetizar información y evaluar el sentimiento del mercado.
+
+- [0719-n8n_rss_photo_filter.json](workflows/0719-n8n_rss_photo_filter.json)
+  Descripción: Este flujo obtiene RSS feeds nuevos de The Verge que contienen imágenes.
+
+- [0720-spotify-cancion-especifica-trigger.json](workflows/0720-spotify-cancion-especifica-trigger.json)
+  Descripción: Este flujo manual inicia una acción en Spotify usando la URI específica de una canción para buscar o reproducir.
+
+- [0721-error-trigger-mailgun.json](workflows/0721-error-trigger-mailgun.json)
+  Descripción: Este flujo utiliza un trigger de error para enviar notificaciones por correo cuando ocurre un error en la ejecución del workflow.
+
+- [0722-compression-to-dropbox.json](workflows/0722-compression-to-dropbox.json)
+  Descripción: Este flujo automatizado descarga dos imágenes de URLs HTTP, las comprime en un archivo ZIP y luego sube el resultado a Dropbox.
+
+- [0723-gmail-expenses-mindee.json](workflows/0723-gmail-expenses-mindee.json)
+  Descripción: Este flujo verifica correos electrónicos en Gmail que contienen palabras clave como 'expenses' o 'recibo', extrae datos de facturas usando la API Mindee y agrega automáticamente los detalles a una hoja de Google.
+
+- [0724-rocket-message-sender.json](workflows/0724-rocket-message-sender.json)
+  Descripción: Este flujo automático se activa manualmente y envía un mensaje predefinido a la sala general de RocketChat.
+
+- [0725-file-list-processing.json](workflows/0725-file-list-processing.json)
+  Descripción: Este flujo automático se activa manualmente, lee contenido desde el archivo '/home/n8n/filelist.txt', lo divide en líneas usando el carácter de nueva línea y almacena cada elemento en un array llamado 'arrData', luego utiliza la variable $runIndex para ejecutar comandos que imprimen los nombres de archivos basados en este array.
+
+- [0726-typeform-airtable-slack.json](workflows/0726-typeform-airtable-slack.json)
+  Descripción: Este flujo automático recoge respuestas de un formulario Typeform, extrae el nombre y correo electrónico del usuario, los agrega en Airtable y envía una notificación a Slack.
+
+- [0727-iss-tracking-timescaledb.json](workflows/0727-iss-tracking-timescaledb.json)
+  Descripción: Este flujo de trabajo automatizado consulta periódicamente la posición actual del satélite ISS y la almacena en una tabla de TimescaleDB para análisis temporal.
+
+- [0728-crear-usuario-intercom.json](workflows/0728-crear-usuario-intercom.json)
+  Descripción: Este flujo automático permite crear un nuevo usuario en Intercom al hacer clic manualmente.
+
+- [0729-gmail-invoice-alert.json](workflows/0729-gmail-invoice-alert.json)
+  Descripción: Este flujo verifica nuevas facturas en Gmail usando Mindee y envía notificaciones por Slack o correo si el monto total es superior a 1000.
+
+- [0730-diaria-temperatura-push.json](workflows/0730-diaria-temperatura-push.json)
+  Descripción: Este flujo programado ejecuta un chequeo diario a las 9 AM para obtener la temperatura actual de Berlin y envía una notificación Pushover con esta información.
+
+- [0731-security-scorecard-context-management.json](workflows/0731-security-scorecard-context-management.json)
+  Descripción: Este flujo automático inicia manualmente, genera un scorecard de seguridad para 'n8n.io', obtiene una sola instancia del informe y lo descarga desde la URL proporcionada.
+
+- [0732-reddit-automated-posting.json](workflows/0732-reddit-automated-posting.json)
+  Descripción: Este flujo automático publica un mensaje inicial en Reddit, luego obtiene datos de ese post y finalmente añade un comentario con información procesada.
+
+- [0733-automatic-sms-trigger.json](workflows/0733-automatic-sms-trigger.json)
+  Descripción: Este flujo automático permite enviar un SMS predefinido al hacer clic en el botón 'execute'.
+
+- [0734-pushcut-sms-trigger.json](workflows/0734-pushcut-sms-trigger.json)
+  Descripción: Este flujo automático envía un SMS cuando se activa la acción 'Leaving Home' mediante Pushcut.
+
+- [0735-manual-trigger-translation.json](workflows/0735-manual-trigger-translation.json)
+  Descripción: Este flujo manual permite ejecutar una traducción fija de un texto en inglés a alemán utilizando Google Translate.
+
+- [0736-discourse-automated.json](workflows/0736-discourse-automated.json)
+  Descripción: Este flujo automatizado permite crear, actualizar y recuperar mensajes en Discourse utilizando n8n.
+
+- [0737-getresponse-trigger-airtable.json](workflows/0737-getresponse-trigger-airtable.json)
+  Descripción: Este flujo automático es desencadenado por un suscriptor en GetResponse para la lista 'qtPk7'. Cuando se produce este evento, n8n recoge los datos del contacto y añade una entrada en Airtable a la tabla especificada.
+
+- [0738-n8n-flujo-set-stackby.json](workflows/0738-n8n-flujo-set-stackby.json)
+  Descripción: Este flujo utiliza un trigger manual para establecer valores estáticos en un nodo 'set', luego pasa estos datos a otro nodo Stackby que los muestra en una tabla. El segundo Stackby utiliza la configuración de ID y nombre del primer nodo, manteniendo coherencia con esos campos.
+
+- [0739-peekalink-verificacion.json](workflows/0739-peekalink-verificacion.json)
+  Descripción: Este flujo verifica si un servicio está disponible consultando una URL específica y utilizando condiciones lógicas.
+
+- [0740-tapfiliate-crear-cuenta.json](workflows/0740-tapfiliate-crear-cuenta.json)
+  Descripción: Este flujo automático crea una cuenta de afiliado en Tapfiliate con datos predefinidos y añade un tag personalizado.
+
+- [0741-strava-activity-flow.json](workflows/0741-strava-activity-flow.json)
+  Descripción: Este flujo automático permite crear actividades en Strava con parámetros específicos, actualizarlas usando el ID obtenido anteriormente y obtener información sobre ellas.
+
+- [0742-typeform-demio-registration.json](workflows/0742-typeform-demio-registration.json)
+  Descripción: Este flujo automatizado activa el registro en Demio con datos proporcionados por un formulario de Typeform.
+
+- [0743-quickbooks-cliente-factura.json](workflows/0743-quickbooks-cliente-factura.json)
+  Descripción: Este flujo automático permite crear un cliente en QuickBooks y luego enviar una factura existente relacionada con ese ID.
+
+- [0744-raindrop-automations.json](workflows/0744-raindrop-automations.json)
+  Descripción: Este flujo automatizado utiliza Raindrop para crear y actualizar notas de forma secuencial.
+
+- [0745-crear-organizacion-affinity.json](workflows/0745-crear-organizacion-affinity.json)
+  Descripción: Este flujo automático permite crear una organización en Affinity mediante un trigger manual.
+
+- [0746-strava-twitter-tweet.json](workflows/0746-strava-twitter-tweet.json)
+  Descripción: Este flujo automático monitorea nuevas actividades de ciclismo en Strava y publica un tweet en Twitter con detalles sobre la distancia recorrida y el nombre del ejercicio.
+
+- [0747-twitter-monitor-n8n-mentions.json](workflows/0747-twitter-monitor-n8n-mentions.json)
+  Descripción: Este flujo automático busca los últimos tweets que mencionan a una empresa en Twitter y los comparte en un canal de Slack si son más recientes que la ejecución anterior.
+
+- [0748-webinar-creation-update.json](workflows/0748-webinar-creation-update.json)
+  Descripción: Este flujo automático crea una sesión web para el webinar 'Getting started with n8n', luego actualiza su descripción y finalmente ejecuta la acción de webinar.
+
+- [0749-emelia-campaign-contact.json](workflows/0749-emelia-campaign-contact.json)
+  Descripción: Este flujo automatizado crea una campaña de marketing en Emelia y agrega un contacto a dicha campaña.
+
+- [0751-weather-alert-schedule.json](workflows/0751-weather-alert-schedule.json)
+  Descripción: Este workflow verifica el tiempo actual de Berlin cada vez que se inicia manualmente o en horario programado (06:15), comparando la temperatura con un umbral y enviando una alerta por signl4 si es menor a 25°C.
+
+- [0752-line-chatbot-context.json](workflows/0752-line-chatbot-context.json)
+  Descripción: Este flujo automatizado utiliza Webhook y el Integration node postHog para mantener una conversación contextualizada.
+
+- [0753-mailerlite-suscriptor.json](workflows/0753-mailerlite-suscriptor.json)
+  Descripción: Este flujo de trabajo utiliza nodos MailerLite para crear, actualizar y obtener detalles de suscriptores basado en el correo electrónico.
+
+- [0754-agile-crm-contact-creation.json](workflows/0754-agile-crm-contact-creation.json)
+  Descripción: Este flujo automático permite crear un nuevo contacto en Agile CRM mediante la activación del botón 'execute' manual.
+
+- [0755-airtable-lemlist-sync.json](workflows/0755-airtable-lemlist-sync.json)
+  Descripción: Este flujo importa registros de Airtable y los convierte en leads en Lemlist, utilizando credenciales específicas para ambas conexiones.
+
+- [0756-lemplist-mattermost-email-reply.json](workflows/0756-lemplist-mattermost-email-reply.json)
+  Descripción: Este flujo automático envía notificaciones de respuestas recibidas en una campaña específica de Lemplist a un canal designado en Mattermost.
+
+- [0757-weather-query-response.json](workflows/0757-weather-query-response.json)
+  Descripción: Este flujo automatizado consulta un servicio web para obtener datos meteorológicos de una ciudad especificada, los formatea y los devuelve como respuesta.
+
+- [0758-asana-task-creator.json](workflows/0758-asana-task-creator.json)
+  Descripción: Este flujo automático consulta la API de Asana mediante OAuth2 y procesa el resultado para generar un mensaje que muestra el enlace permanente de una tarea creada.
+
+- [0759-typeform-api-invoice.json](workflows/0759-typeform-api-invoice.json)
+  Descripción: Este flujo utiliza un desencadenador de Typeform para recibir respuestas y las usa como parámetros JSON en el generador de PDF de APITemplate.io.
+
+- [0760-asana-task-creator.json](workflows/0760-asana-task-creator.json)
+  Descripción: Este flujo permite crear una nueva tarea en Asana manualmente mediante un clic en 'execute'.
+
+- [0761-iss-kafka-positions.json](workflows/0761-iss-kafka-positions.json)
+  Descripción: Este flujo automático consulta cada minuto la posición actual del satélite ISS a través de la API WhereTheIss y envía los datos en tiempo real al topic Kafka 'iss-position'.
+
+- [0762-line-chatbot-automations.json](workflows/0762-line-chatbot-automations.json)
+  Descripción: Este flujo configura procesos automáticos para LINE Chatbots utilizando nodos Autopilot de n8n y pasando parámetros entre ellos.
+
+- [0763-autopilot-to-airtable-contact.json](workflows/0763-autopilot-to-airtable-contact.json)
+  Descripción: Este flujo automatizado importa automáticamente los contactos nuevos de Autopilot a una tabla específica en Airtable.
+
+- [0764-wise-eur-transfer-flow.json](workflows/0764-wise-eur-transfer-flow.json)
+  Descripción: Este flujo automático utiliza la API de Wise para crear y ejecutar transferencias monetarias entre cuentas.
+
+- [0765-wise-transfer-handler.json](workflows/0765-wise-transfer-handler.json)
+  Descripción: Este flujo automático permite registrar en Airtable detalles de transferencias cuando cambia su estado utilizando la API de Wise.
+
+- [0766-demo-batch.json](workflows/0766-demo-batch.json)
+  Descripción: Este flujo utiliza el nodo Function para generar una lista de items y luego aplica SplitInBatches con tamaño de lote 1 para procesarlos en lotes individuales, verificando si quedan elementos pendientes.
+
+- [0767-split-batch-test.json](workflows/0767-split-batch-test.json)
+  Descripción: Este flujo utiliza un trigger manual para iniciar una ejecución que genera 10 elementos numéricos y los procesa de uno en uno mediante SplitInBatches, verificando si el índice actual es igual a 5.
+
+- [0768-beber.json](workflows/0768-beber.json)
+  Descripción: Este flujo obtiene instrucciones aleatorias para preparar bebidas desde TheCocktailDB API y las traduce al francés usando DeepL.
+
+- [0769-sql-query-execution.json](workflows/0769-sql-query-execution.json)
+  Descripción: Este flujo automático permite ejecutar una consulta SQL en base de datos Microsoft SQL mediante un desencadenador manual.
+
+- [0770-google-drive-video-upload.json](workflows/0770-google-drive-video-upload.json)
+  Descripción: Este flujo automático permite cargar videos en Google Drive y, de forma inmediata, los subirá a Instagram, TikTok e YouTube con un título o descripción generado por la IA (OpenAI). El proceso incluye descargar el video desde Google Drive, extraer su audio para análisis con OpenAI y finalmente realizar las peticiones HTTP necesarias para publicar en las tres plataformas de redes sociales.
+
+- [0771-google-trends-resumen.json](workflows/0771-google-trends-resumen.json)
+  Descripción: Este flujo automatizado extrae datos de Google Trends utilizando Bright Data Web Unlocker y los procesa con cadenas LLM (Google Gemini Flash) para generar un resumen estructurado que luego se escribe en un archivo JSON o envía por email.
+
+- [0772-generador_3d_figurine.json](workflows/0772-generador_3d_figurine.json)
+  Descripción: Este flujo utiliza Midjourney para generar imágenes base y GPT-4o para crear vistas ortográficas de personajes en 3D.
+
+- [0773-slack-birthday-contacts.json](workflows/0773-slack-birthday-contacts.json)
+  Descripción: Este flujo automático permite a un usuario obtener de Google Contacts todas las personas con cumpleaños el día actual y enviar en automático mensajes de recordatorio de cumpleaños a un canal específico de Slack.
+
+- [0774-coffee-groups-organization.json](workflows/0774-coffee-groups-organization.json)
+  Descripción: Este flujo automatizado organiza virtualmente a los empleados en grupos para coffee chats cada lunes a las 10:00
+
+- [0775-Email-AI-HLT-System.json](workflows/0775-Email-AI-HLT-System.json)
+  Descripción: Este flujo automático utiliza IMAP para recibir correos electrónicos y AI para generar respuestas, integrando human intervention en el bucle para validar.
+
+- [0776-youtube-seo-blog-generator.json](workflows/0776-youtube-seo-blog-generator.json)
+  Descripción: Este flujo automático permite extraer la transcripción de videos de YouTube utilizando Dumpling AI, generar un artículo de blog SEO completo con OpenAI GPT-4o basado en esa transcripción y enviarlo como correo electrónico junto con una imagen generada.
+
+- [0777-telegram-file-downloader.json](workflows/0777-telegram-file-downloader.json)
+  Descripción: Este flujo automático descarga y guarda en Google Drive los archivos nuevos recibidos por mensaje de Telegram.
+
+- [0778-discord-ai-agent.json](workflows/0778-discord-ai-agent.json)
+  Descripción: Este flujo automático permite a un chatbot de Discord mantener conversaciones contextualizadas entre diferentes canales utilizando memoria avanzada y herramientas integradas.
+
+- [0779-rag-movie-recom-qdrant-openai.json](workflows/0779-rag-movie-recom-qdrant-openai.json)
+  Descripción: Este flujo automático implementa un chatbot de IA basado en RAG para recomendar películas utilizando Qdrant como almacenamiento vectorial y OpenAI para embeddings e interacción.
+
+- [0780-milvus-paul-graham-essays.json](workflows/0780-milvus-paul-graham-essays.json)
+  Descripción: Este flujo permite crear un conocimiento base con embeddings de OpenAI a partir de ensayos recientes de Paul Graham, almacenando los vectores en una colección de Milvus.
+
+- [0781-line-chatbot-automatic-reply.json](workflows/0781-line-chatbot-automatic-reply.json)
+  Descripción: Este flujo automático permite a un bot de LINE responder automáticamente a mensajes recibidos mediante webhooks, confirmando su recepción. Además, soporta la envío manual programada de mensajes utilizando una identificación del usuario específica.
+
+- [0782-telegram-chatbot-sessions.json](workflows/0782-telegram-chatbot-sessions.json)
+  Descripción: Este flujo automático permite a un chatbot de Telegram gestionar múltiples conversaciones manteniendo memoria e historial por sesión mediante Google Sheets.
+
+- [0783-sql-email-query-generator.json](workflows/0783-sql-email-query-generator.json)
+  Descripción: Este flujo traduce preguntas sobre correos electrónicos en consultas SQL y las ejecuta contra la base de datos.
+
+- [0784-ai-meeting-tool.json](workflows/0784-ai-meeting-tool.json)
+  Descripción: Este flujo automático permite a un asistente AI gestionar transcripciones de reuniones y realizar acciones automatizadas como crear eventos en Google Calendar para seguimiento.
+
+- [0785-typeform-feedback.json](workflows/0785-typeform-feedback.json)
+  Descripción: Este flujo procesa respuestas positivas de un formulario en Typeform y las agrega automáticamente a una tabla en Notion mientras crea una tarjeta en Trello y notifica en Slack.
+
+- [0786-telegram-groq-llava.json](workflows/0786-telegram-groq-llava.json)
+  Descripción: Este flujo automático permite recibir una imagen a través de Telegram, convertirla en base64 y enviarla al modelo GROQ LLAVA V1.5-7B para obtener su descripción.
+
+- [0787-n8n-ai-demo-multifunction.json](workflows/0787-n8n-ai-demo-multifunction.json)
+  Descripción: Este flujo automático utiliza la plataforma n8n para construir un sistema de IA multifuncional que incluye procesamiento de PDFs mediante embeddings y text splitting, así como chatbot con QA basado en documentos usando el modelo GPT-4o. También integra una funcionalidad para programar citas.
+
+- [0789-telegram-ai-chat.json](workflows/0789-telegram-ai-chat.json)
+  Descripción: Este flujo automático permite a un chatbot de Telegram mantener conversaciones contextualesizadas, responder preguntas y generar imágenes cuando los usuarios lo solicitan.
+
+- [0790-amazon-ads-optimization-flow.json](workflows/0790-amazon-ads-optimization-flow.json)
+  Descripción: Este flujo automatizado analiza reportes de Amazon Ads almacenados en Google Drive, utilizando IA para generar recomendaciones detalladas sobre estrategias de licitación, optimización táctica y escalado presupuestario.
+
+- [0791-ai-wordpress-summary.json](workflows/0791-ai-wordpress-summary.json)
+  Descripción: Este flujo automático genera y añade un resumen AI al principio de artículos de WordPress usando OpenAI, verifica si ya existe uno para evitar duplicados, actualiza la página y guarda los datos en Google Sheets.
+
+- [0792-line-chatbot-memory-search.json](workflows/0792-line-chatbot-memory-search.json)
+  Descripción: Este flujo automático permite a un chatbot de LINE mantener una conversación contextualizada utilizando la memoria del buffer, integrando la capacidad de búsqueda en web con SerpAPI y el modelo de lenguaje GPT-4o-mini.
+
+- [0794-fireflies-ai-agent-tasks-notification.json](workflows/0794-fireflies-ai-agent-tasks-notification.json)
+  Descripción: Este flujo automático captura transcripciones de reuniones en Fireflies.ai y utiliza un agente AI basado en OpenAI para generar tareas en Airtable según puntos clave del encuentro. Además, envía notificaciones específicas a clientes sobre sus pendientes mediante Gmail si son relevantes y programa eventos de Google Calendar si se requieren llamadas posteriores.
+
+- [0795-realtime-meeting-transcriber.json](workflows/0795-realtime-meeting-transcriber.json)
+  Descripción: Este flujo automatiza la transcripción de reuniones en tiempo real utilizando Recall.ai e integra las notas generadas con un chatbot de OpenAI para insights.
+
+- [0796-n8n-reAct-scraper.json](workflows/0796-n8n-reAct-scraper.json)
+  Descripción: Este flujo utiliza un agente de IA ReAct con la herramienta HTTP_Request_Tool para extraer y procesar contenido HTML mediante solicitudes HTTP, aplicando limitaciones en largo de página y simplificándolo según los parámetros.
+
+- [0797-line-chatbot-memory.json](workflows/0797-line-chatbot-memory.json)
+  Descripción: Este flujo automático permite a un chatbot de LINE mantener una conversación contextualizada con la memoria del usuario utilizando almacenamiento en caché.
+
+- [0798-ai-chat-with-supabase-documents.json](workflows/0798-ai-chat-with-supabase-documents.json)
+  Descripción: Este flujo automático permite a un chatbot de IA procesar documentos PDF y texto almacenados en Supabase, generar embeddings vectoriales con OpenAI y crear una base de conocimiento interactiva para consultas sobre archivos.
+
+- [0799-supabase-chat-ai.json](workflows/0799-supabase-chat-ai.json)
+  Descripción: Este flujo automático permite a un chatbot interactuar de forma conversacional con una base de datos PostgreSQL alojada en Supabase, ejecutando consultas SQL basadas en solicitudes del usuario.
+
+- [0800-search-console-ai-agent.json](workflows/0800-search-console-ai-agent.json)
+  Descripción: Este flujo automático permite a un chatbot interactuar con datos del motor de búsqueda utilizando herramientas de la API de Google Search Console, OpenAI y almacenar el historial de conversaciones en una base de datos PostgreSQL.
+
+- [0801-ai-agent-weather-wiki.json](workflows/0801-ai-agent-weather-wiki.json)
+  Descripción: Este flujo automatizado permite a un chatbot de IA responder preguntas sobre el clima actual y datos generales utilizando herramientas de Wikipedia, almacenando la conversación en memoria para mantener contexto.
+
+- [0802-google-calendar-ai-agent.json](workflows/0802-google-calendar-ai-agent.json)
+  Descripción: Este flujo automático permite a un asistente de Google Calendar interactuar con los usuarios mediante chat para crear eventos o recuperar datos, utilizando la API de OpenAI y manteniendo el contexto conversacional.
+
+- [0803-n8n-hr-cv-automation.json](workflows/0803-n8n-hr-cv-automation.json)
+  Descripción: Este flujo automático analiza currículums de candidatos mediante la extracción y resumen de datos clave usando modelos de IA.
+
+- [0804-ai-agent-hacker-news.json](workflows/0804-ai-agent-hacker-news.json)
+  Descripción: Este flujo automático permite a un chatbot de IA mantener una conversación contextualizada mediante herramientas personalizadas. En este caso específico, el agente utiliza un workflow para obtener y procesar datos sobre los artículos más populares en Hacker News.
+
+- [0805-conversational-ai-search.json](workflows/0805-conversational-ai-search.json)
+  Descripción: Este flujo automático permite a un chatbot mantener conversaciones contextualizadas utilizando memoria de ventana e integrando herramientas para búsqueda web.
+
+- [0806-stock-fundamental-ai-analyzer.json](workflows/0806-stock-fundamental-ai-analyzer.json)
+  Descripción: Este flujo automático analiza datos de fondos utilizando embeddings de OpenAI, procesamiento con LangChain y almacenamiento vectorial en Qdrant para responder preguntas sobre análisis fundamental de acciones.
+
+- [0807-analisis-sentimiento-feedback.json](workflows/0807-analisis-sentimiento-feedback.json)
+  Descripción: Este flujo automatizado permite recopilar comentarios de clientes en una hoja de Google, analizarlos con IA para detectar el sentimiento y luego integrarlo junto con otros datos del formulario en la misma hoja.
+
+- [0808-airtable-dynamic-prompts-llm.json](workflows/0808-airtable-dynamic-prompts-llm.json)
+  Descripción: Este flujo automático permite al usuario generar y mantener un esquema dinámico de campos en una tabla de Airtable mediante webhooks, optimizando la actualización con LLM solo cuando son necesarios.
+
+- [0809-baserow-pdf-extractor.json](workflows/0809-baserow-pdf-extractor.json)
+  Descripción: Este flujo automático permite a un usuario extraer datos de PDF utilizando prompts dinámicos en una tabla Baserow.
+
+- [0810-strava-coaching.json](workflows/0810-strava-coaching.json)
+  Descripción: Este flujo analiza datos de Strava para ofrecer coaching deportivo personalizado en triatlón.
+
+- [0811-jina-scraper-book-extractor.json](workflows/0811-jina-scraper-book-extractor.json)
+  Descripción: Este flujo utiliza Jina.ai para acceder y extraer datos de libros desde webscraping, los procesa con OpenAI y guarda el resultado en Google Sheets.
+
+- [0812-social_media_caption_generator.json](workflows/0812-social_media_caption_generator.json)
+  Descripción: Este flujo automático crea títulos para redes sociales en función de una breve presentación y datos sobre el público objetivo, almacenando todo directamente en un registro de Airtable.
+
+- [0813-voice-ai-chat.json](workflows/0813-voice-ai-chat.json)
+  Descripción: Este flujo automático integra Webhook para entradas de voz en tiempo real, gestión de memoria contextualizada con modelos como Google Gemini y ElevenLabs.
+
+- [0814-elevenlabs-voice-rag-chatbot.json](workflows/0814-elevenlabs-voice-rag-chatbot.json)
+  Descripción: Este flujo automático permite a un chatbot de ElevenLabs mantener conversaciones en voz con los clientes utilizando documentos vectorizados y una memoria contextualizada.
+
+- [0815-ai-company-researcher-sales.json](workflows/0815-ai-company-researcher-sales.json)
+  Descripción: Este flujo automático utiliza IA junto con herramientas web como SERPAPI o ScrapingBee para investigar propiedades de empresas como dominio, URL de LinkedIn, tipo de mercado (B2B/B2C), planes más económicos, API y ensayos gratuitos, actualizando luego los datos en Google Sheets.
+
+- [0816-youtube-trend-finder-n8n.json](workflows/0816-youtube-trend-finder-n8n.json)
+  Descripción: Este flujo automático utiliza la IA para analizar datos de videos tendenciales de YouTube en función de un nicho específico.
+
+- [0817-erp_lead_automation.json](workflows/0817-erp_lead_automation.json)
+  Descripción: Este flujo automático utiliza la IA para gestionar nuevas oportunidades de clientes (leads) de ERPNext, analizando sus notas y generando notificaciones por correo electrónico dirigidas a contactos relevantes si están relacionadas con productos o servicios.
+
+- [0818-ai-summary-wordpress.json](workflows/0818-ai-summary-wordpress.json)
+  Descripción: Este flujo automático analiza y clasifica contenido de WordPress para determinar si ya incluye un resumen generado por IA, generando nuevos resúmenes con GPT-4o-mini cuando es necesario.
+
+- [0819-erpnext-candidate-automation.json](workflows/0819-erpnext-candidate-automation.json)
+  Descripción: Este flujo automático permite integrar webhooks de ERPNext para gestionar solicitudes de candidatos mediante análisis AI (como Google Gemini) y actualizar sus estados en función del resultado.
+
+- [0820-historias-para-ninos.json](workflows/0820-historias-para-ninos.json)
+  Descripción: Este flujo automático crea historias en inglés para niños, las ilustra visualmente y las envía como texto e imágenes de audio vía Telegram.
+
+- [0821-email-ai-auto-responder.json](workflows/0821-email-ai-auto-responder.json)
+  Descripción: Este flujo automático analiza correos electrónicos entrantes utilizando DeepSeek y OpenAI para resumirlos e identificar el tema. Si la clasificación detecta que es una solicitud sobre la empresa, se genera una respuesta estructurada profesionalmente basándose en información de Qdrant.
+
+- [0822-email-approval-ia.json](workflows/0822-email-approval-ia.json)
+  Descripción: Este flujo automatiza el procesamiento de correos electrónicos entrantes, genera resúmenes y respuestas usando RAG e IA, requiere aprobación Sí/No antes de enviarlas.
+
+- [0823-ai-monitoring-slack.json](workflows/0823-ai-monitoring-slack.json)
+  Descripción: Este flujo automatizado monitorea artículos de interés en tiempo real utilizando múltiples fuentes RSS, clasifica su relevancia con IA y genera resúmenes formateados para facilitar la gestión eficiente.
+
+- [0824-rag-financial-report-gen.json](workflows/0824-rag-financial-report-gen.json)
+  Descripción: Este flujo utiliza el sistema RAG para analizar informes de rentabilidad corporativa basados en documentos históricos almacenados como embeddings en Pinecone. Procesa información mediante modelos de Google Gemini y OpenAI, sintetiza los datos con un agente especializado e integra todo en un informe markdown que se guarda automáticamente en Google Docs.
+
+- [0825-ai-social-media-amplifier.json](workflows/0825-ai-social-media-amplifier.json)
+  Descripción: Este flujo automatizado permite compartir discusiones destacadas de GitHub que aparecen en Hacker News, generando y enviando publicaciones formateadas para Twitter e LinkedIn.
+
+- [0826-ai-woocommerce-support-agent.json](workflows/0826-ai-woocommerce-support-agent.json)
+  Descripción: Este flujo automatizado implementa un asistente de IA con n8n y WooCommerce para gestionar consultas de clientes sobre sus pedidos, asegurando privacidad mediante encriptación del correo electrónico y integrando funciones como DHL.
+
+- [0827-workflow-retriever-qa.json](workflows/0827-workflow-retriever-qa.json)
+  Descripción: Este flujo automático permite hacer consultas sobre cualquier fuente de datos mediante la recuperación de workflows existentes.
+
+- [0828-podcast-consciencia-ai.json](workflows/0828-podcast-consciencia-ai.json)
+  Descripción: Este flujo analiza podcasts sobre la filosofía de la mente, extrae información clave y realiza búsquedas en Wikipedia para elaborar resúmenes mejorados.
+
+- [0829-news-monitor-trello.json](workflows/0829-news-monitor-trello.json)
+  Descripción: Este flujo automático monitoriza múltiples fuentes de RSS (Artificial Intelligence Blog, Testing Catalog y MarkTechPost), filtra artículos basados en la fecha, transforma los resultados a formato Markdown y publica comentarios en Trello mientras envía notificaciones por correo.
+
+- [0830-assistant-travel-agency.json](workflows/0830-assistant-travel-agency.json)
+  Descripción: Este flujo automatizado permite crear un asistente de OpenAI a partir del contenido de documentos almacenados en Google Drive y mantener una conversación contextualizada para la agencia de viajes.
+
+- [0831-monitor-usdt-balance.json](workflows/0831-monitor-usdt-balance.json)
+  Descripción: Este flujo monitoriza automáticamente el balance ERC-20 USDT almacenado en una cartera, notificando cada 5 minutos a Telegram si ha cambiado o no.
+
+- [0832-wordpress-ai-content-generator.json](workflows/0832-wordpress-ai-content-generator.json)
+  Descripción: Este flujo automático crea artículos en WordPress a diferentes niveles de lectura utilizando modelos de lenguaje. Procesa el contenido reescrito, valida que tengan título e introducción, genera imágenes relacionadas y guarda borradores en Google Drive.
+
+- [0833-n8n-nodos-unicos.json](workflows/0833-n8n-nodos-unicos.json)
+  Descripción: Este flujo analiza un archivo de blueprint único con definiciones de nodos para n8n.
+
+- [0834-code-review-ai.json](workflows/0834-code-review-ai.json)
+  Descripción: Este flujo automatizado permite a la herramienta Code Review del repositorio interactuar con los sistemas integrados que manejan solicitudes de pull, generando comentarios inteligentes basados en diferencias detectadas.
+
+- [0835-analisis-papers-hf.json](workflows/0835-analisis-papers-hf.json)
+  Descripción: Este flujo automatizado extrae y analiza artículos académicos de la plataforma Hugging Face utilizando inteligencia artificial (OpenAI) y almacena el resultado en un formato estructurado en Notion.
+
+- [0836-email-phishing-analysis.json](workflows/0836-email-phishing-analysis.json)
+  Descripción: Este flujo automático analiza y clasifica correos electrónicos sospechosos mediante ChatGPT para determinar si son fraudulentos o no. Las alertas de Gmail y Outlook capturan mensajes entrantes, que luego se procesan con IA para evaluar su naturaleza.
+
+- [0837-analisis-retroalimentacion-mattermost.json](workflows/0837-analisis-retroalimentacion-mattermost.json)
+  Descripción: Este flujo analiza el sentimiento de un comentario de retroalimentación utilizando la API de Google Cloud Natural Language y, si es positivo (score > 0), envía una notificación al canal especificado en Mattermost.
+
+- [0838-typeform-mattermost-sentimiento-negativo.json](workflows/0838-typeform-mattermost-sentimiento-negativo.json)
+  Descripción: Este flujo analiza el sentimiento de comentarios en formularios de Typeform y envía a un canal de Mattermost solo aquellos que tienen una valoración negativa.
+
+- [0839-email-phishing-analysis.json](workflows/0839-email-phishing-analysis.json)
+  Descripción: Este flujo automático analiza mensajes de correo electrónico sospechosos detectados en Gmail y Outlook, utilizando ChatGPT Vision para evaluar su apariencia visual e indicar si pueden ser intentos de phishing. Los resultados son formateados y almacenados en Jira.
+
+- [0841-bright-data-gemini-hotel-summarizer.json](workflows/0841-bright-data-gemini-hotel-summarizer.json)
+  Descripción: Este flujo automático extrae datos de hoteles desde Bing Copilot usando la API de Bright Data y utiliza Google Gemini AI para formatearlos en estructura JSON y generar resúmenes concisos.
+
+- [0842-telegram-ai-assistant.json](workflows/0842-telegram-ai-assistant.json)
+  Descripción: Este flujo automático permite a Angie mantener un contexto conversacional en tiempo real mientras interactúa con los usuarios mediante Telegram (tanto mensajes de texto como archivos de audio) y accede a sus correos electrónicos, agenda y datos basados en Baserow.
+
+- [0843-spy-intelligence-tool.json](workflows/0843-spy-intelligence-tool.json)
+  Descripción: Este flujo automático permite a un chatbot de LINE realizar una inteligencia espionaje automatizada. Escanea periódicamente (cada día) información de una URL extraída por IA y compara el contenido antiguo con el actual para enviar alertas por email si hay diferencias significativas.
+
+- [0844-sql-agent-memory.json](workflows/0844-sql-agent-memory.json)
+  Descripción: Este flujo permite interactuar con una base de datos SQLite cargada localmente mediante el LangChain SQL Agent, manteniendo memoria contextual en cada conversación.
+
+- [0845-openai-image-generator.json](workflows/0845-openai-image-generator.json)
+  Descripción: Este workflow permite generar imágenes utilizando la API de OpenAI basándose en inputs proporcionados mediante formularios.
+
+- [0846-workflow-pinecone-openai.json](workflows/0846-workflow-pinecone-openai.json)
+  Descripción: Este flujo carga documentos desde Google Drive en un vector store de Pinecone utilizando embeddings de OpenAI para luego permitir la recuperación de información mediante cadenas de pregunta-respuesta.
+
+- [0847-wp-ai-categorizer.json](workflows/0847-wp-ai-categorizer.json)
+  Descripción: Este flujo automatiza la categorización de posts en WordPress usando modelos de lenguaje de OpenAI.
+
+- [0848-competitor-analysis-n8n.json](workflows/0848-competitor-analysis-n8n.json)
+  Descripción: Este flujo automático analiza bases de datos y webinars utilizando herramientas de scraping e inteligencia artificial para recopilar información estructurada sobre competidores.
+
+- [0849-passport-photo-validation.json](workflows/0849-passport-photo-validation.json)
+  Descripción: Este flujo automático verifica la validez de fotos para pasaportes siguiendo las directrices del gobierno británico mediante modelos de visión por computadora en n8n.
+
+- [0852-strapi-testimonials-automation.json](workflows/0852-strapi-testimonials-automation.json)
+  Descripción: Este flujo automatizado busca coleccionar y analizar testimonios positivos en un sistema Strapi mediante la integración con Twitter.
+
+- [0853-fine-tuning-openai-with-drive.json](workflows/0853-fine-tuning-openai-with-drive.json)
+  Descripción: Este flujo automático permite realizar un proceso completo de fine-tuning en modelos de OpenAI usando archivos JSONL alojados en Google Drive.
+
+- [0855-eliminar-fondos-google-drive.json](workflows/0855-eliminar-fondos-google-drive.json)
+  Descripción: Este flujo elimina automáticamente los fondos de imágenes en Google Drive usando la API de Photroom.
+
+- [0856-youtube-x-automation.json](workflows/0856-youtube-x-automation.json)
+  Descripción: Este flujo automático busca promover los videos más recientes de una canaleta YouTube específica en X, verificando que cumplan con las limitaciones de caracteres y manteniendo un registro en Google Sheets.
+
+- [0857-calendar-event-automation.json](workflows/0857-calendar-event-automation.json)
+  Descripción: Este flujo automático crea eventos en Google Calendar a partir de datos insertados en una hoja de cálculo Google Sheets.
+
+- [0858-tiktok-downloader-json.json](workflows/0858-tiktok-downloader-json.json)
+  Descripción: Automático para descargar videos de TikTok sin el esticker de agua
+
+- [0859-telegram-gmail-alertas.json](workflows/0859-telegram-gmail-alertas.json)
+  Descripción: Este flujo automatiza el envío de correos electrónicos filtrados de Gmail a un chat de Telegram, notificando solo aquellos con asuntos que contengan palabras clave específicas como 'Urgente' o 'Server Down'.
+
+- [0861-line-chatbot-memory.json](workflows/0861-line-chatbot-memory.json)
+  Descripción: Este flujo automático permite a un chatbot de LINE mantener una conversación contextualizada con sus usuarios mediante el uso de memoria utilizando la API REST del servicio.
+
+- [0863-weather-slack-integration.json](workflows/0863-weather-slack-integration.json)
+  Descripción: Este flujo automático permite recibir ubicaciones en mensajes de Slack, buscar sus coordenadas usando OpenStreetMap y luego obtener el pronóstico meteorológico local a través del National Weather Service API para enviar la información formateada como texto en el mismo canal de Slack.
+
+- [0864-n8n_leaderboard_stats.json](workflows/0864-n8n_leaderboard_stats.json)
+  Descripción: Este flujo automatizado analiza métricas de usuarios n8n para generar un informe detallado y formateado en Markdown, incluyendo ranking de workflows más populares y estadísticas del creador.
+
+- [0865-bamboo-hr-ai-chatbot.json](workflows/0865-bamboo-hr-ai-chatbot.json)
+  Descripción: Este flujo es un chatbot potenciado por IA para responder preguntas sobre políticas corporativas, beneficios y procedimientos laborales utilizando documentos cargados desde BambooHR como fuente de información. Implementa búsqueda vectorial con OpenAI, memoria contextual (window buffer memory), y herramientas de empleado lookup que permiten a la IA buscar contactos internos o departamentos para facilitar las respuestas.
+
+- [0866-gmail-email-categorization.json](workflows/0866-gmail-email-categorization.json)
+  Descripción: Este flujo automático clasifica automáticamente los correos electrónicos entrantes en Gmail asignándoles etiquetas existentes o creando nuevas etiquetas basadas en el análisis de su contenido.
+
+- [0867-linea_inventario_agendador.json](workflows/0867-linea_inventario_agendador.json)
+  Descripción: Este flujo automático permite a un chatbot de n8n agendar reuniones verificando la disponibilidad en Google Calendar y generando slots horarios de 30 minutos entre las horas laborales del lunes al viernes.
+
+- [0868-n8n-deployer.json](workflows/0868-n8n-deployer.json)
+  Descripción: Este flujo permite la importación y configuración de un workflow en n8n mediante archivos JSON alojados en una carpeta específica de Google Drive.
+
+- [0869-bitrix-chatbot-webhook.json](workflows/0869-bitrix-chatbot-webhook.json)
+  Descripción: Este flujo automatizado permite a Bitrix24 procesar eventos de chatbots mediante webhooks, validar tokens y enviar respuestas adecuadas.
+
+- [0870-chatbot-salud-ia.json](workflows/0870-chatbot-salud-ia.json)
+  Descripción: Este flujo automático permite a un chatbot mantener una conversación contextualizada sobre planes de saúde doação, utilizando memoria persistente e integração com APIs externas para buscar informações específicas.
+
+- [0871-line-chatbot-memory.json](workflows/0871-line-chatbot-memory.json)
+  Descripción: Este flujo automático permite a un chatbot de LINE mantener una conversación contextualizada con los usuarios al procesar mensajes tanto en texto como imágenes, extrayendo información relevante sobre estados de cuenta y datos personales para luego insertarla en Google Sheets.
+
+- [0872-estudio-descomposicion-documents-n8n.json](workflows/0872-estudio-descomposicion-documents-n8n.json)
+  Descripción: Este flujo automatizado permite al sistema procesar documentos subidos en un directorio especificado, dividirlos en bloques de texto, vectorizar su contenido y luego generar diferentes tipos de materiales de estudio como guías o cronologías utilizando modelos de lenguaje AI. Finalmente exporta estos archivos generados junto con el original.
+
+- [0873-opensea-marketplace-agent.json](workflows/0873-opensea-marketplace-agent.json)
+  Descripción: Este flujo automático permite a un chatbot interactuar con la API de OpenSea para obtener información sobre listados, ofertas y órdenes de NFTs en diferentes colecciones e identificadores.
+
+- [0874-tax-code-assistant-qdrant-mistral-openai.json](workflows/0874-tax-code-assistant-qdrant-mistral-openai.json)
+  Descripción: Este flujo automático permite a un chatbot de IA responder preguntas sobre el código fiscal del estado de Texas utilizando embeddings de Mistral.ai para generar vectores y Qdrant para almacenar y recuperar documentos con eficiencia, optimizando la gestión de grandes archivos mediante descompresión estratégica.
+
+- [0875-assistente_viajes_actualizado.json](workflows/0875-assistente_viajes_actualizado.json)
+  Descripción: Este flujo automático permite crear un asistente de OpenAI a partir de un documento PDF almacenado en Google Drive, manteniendo una conversación contextualizada mediante memoria buffer y permitiendo su interacción vía chat.
+
+- [0876-image-search-workflow.json](workflows/0876-image-search-workflow.json)
+  Descripción: Este flujo automático permite buscar imágenes basadas en objetos detectados utilizando inteligencia artificial, CDN y ElasticSearch para almacenar y consultar eficientemente los resultados.
+
+- [0877-rag-peliculas-recomendacion-qdrant.json](workflows/0877-rag-peliculas-recomendacion-qdrant.json)
+  Descripción: Este flujo automático permite a un chatbot recomendar películas mediante el uso de almacenamiento vectorial Qdrant y embeddings generados con OpenAI para análisis de consulta del usuario.
+
+- [0879-whatsapp-sales-agent.json](workflows/0879-whatsapp-sales-agent.json)
+  Descripción: Este flujo automático permite a un chatbot de WhatsApp actuar como asistente de ventas para los parlantes Yamaha Powered. El bot responde a mensajes de texto consultando una base de datos vectorial con el catálogo, mantiene memoria conversacional por cliente y rechaza automáticamente la procesión de no-texto.
+
+- [0880-telegram-schedule-ai.json](workflows/0880-telegram-schedule-ai.json)
+  Descripción: Este flujo permite que un chatbot de Telegram interactúe con IA utilizando memoria conversacional y datos de agenda extraídos de una hoja de Google, enviando respuestas tanto a la aplicación n8n como al usuario de Telegram.
+
+- [0881-github-trending-scraping.json](workflows/0881-github-trending-scraping.json)
+  Descripción: Este flujo permite extraer los 13 repositorios más populares de GitHub Trend, almacenando información como autor, título, lenguaje y descripción para su uso en monitorización o análisis.
+
+- [0882-hubspot-chatgpt-integration.json](workflows/0882-hubspot-chatgpt-integration.json)
+  Descripción: Este flujo automático permite a un chatbot de HubSpot integrar conversaciones con la API de OpenAI Assistant para mantener contexto y generar respuestas.
+
+- [0883-n8n-ai-categorize-wordpress.json](workflows/0883-n8n-ai-categorize-wordpress.json)
+  Descripción: Esta plantilla automática utiliza la IA para asignar una única categoría a múltiples posts de WordPress basándose en su título.
+
+- [0884-auto-post-sociales-n8n.json](workflows/0884-auto-post-sociales-n8n.json)
+  Descripción: Este flujo automático, desencadenado diariamente a las 22:00 mediante un trigger programado, recoge información de una hoja de cálculo Google (URL y descripción del video) e integra con la API de Blotato para publicar el contenido en múltiples plataformas sociales sin intervención manual.
+
+- [0885-zammad-roles-sync.json](workflows/0885-zammad-roles-sync.json)
+  Descripción: Este flujo automático actualiza todos los roles de usuario en Zammad para usuarios activos con base a una lista predefinida de roles por defecto.
+
+- [0886-workflow-doc-analyzer.json](workflows/0886-workflow-doc-analyzer.json)
+  Descripción: Este flujo automático analiza documentos subidos mediante formulario, convierte el markdown en HTML y guarda los resultados en una base de datos vectorial para alimentar un chatbot.
+
+- [0887-horario-tareas-n8n.json](workflows/0887-horario-tareas-n8n.json)
+  Descripción: Este flujo automatiza el activo y desactivo de un workflow en n8n a las 08:00 y 20:00 cada día.
+
+- [0888-webflow-discord-form.json](workflows/0888-webflow-discord-form.json)
+  Descripción: Este flujo automático crea un canal de Discord para cada formulario web de Webflow y envía las respuestas formuladas a ese canal.
+
+- [0889-openai-chatbot-memory-api.json](workflows/0889-openai-chatbot-memory-api.json)
+  Descripción: Este flujo permite a un chatbot de OpenAI mantener conversaciones con memoria persistente en PostgreSQL y acceder a información externa mediante APIs.
+
+- [0890-Google_Sheet_AI_Interface.json](workflows/0890-Google_Sheet_AI_Interface.json)
+  Descripción: Este flujo automático permite a un chatbot interactuar con una hoja de Google mediante funciones personalizadas, optimizando la consulta y gestión de datos.
+
+- [0891-rag-github-api-chatbot.json](workflows/0891-rag-github-api-chatbot.json)
+  Descripción: Este flujo utiliza el patrón RAG (Retrieval-Augmented Generation) con OpenAI y Pinecone para crear un chatbot que responda consultas sobre la documentación de la API de GitHub.
+
+- [0892-ollama-n8n-chat.json](workflows/0892-ollama-n8n-chat.json)
+  Descripción: Este flujo permite interactuar con modelos de lenguaje locales (administrados por Ollama) a través de una interfaz de chat.
+
+- [0893-chat-ai-contexto.json](workflows/0893-chat-ai-contexto.json)
+  Descripción: Este flujo automatizado permite mantener una conversación contextualizada con el asistente de OpenAI mediante la gestión de mensajes anteriores.
+
+- [0894-telegram-gpt-ai-agent.json](workflows/0894-telegram-gpt-ai-agent.json)
+  Descripción: Este flujo automático permite a un chatbot de Telegram procesar mensajes entrantes del usuario utilizando el modelo GPT de OpenAI y enviar una respuesta enriquecida con emojis.
+
+- [0895-chat-pdf-ai-citas.json](workflows/0895-chat-pdf-ai-citas.json)
+  Descripción: Este flujo automático permite a un chatbot analizar documentos PDF utilizando embeddings de OpenAI y recuperar información relevante con citas exactas cuando se consulta.
+
+- [0896-postgres-chat-ai.json](workflows/0896-postgres-chat-ai.json)
+  Descripción: Este flujo permite a un chatbot de IA interactuar con una base de datos PostgreSQL mediante herramientas para ejecutar consultas SQL y mantener contexto.
+
+- [0897-telegram-schedule-bot.json](workflows/0897-telegram-schedule-bot.json)
+  Descripción: Este flujo permite a un chatbot interactuar con la agenda de eventos desde una hoja de cálculo Google usandoTelegram.
+
+- [0898-gitlab-chatgpt-review.json](workflows/0898-gitlab-chatgpt-review.json)
+  Descripción: Este flujo automatizado utiliza ChatGPT para revisar cambios de código detectados en una solicitud de integración (MR) de GitLab, analizando las diferencias entre el código original y modificado. Luego, integra estas revisiones con la API de GitLab para comentar directamente en los cambios.
+
+- [0899-yelp-summary.json](workflows/0899-yelp-summary.json)
+  Descripción: Este flujo automático permite extraer y resumir reseñas de negocios en Yelp usando los servicios web de Bright Data para la recopilación de datos, seguido de análisis estructurado con Google Gemini.
+
+- [0900-n8n-lemlist-reply-classification.json](workflows/0900-n8n-lemlist-reply-classification.json)
+  Descripción: Clasifica respuestas de Lemplist con OpenAI y automatiza la gestión, enviando alertas a Slack o desuscibriendo interesados.
+
+- [0901-linear-bugs-classifier.json](workflows/0901-linear-bugs-classifier.json)
+  Descripción: Este flujo automatizado clasifica nuevos bugs en Linear utilizando OpenAI GPT-4 para determinar el equipo correcto basado en una lista predefinida de responsabilidades y actualiza o notifica si no se encuentra un destino adecuado.
+
+- [0902-baserow-markdown-sync.json](workflows/0902-baserow-markdown-sync.json)
+  Descripción: Este flujo automático permite sincronizar y actualizar registros en Baserow donde la descripción del video esté en formato Markdown. Primero verifica si hay un solo registro o múltiples, convierte cada descripción a HTML manteniendo la estructura original de datos e inicia sesión mediante un webhook.
+
+- [0903-bitrix24-chatbot-workflow.json](workflows/0903-bitrix24-chatbot-workflow.json)
+  Descripción: Este flujo automático permite a Bitrix24 procesar eventos relacionados con chatbots (como mensajes y instalaciones) mediante webhooks, realizar validaciones de token y responder adecuadamente.
+
+- [0904-line-chatbot-memory.json](workflows/0904-line-chatbot-memory.json)
+  Descripción: Este flujo automatizado permite a un chatbot de LINE mantener una conversación contextualizada mediante el uso de memoria persistente.
+
+- [0905-whatsapp-chatbot-rag.json](workflows/0905-whatsapp-chatbot-rag.json)
+  Descripción: Este flujo automático configura un chatbot de WhatsApp impulsado por IA que utiliza RAG (Retrieval-Augmented Generation) con OpenAI para mantener conversaciones contextualesizadas.
+
+- [0906-gmail-reply-drafts-openai-assistant.json](workflows/0906-gmail-reply-drafts-openai-assistant.json)
+  Descripción: Este flujo automático permite a Gmail responder mensajes con la ayuda de OpenAI Assistant, creando borradores de respuestas basados en el contenido del correo y eliminando las etiquetas que desencadenan esta acción después de componer el mensaje.
+
+- [0908-ai-interviews-n8n.json](workflows/0908-ai-interviews-n8n.json)
+  Descripción: Este flujo automático con n8n permite realizar entrevistas conversacionales con un agente de IA que dinámicamente pregunta y registra respuestas en Redis, usando formularios para capturar información. Las respuestas se guardan en Google Sheets.
+
+- [0909-openai-tts-manual.json](workflows/0909-openai-tts-manual.json)
+  Descripción: Este flujo permite convertir texto en voz mediante la API de OpenAI con un proceso manual.
+
+- [0910-url-markdown-batch.json](workflows/0910-url-markdown-batch.json)
+  Descripción: Este flujo procesa URLs en lotes de 10, utiliza la API de Firecrawl para convertir contenido HTML a markdown y extraer enlaces, gestionando las limitaciones del proveedor.
+
+- [0911-google-calendar-telegram-eventos.json](workflows/0911-google-calendar-telegram-eventos.json)
+  Descripción: Este flujo automático envía a un chat de Telegram una notificación cuando se crea un nuevo evento en Google Calendar. Extrae detalles clave como el nombre del evento, descripción, ubicación, fecha y hora de inicio y fin, y lo envía al chat especificado.
+
+- [0912-adaptive-rag-strategy.json](workflows/0912-adaptive-rag-strategy.json)
+  Descripción: Este flujo analiza y clasifica consultas en categorías específicas (Fáctica, Analítica, de Opinión o Contextual) para aplicar estrategias adaptativas de recuperación e inteligencia artificial que optimicen la obtención de información relevante.
+
+- [0913-google-maps-leads-generator.json](workflows/0913-google-maps-leads-generator.json)
+  Descripción: Este flujo automático utiliza la API de Google Maps para buscar lugares basados en categorías y códigos postales específicos, extrayendo datos relevantes e insertándolos en una hoja de Google Sheets con mecanismos de control anti-duplicado y manejo exponencial de errores.
+
+- [0914-website-chatbot-n8n.json](workflows/0914-website-chatbot-n8n.json)
+  Descripción: Este flujo automático permite a un chatbot de n8n mantener conversaciones con clientes, verificar disponibilidad en agenda mediante Microsoft Outlook API y enviar respuestas estructuradas. El agente AI utiliza el modelo GPT-4o para procesar consultas y tomar decisiones sobre citas o envíos de mensajes.
+
+- [0915-google_analytics_report_workflow.json](workflows/0915-google_analytics_report_workflow.json)
+  Descripción: Este flujo analiza datos de Google Analytics para las últimas 7 días y los compara con el mismo período del año anterior, luego utiliza la IA para formatearlos en un informe HTML detallado que se envía por correo electrónico. Además, transforma estos datos en texto plano para Telegram y lo comparte opcionalmente.
+
+- [0916-twitter-profile-banner-generator.json](workflows/0916-twitter-profile-banner-generator.json)
+  Descripción: Este flujo automático permite crear un banner dinámico para Twitter combinando las imágenes de avatar de los seguidores más recientes con una imagen de fondo, utilizando la API OAuth1.0.
+
+- [0917-email-drafting-fastmail-openai.json](workflows/0917-email-drafting-fastmail-openai.json)
+  Descripción: Este flujo automático analiza correos electrónicos no leídos de un buzón IMAP mediante la API de Fastmail y genera respuestas utilizando modelos como GPT-4, guardando los borradores en una carpeta específica.
+
+- [0918-humantic-profile-management.json](workflows/0918-humantic-profile-management.json)
+  Descripción: Este flujo automático permite crear, actualizar y obtener un perfil de Humantic AI utilizando una URL de LinkedIn como entrada inicial.
+
+- [0919-slack-ai-bot.json](workflows/0919-slack-ai-bot.json)
+  Descripción: Este flujo automático procesa mensajes de Slack mediante un agente AI basado en Google Gemini, manteniendo conversaciones contextualesizadas con memoria por ventana.
+
+- [0920-squarespace-orders-to-sheets.json](workflows/0920-squarespace-orders-to-sheets.json)
+  Descripción: Este flujo automático recoge todos los pedidos de una tienda en Squarespace y actualiza automáticamente un archivo Google Sheets.
+
+- [0921-n8n-flujo-langchain.json](workflows/0921-n8n-flujo-langchain.json)
+  Descripción: Este flujo permite ejecutar dos tipos de interacciones: una para obtener respuestas con cadenas LLM personalizadas y otra que utiliza un agente de chat integrado con WikipediaQueryRun como herramienta.
+
+- [0922-trustpilot-customer-insights.json](workflows/0922-trustpilot-customer-insights.json)
+  Descripción: Este flujo automático extrae información de las reseñas del cliente en TrustPilot utilizando Qdrant para almacenar vectores y LLMs para generar insights sobre sentimiento general e identificar temas recurrentes.
+
+- [0923-customer-support-ticketing.json](workflows/0923-customer-support-ticketing.json)
+  Descripción: Este flujo automático monitorea un canal de Slack específico (n8n-tickets) en busca de mensajes con el ticket emoji. Cuando detecta uno nuevo, consulta Linear para ver si ya existe un ticket correspondiente y, si no lo encuentra, utiliza ChatGPT para generar un título descriptivo, una descripción resumida, sugerencias para resolver la incidencia y determinar su prioridad basándose en el mensaje del usuario.
+
+- [0924-cv-multimodal-ai.json](workflows/0924-cv-multimodal-ai.json)
+  Descripción: Este flujo de trabajo utiliza visión multimodal con AI para analizar currículums PDF y evaluar si los candidatos son aptos para una entrevista.
+
+- [0925-cv-screening-openai.json](workflows/0925-cv-screening-openai.json)
+  Descripción: Este flujo automatizado analiza currículums en PDF utilizando la API de OpenAI, creando evaluaciones estructuradas con una puntuación porcentual y resúmenes detallados.
+
+- [0926-docker_n8n_api_workflow.json](workflows/0926-docker_n8n_api_workflow.json)
+  Descripción: Este flujo automático maneja la creación y administración de contenedores Docker a través de una API con autenticación básica.
+
+- [0927-digital-ocean-upload-form.json](workflows/0927-digital-ocean-upload-form.json)
+  Descripción: Este flujo permite subir archivos a Digital Ocean Spaces mediante un formulario y mostrar el enlace después de la carga.
+
+- [0928-n8n_workflow_stats.json](workflows/0928-n8n_workflow_stats.json)
+  Descripción: Este flujo automático permite a los usuarios obtener estadísticas detalladas sobre los workflows de n8n, incluyendo información por nodo, global, etiquetas, webhooks y más. Utiliza funciones JS avanzadas como JMESPath para procesamiento eficiente.
+
+- [0929-analisis_comentarios_youtube.json](workflows/0929-analisis_comentarios_youtube.json)
+  Descripción: Este flujo analiza comentarios de videos de YouTube utilizando la API de Google y GPT-4o-mini para generar un informe detallado con insights sobre tendencias del público, temas destacados y recomendaciones prácticas.
+
+- [0930-linkedin-data-processing.json](workflows/0930-linkedin-data-processing.json)
+  Descripción: Este flujo automatizado utiliza el MCP de Bright Data para extraer información en Markdown desde perfiles o empresas de LinkedIn, procesa esos datos con Google Gemini (modelo PaLM) que los convierte en JSON e incorpora contexto profundo para generar historias detalladas, y finalmente escribe la salida en archivos locales.
+
+- [0931-calendar-gemini-slack-summarization.json](workflows/0931-calendar-gemini-slack-summarization.json)
+  Descripción: Este flujo automatizado extrae eventos del Google Calendar para generar resúmenes diarios utilizando el modelo Gemini AI y los comparte en un canal de Slack.
+
+- [0932-podcast-summary-flow.json](workflows/0932-podcast-summary-flow.json)
+  Descripción: Este flujo automático permite a los usuarios recibir un resumen diario de podcasts top según género específico mediante transcripción e inteligencia artificial.
+
+- [0933-telegram_baserow_ai_assistant.json](workflows/0933-telegram_baserow_ai_assistant.json)
+  Descripción: Este flujo automático permite a un chatbot interactuar con Telegram mediante la recepción de mensajes (voz, texto o imagen), gestionarlos con herramientas como OpenAI para transcribir voz e analizar imágenes, mantener una memoria contextua utilizando Baserow y luego responder adecuadamente en cada modalidad.
+
+- [0934-ai-logo-sheet-extractor.json](workflows/0934-ai-logo-sheet-extractor.json)
+  Descripción: Este flujo automático permite extraer información de imágenes que muestran tablas de logotipos, identificando herramientas y sus atributos para guardarlos en Airtable.
+
+- [0935-uber_eats_expense_tracker.json](workflows/0935-uber_eats_expense_tracker.json)
+  Descripción: Este flujo automático busca correos electrónicos en Gmail con el asunto específico '透過 Uber Eats 系统送出的订单', extrae información como precio, tienda, fecha y hora del contenido del email utilizando expresiones regulares, y luego envía esta información formateada a Slack mediante blocks. Además, proporciona un enlace directo para integrar con Moze expense tracker.
+
+- [0936-ai-grant-tracker.json](workflows/0936-ai-grant-tracker.json)
+  Descripción: Este flujo automatizado permite filtrar y analizar oportunidades de subvenciones relacionadas con IA en grants.gov. Usa nodos para eliminar duplicados mediante un sistema de seguimiento, solicita información detallada sobre cada subvención a través del API de grants.gov e incorpora modelos generativos de OpenAI para determinar la elegibilidad y facilitar el proceso.
+
+- [0937-detect-hallucinations-ollama.json](workflows/0937-detect-hallucinations-ollama.json)
+  Descripción: Este flujo analiza textos para identificar afirmaciones incorrectas utilizando un modelo especializado de Ollama llamado bespoke-minicheck. Procesa el texto dividiéndolo en frases manteniendo elementos estructurales como fechas y listas, luego extrae las 'afirmaciones' (facts) para su verificación mediante cadenas LLM.
+
+- [0938-telegram-moderador.json](workflows/0938-telegram-moderador.json)
+  Descripción: Este flujo automático detecta lenguaje profano en mensajes de Telegram y responde con un mensaje de advertencia cuando el puntaje excede 0.7.
+
+- [0939-gmail-gemini-email-management.json](workflows/0939-gmail-gemini-email-management.json)
+  Descripción: Este flujo automático utiliza Google Gemini AI junto con Gmail OAuth2 para clasificar correos electrónicos mediante un modelo de machine learning. Los correos se evalúan basándose en confidencias numéricas (0-1) donde valores por encima de 0.5 indican que el correo es inaceptable, marketing o spam, y son eliminados automáticamente a través de la API de Gmail. Se envía notificación por Telegram cuando un correo se elimina, no lo hace en caso contrario o si ocurren errores.
+
+- [0940-n8n_discord_ai_categorizer.json](workflows/0940-n8n_discord_ai_categorizer.json)
+  Descripción: Este flujo automático categoriza solicitudes de usuario utilizando OpenAI GPT-4, generando una estructura JSON para enviarlas por Webhook a distintos departamentos en Discord según su clasificación.
+
+- [0941-techradar-ai-agent.json](workflows/0941-techradar-ai-agent.json)
+  Descripción: Este flujo automático maneja la tecnología corporativa para tres empresas, manteniendo actualizados los registros en base de datos SQL y almacenamiento vectorial Pinecone. Se ejecuta cada mes un cron job que sincroniza los datos desde Google Sheets eliminando registros antiguos.
+
+- [0942-pdf2blog-automatizado.json](workflows/0942-pdf2blog-automatizado.json)
+  Descripción: Este flujo automático permite convertir archivos PDF en blogs mediante la extracción de texto, procesamiento con una API de OpenAI y publicación en Ghost si los resultados son válidos.
+
+- [0943-Telegram-Buffered-Messages.json](workflows/0943-Telegram-Buffered-Messages.json)
+  Descripción: Este flujo automatizado permite al chatbot de Telegram combinar mensajes recibidos en intervalos cortos usando una base de datos Supabase y mantener memoria contextualizada para generar respuestas cohesivas.
+
+- [0944-obsidian-email-sender.json](workflows/0944-obsidian-email-sender.json)
+  Descripción: Este flujo automático permite enviar correos electrónicos desde Obsidian utilizando webhooks, procesando correctamente los archivos adjuntos mediante codificación base64 y añadiendo la información del remitente.
+
+- [0945-convertapi-merge.json](workflows/0945-convertapi-merge.json)
+  Descripción: Este flujo automático descarga dos documentos PDF desde CDN utilizando autenticación de la API de ConvertPDF y luego los fusiona en un solo archivo para guardarlo.
+
+- [0946-dynamically_switch_llms_customer_support.json](workflows/0946-dynamically_switch_llms_customer_support.json)
+  Descripción: Este flujo de n8n selecciona y utiliza dinámicamente diferentes modelos de lenguaje (como OpenAI) basados en un índice para generar respuestas polivalentes e iterar hasta encontrar una que cumpla con los criterios especificados, como el tono cortés.
+
+- [0947-trustpilot_reviews_google_sheets.json](workflows/0947-trustpilot_reviews_google_sheets.json)
+  Descripción: Este flujo n8n automatiza la extracción de reseñas de Trustpilot a Google Sheets mediante scraping paginado y transformación de datos.
+
+- [0948-glassdoor-resume-empresa.json](workflows/0948-glassdoor-resume-empresa.json)
+  Descripción: Este flujo automatiza la extracción de datos sobre una empresa en Glassdoor usando Bright Data Web Scraper, los divide para su procesamiento con Gemini y genera un resumen.
+
+- [0949-dsp_telegram_tutor.json](workflows/0949-dsp_telegram_tutor.json)
+  Descripción: Este flujo automático permite a un chatbot de Telegram mantener una conversación contextualizada sobre temas de procesamiento de señales, utilizando herramientas como Wikipedia y calculadora para resolver problemas.
+
+- [0950-dsp-ai-tutor.json](workflows/0950-dsp-ai-tutor.json)
+  Descripción: Este flujo n8n actúa como un asistente de tutoría para estudiantes de procesamiento de señales, utilizando modelos de OpenAI y Google Gemini para guiarles interactivamente mediante explicaciones teóricas, soluciones numéricas o referencias a memoria.
+
+- [0951-book-scraping-automation.json](workflows/0951-book-scraping-automation.json)
+  Descripción: Este flujo automatizado extrae datos de libros desde URLs utilizando Dumpling AI, limpia el HTML y guarda la información en un CSV.
+
+- [0952-facturas-ocr-google-drive.json](workflows/0952-facturas-ocr-google-drive.json)
+  Descripción: Este flujo automático permite reconocer automáticamente facturas e invoices almacenadas en una carpeta de Google Drive (formatos PDF, PNG o JPG) usando la API OakPDF. El workflow se activa cuando hay archivos nuevos y extrae datos clave como el nombre del emisor, dirección, total pagado y detalles específicos para guardarlos estructurados en Google Sheets.
+
+- [0953-notion-supabase-vector.json](workflows/0953-notion-supabase-vector.json)
+  Descripción: Este flujo automatiza el almacenamiento de páginas de Notion como documentos vectorizados en un proyecto de Supabase utilizando columnas de vectores y embeddings generados por OpenAI.
+
+- [0954-bamboo-hr-ai-chatbot.json](workflows/0954-bamboo-hr-ai-chatbot.json)
+  Descripción: Este flujo automático permite a un chatbot de HR acceder e interpretar información sobre políticas y beneficios corporativos mediante la integración con el almacenamiento vectorial en Supabase. También facilita búsquedas de empleados específicos o departamentos para contactos relevantes.
+
+- [0956-html-generator.json](workflows/0956-html-generator.json)
+  Descripción: Este flujo utiliza OpenAI Structured Output junto con n8n para generar dinámicamente páginas HTML basadas en solicitudes de usuario, usando un esquema JSON predefinido y Tailwind CSS como framework.
+
+- [0957-noco-kanban-ai-monitoring.json](workflows/0957-noco-kanban-ai-monitoring.json)
+  Descripción: Este flujo automático analiza incidentes mediante IA para asignar categorías y parámetros, los cuales se insertan en una tabla de NocoDB. Luego verifica periódicamente el estado de las tareas sin notificaciones excesivas.
+
+- [0958-image-caption-overlay.json](workflows/0958-image-caption-overlay.json)
+  Descripción: Este flujo automático descarga una imagen usando HTTP Request, la redimensiona para optimizarla en AI y le añade un caption punny (título ingenioso) generado por Gemini 1.5 Pro.
+
+- [0959-squarespace-backup.json](workflows/0959-squarespace-backup.json)
+  Descripción: Este flujo automático permite guardar las personalizaciones de Squarespace (código de inyecciones) en archivos HTML dentro de un repositorio de GitHub, manteniendo el contexto por dominio y realizando respaldos cada hora.
+
+- [0960-gitea-backup-workflow.json](workflows/0960-gitea-backup-workflow.json)
+  Descripción: Este flujo automático verifica y guarda los workflows de n8n en un repositorio Git alojado en Gitea mediante una comparación de cambios y actualizaciones.
+
+- [0961-lead-presentaciones-auto.json](workflows/0961-lead-presentaciones-auto.json)
+  Descripción: Este flujo automático crea presentaciones personalizadas basadas en datos de leads al monitorear archivos nuevos en Google Drive y procesarlos mediante operaciones de Google Sheets e Slides para integrar las informaciones.
+
+- [0962-email-ai-assistant.json](workflows/0962-email-ai-assistant.json)
+  Descripción: Este flujo automático analiza correos entrantes utilizando IA para resumirlos y generar respuestas, permitiendo revisiones humanas cuando es necesario.
+
+- [0963-copiar-documentos-escaneados-json.json](workflows/0963-copiar-documentos-escaneados-json.json)
+  Descripción: Este flujo automático copia documentos escaneados de un servidor vía HTTP a la cuenta de Nextcloud.
+
+- [0965-factoid_subscription_service.json](workflows/0965-factoid_subscription_service.json)
+  Descripción: Este flujo automático utiliza n8n formularios para gestionar suscripciones a correos educativos diarios, semanales o sorprendentes con modelos de IA generativa y almacenamiento en Airtable.
+
+- [0966-email-summary-agent.json](workflows/0966-email-summary-agent.json)
+  Descripción: Este flujo automatizado recopila correos electrónicos de la última jornada y los resume con IA para destacar detalles clave, problemas e instrucciones de acción, enviando un informe resumido en HTML.
+
+- [0967-comparador-sql.json](workflows/0967-comparador-sql.json)
+  Descripción: Este flujo compara dos conjuntos de datos SQL basados en el número de cliente y año, utilizando una opción para manejar múltiples coincidencias.
+
+- [0968-HR_CV_Evaluation_AI.json](workflows/0968-HR_CV_Evaluation_AI.json)
+  Descripción: Este flujo automático permite evaluar automáticamente solicitudes de candidatos mediante análisis AI para determinar su calificación y aptitud para la vacante, actualizando luego en Airtable según el resultado.
+
+- [0969-ats-ai-assessment.json](workflows/0969-ats-ai-assessment.json)
+  Descripción: Este flujo automático procesa solicitudes de candidatos extraídos de formularios, analiza sus datos personales y calificaciones mediante modelos de Google Gemini, asigna experiencias por funciones usando un extractor LLM, evalúa su alineación con descripciones de roles específicos en Notion ATS, genera evaluaciones estructuradas y actualiza registros tanto en Notion como en Google Sheets.
+
+- [0970-buffer-chat-twilio-redis.json](workflows/0970-buffer-chat-twilio-redis.json)
+  Descripción: Este flujo utiliza Redis para almacenar mensajes de usuario y Twilio para recibir entradas por SMS, permitiendo a la AI agent procesar múltiples mensajes enlazados como si fueran uno solo después de verificar que no hay nuevos mensajes pendientes.
+
+- [0972-slack-qualys-shortcut.json](workflows/0972-slack-qualys-shortcut.json)
+  Descripción: Este flujo automático permite a un bot de Slack integrar la creación de informes e iniciativas de escaneo con el sistema Qualys, procesando interacciones del usuario mediante webhooks.
+
+- [0973-ai-faq-generator.json](workflows/0973-ai-faq-generator.json)
+  Descripción: Este flujo utiliza n8n y modelos de lenguaje como ChatGPT para generar automáticamente contenido completo en FAQ basado en datos proporcionados.
+
+- [0974-pipedrive-enrichment.json](workflows/0974-pipedrive-enrichment.json)
+  Descripción: Este flujo de trabajo enriquece automáticamente los datos organizacionales de Pipedrive con información extraída por GPT-4o y envía una notificación a Slack.
+
+- [0975-airtable-image-analysis.json](workflows/0975-airtable-image-analysis.json)
+  Descripción: Este flujo automatiza el análisis de imágenes capturadas en Airtable para identificar atributos de productos e integra información web, optimizando la gestión de inventario.
+
+- [0976-research-report-gen.json](workflows/0976-research-report-gen.json)
+  Descripción: Este flujo automático permite generar informes de investigación utilizando OpenAI, Wikipedia, Google Search y enviarlos por correo electrónico o Telegram.
+
+- [0977-postgresql-chat-automaton.json](workflows/0977-postgresql-chat-automaton.json)
+  Descripción: Este flujo automático permite a un chatbot interactuar con una base de datos PostgreSQL, generando respuestas basadas en consultas SQL que analizan los datos solicitados.
+
+- [0978-ai-cv-screening.json](workflows/0978-ai-cv-screening.json)
+  Descripción: Este flujo automático recopila información de formularios y analiza CVs subidos en PDF para calificar a candidatos. Integra la evaluación con IA, envía notificaciones a HR y confirma el envío por email.
+
+- [0979-pipeline-etl-twitter-sentiment.json](workflows/0979-pipeline-etl-twitter-sentiment.json)
+  Descripción: Esta automatización diaria busca tweets con el hashtag #OnThisDay mediante ETL, analiza su sentimiento usando Google NLP y almacena los resultados en tablas de Postgres y MongoDB.
+
+- [0980-lead-generation.json](workflows/0980-lead-generation.json)
+  Descripción: Este flujo automatizado permite extraer y guardar en Airtable miles de leads con datos completos.
+
+- [0981-html-generator.json](workflows/0981-html-generator.json)
+  Descripción: Este flujo automático permite generar dinámicamente páginas HTML completas basadas en solicitudes de usuario utilizando la estructura definida por OpenAI. El proceso envía el texto del usuario a la API de GPT-4o-mini con un esquema JSON específico, luego convierte esa respuesta JSON en HTML completo.
+
+- [0982-comparativa-ia-pdf.json](workflows/0982-comparativa-ia-pdf.json)
+  Descripción: Este flujo automatiza la extracción de datos directamente desde archivos PDF utilizando modelos de IA como Claude o Gemini para una comparación eficiente.
+
+- [0983-telegram-resume-processing.json](workflows/0983-telegram-resume-processing.json)
+  Descripción: Este flujo automático permite extraer información de un currículum en PDF mediante el chatbot de Telegram y genera una copia en formato PDF con Gotenberg.
+
+- [0984-ai-logo-extractor.json](workflows/0984-ai-logo-extractor.json)
+  Descripción: Este flujo automático permite extraer información de una imagen con múltiples logotipos utilizando IA, y guardarla en tablas estructuradas de Airtable para categorizar herramientas.
+
+- [0985-youtube-ai-agent-comment-analysis.json](workflows/0985-youtube-ai-agent-comment-analysis.json)
+  Descripción: Este flujo automatizado permite a un agente conversacional de IA interactuar y analizar datos de YouTube, incluyendo la transcripción de videos, recopilación de comentarios, obtención de detalles del canal, evaluación de thumbnails e implementación de gestión con memoria PostgreSQL.
+
+- [0986-extract-lp.json](workflows/0986-extract-lp.json)
+  Descripción: Este flujo permite extraer automáticamente el número de matrícula de imágenes subidas mediante formulario.
+
+- [0987-line-chatbot-llm-extraction.json](workflows/0987-line-chatbot-llm-extraction.json)
+  Descripción: Este flujo automatizado utiliza un modelo LLM self-hosted (Mistral Nemo) para extraer información personal de los mensajes recibidos en LINE, analizando y estructurando la respuesta según un esquema JSON predefinido.
+
+- [0988-finance-email-parser.json](workflows/0988-finance-email-parser.json)
+  Descripción: Este flujo automático extrae datos de transacciones financieras de correos electrónicos utilizando Gmail como fuente, Google Gemini AI para análisis e interpretación del contenido, y finalmente estructura la información en un formato específico que se envía a una hoja de cálculo de Google. El workflow utiliza etiquetas personalizadas para identificar diferentes tipos de transacciones (facturas, pagos múltiples, etc.) y aplica procesamiento inteligente basado en el remitente del correo.
+
+- [0989-vertex-ai-pdf-image-extractor.json](workflows/0989-vertex-ai-pdf-image-extractor.json)
+  Descripción: Este flujo automático permite extraer texto de archivos PDF e imágenes usando Vertex AI (Gemini) y convertirlos en CSV para almacenar la información.
+
+- [0990-google-trends-automatizacion.json](workflows/0990-google-trends-automatizacion.json)
+  Descripción: Este flujo automático analiza los resultados de Google Trends, filtra por tráfico mínimo y resultados máximos, luego extrae información de artículos relacionados mediante scraping con Jina.ai. Si las condiciones se cumplen (por ejemplo: tráfico adecuado y nuevos términos), guarda la información en una hoja de Google para su seguimiento.
+
+- [0991-umami-analytics-ai.json](workflows/0991-umami-analytics-ai.json)
+  Descripción: Este flujo analítico procesa datos de tráfico web desde Umami utilizando múltiples API calls y transformaciones JavaScript para extraer métricas clave como visitas e impresiones. Luego envía estos resultados junto con solicitudes a un modelo AI de OpenRouter para generar análisis detallado, que finalmente se almacena en Baserow.
+
+- [0992-monitor-urls-periodico.json](workflows/0992-monitor-urls-periodico.json)
+  Descripción: Este flujo n8n verifica periódicamente tres URLs específicas mediante peticiones HTTP, útil para monitorear recursos o servicios web.
+
+- [0993-airtable-telli-ia.json](workflows/0993-airtable-telli-ia.json)
+  Descripción: Este flujo automático conecta Airtable con telli, permitiendo añadir contactos automáticamente desde la base y programar llamadas de voz con IA.
+
+- [0994-spotify_telegram_integration.json](workflows/0994-spotify_telegram_integration.json)
+  Descripción: Este flujo automático permite a un usuario enviar mensajes a Telegram sobre canciones o artistas, que son analizados por OpenAI para obtener información detallada y luego se busca y controla esa música en Spotify.
+
+- [0995-agent-access-control.json](workflows/0995-agent-access-control.json)
+  Descripción: Este flujo verifica las credenciales del usuario en Airtable para establecer permisos y control de acceso a diferentes agentes y herramientas.
+
+- [0996-speech_assistant_telegram.json](workflows/0996-speech_assistant_telegram.json)
+  Descripción: Este flujo utiliza la API de Google Gemini y OpenAI junto con n8n para procesar mensajes en Telegram, ya sean textuales o de voz. Analiza el contenido, proporciona retroalimentación sobre claridad, estructura y contenido, y permite refinar discursos colaborativamente.
+
+- [0997-netsuite-suiteql-query.json](workflows/0997-netsuite-suiteql-query.json)
+  Descripción: Este flujo permite ejecutar consultas SuiteQL en NetSuite y recibir los resultados a través de un webhook.
+
+- [0998-google-credentials-setup.json](workflows/0998-google-credentials-setup.json)
+  Descripción: Este flujo automático permite crear múltiples credenciales OAuth2 de Google en la herramienta n8n, utilizando información proporcionada manualmente.
+
+- [0999-github-prompts-dynamic.json](workflows/0999-github-prompts-dynamic.json)
+  Descripción: Este flujo automatiza la carga de prompts dinámicos desde un repositorio GitHub y su auto-populación con expresiones n8n para uso en modelos de lenguaje.
+
+- [1000-ip-authentication-report.json](workflows/1000-ip-authentication-report.json)
+  Descripción: Este flujo consulta y filtra eventos de autenticación exitosa para diferentes tipos de inicio de sesión y luego envía un informe en formato CSV por correo electrónico.
+
+- [1001-flux-image-generator.json](workflows/1001-flux-image-generator.json)
+  Descripción: Este flujo automatizado permite generar imágenes con estilos predefinidos (como AI Dystopia, Hyper-Surreal Escape, etc.) mediante la API de huggingface. Después de que un usuario completa un formulario proporcionando un prompt y selecciona un estilo, el sistema llama al modelo correspondiente, sube la imagen generada a S3 y muestra el resultado en una página web.
+
+- [1002-flux-dev-image-generation.json](workflows/1002-flux-dev-image-generation.json)
+  Descripción: Este flujo automático genera una imagen usando la API de Fal.ai con parámetros predefinidos y la descarga para almacenarla automáticamente en Google Drive.
+
+- [1003-ia-output-parser.json](workflows/1003-ia-output-parser.json)
+  Descripción: Este flujo fuerza a las IAs a utilizar un formato de salida específico mediante parsers estructurados o autofijantes, garantizando respuestas organizadas y validadas.
+
+- [1004-imagen-optimizada-gdrive.json](workflows/1004-imagen-optimizada-gdrive.json)
+  Descripción: Este flujo automático optimiza imágenes subidas a una carpeta de Google Drive y las reenvía al mismo servicio.
+
+- [1005-telegram-crypto-price-agent.json](workflows/1005-telegram-crypto-price-agent.json)
+  Descripción: Este flujo automático permite a un chatbot en Telegram mantener conversaciones sobre precios de criptomonedas utilizando memoria contextualizada y herramientas para consultar la API de CoinMarketCap.
+
+- [1006-rag-stock-analysis.json](workflows/1006-rag-stock-analysis.json)
+  Descripción: Este flujo analiza informes de rentabilidad utilizando RAG para generar un informe detallado en formato markdown sobre las tendencias y diferencias.
+
+- [1007-comprador-personalizado-IA-RAG.json](workflows/1007-comprador-personalizado-IA-RAG.json)
+  Descripción: Este flujo utiliza OpenAI y RAG para crear un asistente personalizado que responde a consultas sobre productos o información general del negocio.
+
+- [1008-workflow-pdf-wordpress-ai.json](workflows/1008-workflow-pdf-wordpress-ai.json)
+  Descripción: Este flujo automático transforma documentos PDF en entradas de blog formateadas para WordPress, utilizando IA para generar contenido y títulos, creando imágenes con pollinations.ai e incorporando una revisión humana mediante Gmail.
+
+- [1009-huggingface-notion-ai-database.json](workflows/1009-huggingface-notion-ai-database.json)
+  Descripción: Este flujo automático ejecuta una consulta diaria a la API de Hugging Face cada semana para obtener datos sobre publicaciones relacionadas con inteligencia artificial y los almacena en un formato estructurado como base de datos en Notion.
+
+- [1010-workflow-contact-form-automation.json](workflows/1010-workflow-contact-form-automation.json)
+  Descripción: Este flujo automático clasifica respuestas de formularios WordPress (CF7) y genera borradores de correos electrónicos personalizados para responder eficientemente a los clientes.
+
+- [1011-producthunt-monitor-ai-agents.json](workflows/1011-producthunt-monitor-ai-agents.json)
+  Descripción: Este flujo automático busca los últimos lanzamientos de productos relacionados con 'AI Agents' en ProductHunt, verifica si hay resultados válidos y envía una actualización a un canal de Slack diariamente.
+
+- [1012-crm-coupon-assignment.json](workflows/1012-crm-coupon-assignment.json)
+  Descripción: Este flujo automático gestiona la asignación y validación de cupones únicos a través de código QR para generación de leads, manteniendo una relación bidireccional con Google Sheets.
+
+- [1013-openai-image-generation.json](workflows/1013-openai-image-generation.json)
+  Descripción: Este flujo automático permite generar múltiples imágenes utilizando el modelo GPT-4 para imágenes de OpenAI a través de su API.
+
+- [1014-INSEE_AgileCRM_Enrichment.json](workflows/1014-INSEE_AgileCRM_Enrichment.json)
+  Descripción: Este flujo automático enriquece datos de empresas en Agile CRM usando la API abierta de INSEE.
+
+- [1015-modelo_openai_fine_tuning.json](workflows/1015-modelo_openai_fine_tuning.json)
+  Descripción: Este flujo automático permite la creación y uso de modelos personalizados de OpenAI a través del fine-tuning basado en archivos JSONL descargados desde Google Drive.
+
+- [1016-bright-data-serp-extractor.json](workflows/1016-bright-data-serp-extractor.json)
+  Descripción: Este flujo utiliza la API de Bright Data para extraer datos de páginas de resultados de búsqueda (SERP) en Google y los procesa con cadenas de modelos LLM como Gemini Flash Exp para generar una respuesta estructurada.
+
+- [1018-elevenlabs-tts-api.json](workflows/1018-elevenlabs-tts-api.json)
+  Descripción: Este flujo automático permite generar audio de texto utilizando la API de Elevenlabs mediante webhooks, verificando primero que se proporcionen correctamente los parámetros 'voice_id' y 'text'.
+
+- [1019-obsidian-airtable-agent.json](workflows/1019-obsidian-airtable-agent.json)
+  Descripción: Este flujo permite obtener datos de Airtable y generar notas en Obsidian utilizando un modelo de chat de OpenAI.
+
+- [1020-item-matching-example.json](workflows/1020-item-matching-example.json)
+  Descripción: Este flujo utiliza la función itemMatching() en el nodo de código para modificar campos específicos de los elementos del workflow.
+
+- [1021-daily-digest.json](workflows/1021-daily-digest.json)
+  Descripción: Este flujo automático compila un resumen diario con noticias, correos electrónicos y tareas pendientes en una sola visualización HTML.
+
+- [1022-gmail-ai-auto-responder.json](workflows/1022-gmail-ai-auto-responder.json)
+  Descripción: Este flujo automático analiza los correos entrantes y decide si es necesario responder mediante inteligencia artificial de OpenAI, creando bocetos en Gmail para conversaciones.
+
+- [1023-get-bible-api-adapter.json](workflows/1023-get-bible-api-adapter.json)
+  Descripción: Este flujo permite convertir una lista de referencias bíblicas estructuradas en un formato compatible para consulta vía la API de GetBible.
+
+- [1024-clicksend-tts.json](workflows/1024-clicksend-tts.json)
+  Descripción: Este flujo utiliza n8n para enviar mensajes de voz sintetizada a través del servicio ClickSend mediante una API REST. Permite crear un formulario donde los usuarios pueden ingresar texto (body), número destino, elegir entre voz masculina o femenina y seleccionar el idioma.
+
+- [1025-chatbot-extraccion-datos-personales.json](workflows/1025-chatbot-extraccion-datos-personales.json)
+  Descripción: Este flujo automático analiza mensajes de chat para extraer datos personales (nombre, apellido, tipo de comunicación) y contactos en formato JSON.
+
+- [1026-factura-pdf-jsreport.json](workflows/1026-factura-pdf-jsreport.json)
+  Descripción: Este flujo permite ingresar información de factura mediante un formulario y genera automáticamente un documento PDF utilizando JSReport, que luego se adjunta en un correo electrónico.
+
+- [1027-facebook-long-lived-token.json](workflows/1027-facebook-long-lived-token.json)
+  Descripción: Este flujo automático obtiene un token de acceso prolongado de Facebook a partir de parámetros configurados y luego lo utiliza para obtener tokens de página con ámbito de aplicación.
+
+- [1028-lark-message-sender.json](workflows/1028-lark-message-sender.json)
+  Descripción: Este flujo automático permite obtener un token de autenticación para Larksuite y posteriormente enviar un mensaje de texto a una conversación específica.
+
+- [1029-seo-onpage-audit.json](workflows/1029-seo-onpage-audit.json)
+  Descripción: Este flujo analiza el SEO on-page de una landing page utilizando modelos GPT para generar informes detallados.
+
+- [1030-telegram-ai-image-generation.json](workflows/1030-telegram-ai-image-generation.json)
+  Descripción: Este flujo automático convierte el texto de mensajes de Telegram en imágenes generadas por OpenAI y las envía de vuelta al usuario mediante la aplicación de Telegram.
+
+- [1031-open-meteo-ai-chat.json](workflows/1031-open-meteo-ai-chat.json)
+  Descripción: Este flujo automático utiliza funciones (Tools) de Open-Meteo API con ChatGPT para determinar la ubicación exacta de una ciudad solicitada por el usuario y, posteriormente, utilizar esas coordenadas para generar un pronóstico meteorológico detallado.
+
+- [1032-ai-agents-http-tool.json](workflows/1032-ai-agents-http-tool.json)
+  Descripción: Este flujo permite a los usuarios solicitar actividades o información mediante una consulta a IA, utilizando herramientas HTTP integradas que simplifican las llamadas de API.
+
+- [1033-icypeas-email-verification.json](workflows/1033-icypeas-email-verification.json)
+  Descripción: Este flujo verifica un correo electrónico único en Icypeas mediante una solicitud HTTP seguida de autenticación.
+
+- [1034-icypeas-domain-search.json](workflows/1034-icypeas-domain-search.json)
+  Descripción: Este flujo automatizado realiza búsquedas de dominio utilizando la API de Icypeas.
+
+- [1035-deepseek-chat-r1.json](workflows/1035-deepseek-chat-r1.json)
+  Descripción: Este flujo permite interactuar con los modelos de DeepSeek (conversacional y razonador) manteniendo memoria contextualizada.
+
+- [1036-daily-calendar-summarization-slack.json](workflows/1036-daily-calendar-summarization-slack.json)
+  Descripción: Este flujo automático permite al usuario obtener todos los eventos de Google Calendar diarios y enviar un resumen generado por IA a su canal de Slack.
+
+- [1037-gsc-weekly-report.json](workflows/1037-gsc-weekly-report.json)
+  Descripción: Este flujo automático ejecuta un informe de SEO semanal basado en datos del Google Search Console y lo envía por correo electrónico.
+
+- [1038-kb-confluence-search-response.json](workflows/1038-kb-confluence-search-response.json)
+  Descripción: Este flujo busca en Confluence información relevante basada en consultas recibidas para mejorar el soporte técnico.
+
+- [1039-amazon-keywords-automation.json](workflows/1039-amazon-keywords-automation.json)
+  Descripción: Este flujo automático obtiene sugerencias de palabras clave desde la API Completion de Amazon basadas en una entrada por webhook, limpia los datos y luego los almacena en Airtable.
+
+- [1040-auto_resume_disabled_workflows.json](workflows/1040-auto_resume_disabled_workflows.json)
+  Descripción: Este flujo automático busca workflows con auto-resume habilitado y que estén desactivados, luego los activa para mantener el estado correcto.
+
+- [1041-google-drive-rag-automation.json](workflows/1041-google-drive-rag-automation.json)
+  Descripción: Este flujo automático permite descargar documentos de Google Drive, extraer y normalizar su texto, generar embeddings con Gemini, insertarlos en un índice Pinecone para búsqueda semántica, y cuando se recibe un mensaje por chat, recuperar información relevante del vector store.
+
+- [1042-youtube-ai-summary-discord.json](workflows/1042-youtube-ai-summary-discord.json)
+  Descripción: Este flujo automático monitoriza nuevos videos de YouTube a través de una URL RSS, obtiene sus subtítulos en inglés, los procesa y resume con la API de ChatGPT para luego publicar el resumen junto con el enlace del video en un canal de Discord.
+
+- [1043-linkedin-url-discovery.json](workflows/1043-linkedin-url-discovery.json)
+  Descripción: Este flujo busca y extrae URLs de LinkedIn en una hoja de Google específica para cada fila
+
+- [1044-line-customer-service-whatsapp-asana.json](workflows/1044-line-customer-service-whatsapp-asana.json)
+  Descripción: Este flujo automático permite integrar respuestas de formularios WhatsApp con la creación de tareas en Asana para el seguimiento de incidencias.
+
+- [1045-google-sheets-feedback-summary.json](workflows/1045-google-sheets-feedback-summary.json)
+  Descripción: Este flujo automatizado extrae respuestas de un formulario en Google Sheets, las agrega por pregunta usando el nodo Aggregate y luego utiliza OpenAI GPT-4 para generar un resumen detallado del feedback en formato Markdown.
+
+- [1046-gmail-api-automation.json](workflows/1046-gmail-api-automation.json)
+  Descripción: Este flujo automático permite enviar y recibir correos electrónicos mediante la API de Gmail, utilizando un único conjunto de credenciales OAuth2 para las distintas operaciones.
+
+- [1048-notion-clockify-client-sync.json](workflows/1048-notion-clockify-client-sync.json)
+  Descripción: Este flujo automático detecta nuevos clientes en una base de datos de Notion y añade cada uno automáticamente al sistema de gestión de tiempo de Clockify.
+
+- [1049-pdf-to-text-converter.json](workflows/1049-pdf-to-text-converter.json)
+  Descripción: Convierte archivos PDF en texto utilizando un plugin personalizado y una entrada HTML.
+
+- [1050-techcrunch-scraping.json](workflows/1050-techcrunch-scraping.json)
+  Descripción: Este flujo automático extrae información detallada sobre los últimos artículos de TechCrunch mediante el procesamiento secuencial del HTML y solicitudes HTTP.
+
+- [1051-youtube-video-summarizer.json](workflows/1051-youtube-video-summarizer.json)
+  Descripción: Este flujo utiliza Searchapi.io junto con modelos de OpenAI y técnicas avanzadas de división de texto para extraer, procesar y generar un resumen completo sobre los contenidos de videos de YouTube especificados.
+
+- [1052-monday-com-column-split.json](workflows/1052-monday-com-column-split.json)
+  Descripción: Este flujo procesa datos de columnas específicas en una tarjeta de Monday.com y las divide para manejar subelementos por separado.
+
+- [1053-movie-recommendations-agent.json](workflows/1053-movie-recommendations-agent.json)
+  Descripción: Este flujo permite a un asistente de chat obtener recomendaciones de películas mediante el uso de la API de OpenAI y consulta en tiempo real a una base de datos MongoDB.
+
+- [1054-outlook-ai-response.json](workflows/1054-outlook-ai-response.json)
+  Descripción: Este flujo automático conecta una cuenta de Microsoft Outlook para filtrar y procesar correos entrantes específicos (en este caso 'sales@yourcompany.com'), utilizando un agente de IA que responde con estilo profesional, conciso y moderno basado en ejemplos predefinidos.
+
+- [1055-line-chatbot-search.json](workflows/1055-line-chatbot-search.json)
+  Descripción: Este flujo automático permite a un chatbot de LINE buscar información en la web cuando el usuario hace consultas, utilizando herramientas como SearchAPI.io y modelos LLM como OpenAI.
+
+- [1056-test_pdf.json](workflows/1056-test_pdf.json)
+  Descripción: Este flujo permite combinar múltiples PDFs en un solo documento y escribirlo en el sistema de archivos.
+
+- [1057-analisis-feedback-ia.json](workflows/1057-analisis-feedback-ia.json)
+  Descripción: Este flujo procesa comentarios de clientes, analiza el feedback con inteligencia artificial para obtener un resumen, sugerencias de mejora e ideas para posteos sociales, y luego envía los resultados por correo a la dirección del equipo.
+
+- [1059-automatic-meetings-telegram.json](workflows/1059-automatic-meetings-telegram.json)
+  Descripción: Este flujo automático envía una lista de tus reuniones programadas para el día actual en Telegram cada mañana a las seis, con fechas y horarios formateados en persiano.
+
+- [1060-slack-gmeet-automator.json](workflows/1060-slack-gmeet-automator.json)
+  Descripción: Este flujo automático permite generar enlaces de Google Meet a partir de solicitudes en Slack y enviarlos a los participantes del canal.
+
+- [1061-telegram-echo-bot.json](workflows/1061-telegram-echo-bot.json)
+  Descripción: Este flujo automático permite a un chatbot de Telegram mostrar el contenido JSON de cualquier mensaje o evento recibido en tiempo real.
+
+- [1062-x-post-ai.json](workflows/1062-x-post-ai.json)
+  Descripción: Este flujo automático publica automáticamente los últimos videos de YouTube en X/Twitter con texto generado por ChatGPT.
+
+- [1063-github-issues-monitor.json](workflows/1063-github-issues-monitor.json)
+  Descripción: Este flujo automático consulta cada 10 minutos las issues abiertas de un repositorio GitHub específico (con parámetros como state y labels) y envía por Telegram solo aquellas con menos de 5 comentarios.
+
+- [1064-okMME97B70fXzK5U_telegram_to_kindle.json](workflows/1064-okMME97B70fXzK5U_telegram_to_kindle.json)
+  Descripción: Este flujo automático permite recibir archivos adjuntos por Telegram, verificar su existencia, renombrarlos para enviarlos como adjuntos de email a una dirección Kindle y notificar tanto al usuario en Telegram como mediante un correo si el proceso es exitoso o falla.
+
+- [1065-assistant-creator.json](workflows/1065-assistant-creator.json)
+  Descripción: Este flujo automático permite descargar documentos de Google Drive y crear un asistente OpenAI con esas fichas, seguido de una conversación con el asistente.
+
+- [1066-openai-tweet-generator.json](workflows/1066-openai-tweet-generator.json)
+  Descripción: Este flujo utiliza OpenAI para generar tweets basados en hashtags seleccionados aleatoriamente y luego los guarda automáticamente en una base de Airtable.
+
+- [1067-discord-gemini-response.json](workflows/1067-discord-gemini-response.json)
+  Descripción: Este flujo automático permite a un bot de Discord utilizar Google Gemini para generar respuestas conversacionales basadas en una ventana de contexto, manteniendo la historia de la conversación mediante un buffer de memoria.
+
+- [1068-openai-tts-audio-generation.json](workflows/1068-openai-tts-audio-generation.json)
+  Descripción: Este flujo permite generar audio a partir de texto utilizando la API de Text-to-Speech (TTS) de OpenAI. Se configura un webhook para recibir solicitudes POST que incluyen el texto a convertir.
+
+- [1069-telegram-error-handler.json](workflows/1069-telegram-error-handler.json)
+  Descripción: Este flujo automático envía notificaciones de error a un chat de Telegram específico cuando ocurre un fallo en cualquier ejecución del workflow.
+
+- [1070-server-monitor-n8n.json](workflows/1070-server-monitor-n8n.json)
+  Descripción: Este flujo automático verifica la disponibilidad de servidores web cada minuto mediante peticiones HTTP y registra los resultados en hojas de cálculo de Google.
+
+- [1071-slack-chatbot-slash.json](workflows/1071-slack-chatbot-slash.json)
+  Descripción: Este flujo automático configura un chatbot de Slack usando comandos slash para interactuar con usuarios. Responde a diferentes comandos como /ask y /another, utilizando modelos de OpenAI.
+
+- [1072-openweathermap-airtable-weather.json](workflows/1072-openweathermap-airtable-weather.json)
+  Descripción: Este flujo automático obtiene datos meteorológicos diarios de la API de OpenWeatherMap y los almacena en una tabla de Airtable.
+
+- [1073-namesilo-domain-checker.json](workflows/1073-namesilo-domain-checker.json)
+  Descripción: Este flujo automático verifica la disponibilidad de múltiples dominios a través de la API de Namesilo y exporta los resultados en formato Excel.
+
+- [1074-netflix-email-forwarding-gmail-mailjet.json](workflows/1074-netflix-email-forwarding-gmail-mailjet.json)
+  Descripción: Este flujo automatizado envía los correos electrónicos de Netflix recibidos en la cuenta Gmail a múltiples destinatarios definidos, utilizando tanto el servicio de Gmail como Mailjet para la transmisión.
+
+- [1075-x-publication-automation.json](workflows/1075-x-publication-automation.json)
+  Descripción: Este flujo automatizado permite publicar en X utilizando el servicio Airtop, siguiendo pasos de crear sesión, abrir ventana, escribir texto y hacer clic en 'Publicar'.
+
+- [1076-youtube-promotion-x.json](workflows/1076-youtube-promotion-x.json)
+  Descripción: Este flujo automático verifica cada 30 minutos si hay nuevos videos en un canal de YouTube específico y utiliza ChatGPT para generar mensajes en X (antes Twitter) que promocionen dichos videos, manteniéndose bajo el límite de caracteres.
+
+- [1077-twilio-http-monitor.json](workflows/1077-twilio-http-monitor.json)
+  Descripción: Este flujo automático verifica periódicamente el estado de una URL mediante una solicitud HTTP y envía un SMS a través de Twilio si la respuesta es exitosa (código 200).
+
+- [1078-matomo-seo-ai-report.json](workflows/1078-matomo-seo-ai-report.json)
+  Descripción: Este flujo automático analiza datos de visitantes recurrentes (más de 3 visitas) en Matomo mediante integración con LLaMA-3 y guarda los resultados en Baserow para análisis SEO.
+
+- [1079-automatizar-carga-csv-postgres.json](workflows/1079-automatizar-carga-csv-postgres.json)
+  Descripción: Este flujo automático lee un archivo CSV desde /tmp, lo convierte a formato de spreadsheet y carga los datos directamente en la tabla t1 de PostgreSQL.
+
+- [1080-ai-stock-analysis.json](workflows/1080-ai-stock-analysis.json)
+  Descripción: Este flujo analiza gráficos de acciones o criptomonedas a través de imágenes utilizando IA y devuelve un análisis técnico simplificado en términos infantiles.
+
+- [1081-retry-on-fail-known-error.json](workflows/1081-retry-on-fail-known-error.json)
+  Descripción: Este flujo implementa un mecanismo de reintento para una acción, pero evita los reintentos en caso de errores específicos conocidos como 'could not be found'.
+
+- [1082-serp-bear-ai-analysis.json](workflows/1082-serp-bear-ai-analysis.json)
+  Descripción: Este flujo automático analiza los datos de rango de palabras clave de SERP Bear utilizando una inteligencia artificial, y guarda el análisis en Baserow.
+
+- [1083-line-email-ai-resumen.json](workflows/1083-line-email-ai-resumen.json)
+  Descripción: Este flujo automatizado utiliza un modelo de IA para leer y resumir correos electrónicos entrantes con base en IMAP a través del protocolo IMAP, destacando elementos importantes o urgentes como fechas límite mediante análisis inteligente.
+
+- [1084-form-to-airtable.json](workflows/1084-form-to-airtable.json)
+  Descripción: Este flujo automatizado captura automáticamente los datos de un formulario y los almacena en una tabla de Airtable sin intervención manual. Cada envío del formulario crea un nuevo registro con campos personalizados para 'Name', 'Age', 'Email', 'Address' y 'Subscription'.
+
+- [1085-send-sms-clicksend.json](workflows/1085-send-sms-clicksend.json)
+  Descripción: Este flujo permite enviar un mensaje de texto (SMS) mediante la API de ClickSend cuando se activa manualmente.
+
+- [1086-perplexity-api-query.json](workflows/1086-perplexity-api-query.json)
+  Descripción: Este flujo automático consulta a la API de Perplexity AI utilizando el modelo Sonar con un prompt del sistema y una solicitud del usuario, y luego procesa limpiamente la respuesta.
+
+- [1087-insta-chatbot-gpt.json](workflows/1087-insta-chatbot-gpt.json)
+  Descripción: Este flujo permite integrar ChatGPT en Instagram mediante ManyChat para generar respuestas automatizadas.
+
+- [1088-zip-multiple-files.json](workflows/1088-zip-multiple-files.json)
+  Descripción: Este flujo comprime múltiples archivos en un archivo ZIP dinámico con n8n.
+
+- [1089-comunidad-topicos-n8n.json](workflows/1089-comunidad-topicos-n8n.json)
+  Descripción: Este flujo automático monitorea temas específicos en la comunidad de n8n mediante un término de búsqueda y actualiza una hoja de cálculo con los resultados.
+
+- [1090-upload-instagram-tiktok.json](workflows/1090-upload-instagram-tiktok.json)
+  Descripción: Este flujo permite subir imágenes de forma automática a Instagram y TikTok utilizando el mismo endpoint.
+
+- [1091-spotify-maintenance.json](workflows/1091-spotify-maintenance.json)
+  Descripción: Este flujo automático verifica si las canciones de las últimas reproducciones en Spotify ya están guardadas en la base de datos NocoDB. Si no lo están, crea nuevos registros para cada una con el URI de la canción y la fecha en que fue añadida (usando currentDate). También busca en la base de datos existente si hay una playlist mensual con el nombre correspondiente a la fecha actual. Si existe, obtiene sus pistas; si no existe en Spotify pero sí está en NocoDb, la crea y sincroniza.
+
+- [1092-url-shortener-management.json](workflows/1092-url-shortener-management.json)
+  Descripción: Este flujo automático gestiona URLs cortas mediante la generación de hashes SHA-256 que se almacenan en Airtable, permitiendo crear y verificar referencias únicas para controlar accesos o registros.
+
+- [1093-n8n-git-automation.json](workflows/1093-n8n-git-automation.json)
+  Descripción: Este flujo automático permite añadir un archivo README.md y realizar el primer commit seguido de un push en GitHub cuando se ejecuta manualmente.
+
+- [1094-trello-sync.json](workflows/1094-trello-sync.json)
+  Descripción: Este flujo automático obtiene los eventos del calendario de Google cada día a las 8:00 AM, verifica si son tareas recurrentes (como 'Check email', etc.) y las elimina si es necesario. Luego crea tarjetas en Trello para cada evento con sus detalles.
+
+- [1095-travis-ci-trigger.json](workflows/1095-travis-ci-trigger.json)
+  Descripción: Este flujo de trabajo activa builds en Travis CI cuando ocurre un evento 'push' o una acción 'opened' en el repositorio 'n8n-io/n8n'.
+
+- [1096-mattermost-standup-bot.json](workflows/1096-mattermost-standup-bot.json)
+  Descripción: Este flujo automático permite al bot de reuniones en Mattermost gestionar configuraciones y enviar alertas programadas.
+
+- [1097-n8n-workflows-guardar.json](workflows/1097-n8n-workflows-guardar.json)
+  Descripción: Este flujo automático permite guardar workflows de n8n en archivos JSON en Google Drive.
+
+- [1098-eliminar-mensajes-gmail-batches.json](workflows/1098-eliminar-mensajes-gmail-batches.json)
+  Descripción: Este flujo automático permite eliminar mensajes antiguos de Gmail mediante operaciones por lotes.
+
+- [1099-notion-page-archiver.json](workflows/1099-notion-page-archiver.json)
+  Descripción: Este flujo automático busca y arhiva automáticamente las páginas vacías de una base de datos en Notion.
+
+- [1100-gotify-weather-update.json](workflows/1100-gotify-weather-update.json)
+  Descripción: Este flujo automático se dispara cada día a las 9:00 mediante un nodo Cron y obtiene la temperatura actual de Berlin usando OpenWeatherMap. Luego, utiliza Gotify para enviar una notificación con esta información como parte del mensaje.
+
+- [1101-strapi-create-update.json](workflows/1101-strapi-create-update.json)
+  Descripción: Este flujo automatizado permite crear una entrada en Strapi (posts), guardar su ID y luego actualizarla con un slug específico.
+
+- [1102-disqus-forum-details.json](workflows/1102-disqus-forum-details.json)
+  Descripción: Este flujo automático ejecuta una acción manual para obtener los detalles de un foro específico en Disqus.
+
+- [1103-plex-qbittorrent-automation.json](workflows/1103-plex-qbittorrent-automation.json)
+  Descripción: Este flujo automatiza el control de velocidad y gestión de descargas en QBittorrent basado en eventos webhooks de Plex, permitiendo configurar límites de velocidad o realizar acciones específicas como pausar/retomar torrents según la acción recibida.
+
+- [1104-airtable-batch-processing-with-rates.json](workflows/1104-airtable-batch-processing-with-rates.json)
+  Descripción: Este flujo procesa registros en lote en Airtable con tres modos: insert, update y upsert. Para evitar límites de tasa en la API de Airtable, incluye pausas después de cada error 429.
+
+- [1105-netlify-deploy-alert.json](workflows/1105-netlify-deploy-alert.json)
+  Descripción: Este flujo automático detecta fallos en despliegues de Netlify y envía una alerta a un canal de Slack.
+
+- [1106-openlibrary-recommendation.json](workflows/1106-openlibrary-recommendation.json)
+  Descripción: Este flujo automático busca y recomienda un libro al azar de Open Library basado en el tema 'juvenile_literature' cada día viernes a las 11:00 AM o mediante ejecución manual, utilizando HTTP requests para obtener datos y enviar correos electrónicos con recomendaciones.
+
+- [1107-activeMQ-amqp-trigger.json](workflows/1107-activeMQ-amqp-trigger.json)
+  Descripción: Este flujo utiliza el trigger AMQP para recibir mensajes desde una cola de ActiveMQ.
+
+- [1108-notion-project-user-management.json](workflows/1108-notion-project-user-management.json)
+  Descripción: Este flujo permite gestionar la creación de proyectos y usuarios en Notion mediante funciones que procesan datos e integra con webhooks.
+
+- [1109-transcripcion-drive-sheets.json](workflows/1109-transcripcion-drive-sheets.json)
+  Descripción: Este flujo automatizado transcribe archivos de voz subidos en Google Drive y guarda el resultado en una hoja de cálculo.
+
+- [1110-nicepng-text-analysis.json](workflows/1110-nicepng-text-analysis.json)
+  Descripción: Este flujo analiza un archivo PNG de motivational quotes con AWS Rekognition para detectar texto, luego extrae el nombre y enlace de la imagen a través de una solicitud HTTP e incorpora todo junto los textos detectados (convertidos a minúsculas) en Google Sheets mediante OAuth2.
+
+- [1111-mattermost-bebida.json](workflows/1111-mattermost-bebida.json)
+  Descripción: Este flujo permite recibir una solicitud POST vía webhook, obtener datos aleatorios de una API (como receta de cóctel), y enviar un mensaje formateado a Mattermost con detalles específicos.
+
+- [1112-openai-n8n-examples.json](workflows/1112-openai-n8n-examples.json)
+  Descripción: Este flujo n8n contiene ejemplos de cómo utilizar diferentes modelos y APIs de OpenAI para generar resúmenes (TLDR), traducir texto, crear prompts para imágenes y más.
+
+- [1113-swift_codes_extractor.json](workflows/1113-swift_codes_extractor.json)
+  Descripción: Este flujo automático extrae códigos SWIFT de múltiples páginas web en diferentes países, procesa la información normalizada y la guarda en una base de datos MongoDB.
+
+- [1114-backup-n8n-workflows.json](workflows/1114-backup-n8n-workflows.json)
+  Descripción: Este flujo automático de n8n guarda todas las configuraciones del servidor en archivos JSON almacenados en una repositorio GitHub.
+
+- [1115-filemaker-pagination.json](workflows/1115-filemaker-pagination.json)
+  Descripción: Este flujo procesa una respuesta paginada del Data API de FileMaker para extraer datos específicos de los contactos.
+
+- [1116-quickbase-registros-n8n.json](workflows/1116-quickbase-registros-n8n.json)
+  Descripción: Este flujo permite crear, actualizar y obtener registros en Quick Base mediante nodos configurados.
+
+- [1117-telegram-multilang-bot.json](workflows/1117-telegram-multilang-bot.json)
+  Descripción: Este flujo automático permite a un chatbot de Telegram mantener registros en una base de datos y enviar respuestas multilingües según el idioma del usuario.
+
+- [1118-telegram-weather-bot.json](workflows/1118-telegram-weather-bot.json)
+  Descripción: Este flujo automático permite a un bot de Telegram ofrecer datos meteorológicos mediante gráficos generados en R, siguiendo un protocolo definido por los comandos /start y /getweather.
+
+- [1119-smart-factory-alert.json](workflows/1119-smart-factory-alert.json)
+  Descripción: Este flujo monitorea sensores de fábrica para detectar temperaturas superiores a 50°C y almacena tanto los datos del sensor como incidentes en CrateDB.
+
+
+- [1120-recomendaciones-qdrant-mistral.json](workflows/1120-recomendaciones-qdrant-mistral.json)
+  Descripción: Este flujo automático recomienda recetas utilizando Qdrant para la búsqueda vectorial y Mistral AI como modelo de lenguaje.
+
+
+- [1122-wordpress-auto-generation.json](workflows/1122-wordpress-auto-generation.json)
+  Descripción: Este flujo automático selecciona la categoría menos utilizada de WordPress desde una base de datos PostgreSQL para generar artículos únicos y estructurados mediante modelos GPT. Después de crear el contenido completo en formato HTML específico, genera un título optimizado y descarga/adjunta una imagen destacada antes de publicar todo junto.
+
+- [1123-shopify-deal-sync.json](workflows/1123-shopify-deal-sync.json)
+  Descripción: Este flujo automatizado verifica si un pedido actualizado en Shopify ya existe como una oportunidad (deal) en HubSpot y, de no ser así, crea una nueva deal utilizando datos del pedido.
+
+- [1124-zendesk-pipedrive-ticket.json](workflows/1124-zendesk-pipedrive-ticket.json)
+  Descripción: Este flujo automático procesa tickets de Zendesk cada 5 minutos para buscar y actualizar información del solicitante utilizando datos de Pipedrive.
+
+- [1125-zendesk-pipedrive-sync.json](workflows/1125-zendesk-pipedrive-sync.json)
+  Descripción: Este flujo automatizado sincroniza comentarios de tickets de Zendesk con notas en personas de Pipedrive basándose en el correo electrónico del remitente y utiliza la última marca de tiempo para filtrar actualizaciones.
+
+- [1126-xml-to-sheets.json](workflows/1126-xml-to-sheets.json)
+  Descripción: Este flujo automatizado descarga un archivo XML de ejemplo, lo parsea para extraer elementos y crear un nuevo archivo en Google Sheets con las columnas definidas a partir del contenido.
+
+- [1127-procesamiento_excel.json](workflows/1127-procesamiento_excel.json)
+  Descripción: Este flujo procesa archivos de Excel mediante diversas fuentes y destinos, permite manipular los datos y opcionalmente guardar o subir el archivo modificado.
+
+- [1128-csv-insert-json.json](workflows/1128-csv-insert-json.json)
+  Descripción: Este flujo automático lee un archivo CSV desde una ubicación específica y lo convierte a formato de hoja de cálculo para luego insertarlo en la tabla MySQL concerts_2023_csv.
+
+- [1129-telegram-facebook-interest.json](workflows/1129-telegram-facebook-interest.json)
+  Descripción: Este flujo automático procesa mensajes en Telegram que comienzan con '#interest' para buscar intereses en la API de Facebook Graph y luego genera un archivo CSV con los resultados.
+
+- [1130-auto-email-campaign-followup.json](workflows/1130-auto-email-campaign-followup.json)
+  Descripción: Este flujo automatizado gestiona campañas de email con seguimiento posterior. Obtiene información de una hoja de Google, clasifica hilos de conversación y envía mensajes automatizados según un cronograma predefinido.
+
+- [1131-notion-linear-issue-sync.json](workflows/1131-notion-linear-issue-sync.json)
+  Descripción: Este flujo automatizado extrae información de bloques To-Do en Notion con formato específico y la usa para crear tareas automáticamente en Linear.
+
+- [1132-todoist-task-management.json](workflows/1132-todoist-task-management.json)
+  Descripción: Este flujo automático gestiona tareas en Todoist moviéndolas entre proyectos según fechas límite y condiciones horarias.
+
+- [1133-linear-tickets-sync.json](workflows/1133-linear-tickets-sync.json)
+  Descripción: Este flujo automático extrae y procesa todas las incidencias de un equipo específico en Linear, paginando los resultados para manejar grandes volúmenes.
+
+- [1134-youtube-moments-analyzer.json](workflows/1134-youtube-moments-analyzer.json)
+  Descripción: Este flujo analiza videos de YouTube en busca de momentos 'engaging' donde la intensidad supera un umbral y que no son demasiado cercanos entre sí, generando una respuesta estructurada con las coordenadas temporales más relevantes.
+
+- [1135-linear-bug-report.json](workflows/1135-linear-bug-report.json)
+  Descripción: Este flujo n8n procesa reportes de bugs recibidos por webhook en Slack y los convierte en tareas dentro de Linear, utilizando credenciales OAuth para autenticación.
+
+- [1136-linear-ai-classification.json](workflows/1136-linear-ai-classification.json)
+  Descripción: Este flujo automático clasifica tickets de bugs en Linear usando una IA (OpenAI) y asigna el equipo responsable según sus áreas de trabajo. El ticket se analiza, la IA determina el equipo adecuado y este se actualiza en Linear.
+
+- [1137-pdf-qa-vector-store.json](workflows/1137-pdf-qa-vector-store.json)
+  Descripción: Este flujo procesa mensajes de chat para responder preguntas sobre un PDF utilizando el vector almacenado en Qdrant.
+
+- [1138-email-verificacion-google-sheets.json](workflows/1138-email-verificacion-google-sheets.json)
+  Descripción: Este flujo automático verifica si el email no duplicado (basado en una función removeDuplicates) y verifica su existencia mediante API para verificar su existencia. Si existe, realiza una actualización en Google Sheets.
+
+- [1139-telegram-image-analysis.json](workflows/1139-telegram-image-analysis.json)
+  Descripción: Este flujo automático detecta si un mensaje recibe una imagen y la analiza con OpenAI para enviar una respuesta procesada a través de Telegram.
+
+- [1140-gmail-email-test.json](workflows/1140-gmail-email-test.json)
+  Descripción: Este flujo automático permite enviar correos electrónicos de prueba con una imagen adjunta utilizando autenticación OAuth2 en Google Mail.
+
+- [1141-hubspot-product-replication.json](workflows/1141-hubspot-product-replication.json)
+  Descripción: Este flujo automático permite replicar automáticamente los line items de un deal ganado a otro recién creado en HubSpot, integrando Workflows y n8n mediante webhooks.
+
+- [1142-s3-lista-archivos.json](workflows/1142-s3-lista-archivos.json)
+  Descripción: Este flujo automatizado permite descargar todos los archivos de una carpeta específica de Amazon S3 y comprimirlos en un archivo ZIP para facilitar su descarga o procesamiento posterior.
+
+- [1143-seo-serp-analysis.json](workflows/1143-seo-serp-analysis.json)
+  Descripción: Este flujo automático busca y procesa resultados de búsqueda en Google para análisis SEO.
+
+- [1144-firecrawl-markdown-scraper.json](workflows/1144-firecrawl-markdown-scraper.json)
+  Descripción: Este flujo automatiza la extracción de contenido web en formato Markdown y sus enlaces usando la API Firecrawl
+
+- [1145-congratulations-automator.json](workflows/1145-congratulations-automator.json)
+  Descripción: Este flujo automático verifica si hay eventos programados hoy en la hoja de cálculo, y si es así, personaliza un mensaje con deseos felices para cada contacto y envía SMS usando Twilio.
+
+- [1146-digitalocean-snapshots-management.json](workflows/1146-digitalocean-snapshots-management.json)
+  Descripción: Este flujo automático administra automáticamente los snapshots de las instancias DigitalOcean, manteniendo un máximo de 4 y eliminando los más antiguos.
+
+- [1147-notion-tareas-slack-automatizado.json](workflows/1147-notion-tareas-slack-automatizado.json)
+  Descripción: Este flujo automático envía recordatorios de tareas pendientes almacenadas en una base de datos de Notion mediante mensajes directos en Slack, filtrando por usuarios específicos cada día entre lunes y viernes a las 9:00 AM.
+
+- [1148-linkedin-automation.json](workflows/1148-linkedin-automation.json)
+  Descripción: Este flujo automatizado busca obtener artículos recientes sobre LinkedIn mediante búsquedas programadas, extraer sus enlaces y luego generar contribuciones utilizando la tecnología AI.
+
+- [1149-google-docs-image-replace.json](workflows/1149-google-docs-image-replace.json)
+  Descripción: Automatización de documentos Google con reemplazo dinámico de imágenes.
+
+- [1150-spotify-playlist-classifier.json](workflows/1150-spotify-playlist-classifier.json)
+  Descripción: Este flujo automático permite clasificar y añadir tracks de Spotify en múltiples playlists basándose en sus características e historial de reproducción mediante la utilización del modelo Claude 3.5.
+
+- [1151-qualys-slack-integration.json](workflows/1151-qualys-slack-integration.json)
+  Descripción: Este flujo automático permite interactuar con la API de Qualys desde Slack mediante modales, generando informes y ejecutando escaneos de vulnerabilidades basados en entradas del usuario.
+
+- [1152-qualys-scan-workflow.json](workflows/1152-qualys-scan-workflow.json)
+  Descripción: Este flujo automático inicia un escaneo en Qualys a través de Slack y verifica su estado cada 5 minutos hasta completarse.
+
+- [1153-qualys-report-automation.json](workflows/1153-qualys-report-automation.json)
+  Descripción: Este flujo automático integra la API de Qualys con Slack para generar informes periódicos y enviarlos como adjuntos en el canal especificado.
+
+- [1154-content-generation-automated.json](workflows/1154-content-generation-automated.json)
+  Descripción: Este flujo automático permite generar contenido estructurado a partir de entradas formulario utilizando modelos OpenAI y almacenar los resultados en Google Drive.
+
+- [1155-sharepoint-token-fetch.json](workflows/1155-sharepoint-token-fetch.json)
+  Descripción: Este flujo automático obtiene tokens de autenticación para acceder a una lista SharePoint y permite ejecutar operaciones programadas con ellos.
+
+- [1156-qualys-thehive-integration.json](workflows/1156-qualys-thehive-integration.json)
+  Descripción: Este flujo automático busca reportes finalizados en Qualys, descarta los ya procesados según un timestamp previo y crea casos en TheHive con sus respectivos archivos adjuntos de reporte.
+
+- [1157-n8n-multi-workflow.json](workflows/1157-n8n-multi-workflow.json)
+  Descripción: Este flujo automático permite ejecutar múltiples trabajos secundarios en paralelo y realizar un seguimiento de su estado hasta que todos finalicen.
+
+- [1158-hackernews-resource-recommendations.json](workflows/1158-hackernews-resource-recommendations.json)
+  Descripción: Este flujo automático busca y analiza recursos educativos relacionados con un tema especificado (como Python o inteligencia artificial), utilizando la API de Hacker News. Luego categoriza estos recursos por tipo y nivel de dificultad, realiza un análisis básico de sentimiento e integra todo en un email formateado para enviar recomendaciones personalizadas.
+
+- [1159-webinar-registration-klicktipp.json](workflows/1159-webinar-registration-klicktipp.json)
+  Descripción: Este flujo automatiza la integración de registros webinars desde JotForm con KlickTipp. Valida y transforma datos como nombres, fechas, experiencias laborales y URLs para crear suscriptores en KlickTipp y aplicar etiquetas dinámicas basadas en las respuestas del formulario.
+
+- [1160-customer-lead-ai-processing.json](workflows/1160-customer-lead-ai-processing.json)
+  Descripción: Este flujo automático procesa solicitudes de contacto utilizando un agente de IA, analizando notas para determinar si son válidas y generando correos electrónicos profesionales cuando así lo requiere.
+
+- [1161-gravity-klicktipp-integration.json](workflows/1161-gravity-klicktipp-integration.json)
+  Descripción: Este flujo automatizado procesa envíos de formularios Gravity Forms para suscribir contactos y aplicar etiquetas en KlickTipp.
+
+- [1162-typeform-klicktipp-quiz.json](workflows/1162-typeform-klicktipp-quiz.json)
+  Descripción: Este flujo automatizado procesa respuestas de formulario Typeform para crear contactos en KlickTipp y asignar etiquetas dinámicas basadas en las respuestas.
+
+- [1163-strava_ai_coaching_analysis.json](workflows/1163-strava_ai_coaching_analysis.json)
+  Descripción: Este flujo automatizado analiza actividades deportivas desde Strava utilizando una IA conversacional basada en Google Gemini para ofrecer consejos personalizados como entrenador triatlón y envía un resumen formateado por correo electrónico.
+
+- [1164-zendesk-gcal-airtable-customer-flow.json](workflows/1164-zendesk-gcal-airtable-customer-flow.json)
+  Descripción: Este flujo automático permite a un chatbot integrar múltiples sistemas como Zendesk para crear tickets y gestionar datos de clientes, Gcal (Google Calendar) para programar citas, Airtable para compartir transcripciones con el equipo de producto, y n8n para ejecutar todas las operaciones.
+
+- [1165-telegram-sticker-checker.json](workflows/1165-telegram-sticker-checker.json)
+  Descripción: Este workflow analiza si el mensaje recibido en Telegram contiene un sticker. Si es así, responde con información sobre el remitente y los detalles del sticker (ID y set_name). En caso contrario, envía un mensaje indicando que no se encontró ningún sticker.
+
+- [1166-threads-notion-integration.json](workflows/1166-threads-notion-integration.json)
+  Descripción: Este flujo automático permite obtener publicaciones de la API de Threads, filtrarlas y guardarlas en una base de datos de Notion después de un análisis detallado.
+
+- [1167-stripe-quickbooks-integration.json](workflows/1167-stripe-quickbooks-integration.json)
+  Descripción: Este blueprint implementa un flujo automatizado que integra n8n con Stripe y QuickBooks Online. Cuando se recibe una notificación de webhook 'payment_intent.succeeded' (éxito en el pago), busca si el cliente asociado ya existe en QuickBooks mediante una consulta HTTP a la API de QuickBooks. Si no existe, crea un nuevo cliente en QuickBooks usando los datos del pago y de Stripe, y luego crea un registro de venta (sales receipt) con esos detalles. El flujo utiliza n8n para manejar el workflow.
+
+- [1168-linkedin-enrichment.json](workflows/1168-linkedin-enrichment.json)
+  Descripción: Este flujo automático lee URLs de LinkedIn desde Google Sheets, las codifica y filtra para verificar si ya están enriquecidas. Luego llama a la API de RapidAPI (Fresh LinkedIn Profile Data) para obtener datos completos sobre los perfiles y finalmente actualiza un archivo CSV con esta información detallada.
+
+- [1169-gmail-file-monitor.json](workflows/1169-gmail-file-monitor.json)
+  Descripción: Este flujo automático monitoriza correos electrónicos en Gmail y clasifica los archivos adjuntos por tamaño para su posterior manejo, filtrando grandes archivos (mayor a 300MB) o archivos intermedios (entre 10-300MB).
+
+- [1170-html-to-pdf-conversor.json](workflows/1170-html-to-pdf-conversor.json)
+  Descripción: Este flujo automático convierte contenido HTML recibido en una solicitud de webhook en un archivo PDF y responde con él.
+
+- [1171-sheets-screenshot-storage.json](workflows/1171-sheets-screenshot-storage.json)
+  Descripción: Este flujo automático captura una pantalla de un sitio web cada vez que se añade una nueva fila en Google Sheets y guarda la imagen en Google Drive.
+
+- [1172-pdf-generator.json](workflows/1172-pdf-generator.json)
+  Descripción: Este flujo automático permite generar documentos PDF basados en plantillas HTML predefinidas. Recibe información estructurada como detalles de factura, calcula montos automáticamente y convierte la estructura completa en un archivo PDF utilizando bibliotecas externas.
+
+- [1173-retell-webhook-response.json](workflows/1173-retell-webhook-response.json)
+  Descripción: Este flujo automático utiliza una webhook para recibir datos de llamadas entrantes en Retell y buscar al usuario correspondiente en un archivo Google Sheets, respondiendo con los datos necesarios.
+
+- [1174-github_n8n_releases.json](workflows/1174-github_n8n_releases.json)
+  Descripción: Este flujo automático verifica cada día a las 10:00, 14:00 y 18:00 si hay nuevas versiones de n8n publicadas en GitHub, filtrando por releases del mismo día que incluyan 'n8n@' y un número con extensión decimal como '.0'. Si se detecta una nueva versión, envía notificaciones a través de Telegram y AWS SES.
+
+- [1175-postgres-data-ingestion.json](workflows/1175-postgres-data-ingestion.json)
+  Descripción: Este flujo automático ejecuta cada minuto una función que genera valores aleatorios y los inserta en una tabla de PostgreSQL.
+
+- [1176-zendesk-ticket-updates.json](workflows/1176-zendesk-ticket-updates.json)
+  Descripción: Este flujo automático está configurado para recibir actualizaciones de tickets en Zendesk a través de un webhook, aunque no está activo.
+
+- [1177-registro-betterstack.json](workflows/1177-registro-betterstack.json)
+  Descripción: Este flujo permite enviar mensajes de registro a la plataforma BetterStack mediante una solicitud HTTP POST.
+
+- [1178-email-body-parser.json](workflows/1178-email-body-parser.json)
+  Descripción: Este flujo analiza el cuerpo de un correo electrónico para extraer campos específicos del mensaje y almacenarlos como variables individuales en la nube.
+
+- [1179-telegram-freshdesk-integration.json](workflows/1179-telegram-freshdesk-integration.json)
+  Descripción: Este flujo automatizado procesa mensajes de Telegram para crear tickets en Freshdesk o elementos en Monday.com dependiendo si contienen la palabra clave 'refund'.
+
+- [1180-rss-telegram-monitor.json](workflows/1180-rss-telegram-monitor.json)
+  Descripción: Este flujo automatizado analiza RSS de Instagram y Weibo para enviar actualizaciones por Telegram.
+
+- [1181-typeform-problems-monitor.json](workflows/1181-typeform-problems-monitor.json)
+  Descripción: Este flujo automático captura envíos de formulario Typeform y los almacena en Google Sheets. Si la severidad es mayor a 7, envía un email y actualiza el canal de Slack con detalles del problema.
+
+- [1182-trigger-crear-ticket.json](workflows/1182-trigger-crear-ticket.json)
+  Descripción: Este flujo permite iniciar manualmente la creación de un nuevo ticket en Freshdesk.
+
+- [1183-mautic-student-automation.json](workflows/1183-mautic-student-automation.json)
+  Descripción: Este flujo automatizado procesa solicitudes webhooks de estudiantes, busca usuarios en Mautic, actualiza sus datos e información relacionada con boletines.
+
+- [1184-google-drive-image-tagging.json](workflows/1184-google-drive-image-tagging.json)
+  Descripción: Este flujo n8n analiza automáticamente el contenido de imágenes en Google Drive usando una API AI y escribe los resultados como etiquetas (Subject/Keywords) en la metadata EXIF.
+
+- [1185-mcp-brave-telegram-search.json](workflows/1185-mcp-brave-telegram-search.json)
+  Descripción: Este flujo MCP utiliza la API de Brave y Telegram para realizar búsquedas web automáticamente cuando el usuario envía un comando /brave seguido de una consulta.
+
+- [1186-mautic-get-all-registros.json](workflows/1186-mautic-get-all-registros.json)
+  Descripción: Este flujo permite iniciar manualmente la ejecución de una tarea en el sistema n8n que se conecta a Mautic mediante autenticación OAuth2 para obtener todos los registros.
+
+- [1187-hue-light-control.json](workflows/1187-hue-light-control.json)
+  Descripción: Este flujo automático permite encender una luz Philips Hue específica y ajustar su brillo a un valor determinado.
+
+- [1188-n8n-backup-cron.json](workflows/1188-n8n-backup-cron.json)
+  Descripción: Este flujo programa una tarea cada 6 horas para ejecutar un workflow y guardar su resultado como archivo binario en Nextcloud.
+
+- [1189-sheets-automation.json](workflows/1189-sheets-automation.json)
+  Descripción: Este flujo automatizado permite leer datos de una hoja de Google Sheets utilizando búsqueda, luego modificar el valor de 'Rent' en los registros encontrados y actualizarlos.
+
+- [1190-captura-tiempo-automatica.json](workflows/1190-captura-tiempo-automatica.json)
+  Descripción: Este flujo automático captura la fecha y hora locales actuales en formato detallado.
+
+- [1191-rss-feed-multi-source.json](workflows/1191-rss-feed-multi-source.json)
+  Descripción: Este flujo lee dos flujos RSS de fuentes diferentes utilizando el nodo rssFeedRead.
+
+- [1192-json-array-splitter.json](workflows/1192-json-array-splitter.json)
+  Descripción: Este flujo de trabajo toma una entrada inicial que contiene una lista JSON y la expande en múltiples flujos, cada uno con un elemento individual del array para su posterior procesamiento.
+
+- [1193-line-chatbot-memory.json](workflows/1193-line-chatbot-memory.json)
+  Descripción: Este flujo procesa datos de usuario para mantener el contexto en conversaciones.
+
+- [1194-slack-webhook-verify.json](workflows/1194-slack-webhook-verify.json)
+  Descripción: Este flujo verifica la firma de una solicitud web de Slack utilizando HMAC SHA256 para asegurar que el mensaje proviene realmente del webhook oficial de Slack y no es un falso.
+
+- [1195-hubspot-email-validation.json](workflows/1195-hubspot-email-validation.json)
+  Descripción: Este flujo verifica automáticamente si un contacto recién creado en HubSpot tiene una dirección electrónica válida, confiable o no sospechosa.
+
+- [1196-trello-crear-tarjeta-automatico.json](workflows/1196-trello-crear-tarjeta-automatico.json)
+  Descripción: Este flujo permite crear automáticamente una tarjeta en Trello cuando se ejecuta manualmente.
+
+- [1197-slack-rss-publicacion.json](workflows/1197-slack-rss-publicacion.json)
+  Descripción: Este flujo automático publica en el canal de Slack 'news' todos los artículos del RSS feed de n8n.io/blog publicados la víspera.
+
+- [1198-notion-duplicates-removal.json](workflows/1198-notion-duplicates-removal.json)
+  Descripción: Este flujo elimina automáticamente duplicados de páginas en una base de datos Notion.
+
+- [1199-google-drive-doc-summarizer.json](workflows/1199-google-drive-doc-summarizer.json)
+  Descripción: Este flujo automático identifica el documento de Google Drive más recientemente creado, extrae su contenido y lo resume utilizando inteligencia artificial antes de almacenarlo en una hoja de cálculo.
+
+- [1200-telegram-image-analysis.json](workflows/1200-telegram-image-analysis.json)
+  Descripción: Este flujo automático analiza imágenes de Telegram utilizando la API de OpenAI.
+
+- [1201-telegram-ai-memory-dalle.json](workflows/1201-telegram-ai-memory-dalle.json)
+  Descripción: Este flujo automático permite a un chatbot de Telegram mantener una conversación contextualizada usando memoria de ventana y además generar imágenes con Dall-E 3 según las solicitudes del usuario, todo ello mediante herramientas integradas.
+
+- [1202-gmail-emails-monitor.json](workflows/1202-gmail-emails-monitor.json)
+  Descripción: Este flujo monitoriza el correo electrónico de Gmail y añade automáticamente cada mensaje recibido como una nueva fila en una hoja de cálculo
+
+- [1203-line-error-alerts.json](workflows/1203-line-error-alerts.json)
+  Descripción: Este flujo automático permite configurar un workflow de n8n para recibir notificaciones inmediatas por LINE cuando ocurre un error en otro workflow. Detecta errores automáticamente y envía una alerta al usuario especificado mediante el botón 'Enviar cuerpo como JSON' a la API de LINE.
+
+- [1204-telegram-ai-multitranslator.json](workflows/1204-telegram-ai-multitranslator.json)
+  Descripción: Este flujo permite a un bot de Telegram detectar y traducir mensajes de voz en 55 idiomas, conversando con usuarios en el idioma nativo.
+
+- [1205-dst-automation.json](workflows/1205-dst-automation.json)
+  Descripción: Este flujo automático verifica cambios de horario de verano en diferentes zonas horarias y notifica por Slack y correo sobre los cambios próximos.
+
+- [1206-hacker-news-recomendaciones.json](workflows/1206-hacker-news-recomendaciones.json)
+  Descripción: Este flujo analiza los comentarios de las publicaciones 'ask_hn' relacionadas con un tema específico en Hacker News para recomendar recursos. Utiliza Google Gemini (PaLM) como modelo de lenguaje, procesa el texto y lo categoriza por tipo y nivel de dificultad antes de enviarlo vía email.
+
+- [1207-lemlist-automation-sales.json](workflows/1207-lemlist-automation-sales.json)
+  Descripción: Este flujo automatizado permite a Lemlist utilizar GPT-3 para procesar respuestas de leads y categorizarlas (como interesadas o fuera de oficina), además de crear deal en HubSpot basados en esas interacciones.
+
+- [1208-pdf-image-extractor.json](workflows/1208-pdf-image-extractor.json)
+  Descripción: Este flujo automático extrae imágenes de PDFs, analiza cada imagen con el modelo GPT-4o y genera un documento de texto integrando los resultados.
+
+- [1209-n8n-ai-meteorologia.json](workflows/1209-n8n-ai-meteorologia.json)
+  Descripción: Este flujo automático permite a un chatbot interactuar con la API Open-Meteo mediante herramientas que convierten en funciones, facilitando respuestas sobre pronósticos meteorológicos basados en ubicaciones especificadas por el usuario.
+
+- [1210-fal-ai-image-generation.json](workflows/1210-fal-ai-image-generation.json)
+  Descripción: Este flujo automático permite generar imágenes mediante la API de Fal.ai, descargarlas y guardarlas en una carpeta específica de Google Drive.
+
+- [1211-covid_automated_import.json](workflows/1211-covid_automated_import.json)
+  Descripción: Este flujo automatiza la importación puntual de datos COVID-19 específicos (DACH: Alemania, Austria, Suiza) del año 2023 desde una fuente externa a Google Sheets.
+
+- [1212-save-sales-emails-odoo-opportunity.json](workflows/1212-save-sales-emails-odoo-opportunity.json)
+  Descripción: Este flujo automático captura correos electrónicos con etiquetas específicas en Gmail y los utiliza para crear nuevas oportunidades de ventas en Odoo resumiendo su contenido mediante OpenAI.
+
+- [1213-youtube-sync.json](workflows/1213-youtube-sync.json)
+  Descripción: Este flujo sincroniza las URLs de videos de YouTube desde canales especificados en Google Sheets hacia otra hoja utilizando la API de YouTube.
+
+- [1214-pdf-extractor.json](workflows/1214-pdf-extractor.json)
+  Descripción: Este flujo permite descargar un PDF mediante una solicitud HTTP y extraer específicamente las páginas 2-3 para su procesamiento.
+
+- [1215-telegram-tron-blacklist-checker.json](workflows/1215-telegram-tron-blacklist-checker.json)
+  Descripción: Este flujo automático permite a un bot de Telegram verificar si una dirección de wallet TRON está en la lista negra consultando la API de Tronscan, y enviar el resultado al usuario.
+
+- [1216-github-multiple-file-push.json](workflows/1216-github-multiple-file-push.json)
+  Descripción: Este flujo permite subir múltiples archivos a un repositorio de GitHub mediante suscripciones, utilizando el token y la información proporcionada para autenticación e interacción con la API.
+
+- [1217-luma-ai-webhook-process.json](workflows/1217-luma-ai-webhook-process.json)
+  Descripción: Este flujo automatizado recibe una respuesta web de Luma AI a través de un webhook, verifica que contenga un video no vacío y guarda información sobre el mismo (URL del vídeo, miniatura) en Airtable.
+
+- [1218-pdfmonkey-document-generation.json](workflows/1218-pdfmonkey-document-generation.json)
+  Descripción: Este flujo automático detecta cuando PDFMonkey genera un documento y descarga el archivo PDF si la generación es exitosa.
+
+- [1219-paul_graham_essays_resumer.json](workflows/1219-paul_graham_essays_resumer.json)
+  Descripción: Este flujo automatizado extrae las URLs de ensayos recientes de Paul Graham a partir de una lista de artículos, luego obtiene el texto completo de cada ensayo y lo resumirá usando GPT.
+
+- [1220-ai-cv-screening-process.json](workflows/1220-ai-cv-screening-process.json)
+  Descripción: Este flujo automático permite al formulario de solicitud capturar información sobre candidatos para la posición de Software Engineer, procesar el CV subido y enviar un análisis detallado con IA a los usuarios. Luego envía confirmaciones por correo al candidato y notifica a HR sobre nuevas solicitudes. Finalmente, guarda todos estos datos en una hoja de Google Sheets.
+
+- [1221-youtube-chapters-generator.json](workflows/1221-youtube-chapters-generator.json)
+  Descripción: Este flujo de trabajo permite generar capítulos estructurados para videos de YouTube basándose en las subtitulaciones. Analiza el contenido temporal y crea un formato organizado.
+
+- [1222-wikipedia-summarization-fl.json](workflows/1222-wikipedia-summarization-fl.json)
+  Descripción: Este flujo automático utiliza Bright Data para extraer información de Wikipedia y Google Gemini AI para formatearla en un contenido legible e generar una resumen conciso.
+
+- [1223-line-gratitude-reminder.json](workflows/1223-line-gratitude-reminder.json)
+  Descripción: Este flujo automatizado envía a las 9:00 PM un mensaje personalizado generado por Azure OpenAI para motivar la reflexión sobre lo positivo del día mediante LINE.
+
+- [1224-telegram-recipe-daily.json](workflows/1224-telegram-recipe-daily.json)
+  Descripción: Este flujo automático envía un receta vegana aleatoria por Telegram cada día mediante el desencadenante cron, y también añade a los chats nuevos usuarios para gestionarlos adecuadamente.
+
+- [1225-calvin-hobbes-discord.json](workflows/1225-calvin-hobbes-discord.json)
+  Descripción: Este flujo automatizado obtiene diariamente las viñetas de Calvin y Hobbes desde GoComics, extrae el URL de la imagen y utiliza GPT-4o-mini para traducir los diálogos originales al inglés al coreano. Finalmente, publica ambos textos junto con la imagen en un canal de Discord.
+
+- [1226-youtube-discord-ai-summary.json](workflows/1226-youtube-discord-ai-summary.json)
+  Descripción: Este flujo automático monitoriza nuevos videos de YouTube y genera resúmenes con inteligencia artificial que se comparten en Discord.
+
+- [1227-tracker-gastos-ia-descripcion.json](workflows/1227-tracker-gastos-ia-descripcion.json)
+  Descripción: Este flujo permite a un agente de IA procesar mensajes sobre gastos, convertirlos en datos estructurados JSON y guardarlos automáticamente en una hoja de Google. Incluye memoria para mantener conversaciones contextuales.
+
+- [1228-slack-ai-chatbot.json](workflows/1228-slack-ai-chatbot.json)
+  Descripción: Este flujo configura un chatbot en Slack usando n8n, donde diferentes comandos de barra (/ask y /another) activan respuestas generadas por modelos de OpenAI como gpt-4o-mini. Luego se envía el mensaje a la canal especificado.
+
+- [1229-notion-document-embedding.json](workflows/1229-notion-document-embedding.json)
+  Descripción: Este flujo automatiza el procesamiento de documentos Notion para generar sus embeddings y almacenarlos en Supabase.
+
+- [1230-squarespace-sync.json](workflows/1230-squarespace-sync.json)
+  Descripción: Automatiza la extracción y actualización en tiempo real del contenido de blogs y eventos de Squarespace a Google Sheets.
+
+- [1231-feedback-resumen.json](workflows/1231-feedback-resumen.json)
+  Descripción: Este workflow automatizado analiza respuestas de encuestas Google Form mediante Google Sheets y OpenAI GPT-4 para generar un resumen estructurado que incluye una visión general del sentimiento sobre un evento, junto con ideas para mejorar.
+
+- [1232-email-to-notion-tasks.json](workflows/1232-email-to-notion-tasks.json)
+  Descripción: Este flujo automático analiza correos electrónicos entrantes con IA para crear tareas organizadas y detalladas en Notion. Integra Gmail (para recibir correos), Airtable (para gestionar rutas activas) y Notion API (para generar las páginas). También incluye mecanismos de error, como enviar notificaciones a correos específicos cuando ocurren problemas.
+
+- [1233-audio-transcription-process.json](workflows/1233-audio-transcription-process.json)
+  Descripción: Este flujo automático descarga archivos de audio nuevos en Google Drive y los envía para transcribirlos e interpretar sentimientos mediante OpenAI, generando un resumen estructurado que incluye título, contenido principal y análisis.
+
+- [1234-twitter-ai-influencer-schedule.json](workflows/1234-twitter-ai-influencer-schedule.json)
+  Descripción: Este flujo automatizado genera y publica tweets periódicamente utilizando inteligencia artificial para mantener un estilo de influencer específico.
+
+- [1235-automatizacion-subtitulos-json2video.json](workflows/1235-automatizacion-subtitulos-json2video.json)
+  Descripción: Este flujo automático utiliza json2video para generar subtítulos en videos de manera programada.
+
+- [1236-jira-retrospective-flow.json](workflows/1236-jira-retrospective-flow.json)
+  Descripción: Este flujo automático se activa cuando un epic en Jira se marca como completado. Recopila todos los detalles de las tareas (títulos, descripciones, comentarios) que pertenecen a ese epic y utiliza un modelo de lenguaje para generar un documento estructurado con lecciones aprendidas y recomendaciones.
+
+- [1237-bright-data-gemini-scraping-agent.json](workflows/1237-bright-data-gemini-scraping-agent.json)
+  Descripción: Este flujo automático utiliza un asistente de IA basado en Google Gemini para analizar consultas sobre scraping web. Luego delega la tarea a herramientas del MCP Client (Bright Data) que extraen datos desde URLs especificadas mediante webhooks, manteniendo el contexto con una memoria buffer y almacenando resultados en archivos.
+
+- [1238-telegram-agente-multimedia.json](workflows/1238-telegram-agente-multimedia.json)
+  Descripción: Este flujo automático permite a un bot de Telegram generar respuestas textuales utilizando GPT-4o e imágenes mediante DALL-E, manteniendo memoria contextual y dirigiéndose al usuario por su nombre.
+
+- [1239-wordpress-multi-social-publisher.json](workflows/1239-wordpress-multi-social-publisher.json)
+  Descripción: Este flujo automatizado permite publicar contenido de WordPress en múltiples redes sociales usando modelos de lenguaje y procesamiento estructurado.
+
+- [1240-splunk-jira-ticket-automation.json](workflows/1240-splunk-jira-ticket-automation.json)
+  Descripción: Este flujo automático procesa alertas de Splunk para crear tickets únicos en Jira cuando no existe un ticket correspondiente. Si ya existe, añade comentarios con los detalles del alertado.
+
+- [1241-google-drive-sync.json](workflows/1241-google-drive-sync.json)
+  Descripción: Este flujo automático sincroniza los archivos nuevos de una carpeta específica de Google Drive, comparte sus detalles con un destinatario por correo y registra la metadata completa en Airtable para su seguimiento.
+
+- [1242-ultimate-scraper-workflow.json](workflows/1242-ultimate-scraper-workflow.json)
+  Descripción: Este flujo automático permite extraer información de cualquier página web, ya sea pública o privada, utilizando técnicas avanzadas como la automatización del navegador.Selenium y análisis con modelos de lenguaje de OpenAI. Ideal para proyectos que requieren recopilar datos detras de WAFs.
+
+- [1243-assistant-tool.json](workflows/1243-assistant-tool.json)
+  Descripción: Este flujo automatizado funciona como asistente personal, utilizando herramientas específicas para manejar tareas de email, calendario, contactos y búsqueda web según la consulta del usuario.
+
+- [1244-workflow-dashboard-mermaid.json](workflows/1244-workflow-dashboard-mermaid.json)
+  Descripción: Este flujo automático permite visualizar y mostrar gráficos de los trabajos (workflows) de n8n utilizando la biblioteca mermaid.js para representar las conexiones entre nodos en diagramas.
+
+- [1245-github-n8n-workflow_restore.json](workflows/1245-github-n8n-workflow_restore.json)
+  Descripción: Este flujo automático permite restaurar workflows de un repositorio GitHub a una instancia n8n solo si no existen previamente en el workspace.
+
+- [1246-twitter-banner-update.json](workflows/1246-twitter-banner-update.json)
+  Descripción: Este flujo permite descargar una imagen de Unsplash y actualizarla como banner en Twitter mediante peticiones HTTP.
+
+- [1247-auto-subir-multimedia.json](workflows/1247-auto-subir-multimedia.json)
+  Descripción: Este flujo automatizado permite descargar videos de Google Drive y luego extraer su audio para generar descripciones que se utilizan en la subida simultanea a Instagram y TikTok. Además, cuenta con un mecanismo para notificar errores por Telegram.
+
+- [1248-rag-supabase-notion.json](workflows/1248-rag-supabase-notion.json)
+  Descripción: Este flujo automatizado permite a un chatbot mantener una conversación contextualizada con datos actuales de Notion utilizando embeddings almacenados en Supabase.
+
+- [1249-linkedin-top-sourcer.json](workflows/1249-linkedin-top-sourcer.json)
+  Descripción: Este flujo permite encontrar perfiles de LinkedIn utilizando técnicas de búsqueda booleana a partir de una descripción natural del candidato.
+
+- [1250-todoist-ai-categorization.json](workflows/1250-todoist-ai-categorization.json)
+  Descripción: Este flujo organiza automáticamente tareas de Todoist en proyectos específicos usando inteligencia artificial para categorizarlas.
+
+
+- [1251-trello-list-updates.json](workflows/1251-trello-list-updates.json)
+  Descripción: Este flujo monitorea y recibe actualizaciones sobre cambios en una lista específica de Trello.
+
+- [1252-ausencias_procesamiento.json](workflows/1252-ausencias_procesamiento.json)
+  Descripción: Este flujo automático recopila y procesa los datos de ausencias (vacaciones y enfermedades) de los últimos meses desde Google Calendar. Utiliza expresiones regulares para filtrar eventos relacionados con vacaciones o enfermedades, calcula las horas de cada evento y genera un informe detallado que se envía por correo electrónico a la dirección payroll-team@mydomain.tld.
+
+- [1253-notion-clickup-sync.json](workflows/1253-notion-clickup-sync.json)
+  Descripción: Este flujo sincroniza tareas entre Notion y ClickUp. Cuando una página de la base de datos en Notion se actualiza, el estado de la tarea correspondiente en ClickUp es actualizado, y viceversa.
+
+
+- [2528-line-llm-memory.json](workflows/2528-line-llm-memory.json)
+  Descripción: Este flujo utiliza OpenRouter con modelos de LLM configurable para mantener conversaciones contextualesizadas en LINE usando memoria de buffer.
+
+- [2529-firecrawl-tool.json](workflows/2529-firecrawl-tool.json)
+  Descripción: Este flujo permite a cualquier usuario enviar URLs para obtener respuestas de la API de Firecrawl y mantenerlas como campos editables en el contexto del workflow.
+
+- [2530-analytics-utm-generator.json](workflows/2530-analytics-utm-generator.json)
+  Descripción: Este flujo automático crea enlaces con parámetros UTM personalizados a partir de inputs específicos, genera códigos QR para ellos y luego utiliza un agente analítico basado en OpenAI para evaluar datos de Google Analytics.
+
+- [2531-etsy-product-scraper.json](workflows/2531-etsy-product-scraper.json)
+  Descripción: Este flujo automático utiliza Bright Data Web Unlocker para realizar scraping avanzado en Etsy y extrae información detallada de productos usando Google Gemini Flash con base en los resultados obtenidos.
+
+- [2532-pdf-digital-sign-service.json](workflows/2532-pdf-digital-sign-service.json)
+  Descripción: Este flujo automático permite la generación de claves y certificados digitales para firmar documentos PDF.
+
+- [2533-redaktionsplan_caption_generator.json](workflows/2533-redaktionsplan_caption_generator.json)
+  Descripción: Este flujo automático crea títulos para redes sociales, utilizando la base de datos Airtable y un modelo de chat IA para generar textos creativos e informativos.
+
+- [2534-news-twitter-post.json](workflows/2534-news-twitter-post.json)
+  Descripción: Este flujo automático busca noticias de inteligencia artificial mediante una consulta a Perplexity AI, genera un resumen formateado para Twitter/X y lo publica directamente en la plataforma.
+
+- [2535-hubspot-chat-ai-integration.json](workflows/2535-hubspot-chat-ai-integration.json)
+  Descripción: Este flujo automatizado permite a un chatbot de HubSpot integrar la función Assistant con OpenAI y almacenar referencias en Airtable para mantener conversaciones contextualesizadas.
+
+- [2536-billbee-address-validation.json](workflows/2536-billbee-address-validation.json)
+  Descripción: Este flujo automático valida y corrige direcciones de envío de pedidos utilizando la API Endereco para verificar datos en Alemania.
+
+- [2537-agricultural-crops-vector-db.json](workflows/2537-agricultural-crops-vector-db.json)
+  Descripción: Este flujo automatizado carga conjuntamente imágenes de cultivos agrícolas y datos relacionados (como nombres de las plantas) desde Google Cloud Storage, genera embeddings utilizando el modelo Voyage Multimodal de AI y los almacena en una colección vectorial de Qdrant. Además, verifica si la colección ya existe para evitar duplicaciones e incluye un índice en memoria sobre el nombre de la planta (crop_name). La carga se realiza por lotes con un tamaño configurable, permitiendo así la creación eficiente y rápida de índices.
+
+- [2538-knn-landsat-classifier.json](workflows/2538-knn-landsat-classifier.json)
+  Descripción: Este flujo analiza imágenes satelitales de paisaje mediante clasificación KNN con una base de datos vectorial, identificando automáticamente tipos como 'agricultural', 'buildings' o 'forest'.
+
+- [2539-lands-knn-classification.json](workflows/2539-lands-knn-classification.json)
+  Descripción: Este flujo de trabajo utiliza KNN con imágenes satelitales para clasificar tipos de paisaje mediante embeddings del modelo Voyage AI y consultas a Qdrant. Cuando hay empates, incrementa el número de vecinos hasta encontrar una mayoría clara.
+
+- [2540-agricultural-anomaly-detection.json](workflows/2540-agricultural-anomaly-detection.json)
+  Descripción: Este flujo configura los centros de cada cluster agrícola y establece umbrales para la detección de anomalías en imágenes de cultivos.
+
+- [2541-agricultural-anomaly-detector.json](workflows/2541-agricultural-anomaly-detector.json)
+  Descripción: Este flujo analiza imágenes de cultivos para detectar si contienen ejemplares no conocidos, utilizando embeddings multimodales y una base de datos vectorial Qdrant.
+
+- [2542-venafi_slack_certbot.json](workflows/2542-venafi_slack_certbot.json)
+  Descripción: Este flujo automático integra Slack y Venafi para gestionar solicitudes de certificados basándose en análisis de riesgo mediante VirusTotal.
+
+- [2543-openrouter-llm-agent.json](workflows/2543-openrouter-llm-agent.json)
+  Descripción: Este flujo configura un agente AI que utiliza diferentes modelos de lenguaje a través de OpenRouter y mantiene memoria conversacional para chats.
+
+- [2544-n8n-chatbot-car-offer.json](workflows/2544-n8n-chatbot-car-offer.json)
+  Descripción: Este flujo automático permite a un chatbot de LINE interactuar con el sitio web sell.peddle.com para obtener una oferta por un coche usado. Inicia la sesión en Airtop, carga el sitio y simula interacciones como hacer clics o teclear texto cuando se le indica mediante análisis del contenido actual de pantalla.
+
+- [2545-visual-regression-testing.json](workflows/2545-visual-regression-testing.json)
+  Descripción: Este flujo automático permite realizar pruebas de regresión visual en páginas web utilizando Apify para capturar imágenes y modelos de lenguaje visuales como Gemini para detectar cambios entre versiones.
+
+- [2546-sql-agent-visualizacion.json](workflows/2546-sql-agent-visualizacion.json)
+  Descripción: Este flujo automatizado permite a un AI Agent interactuar con bases de datos mediante consultas SQL y generar visualizaciones usando Chart.js y Quickchart.io basadas en la necesidad del usuario. El clasificador textual decide si se requiere una representación gráfica para mejorar la comprensión de los resultados.
+
+- [2547-todoist_weekly_review.json](workflows/2547-todoist_weekly_review.json)
+  Descripción: Este flujo automatizado realiza una revisión semanal de tareas completadas en Todoist, agrupándolas por fecha para generar un informe diario que se envía como email.
+
+- [2548-cv-error-notification.json](workflows/2548-cv-error-notification.json)
+  Descripción: Este workflow detecta errores en otras tareas (ya sean problemas durante la ejecución o fallos al iniciar) y envía un correo detallado a través de Gmail para notificar sobre el incidente.
+
+- [2549-semanal-shodan-thehive.json](workflows/2549-semanal-shodan-thehive.json)
+  Descripción: Este flujo automático programa un escaneo semanal de direcciones IP y sus puertos específicos usando Shodan. Si encuentra servicios o comportamientos no esperados, genera una alerta en TheHive para su gestión.
+
+- [2550-3d-character-generation.json](workflows/2550-3d-character-generation.json)
+  Descripción: Este flujo automático crea videos de rotación en 3D y modelos figurines a partir de imágenes, utilizando las API de PiAPI para generar diseños de personajes mediante Midjourney e integrarlas con herramientas como GPT-4o.
+
+- [2551-traductor-srt.json](workflows/2551-traductor-srt.json)
+  Descripción: Este flujo automático permite procesar archivos SRT subiendo un formulario que contiene el archivo y seleccionando el idioma destino. El sistema extrae texto del archivo binario, lo divide en partes, traduce cada fragmento manteniendo la estructura de subtítulos y finalmente genera un nuevo archivo con las traducciones completadas.
+
+- [2552-google-sheets-mysql-sync.json](workflows/2552-google-sheets-mysql-sync.json)
+  Descripción: Este flujo automatizado sincroniza datos entre Google Sheets y MySQL mediante comparaciones, actualizaciones y condiciones específicas.
+
+- [2553-parquet-conversion-flujos.json](workflows/2553-parquet-conversion-flujos.json)
+  Descripción: Este flujo permite convertir archivos Parquet, Avro, ORC y Feather a JSON utilizando la API de ParquetReader. Se inicia con un envío vía webhook que recibe el archivo en formato binario, lo procesa y devuelve los datos estructurados.
+
+- [2554-x-influencers-list.json](workflows/2554-x-influencers-list.json)
+  Descripción: Este flujo automatizado permite buscar influencers en X utilizando Airtop, extraer sus datos de forma estructurada, deduplicar los resultados e incorporarlos a un documento de Google mediante la hoja de cálculo.
+
+- [2555-workflow-docs.json](workflows/2555-workflow-docs.json)
+  Descripción: Este flujo automático permite a n8n generar y mantener documentación de workflows mediante Docsify, creando archivos Markdown basados en los datos del workflow.
+
+- [2556-glassdoor-discrimination-analysis.json](workflows/2556-glassdoor-discrimination-analysis.json)
+  Descripción: Este flujo automático utiliza ScrapingBee para extraer reseñas y datos demográficos de Glassdoor, junto con modelos de OpenAI para analizar patrones discriminatorios mediante cálculos estadísticos como puntuaciones z y tamaños de efecto.
+
+- [2557-seatable-webhook-validate.json](workflows/2557-seatable-webhook-validate.json)
+  Descripción: Este flujo verifica webhooks de Seatable mediante autenticación HMAC SHA256, respondiendo con 200 OK si el hash coincide y con 403 Forbidden en caso contrario.
+
+- [2558-bee-hiiv-gumroad-subscribers.json](workflows/2558-bee-hiiv-gumroad-subscribers.json)
+  Descripción: Este flujo automatiza la adición de suscriptores a una newsletter de Beehiiv cada vez que se realiza una venta en Gumroad.
+
+- [2560-linkedin-profile-collector.json](workflows/2560-linkedin-profile-collector.json)
+  Descripción: Este flujo automatizado utiliza Google Search a través de SerpAPI para encontrar perfiles de LinkedIn relevantes, limpia y estructura la información usando OpenAI, y guarda los resultados en Excel o NocoDB.
+
+- [2561-inteligente-busqueda-web.json](workflows/2561-inteligente-busqueda-web.json)
+  Descripción: Este flujo utiliza múltiples cadenas de pensamiento y modelos LLM para generar consultas óptimas, realizar búsquedas en la web e implementar un sistema de re-ranking semántico que evalúa los resultados y proporciona información relevante estructurada.
+
+- [2562-shopify_google_sync.json](workflows/2562-shopify_google_sync.json)
+  Descripción: Este flujo sincroniza automáticamente productos de un almacén Shopify a una hoja de cálculo de Google, utilizando GraphQL para extraer datos como título, descripción, etiquetas y precio. Implementa paginación eficiente mediante el uso del cursor.
+
+- [2563-vector-db-loader.json](workflows/2563-vector-db-loader.json)
+  Descripción: Este flujo automático permite cargar documentos de Google Drive en una base de datos vectorial usando embeddings de OpenAI y PostgreSQL.
+
+- [2564-twitter-hilo-automatizacion.json](workflows/2564-twitter-hilo-automatizacion.json)
+  Descripción: Este flujo automatizado utiliza herramientas de Twitter y un modelo de lenguaje OpenAI para generar hilos coherentes e interactivos, manteniendo el contexto conversacional.
+
+- [2565-ai-screenshot-analysis.json](workflows/2565-ai-screenshot-analysis.json)
+  Descripción: Este flujo automatiza el análisis de capturas de pantalla mediante inteligencia artificial. Primero recoge la URL del sitio web a analizar, luego genera un screenshot utilizando la API de URLbox y finalmente lo procesa con OpenAI para obtener una descripción textual concisa en un solo párrafo.
+
+- [2566-image-generation-api.json](workflows/2566-image-generation-api.json)
+  Descripción: Este flujo automático permite generar imágenes a partir de un texto (prompt) mediante una URL web.
+
+- [2567-postgres-sync.json](workflows/2567-postgres-sync.json)
+  Descripción: Este flujo sincroniza automáticamente datos de Google Sheets hacia una tabla PostgreSQL, insertando nuevos registros o actualizando los existentes basándose en campos clave.
+
+- [2568-service-page-seo-blueprint.json](workflows/2568-service-page-seo-blueprint.json)
+  Descripción: Este flujo analiza el rendimiento SEO de paginas de servicio, comparando estructuras y contenidos con competidores en tiempo real para crear estrategias optimizadas.
+
+- [2569-dataforseo-backlink-checker.json](workflows/2569-dataforseo-backlink-checker.json)
+  Descripción: Este flujo verifica los estados (vivo o muerto) de un conjunto de URLs, analizándolas a través del API de DataForSEO y registrando el resultado en una hoja de Google Sheets.
+
+- [2570-drive-video-upload.json](workflows/2570-drive-video-upload.json)
+  Descripción: Este flujo automático permite subir videos a Google Drive mediante una Google Apps Script. Comienza con un trigger manual que inicia la ejecución, luego envía los datos de la URL del video (y un secreto) a la web app de Google Script para procesar la subida, y finalmente renombra el archivo recién cargado.
+
+- [2571-OpenSea-Insights-Telegram.json](workflows/2571-OpenSea-Insights-Telegram.json)
+  Descripción: Este flujo n8n automatizado analiza el mercado de NFTs en tiempo real usando OpenAI GPT y conecta con agentes especializados para responder consultas via Telegram.
+
+- [2572-youtube-automation-generative.json](workflows/2572-youtube-automation-generative.json)
+  Descripción: Este flujo automático permite obtener videos de YouTube y generar títulos, descripciones e información SEO para automatizar las funciones necesarias.
+
+- [2573-workflow-ai-investigacion.json](workflows/2573-workflow-ai-investigacion.json)
+  Descripción: Este flujo utiliza LLMs para generar consultas de búsqueda, procesar resultados y sintetizar un informe de investigación completo.
+
+- [2574-maia-health-check.json](workflows/2574-maia-health-check.json)
+  Descripción: Este flujo automático verifica las URLs listadas en un documento de Google Sheets periódicamente, mediante el nodo Schedule Trigger, y luego envía los resultados de estas verificaciones a través del bot de Telegram.
+
+- [2575-wordpress-ai-chatbot.json](workflows/2575-wordpress-ai-chatbot.json)
+  Descripción: Este flujo automático permite crear y mantener embeddings de contenido de WordPress en Supabase, utilizando modelos OpenAI para responder preguntas con información contextualizada.
+
+- [2576-AI-WordPress-Article-Creator.json](workflows/2576-AI-WordPress-Article-Creator.json)
+  Descripción: Este flujo automático utiliza la inteligencia artificial para generar artículos SEO en WordPress basados en palabras clave proporcionadas por el usuario. Incluye creación de títulos, subtítulos, capítulos y verificación con Wikipedia.
+
+- [2577-ClockifySlackCopilotWorkflow.json](workflows/2577-ClockifySlackCopilotWorkflow.json)
+  Descripción: Este flujo automatiza la gestión conversacional de entradas de tiempo en Clockify a través de Slack, integrando herramientas para crear, actualizar y eliminar registros sin superposición.
+
+- [2578-analisis-contenido-brand.json](workflows/2578-analisis-contenido-brand.json)
+  Descripción: Este flujo automático permite a un usuario configurar una URL para extraer el contenido markdown, limpiarlo dejando solo texto, generar un resumen conciso y analizar su sentimiento con modelos de Google Gemini.
+
+- [2579-escaneo-propiedades.json](workflows/2579-escaneo-propiedades.json)
+  Descripción: Este flujo automático escanea regularmente el mercado inmobiliario, identifica propiedades nuevas o modificadas y filtra aquellas con alta rentabilidad potencial (alta plusvalía) para enviar alertas al equipo de ventas mediante email y Slack.
+
+- [2580-multiple-local-llm-testing.json](workflows/2580-multiple-local-llm-testing.json)
+  Descripción: Este flujo automático permite probar múltiples modelos de LLM locales en LM Studio mediante solicitudes HTTP y análisis detallado de respuestas.
+
+- [2581-email-todoist-ai-integration.json](workflows/2581-email-todoist-ai-integration.json)
+  Descripción: Este flujo automatiza la conversión de correos electrónicos en tareas de Todoist mediante el uso del modelo GPT-4o-mini para resúmenes y propuestas de acciones.
+
+- [2582-auto-article-generation.json](workflows/2582-auto-article-generation.json)
+  Descripción: Este flujo automático utiliza el modelo de Perplexity para generar contenido inicial y luego lo refina mediante iteraciones usando modelos generativos de OpenAI, finalmente publicándolo en una plataforma como Contentful.
+
+- [2583-prospectlens_company_research.json](workflows/2583-prospectlens_company_research.json)
+  Descripción: Este flujo automático utiliza la API de ProspectLens para obtener datos de empresas y actualizar una hoja de cálculo en Google Sheets manteniendo un registro del momento de procesamiento.
+
+- [2584-youtube-video-analysis.json](workflows/2584-youtube-video-analysis.json)
+  Descripción: Este flujo analiza videos de YouTube para generar resúmenes, transcripciones y descripciones detalladas de escenas. Permite elegir el tipo de análisis mediante la variable 'promptType' (transcript, summary, scene) e incorpora un modelo Gemini para procesamiento.
+
+- [2586-shopify-campaign-sync.json](workflows/2586-shopify-campaign-sync.json)
+  Descripción: Este flujo n8n permite guardar archivos .liquid en el tema de Shopify después de subir imágenes usando GraphQL, optimizando la creación de campañas publicitarias.
+
+- [2587-youtube-sentiment-analyzer.json](workflows/2587-youtube-sentiment-analyzer.json)
+  Descripción: Este flujo analiza automáticamente los comentarios de videos de YouTube a partir de una lista en Google Sheets utilizando la API de YouTube y la IA de OpenAI para categorizarlos como positivos, neutros o negativos.
+
+- [2588-image-meta-tagging-automation.json](workflows/2588-image-meta-tagging-automation.json)
+  Descripción: Este flujo automático analiza el contenido de imágenes subidas en una carpeta específica de Google Drive y escribe directamente la descripción como etiquetas (tags) en los metadatos XMP del archivo.
+
+- [2589-csv_to_excel_conversion.json](workflows/2589-csv_to_excel_conversion.json)
+  Descripción: Este flujo automatizado importa un archivo CSV de una URL específica y lo convierte a formato .xlsx.
+
+- [2590-cal-booking-distribution.json](workflows/2590-cal-booking-distribution.json)
+  Descripción: Este flujo automático se dispara al crear una nueva cita en Cal.com y añade automáticamente a cada asistente en Google Sheets y Beehiiv, además de notificando por Telegram.
+
+- [2591-chatbot-jina-scraper.json](workflows/2591-chatbot-jina-scraper.json)
+  Descripción: Este flujo automático permite a un chatbot integrar web scraping en tiempo real mediante Jina.ai para responder consultas de manera inteligente.
+
+- [2592-multipage-scraper.json](workflows/2592-multipage-scraper.json)
+  Descripción: Este flujo automático permite extraer y almacenar en Google Drive el contenido de múltiples páginas web a partir del archivo sitemap.xml usando la API de Jina.ai para realizar búsquedas inteligentes.
+
+- [2593-seo-blog-generator-flujo-automatico.json](workflows/2593-seo-blog-generator-flujo-automatico.json)
+  Descripción: Este flujo automático permite a un usuario enviar una consulta de investigación relacionada con temas de salud masculina para que sea procesada por múltiples nodos de IA, generando contenido estructurado como títulos, subtítulos y hashtags basados en la información proporcionada. Luego utiliza esta estructura junto con investigaciones recopiladas mediante Perplexity.ai para crear un artículo completo de blog.
+
+- [2594-bluesky-post-automation.json](workflows/2594-bluesky-post-automation.json)
+  Descripción: Este flujo automático permite publicar posts con imágenes en Bluesky, manejando la autenticación de sesión y el envío de archivos.
+
+- [2595-line-chatbot-ai.json](workflows/2595-line-chatbot-ai.json)
+  Descripción: Este flujo automático permite a un chatbot de LINE mantener conversaciones mediante el uso de Groq y Llama3, enviando mensajes entrantes como solicitudes a la IA para generar respuestas.
+
+- [2596-image-to-3d-conversion.json](workflows/2596-image-to-3d-conversion.json)
+  Descripción: Este flujo automático permite convertir una imagen en un modelo 3D (.glb) utilizando la API de Fal.ai y luego guardar el resultado en Google Drive.
+
+- [2597-monitor-ia-articulos-slack.json](workflows/2597-monitor-ia-articulos-slack.json)
+  Descripción: Este flujo automatizado monitorea artículos relevantes en tiempo real utilizando RSS feeds, clasifica su contenido con IA y genera resúmenes formateados para Slack.
+
+- [2598-shopware-multi-manufacturer-import.json](workflows/2598-shopware-multi-manufacturer-import.json)
+  Descripción: Este flujo automático permite importar múltiples fabricantes desde una hoja de Google hacia Shopware 6 mediante el procesamiento por lotes. Configura los parámetros necesarios y crea solicitudes HTTP con datos encriptados para logotipos e información multilingüe.
+
+- [2599-workflow-nodes-update-check-template.json](workflows/2599-workflow-nodes-update-check-template.json)
+  Descripción: Este flujo verifica nodos desactualizados en workflows de n8n, añade nuevos nodos con versiones más recientes y renombra los existentes para mantener la consistencia.
+
+- [2600-news-pipeline.json](workflows/2600-news-pipeline.json)
+  Descripción: Este flujo automatizado extrae artículos de prensa, los filtra por antigüedad (7 días), genera resúmenes y palabras clave usando ChatGPT, y almacena todo en una base de datos SQL.
+
+- [2601-facturacion-automatizada.json](workflows/2601-facturacion-automatizada.json)
+  Descripción: Este flujo automatizado descarga archivos adjuntos de correos electrónicos no leídos en Gmail y los guarda en Google Drive. Luego utiliza OpenAI para extraer datos clave de las facturas (fecha, descripción, precio total), que se almacenan en un esquema estructurado y finalmente se incorporan a una hoja de cálculo.
+
+- [2602-kling-try-on-video-generator.json](workflows/2602-kling-try-on-video-generator.json)
+  Descripción: Este flujo automático permite generar videos con probadores virtuales de 360 grados utilizando la API Kling, procesando primero las imágenes y luego generando el video final cuando esté disponible.
+
+- [2603-suspicious-login-detection.json](workflows/2603-suspicious-login-detection.json)
+  Descripción: Este flujo n8n detecta logins sospechosos de cuentas mediante la integración de datos de IP-API, UserParser y GreyNoise. Analiza ubicaciones nuevas o dispositivos/browser diferentes para determinar si es un intento fraudulento.
+
+- [2604-discord-chat-agent.json](workflows/2604-discord-chat-agent.json)
+  Descripción: Este flujo automático permite a un chatbot interactuar con Discord manteniendo el contexto de la conversación mediante memoria.
+
+- [2605-Colombian-Invoices-Processor.json](workflows/2605-Colombian-Invoices-Processor.json)
+  Descripción: Este flujo automático procesa facturas electrónicas colombianas recibidas por correo electrónico, verificando datos clave como impuestos y subtotales, y los almacena en Google Sheets usando la normativa tributaria del país.
+
+- [2606-youtube-trend-analysis-memory.json](workflows/2606-youtube-trend-analysis-memory.json)
+  Descripción: Este flujo automático analiza datos de videos de YouTube utilizando herramientas como búsqueda y procesamiento del motor LangChain, luego los almacena en memoria para su uso posterior. Además, integra una verificación inicial mediante chatTrigger que determina si el usuario proporcionó un nicho antes de proceder.
+
+- [2608-youtube-transcript-extractor.json](workflows/2608-youtube-transcript-extractor.json)
+  Descripción: Este flujo permite extraer y limpiar el texto transcritto de un vídeo de YouTube usando la API de RapidAPI.
+
+- [2609-monitor-precios-competicion.json](workflows/2609-monitor-precios-competicion.json)
+  Descripción: Este flujo automático monitorea los precios de competidores mediante Google Sheets, consulta y procesa la respuesta con Airtop para detectar cambios significativos en los precios o planificaciones, actualiza el registro solo cuando hay diferencias sustanciales, y envía notificaciones por Slack si se detectan cambios.
+
+- [2610-icp_linkedin_scoring.json](workflows/2610-icp_linkedin_scoring.json)
+  Descripción: Este flujo n8n calcula automáticamente la puntuación de Ideal Customer Profile (ICP) para empresas basada en sus páginas de LinkedIn, utilizando Airtop para el análisis y Google Sheets para almacenar e integrar los datos.
+
+- [2611-github-workflow-restore.json](workflows/2611-github-workflow-restore.json)
+  Descripción: Este flujo automático permite restaurar workflows de n8n desde un repositorio de GitHub.
+
+- [2612-zammad-roles-excel.json](workflows/2612-zammad-roles-excel.json)
+  Descripción: Este flujo automático permite descargar un archivo Excel desde una URL configurada previamente y actualizar el rol de los usuarios en Zammad a partir de los datos contenidos en él.
+
+- [2613-airflow-dag-monitor.json](workflows/2613-airflow-dag-monitor.json)
+  Descripción: Este flujo automático permite iniciar una ejecución de un DAG en Airflow mediante una API y verificar su estado para tomar acciones según sea necesario.
+
+- [2614-custom-ai-agent-memory.json](workflows/2614-custom-ai-agent-memory.json)
+  Descripción: Este flujo configura un agente de IA personalizado con características específicas como personalidad, temas de conversación y estilos de respuesta en chino. La interacción se realiza a través del chat integrado en n8n.
+
+- [2615-jira-notion-sync.json](workflows/2615-jira-notion-sync.json)
+  Descripción: Este flujo automatizado sincroniza las creación, modificación y eliminación de problemas en Jira con entradas en una base de datos específica de Notion.
+
+- [2616-medium_linkedin_automation.json](workflows/2616-medium_linkedin_automation.json)
+  Descripción: Este flujo automático busca artículos aleatorios de Medium usando etiquetas predefinidas, verifica si ya no han sido utilizados mediante un registro en Airtable, crea publicaciones en LinkedIn con sus imágenes y envía una alerta por cada post exitoso.
+
+- [2617-woocommerce-ai-product-importer.json](workflows/2617-woocommerce-ai-product-importer.json)
+  Descripción: Este flujo de trabajo automatiza la importación de productos en WooCommerce a través de Google Sheets. Analiza los detalles del producto para generar metatítulos y meta-descripciones SEO optimizadas, las crea inmediatamente en el catálogo WordPress e inserta esta información directamente en una hoja de cálculo.
+
+- [2618-gemini-image-data-extractor.json](workflows/2618-gemini-image-data-extractor.json)
+  Descripción: Este flujo crea una API para extraer datos de imágenes utilizando Gemini AI, requiere enviar una URL de imagen y un conjunto de instrucciones que definen qué información debe ser extraída.
+
+- [2619-line-chatbot-memory.json](workflows/2619-line-chatbot-memory.json)
+  Descripción: Este flujo automatizado permite a un chatbot de LINE mantener una conversación contextualizada mediante el uso de memoria para cada usuario.
+
+- [2620-n8n-workflow-clone.json](workflows/2620-n8n-workflow-clone.json)
+  Descripción: Este flujo permite clonar workflows entre diferentes instancias de n8n mediante la API, procesando lotes para optimizar el rendimiento.
+
+- [2621-vector-paquete.json](workflows/2621-vector-paquete.json)
+  Descripción: Este flujo automático extrae textos de archivos JSON en FTP, los divide en fragmentos y los almacena como embeddings en una base de datos vectorial Qdrant para facilitar búsquedas semánticas.
+
+- [2622-auto-content-wordpress.json](workflows/2622-auto-content-wordpress.json)
+  Descripción: Este flujo automático permite generar contenido completo en HTML con títulos optimizados SEO y palabras clave específicas, además de incorporar una imagen de Pexels cada vez que se publica un artículo en WordPress.
+
+- [2623-wordpress-xmlrpc-posting.json](workflows/2623-wordpress-xmlrpc-posting.json)
+  Descripción: Este flujo automático utiliza n8n junto con el protocolo XML-RPC para publicar artículos en WordPress.com.
+
+- [2624-OpenSeaAnalyticsAgent.json](workflows/2624-OpenSeaAnalyticsAgent.json)
+  Descripción: Este flujo automático implementa un agente conversacional con memoria que analiza datos de NFTs utilizando API de OpenSea.
+
+- [2625-monitor-advisories-paloalto.json](workflows/2625-monitor-advisories-paloalto.json)
+  Descripción: Este flujo monitoriza advisories de seguridad de Palo Alto, los filtra por palabras clave como GlobalProtect o Traps, verifica si fueron publicados en el último día y crea incidencias en Jira o envía correos electrónicos a los clientes relevantes.
+
+- [2626-stripe-payment-auto.json](workflows/2626-stripe-payment-auto.json)
+  Descripción: Este flujo automático permite recibir notificaciones de pagos a través del webhook 'checkout.session.completed' y extraer automáticamente información sobre el cliente (nombre, email) y el producto adquirido mediante una llamada HTTP posterior a la API de Stripe.
+
+- [2627-whatsapp-webhook-echo.json](workflows/2627-whatsapp-webhook-echo.json)
+  Descripción: Este flujo de trabajo verifica un webhook con una solicitud GET y responde a POST Requests que contienen mensajes del usuario, enviando estos mensajes como respuestas en WhatsApp.
+
+- [2628-error-limitacion.json](workflows/2628-error-limitacion.json)
+  Descripción: Este flujo automático permite registrar errores en una base de datos PostgreSQL pero limita las notificaciones a un máximo de una por cada cinco minutos.
+
+- [2629-flujo_verificacion_lead.json](workflows/2629-flujo_verificacion_lead.json)
+  Descripción: Este flujo automatizado verifica la validez de correos electrónicos en formularios y, si son válidos, los envía a Gmail, actualiza una hoja de cálculo en Google Sheets y notifica por Discord.
+
+- [2630-dumpling-ai-maps-business-leads.json](workflows/2630-dumpling-ai-maps-business-leads.json)
+  Descripción: Este flujo automático permite extraer información de lugares comerciales de Google Maps mediante la API de Dumpling AI y guardarla en una hoja de cálculo estructurada.
+
+- [2631-email-to-tasks.json](workflows/2631-email-to-tasks.json)
+  Descripción: Este flujo crea tareas en Google Tasks automáticamente al recibir un nuevo correo con la etiqueta 'To-Do'.
+
+- [2632-line-chatbot-memory.json](workflows/2632-line-chatbot-memory.json)
+  Descripción: Este flujo automático permite a un chatbot de LINE mantener conversaciones contextualesizadas utilizando el modelo GPT-4o-mini y acceder a información mediante herramientas como Wikipedia, Google Calendar y Gmail.
+
+- [2633-icypeas-email-search.json](workflows/2633-icypeas-email-search.json)
+  Descripción: Este flujo automático permite a un usuario desencadenar una búsqueda específica de email utilizando el servicio Icypeas. Los pasos incluyen autenticación mediante API key, API secret y User ID en un nodo personalizado que requiere activar el módulo crypto en n8n self-hosted.
+
+- [2634-opensea-nft-agent.json](workflows/2634-opensea-nft-agent.json)
+  Descripción: Este flujo automático permite a un chatbot de n8n interactuar con la API de OpenSea para recuperar y procesar datos específicos sobre NFTs.
+
+- [2635-bright_data_gemini_search.json](workflows/2635-bright_data_gemini_search.json)
+  Descripción: Este flujo automatizado busca datos web utilizando Perplexity, extrae información relevante con LangChain y utiliza Gemini AI para generar resúmenes.
+
+- [2636-monday-boarditem-hierarchy.json](workflows/2636-monday-boarditem-hierarchy.json)
+  Descripción: Este flujo automático obtiene todos los campos de un elemento de tablero junto con sus relaciones y subelementos para procesar datos completos.
+
+- [2637-line-bitrix-task-integration.json](workflows/2637-line-bitrix-task-integration.json)
+  Descripción: Este flujo automático permite a un chatbot de LINE mantener una conversación contextualizada y actualizar la información del usuario en Bitrix24 para gestionar tareas.
+
+- [2638-telegram-github-agent.json](workflows/2638-telegram-github-agent.json)
+  Descripción: Automatiza la curación y publicación en Telegram de discusiones destacadas sobre proyectos GitHub desde Hacker News.
+
+- [2639-oidc-client-auth-flow.json](workflows/2639-oidc-client-auth-flow.json)
+  Descripción: Este flujo automático de n8n implementa el protocolo OIDC (OpenID Connect) para autenticar usuarios y obtener información sobre ellos. Comienza con un webhook que captura peticiones entrantes, luego procesa cookies de autenticación. Después, verifica si hay token presente o se recibe código en la URL para continuar obteniendo datos del usuario.
+
+- [2640-shopify-orders-to-baserow.json](workflows/2640-shopify-orders-to-baserow.json)
+  Descripción: Este flujo automático ejecuta un GraphQL query diaria para obtener órdenes de Shopify y las inserta en una tabla basada en Baserow, extrayendo los parámetros UTM del primer visit. Solo se procesan las órdenes donde el campo 'Campaign' está presente.
+
+- [2641-csv-google-sheets-import.json](workflows/2641-csv-google-sheets-import.json)
+  Descripción: Este flujo permite importar múltiples archivos CSV de una carpeta local a Google Sheets, eliminando duplicados y manteniendo solo suscriptores.
+
+- [2642-gmail_vector_embeddings_import.json](workflows/2642-gmail_vector_embeddings_import.json)
+  Descripción: Este flujo automatizado importa correos electrónicos de Gmail y los almacena como embeddings vectoriales en PostgreSQL usando PGVector y el modelo Ollama para facilitar búsquedas similares.
+
+- [2643-api-moa-googleSheets.json](workflows/2643-api-moa-googleSheets.json)
+  Descripción: Este flujo automático recopila datos de cotización ovina desde la API del Ministerio de Agricultura a través de una solicitud HTTP, los divide y luego los añade como nuevas filas en un archivo Google Sheets específico.
+
+- [2644-openai-form-dynamic.json](workflows/2644-openai-form-dynamic.json)
+  Descripción: Este flujo automático permite a un chatbot dinámicamente generar formularios basados en las respuestas del usuario y el análisis de una pregunta abierta previa, evitando así preguntar información redundante.
+
+- [2645-v1-param-audit.json](workflows/2645-v1-param-audit.json)
+  Descripción: Este flujo analiza los parámetros de todos los nodos en flujos activos para identificar aquellos que contienen expresiones afectadas por cambios en n8n v1.
+
+- [2646-telegram-helpdesk-chatbot.json](workflows/2646-telegram-helpdesk-chatbot.json)
+  Descripción: Este flujo automático permite a un chatbot de Telegram mantener una conversación contextualizada con los usuarios utilizando almacenamiento vectorial en PostgreSQL y memoria de chat para respuestas personalizadas.
+
+- [2647-whatsapp-ai-chatbot.json](workflows/2647-whatsapp-ai-chatbot.json)
+  Descripción: Este flujo automatizado permite a un chatbot en WhatsApp analizar y responder de manera inteligente a diferentes tipos de mensajes: texto, voz, imágenes y PDFs.
+
+- [2648-travel-planner-mongodb.json](workflows/2648-travel-planner-mongodb.json)
+  Descripción: Este flujo actúa como un asistente de planificación viajera que utiliza la memoria conversacional MongoDB y el vector store Atlas para buscar puntos de interés.
+
+- [2649-zoom-ai-meeting-auto.json](workflows/2649-zoom-ai-meeting-auto.json)
+  Descripción: Este flujo automático procesa transcripciones de reuniones de Zoom con IA para generar resúmenes por correo, crear tareas en ClickUp y programar llamadas de seguimiento.
+
+- [2650-shopify-odoo-customer-sync.json](workflows/2650-shopify-odoo-customer-sync.json)
+  Descripción: Este flujo sincroniza automáticamente los nuevos clientes de Shopify con contactos en Odoo, verificando primero si ya existe un contacto coincidente y creándolo si no se encuentra.
+
+- [2651-ai_tshirt_redesign.json](workflows/2651-ai_tshirt_redesign.json)
+  Descripción: Este flujo analiza una imagen de diseño de camiseta mediante un modelo de IA, como GPT-4o, y genera un prompt mejorado para crear un rediseño visual artístico usando modelos generativos.
+
+- [2652-youtube-performance-searcher.json](workflows/2652-youtube-performance-searcher.json)
+  Descripción: Este flujo busca los mejores videos de YouTube en el último dos semanas y los almacena en una base de datos PostgreSQL.
+
+- [2653-line-chatbot-memory.json](workflows/2653-line-chatbot-memory.json)
+  Descripción: Este flujo permite a un chatbot de LINE mantener una conversación contextualizada utilizando la memoria histórica almacenada en Google Sheets.
+
+- [2654-comparador-multiples-modelos.json](workflows/2654-comparador-multiples-modelos.json)
+  Descripción: Este flujo permite comparar múltiples respuestas de modelos de lenguaje manteniendo memoria separada por modelo.
+
+- [2655-Generate_AI-Ready_llms.txt_Files_from_Screaming_Frog.json](workflows/2655-_Generate_AI-Ready_llms.txt_Files_from_Screaming_Frog.json)
+  Descripción: Este flujo automático permite generar un archivo 'llms.txt' a partir de una exportación CSV del crawler Screaming Frog. Extrae datos relevantes como títulos, URLs e indexabilidad para crear contenido optimizado que ayuda a los modelos LLM en el descubrimiento y clasificación de páginas web.
+
+- [2656-pipedrive-enrichment-flow.json](workflows/2656-pipedrive-enrichment-flow.json)
+  Descripción: Este flujo automático escanea el sitio web de una organización recién creada en Pipedrive para generar un resumen detallado usando GPT-4o, lo que permite mantener datos actualizados e integrados directamente en el sistema CRM.
+
+- [2657-calendar-agent.json](workflows/2657-calendar-agent.json)
+  Descripción: Este flujo automático permite a un chatbot interactuar con el calendario del usuario, creando eventos individuales o con asistentes, obteniendo los horarios y eliminándolos. El agente conversacional de Google Calendar utiliza modelos GPT para manejar las solicitudes.
+
+- [2658-agente-contact-ai.json](workflows/2658-agente-contact-ai.json)
+  Descripción: Este flujo permite al agente de IA interactuar con Airtable usando búsqueda o actualización de contactos.
+
+- [2659-content-creator-agent.json](workflows/2659-content-creator-agent.json)
+  Descripción: Este flujo automático utiliza la herramienta Tavily para buscar información en internet sobre un tema específico proporcionado por el usuario, y luego emplea un modelo de lenguaje Anthropic Chat Model para generar contenido HTML bien estructurado para blogs. Las conexiones aseguran que se realice primero una búsqueda en la web antes de solicitar al asistente IA que escriba el artículo.
+
+- [2660-email-agent.json](workflows/2660-email-agent.json)
+  Descripción: Este flujo automático permite a un chatbot interactuar con cuentas de correo electrónico para gestionar tareas como enviar, responder y etiquetar correos.
+
+- [2661-youtube-transcripciones-resumen.json](workflows/2661-youtube-transcripciones-resumen.json)
+  Descripción: Este flujo automático permite a un usuario enviar una URL de YouTube mediante Webhook para obtener su video ID y luego extraer el título y descripción del video. Posteriormente, se utiliza la transcripción del video junto con gpt-4o-mini para generar resúmenes estructurados con definiciones, características, detalles de implementación y ventajas/desventajas, formateados en markdown.
+
+- [2662-vision-based-scraping.json](workflows/2662-vision-based-scraping.json)
+  Descripción: Este flujo utiliza la IA Gemini para extraer datos de capturas de pantalla web e integra los resultados en Google Sheets.
+
+- [2663-n8n-image-editor-flux-fill.json](workflows/2663-n8n-image-editor-flux-fill.json)
+  Descripción: Este flujo permite procesar imágenes mediante inpainting con la herramienta FLUX Fill, integrando interacciones de usuario en un editor visual basado en Konva.js.
+
+- [2664-deepseek-ia-flujo.json](workflows/2664-deepseek-ia-flujo.json)
+  Descripción: Este flujo automático permite integrar el modelo de IA DeepSeek Reasoner y Chat V3 manteniendo contexto conversacional mediante memoria.
+
+- [2665-telegram-deepseek-bot.json](workflows/2665-telegram-deepseek-bot.json)
+  Descripción: Este flujo automatizado permite a un chatbot interactuar con los usuarios de Telegram mediante la integración del modelo de IA DeepSeek-V3/Chat. Analiza los mensajes, verifica datos de usuario, mantiene memoria a largo plazo en Google Docs y responde de manera personalizada.
+
+- [2666-ft-news-resumen.json](workflows/2666-ft-news-resumen.json)
+  Descripción: Este flujo automatizado recoge diariamente noticias financieras de FT.com, las organiza mediante la extracción específica de contenidos utilizando CSS Selectors, las resumena con un modelo de Google Gemini en formato HTML y envía el resumen estructurado a una bandeja de Outlook.
+
+- [2667-auto-doc-gpt-docsify.json](workflows/2667-auto-doc-gpt-docsify.json)
+  Descripción: Este flujo automático genera documentación en Markdown para workflows de n8n utilizando GPT y Docsify, permitiendo crear páginas interactivas con esquemas visuales (Mermaid) que describen cada nodo.
+
+- [2668-perplexity-html-creator.json](workflows/2668-perplexity-html-creator.json)
+  Descripción: Este flujo automático utiliza la herramienta de investigación de Perplexity AI para generar contenido HTML basado en un tema proporcionado. El sistema analiza el tema del usuario, llama al API de Perplexity con el modelo especificado y procesa la respuesta para extraer JSON y convertirlo a HTML siguiendo guías de formato.
+
+- [2669-ollama-chat-ai.json](workflows/2669-ollama-chat-ai.json)
+  Descripción: Este flujo procesa mensajes de chat mediante modelos de lenguaje locales en Ollama y devuelve respuestas estructuradas en JSON.
+
+- [2670-n8n_creators_leaderboard_stats.json](workflows/2670-n8n_creators_leaderboard_stats.json)
+  Descripción: Este flujo automatiza la obtención y procesamiento de datos estadísticos del tablero de n8n creadores para generar informes detallados en formato Markdown sobre las contribuciones específicas de un usuario.
+
+- [2671-performance-testing-multi-llm.json](workflows/2671-performance-testing-multi-llm.json)
+  Descripción: Este flujo automático permite pruebas múltiples de modelos locales de lenguaje (LLM) a través del servidor LM Studio, analizando métricas como puntaje de legibilidad y longitud promedio de palabras para cada respuesta.
+
+- [2672-telegram-multimedia-ai.json](workflows/2672-telegram-multimedia-ai.json)
+  Descripción: Este flujo automático permite procesar mensajes de Telegram (texto, voz y fotos) utilizando modelos de lenguaje para clasificación o análisis.
+
+- [2673-n8n-leaderboard-ai-agente.json](workflows/2673-n8n-leaderboard-ai-agente.json)
+  Descripción: Este flujo automático recopila estadísticas de los creadores y flujos n8n desde GitHub, procesa la información con inteligencia artificial para generar un informe detallado en formato Markdown, lo convierte a HTML si es necesario, y lo comparte vía email o Telegram.
+
+- [2674-ai-chatbot-memory.json](workflows/2674-ai-chatbot-memory.json)
+  Descripción: Este flujo automático permite a un chatbot almacenar y recuperar memoria de largo plazo e información puntual en Google Docs para mantener conversaciones contextualizadas vía Telegram.
+
+- [2675-stripe-hubspot-sync.json](workflows/2675-stripe-hubspot-sync.json)
+  Descripción: Este flujo sincroniza cargos de Stripe con contactos de HubSpot. Busca y suma los montos capturados por cliente, creando o actualizando una propiedad personalizada en HubSpot para mostrar el total gastado.
+
+- [2676-workflow-hubspot-lead.json](workflows/2676-workflow-hubspot-lead.json)
+  Descripción: Este flujo automático gestiona la integración de Leads en Lemlist y actualiza información en HubSpot, notificando a los equipos relevantes sobre oportunidades de venta. Incluye pasos para buscar o crear cuentas de empresas, actualizar perfiles de contactos, y enviar notificaciones a Slack.
+
+- [2677-reddit-n8n-monitor.json](workflows/2677-reddit-n8n-monitor.json)
+  Descripción: Este flujo automatiza la monitorización de posts en Reddit relacionados con n8n, utilizando OpenAI para clasificar y resumir los que sean relevantes.
+
+- [2678-gmail-to-drive-pdfs.json](workflows/2678-gmail-to-drive-pdfs.json)
+  Descripción: Este flujo automático envía attachments PDF específicos de un correo electrónico a Google Drive usando OpenAI para filtrar y subir solo aquellos que coinciden con un término determinado.
+
+- [2679-chatgpt-email-sheets.json](workflows/2679-chatgpt-email-sheets.json)
+  Descripción: Este flujo automático gestiona las respuestas de ChatGPT a correos electrónicos específicos y registra interacciones en Google Sheets.
+
+- [2680-reporte-notion-slack.json](workflows/2680-reporte-notion-slack.json)
+  Descripción: Este flujo automatiza la creación de reportes semanales resumiendo entradas de una base de datos de Notion que contienen ideas de producto. Cada domingo a las 8:00 AM,consulta los últimos 7 días y envía un mensaje al canal #nik-wf-testing en Slack con el conteo único de ideas UX.
+
+- [2681-notion-gmail-sinc.json](workflows/2681-notion-gmail-sinc.json)
+  Descripción: Este flujo automatiza la sincronización de correos electrónicos etiquetados a una base de datos en Notion. Busca emails específicos cada minuto, crea páginas nuevas si no existen y elimina los etiquetos una vez procesados.
+
+- [2682-compare-datasets-frutas.json](workflows/2682-compare-datasets-frutas.json)
+  Descripción: Este flujo compara dos datasets de frutas y colores usando el nodo Compare Datasets para identificar diferencias.
+
+- [2683-podcast_workflow.json](workflows/2683-podcast_workflow.json)
+  Descripción: Este flujo automático procesa un episodio de podcast dividiendo su transcripción, resumiéndola y generando preguntas y temas relacionados para luego formatear la información en HTML y enviarla mediante Gmail.
+
+- [2684-threat-intelligence-scan.json](workflows/2684-threat-intelligence-scan.json)
+  Descripción: Este flujo automatiza la inspección de amenazas cibernéticas realizando análisis en VirusTotal y Greynoise. Recibe URLs o IPs mediante un formulario o Webhook, realiza DNS Lookup para obtener IPs, envía a VirusTotal para escaneo y consulta a Greynoise, combinando resultados para enviar reportes detallados por correo electrónico y Slack.
+
+- [2685-email_campaign_generator.json](workflows/2685-email_campaign_generator.json)
+  Descripción: Este flujo automatiza la creación de campañas de correo electrónico personalizadas usando datos de compra y feedback de clientes. Utiliza OpenAI para generar contenido atractivo y decide si enviar un cupón promocional.
+
+- [2686-nextcloud_folder_migration.json](workflows/2686-nextcloud_folder_migration.json)
+  Descripción: Este flujo automático搬迁文件夹及其子文件和子文件夹到Nextcloud的指定位置，确保结构完整并避免超过速率限制。
+
+- [2687-flujo-verificacion-voz-correo.json](workflows/2687-flujo-verificacion-voz-correo.json)
+  Descripción: Este flujo automático envía mensajes de voz para verificación y luego verifica el código a través de correo electrónico.
+
+- [2688-data_extraction_bright_google.json](workflows/2688-data_extraction_bright_google.json)
+  Descripción: Este flujo extrae y analiza datos estructurados de una página web utilizando Bright Data Web Unlocker y Google Gemini para realizar tareas de minería de datos, incluyendo análisis temático y extracción de sentimientos.
+
+- [2689-printify-update-product.json](workflows/2689-printify-update-product.json)
+  Descripción: Automatiza la actualización de títulos y descripciones de productos en Printify mediante Google Sheets. El workflow utiliza API de Printify para obtener datos de tiendas y productos, procesa cada producto para generar opciones personalizadas de título y descripción usando OpenAI, y las actualiza en Google Sheets.
+
+- [2690-blockchain_dex_insights_agent.json](workflows/2690-blockchain_dex_insights_agent.json)
+  Descripción: Este flujo automático actúa como un agente de insights para DEX blockchain, utilizando diferentes herramientas de análisis y la API de DexScreener para proporcionar información en tiempo real sobre tokens y pares comerciales.
+
+- [2691-dialpad_syncro.json](workflows/2691-dialpad_syncro.json)
+  Descripción: Este flujo automatiza la sincronización de datos entre Dialpad y Syncro. Recibe una notificación de llamada inbound, busca al cliente en Syncro, crea un ticket si el cliente no existe o actualiza su estado, y registra la información en Google Sheets.
+
+- [2692-http-web-content-processor.json](workflows/2692-http-web-content-processor.json)
+  Descripción: Este flujo procesa una solicitud HTTP para obtener contenido de una página web, lo convierte a Markdown y aplica limitaciones como la eliminación de enlaces e imágenes si el método es simplificado. Maneja errores y formatea la salida según los parámetros proporcionados.
+
+- [2693-búsqueda_correo_icypeas.json](workflows/2693-búsqueda_correo_icypeas.json)
+  Descripción: Este flujo configura una búsqueda de correo electrónico en masa utilizando Icypeas. Lee datos de una hoja de cálculo de Google con información personal y autentica al usuario para realizar una solicitud POST a la API de Icypeas, generando una firma SHA1 necesaria para el proceso.
+
+- [2694-dominio_icypeas.json](workflows/2694-dominio_icypeas.json)
+  Descripción: Este flujo automatiza la ejecución de un análisis大批量 de dominios utilizando Icypeas. Lee datos desde una hoja de cálculo de Google, autentica en la cuenta de Icypeas y envía una solicitud POST para realizar las búsquedas masivas.
+
+- [2695-g2_reviews_monitor.json](workflows/2695-g2_reviews_monitor.json)
+  Descripción: Este flujo automático extrae y monitorea reseñas recientes de G2 para competidores como Zendesk, Intercom y Dixa utilizando ScrapingBee. Notifica nuevas reseñas en Slack y las registra en Google Sheets.
+
+- [2696-country_capitals_fiction.json](workflows/2696-country_capitals_fiction.json)
+  Descripción: Este flujo utiliza ChatGPT para responder preguntas sobre capitales de países ficticios. El usuario puede pedir una lista de países o la capital de un país específico.
+
+- [2697-shopify-inventory-alert.json](workflows/2697-shopify-inventory-alert.json)
+  Descripción: Flujo para monitorear y notificar cuando los productos de Shopify tienen bajo stock o agotan existencias enviando mensajes a Discord con detalles del producto.
+
+- [2699-telegram-support-flow.json](workflows/2699-telegram-support-flow.json)
+  Descripción: Este flujo automático gestiona mensajes en Telegram mediante un bot, creando tópicos personalizados para cada usuario y转发ing mensajes al grupo de soporte o canal Broadcast. Utiliza Redis para almacenar datos y asegurar la integridad de los mensajes.
+
+- [2700-cloudflare_kv_management.json](workflows/2700-cloudflare_kv_management.json)
+  Descripción: Este flujo gestiona operaciones de Cloudflare KV Storage como listar, crear, eliminar y renombrar namespaces, así como realizar acciones específicas con pares clave-valor.
+
+- [2701-songkick-event-email.json](workflows/2701-songkick-event-email.json)
+  Descripción: Este flujo automático extrae y procesa información de eventos musicales de Songkick, PagerDuty-style, enviando un correo electrónico con los detalles formateados al usuario cada mes.
+
+- [2702-meraki-network-monitor.json](workflows/2702-meraki-network-monitor.json)
+  Descripción: Este flujo automático monitorea y analiza los datos de latencia y pérdida de paquetes en redes Meraki para detectar problemas, notificando solo aquellos que superen umbralsthrough Redis.
+
+- [2703-google_maps_scraper.json](workflows/2703-google_maps_scraper.json)
+  Descripción: Este flujo extrae y procesa datos de Google Maps usando SerpAPI, elimina duplicados, los formatea y actualiza el estado en Google Sheets.
+
+- [2704-switchy-url-shortener.json](workflows/2704-switchy-url-shortener.json)
+  Descripción: Este flujo procesa URLs para generar y acortarlas utilizando Switchy.io. Analiza metadatos, verifica seguridad con Norton y Bitdefender, y maneja diferentes modos de imagen OpenGraph.
+
+- [2705-automated-tasks-creator.json](workflows/2705-automated-tasks-creator.json)
+  Descripción: Este flujo automático crea tareas en Airtable basadas en plantillas y actualiza registros con fechas calculadas.
+
+- [2706-airtable-csv-uploader.json](workflows/2706-airtable-csv-uploader.json)
+  Descripción: Este flujo automático procesa y carga datos desde un archivo CSV a Airtable. Detecta si la campaña no está vacía, marca el estado de proceso, descarga el archivo, crea registros en Airtable y actualiza el estado a 'Uploaded' o 'Failed'.
+
+- [2707-dropbox-backup-cleanup.json](workflows/2707-dropbox-backup-cleanup.json)
+  Descripción: Este flujo automático programa tareas periódicas para Backup y limpieza de Workflows en Dropbox. Cada día, copia los Workflows actuales a una carpeta 'OLD' y elimina aquellos backups que superen los 30 días.
+
+- [2708-piloterr-fundraising-scraping.json](workflows/2708-piloterr-fundraising-scraping.json)
+  Descripción: Este flujo automático extrae información de financiación reciente de Crunchbase para Series A, B y Seed, la enriquece con datos adicionales de LinkedIn y Semrush, y la exporta a Google Sheets.
+
+- [2709-email-to-telegram.json](workflows/2709-email-to-telegram.json)
+  Descripción: Este flujo automatiza la lectura de correos electrónicos desde una cuenta IMAP y los convierte en páginas HTML hospedadas en GitHub Gist, enviando notificaciones al Telegram con un enlace accedo. Tras 3 horas, elimina el archivo Gist.
+
+- [2710-youtube-sum-resumen.json](workflows/2710-youtube-sum-resumen.json)
+  Descripción: Este flujo extrae el texto de un video de YouTube utilizando searchapi.io y lo resume con LangChain y OpenAI para generar resúmenes detallados con ejemplos de preguntas.
+
+- [2711-google-sheet-ai-agent.json](workflows/2711-google-sheet-ai-agent.json)
+  Descripción: Este flujo utiliza un agente de inteligencia artificial para interactuar con una hoja de cálculo de Google Sheets, permitiendo listar columnas, obtener valores específicos y recuperar información de clientes basado en operaciones definidas.
+
+- [2712-automated-email-flow.json](workflows/2712-automated-email-flow.json)
+  Descripción: Este flujo automatiza la gestión de mensajes pendientes para enviar correos electrónicos. Recupera datos desde una hoja de cálculo de Google Sheets, filtra las entradas según el estado 'Esperando para ser enviado' y fecha actual, configura los datos necesarios, envía emails mediante Gmail y actualiza el estatus en la hoja de cálculo.
+
+- [2713-chat-agent-postgres.json](workflows/2713-chat-agent-postgres.json)
+  Descripción: Este flujo utiliza un agente de lenguaje para procesar mensajes en chat, empleando memoria simple y una base de datos PostgreSQL para respaldar consultas SQL generadas por el sistema.
+
+- [2714-ai-agent-slack-transfer.json](workflows/2714-ai-agent-slack-transfer.json)
+  Descripción: Flujo que implementa un agente de chat con inteligencia artificial capaz de transferir conversaciones a Slack si el usuario no proporciona una dirección de correo electrónico.
+
+- [2715-discord-to-sheets-sync.json](workflows/2715-discord-to-sheets-sync.json)
+  Descripción: Este flujo automatiza la sincronización de miembros activos de Discord con Google Sheets. Extrae información de Discord, filtra por roles y mantiene un registro en una hoja de cálculo.
+
+- [2716-form-to-email-notificacion.json](workflows/2716-form-to-email-notificacion.json)
+  Descripción: Este flujo recoge datos de un formulario donde los usuarios ingresan su rol y correo electrónico. Luego verifica si el correo no es personal usando Clearbit para enriquecer la información. Si cumple con ciertos criterios, envía un correo electrónico.
+
+- [2717-linkedin-email-finder.json](workflows/2717-linkedin-email-finder.json)
+  Descripción: Este flujo automatiza la actualización de información de contactos en Google Sheets usando la API de Prospeo.io para encontrar correos electrónicos a través de URLS de LinkedIn.
+
+- [2718-intercom-enrich-user-flow.json](workflows/2718-intercom-enrich-user-flow.json)
+  Descripción: Este flujo automatiza la enriquecimiento de datos de usuarios recién creados en Intercom mediante API. Recibe notificaciones de Intercom, verifica el evento 'contact.user.created', extrae información y consulta ExactBuyer para actualizar detalles como correo electrónico, teléfono, ubicación y perfiles sociales.
+
+- [2719-discourse-slack-notifications.json](workflows/2719-discourse-slack-notifications.json)
+  Descripción: Este flujo automatiza la notificación en Slack de nuevos usuarios altamente valorados en Discourse, filtrando emails personales y verificando datos empresariales mediante Clearbit.
+
+- [2720-leadfeeder-to-googlesheets.json](workflows/2720-leadfeeder-to-googlesheets.json)
+  Descripción: Este flujo automático extrae y enriquece datos de Leads desde Leadfeeder, filtra por empresa y engagement, y los exporta a Google Sheets.
+
+- [2721-email-verification-flow.json](workflows/2721-email-verification-flow.json)
+  Descripción: Este flujo verifica la valididad de un correo electrónico, obtiene información de empresa y persona a partir de Clearbit, y agrega una lead a Hubspot si el correo es válido.
+
+- [2722-asignacion-deal-hubspot.json](workflows/2722-asignacion-deal-hubspot.json)
+  Descripción: Este flujo automático programa tareas diarias para obtener deals de HubSpot y asignarlos a diferentes vendedores basado en regiones y tamaño de empresa.
+
+- [2723-lead-generation-flow.json](workflows/2723-lead-generation-flow.json)
+  Descripción: Este flujo automático recolecta Leads a través de un formulario web, verifica la validez del correo electrónico utilizando Hunter, evalúa el perfil del cliente con MadKudu y, en caso de ser interesante (puntuación >60), envía un correo de outreach a través de Gmail y registra la interacción en HubSpot.
+
+- [2724-social-activity-email.json](workflows/2724-social-activity-email.json)
+  Descripción: Este flujo automático recopila tweets recientes de Twitter e publicaciones de LinkedIn de empresas y envía un correo electrónico con la actividad social a las direcciones email configuradas.
+
+- [2725-flujo-automatico-diario.json](workflows/2725-flujo-automatico-diario.json)
+  Descripción: Este flujo automático programa tareas diarias para extraer y procesar información de calendario, LinkedIn y Twitter, enriquecer datos con Clearbit, y enviar un correo electrónico con un resumen personalizado.
+
+- [2726-crm-enrichment-flow.json](workflows/2726-crm-enrichment-flow.json)
+  Descripción: Este flujo automatiza el proceso de enriquecimiento y gestión de datos de contactos y empresas a través de Clearbit y Hubspot. Detecta si una empresa existe en CRM; en caso contrario, la crea o actualiza con información detallada. También valida y filtra correos electrónicos para evitar direcciones personales.
+
+- [2727-crm-enrich-flow.json](workflows/2727-crm-enrich-flow.json)
+  Descripción: Este flujo automático en n8n utiliza Clearbit y Hubspot para enriquecer datos de empresas y contactos. Detecta si una empresa existe en el CRM, crea o actualiza registros en consecuencia, y gestiona Leads en ConvertKit. Filtra correos no personales y administra contactos con inteligencia.
+
+- [2728-automatizacion-leads-pipedrive.json](workflows/2728-automatizacion-leads-pipedrive.json)
+  Descripción: Este flujo automatiza la gestión de leads en Pipedrive mediante Clearbit y Slack. Busca leads no archivados con tags B2B y más de 10 empleados, los enriquece con datos empresariales de Clearbit, marca como enriched y notifica a Slack.
+
+- [2729-form-to-pipedrive.json](workflows/2729-form-to-pipedrive.json)
+  Descripción: Este flujo utiliza formularios para recolectar emails, verifica su validez con Hunter.io, obtiene información de Clearbit y crea o actualiza registros en Pipedrive.
+
+- [2730-slack-command-flow.json](workflows/2730-slack-command-flow.json)
+  Descripción: Este flujo maneja comandos en Slack, valida tokens, crea hilos y ejecuta workflows según configuración. Responde a usuarios con ayuda o comandos desconocidos.
+
+- [2731-woocommerce-chatbot.json](workflows/2731-woocommerce-chatbot.json)
+  Descripción: Este flujo automático permite a un chatbot recuperar y mostrar información de pedidos de WooCommerce basada en la dirección de correo electrónico del usuario. Utiliza herramientas de encriptación para proteger los datos sensibles y servicios como DHL para el seguimiento de envíos.
+
+- [2732-vector-chatbot-pinecone.json](workflows/2732-vector-chatbot-pinecone.json)
+  Descripción: Este flujo configura un sistema de recuperación vectorial para responder preguntas basadas en contenido descargado de Google Drive. Utiliza Pinecone como base de datos vectorial y OpenAI para embeddings y respuesta al chat.
+
+- [2733-gitlab-code-review.json](workflows/2733-gitlab-code-review.json)
+  Descripción: Este flujo utiliza la API de GitLab para obtener los cambios realizados en una solicitud de fusión y utiliza un modelo LLM para revisar esos cambios. Si hay problemas, publica comentarios en el repositorio.
+
+- [2734-cv-extractor-telegram.json](workflows/2734-cv-extractor-telegram.json)
+  Descripción: Este flujo automatiza la extracción y formateo de información de currículum vitae en formato HTML y PDF para Telegram. Recibe un archivo PDF de CV, extrae el texto, lo procesa con OpenAI para estructurar los datos y genera un documento HTML/convertedo en PDF.
+
+- [2735-traductor-deepL-GDrive.json](workflows/2735-traductor-deepL-GDrive.json)
+  Descripción: Este flujo automatiza la traducción de documentos PDF usando DeepL y Google Drive. Configura una ruta, selecciona el idioma origen y destino, y los archivos se traducirán automáticamente.
+
+- [2736-wordpress-article-generator.json](workflows/2736-wordpress-article-generator.json)
+  Descripción: Flujo que automatiza la creación de artículos en WordPress utilizando OpenAI para generar contenido estructurado y DALL·E para imágenes, con validación de datos.
+
+- [2737-stripe-payment-link.json](workflows/2737-stripe-payment-link.json)
+  Descripción: Este flujo crea un producto en Stripe y genera un enlace de pago basado en los datos del formulario enviado. Configura la moneda y el precio, luego crea el producto y finalmente redirige al usuario.
+
+- [2738-gmail-label-assigner.json](workflows/2738-gmail-label-assigner.json)
+  Descripción: Este flujo automatiza la asignación de etiquetas a mensajes de Gmail usando IA. Analiza los correos electrónicos y determina cuáles etiquetas aplicar basándose en su contenido.
+
+- [2739-email-ai-reply.json](workflows/2739-email-ai-reply.json)
+  Descripción: Este flujo automático procesa correos electrónicos con etiquetas específicas transfiriendo su contenido al Asistente de OpenAI para generar un borrador de respuesta. El workflow incluye desde la extracción del correo hasta su envío final y posterior eliminación de las etiquetas de disparo.
+
+- [2740-automate_ga_reporting.json](workflows/2740-automate_ga_reporting.json)
+  Descripción: Este flujo automático extrae y procesa datos de Google Analytics para generar reportes detallados sobre estadísticas de páginas, resultados de búsquedas y vistas por país, comparando datos semanales. Los resultados se formatean en HTML y se envían por correo electrónico.
+
+- [2741-zalando-price-monitor.json](workflows/2741-zalando-price-monitor.json)
+  Descripción: Este flujo monitorea precios en Zalando, extrae información de productos, compara con precios guardados y notifica si hay reducciones.
+
+- [2742-email_to_podcast.json](workflows/2742-email_to_podcast.json)
+  Descripción: Este flujo automatiza la conversión de correos electrónicos en podcasts. Utiliza Gmail para detectar mensajes con la etiqueta 'CATEGORY_PROMOTIONS', los procesa, genera un resumen y convierte el texto en audio que se envía a Telegram.
+
+- [2743-youtube-rss-generator.json](workflows/2743-youtube-rss-generator.json)
+  Descripción: Este flujo genera URLs de RSS personalizadas para canales de YouTube y vídeos específicos en diferentes formatos (ATOM, JSON, MRSS, PLAINTEXT, SFEED y XML) utilizando fuentes externas.
+
+- [2744-ai-storyteller-telegram.json](workflows/2744-ai-storyteller-telegram.json)
+  Descripción: Este flujo automatiza la creación y envío de historias infantiles al canal Telegram, generando textos, audios e imágenes con inteligencia artificial.
+
+- [2745-kids-story-generator.json](workflows/2745-kids-story-generator.json)
+  Descripción: Flujo automatizado para crear y compartir historias infantiles en árabe con OpenAI y Telegram.
+
+- [2746-dropcontact-batch.json](workflows/2746-dropcontact-batch.json)
+  Descripción: Este flujo automatiza la eliminación masiva de contactos en Dropcontact mediante consultas PostgreSQL y maneja hasta 1500 solicitudes por hora.
+
+- [2747-correo_n8n_version.json](workflows/2747-correo_n8n_version.json)
+  Descripción: Este flujo programa un correo electrónico diario con la versión más estable de n8n obtenida de GitHub.
+
+- [2748-wordpress_blog_poster.json](workflows/2748-wordpress_blog_poster.json)
+  Descripción: Este flujo automatiza la publicación de contenido en WordPress y Airtable. Busca entradas marcadas como 'To Post', convierte el markdown a HTML, sube una imagen, crea una entrada en WordPress con ella y actualiza Airtable para marcarla como 'Posted'.
+
+- [2749-spotify-downloads-manager.json](workflows/2749-spotify-downloads-manager.json)
+  Descripción: Este flujo automático gestiona una playlist de Spotify llamada 'Downloads'. Busca las canciones más recientes que el usuario haya marcado como favoritas y las agrega a la playlist, manteniendo solo un número definido de canciones. Si la playlist no existe, la crea. Si ya existe, elimina las canciones más antiguas si el límite se supera.
+
+- [2750-email_classifier.json](workflows/2750-email_classifier.json)
+  Descripción: Este flujo monitorea las respuestas de correo electrónico en Lemlist y utiliza OpenAI para categorizarlas, posteriormente envía notificaciones personalizadas a Slack. Si la respuesta está clasificada como 'Unsubscribe', el lead es dado de baja; si es 'Interested', se marca como interesado.
+
+- [2751-crm-verification-form.json](workflows/2751-crm-verification-form.json)
+  Descripción: Flujo que utiliza Tally Forms para capturar datos de formulario, verifica correo electrónico con CaptainVerify, gestiona créditos y crea Leads en SuiteCRM y contactos en Brevo. Notifica en NextCloudDiscussions si hay malformación o bajo crédito.
+
+- [2752-notion-webflow-sync.json](workflows/2752-notion-webflow-sync.json)
+  Descripción: Este flujo sincroniza entradas de un blog desde Notion a Webflow comparando por slug y actualizando o creando posts según corresponda.
+
+- [2753-n8n-updates-checker.json](workflows/2753-n8n-updates-checker.json)
+  Descripción: Este flujo recupera la información de los tipos de nodos y las versiones disponibles, luego verifica si hay nodos que requieren actualización comparando su versión actual con la última versión registrada. Si un nodo no está activo o su versión es obsoleta, lo identifica y genera una salida formateada con el nombre del flujo, su ID y la lista de nodos desactualizados.
+
+- [2754-backup-github.json](workflows/2754-backup-github.json)
+  Descripción: Este flujo automatiza la copia de seguridad de credenciales en GitHub. Utiliza un comando para exportar credenciales, las formatea y luego compara con versiones existentes o crea nuevas si no existe.
+
+- [2755-social-media-crawler.json](workflows/2755-social-media-crawler.json)
+  Descripción: Este flujo extrae información de medios sociales de sitios web usando herramientas de recuperación de texto y URLs. Navega por páginas, obtiene enlaces sociales y los organiza en formato JSON.
+
+- [2756-automatizacion-facturas-pdf.json](workflows/2756-automatizacion-facturas-pdf.json)
+  Descripción: Este flujo automatiza la extracción de datos desde facturas PDF enviadas por correo electrónico. Utiliza LlamaParse para analizar los documentos y luego extrae información estructurada con OpenAI, finalmente insertando los datos en una hoja de cálculo de Google Sheets.
+
+- [2757-automatiza-rfp.json](workflows/2757-automatiza-rfp.json)
+  Descripción: Flujo automático para generar respuestas a RFPs utilizando Webhooks, Google Docs y OpenAI. Recibe un documento RFP, extrae las preguntas, las procesa con AI e inserta las respuestas en un documento de Google Docs.
+
+- [2758-evento-banner-generator.json](workflows/2758-evento-banner-generator.json)
+  Descripción: Este flujo automatiza la creación de banners promocionales para eventos usando n8n. Permite capturar información a través de un formulario, generar una imagen con IA y crear banners personalizados en BannerBear para compartir en Discord.
+
+- [2760-empresa_research.json](workflows/2760-empresa_research.json)
+  Descripción: Este flujo automatiza la investigación de empresas mediante el uso de OpenAI y Google Sheets. Recopila información estructurada de sitios web y bases de datos, y actualiza una hoja de cálculo con los resultados.
+
+- [2761-slack-calendar-event.json](workflows/2761-slack-calendar-event.json)
+  Descripción: Este flujo automático monitorea un canal de Slack para mensajes etiquetados con emoji de calendario (📅) y gestiona la creación y actualización de eventos en Google Calendar. Utiliza inteligencia artificial para extraer detalles del evento, crea uno nuevo si es necesario o agrega asistentes a un evento existente basado en las reacciones de los usuarios.
+
+- [2762-sitios-monitor.json](workflows/2762-sitios-monitor.json)
+  Descripción: Este flujo automatiza la monitorización de sitios web mediante un temporizador que verifica el estado de cada sitio y envía alertas por correo electrónico o Slack si hay cambios en el estado.
+
+- [2763-google-meet-scheduler.json](workflows/2763-google-meet-scheduler.json)
+  Descripción: Este flujo automatiza la gestión de reuniones mediante Google Calendar y Drive. Recupera los registros de reunión, procesa transcripciones con OpenAI, crea eventos calendarísticos y asigna asistentes.
+
+- [2764-inventory-enricher.json](workflows/2764-inventory-enricher.json)
+  Descripción: Este flujo automático utiliza Airtable para capturar fotos de un inventario, OpenAI para analizar imágenes y agentes de inteligencia artificial para enriquecer datos. Primero, obtiene las filas aplicables de Airtable con fotos no procesadas. Luego, usa el modelo OpenAI para identificar atributos del objeto en la imagen. Un agente de AI utiliza herramientas personalizadas (búsqueda inversa de imágenes y web scraping) para buscar información adicional. Finalmente, sobreescribe los datos en Airtable con los resultados enriquecidos.
+
+- [2765-image-object-extraction.json](workflows/2765-image-object-extraction.json)
+  Descripción: Este flujo utiliza la API de Cloudflare para detectar objetos en una imagen y luego extrae y almacena esos objetos como imágenes separadas en Elasticsearch para permitir búsquedas basadas en ellos.
+
+- [2766-hellofresh-recomendador.json](workflows/2766-hellofresh-recomendador.json)
+  Descripción: Este flujo automatiza la recomendación de recetas semanales de HelloFresh mediante un motor de búsqueda vectorial y una base de datos. Extrae información de menús semanales, procesa datos de recetas, genera embeddings con Mistral Cloud y utiliza Qdrant para推荐pciones basadas en preferencias.
+
+- [2767-file-organizer-mistral.json](workflows/2767-file-organizer-mistral.json)
+  Descripción: Este flujo utiliza un desencadenador local para monitorear un directorio, utiliza comandos para obtener una lista de archivos y carpetas, luego emplea el modelo Mistral AI para organizar los archivos moviéndolos a subcarpetas apropiadas basándose en sugerencias del AI.
+
+- [2768-file_sync_qdrant.json](workflows/2768-file_sync_qdrant.json)
+  Descripción: Este flujo monitorea un directorio local y sincroniza cambios en los archivos con Qdrant para crear una base de conocimientos usando Mistral AI.
+
+- [2769-bank_statement_reconciliation.json](workflows/2769-bank_statement_reconciliation.json)
+  Descripción: Este flujo monitorea archivos CSV de estado bancario, los procesa con un modelo de inteligencia artificial para detectar discrepancias en pagos de alquileres y notificaciones específicas.
+
+- [2770-automated-notes-generator.json](workflows/2770-automated-notes-generator.json)
+  Descripción: Este flujo automático monitorea un directorio para detectar nuevos archivos, procesa su contenido y utiliza agentes de IA para generar documentos estructurados en formato Markdown como guías de estudio, timeline y documentación informativa.
+
+- [2771-tax-code-ai-assistant.json](workflows/2771-tax-code-ai-assistant.json)
+  Descripción: Este flujo automatiza la creación de un asistente chatbot legal especializado en códigos fiscales texanos. Descarga, procesa y almacena documentos PDF en Qdrant usando embeddings de Mistral.ai para permitir búsquedas avanzadas.
+
+- [2772-pc_repair_booking.json](workflows/2772-pc_repair_booking.json)
+  Descripción: Este flujo automático gestiona la agenda de citas y seguimientos para un servicio de reparación de PC y laptops. Utiliza Twilio para recibir mensajes SMS, Airtable para manejar sesiones y conversaciones, y OpenAI con agentes de lenguaje para interactuar con los clientes, además de Cal.com para programar citas.
+
+- [2773-image-embedding_workflow.json](workflows/2773-image-embedding_workflow.json)
+  Descripción: Este flujo descarga una imagen de Google Drive, extrae información de color y genera palabras clave semánticas usando OpenAI para crear un documento embedding, el cual se almacena en un vector store en memoria.
+
+- [2774-chat-flow-buffer.json](workflows/2774-chat-flow-buffer.json)
+  Descripción: Este flujo utiliza Redis y Twilio para manejar mensajes de chat, pausando la ejecución por 5 segundos y verificando si el último mensaje coincide con el ingresado. Si coincide, envía una respuesta única basada en todos los mensajes bufferizados usando OpenAI.
+
+- [2775-competitor-research-automator.json](workflows/2775-competitor-research-automator.json)
+  Descripción: Este flujo automatiza la investigación competitiva usando Exa.ai para encontrar competidores y luego recopila información detallada sobre cada competidor mediante agentes de inteligencia artificial que extraen datos de sitios como Crunchbase, LinkedIn y bienvenidos. Los datos se estructuran y se insertan en Notion.
+
+- [2776-pdf-pinecone-reserva.json](workflows/2776-pdf-pinecone-reserva.json)
+  Descripción: Flujo que incluye la descarga de un PDF, su embedding y almacenamiento en Pinecone, además de una capacidad de reserva de citas mediante Google Calendar usando agentes de lenguaje como GPT-4o y Anthropic.
+
+- [2777-encuesta-analisis.json](workflows/2777-encuesta-analisis.json)
+  Descripción: Este flujo automatiza la obtención de encuestas y análisis usando OpenAI y Qdrant para extraer见解s mediante clustering y embeddings.
+
+- [2778-trustpilot-insights.json](workflows/2778-trustpilot-insights.json)
+  Descripción: Este flujo extrae, procesa y analiza reseñas de Trustpilot para una empresa específica. Utiliza Qdrant como base vectorial para almacenar datos estructurados, aplica clustering con K-means para identificar patrones, genera insights usando un modelo LLM y exporta los resultados a Google Sheets.
+
+- [2779-hn_comments_analyzer.json](workflows/2779-hn_comments_analyzer.json)
+  Descripción: Este flujo automático extrae y analiza comentarios de un artículo de Hacker News, los organiza en clusters utilizando algoritmos de agrupamiento (K-means) y genera insights con un modelo de lenguaje grande. Los datos se almacenan en Qdrant para su posterior análisis.
+
+- [2780-gitlab-backup-n8n.json](workflows/2780-gitlab-backup-n8n.json)
+  Descripción: Este flujo automático configura un backup periódico y manual de los workflows de n8n en GitLab. Utiliza triggers programados y manuales para guardar la configuración actualizada en archivos separados dentro de una repositorio gitlab.
+
+- [2781-spotify-mqtt-controller.json](workflows/2781-spotify-mqtt-controller.json)
+  Descripción: Este flujo maneja comandos MQTT de un botón remoto para controlar Spotify, incluyendo volumen y reproducción, además de reproducir listas favoritas.
+
+- [2782-sync-workflows.json](workflows/2782-sync-workflows.json)
+  Descripción: Este flujo automatiza la sincronización de workflows entre n8n y GitLab. Recupera los workflows de n8n, verifica su estado en GitLab y actualiza o crea nuevos archivos JSON según las diferencias detectadas.
+
+- [2783-paddle-invoice-processor.json](workflows/2783-paddle-invoice-processor.json)
+  Descripción: Este flujo automático detecta y procesa invoices de Paddle desde Gmail, extrae el enlace PDF, lo descarga y almacena en Google Drive organizándolo en carpetas específicas.
+
+- [2784-supabase-vector-store.json](workflows/2784-supabase-vector-store.json)
+  Descripción: Este flujo configura una base de datos vectorial en Supabase para almacenar y recuperar documentos con embeddings de OpenAI, permitiendo realizar búsquedas semánticas y contestar preguntas basadas en el contenido.
+
+- [2785-it-slack-ai-agent.json](workflows/2785-it-slack-ai-agent.json)
+  Descripción: Este flujo utiliza n8n para manejar mensajes de Slack, respondiendo a los usuarios con respuestas generadas por OpenAI y consultando Confluence. Incluye verificación de webhooks, memoria contextual y eliminación de mensajes iniciales.
+
+- [2786-telegram_bot_workflow.json](workflows/2786-telegram_bot_workflow.json)
+  Descripción: Este flujo utiliza Telegram para manejar diferentes tipos de mensajes y comandos, como texto, fotos, archivos, voz y botones. Detecta el tipo de mensaje y actúa en consecuencia, mostrando un menú contextual o manejando pagos.
+
+- [2787-contabo-backups.json](workflows/2787-contabo-backups.json)
+  Descripción: Este flujo automático programa snapshots diarios de instancias en Contabo, verificando y eliminando si ya existe un.snapshot antes de crear uno nuevo.
+
+- [2788-daily-order-summary.json](workflows/2788-daily-order-summary.json)
+  Descripción: Este flujo automatiza la creación de un resumen diario de órdenes y su envío por correo electrónico. Cada vez que se recibe una nueva orden a través de un webhook, los datos se almacenan en Airtable. A las 7 PM se genera un informe con todas las órdenes del día y se adjunta un HTML formateado.
+
+- [2789-notion-task-reminder.json](workflows/2789-notion-task-reminder.json)
+  Descripción: Este flujo automatiza la creación de un correo semanal con recordatorios y notificaciones push sobre tareas pendientes en Notion. Recupera las tareas desde una base de datos de Notion, filtra y ordena por fecha límite, genera un HTML con los detalles de cada tarea y envía un correo electrónico o una notificación Pushover si hay tareas vencidas.
+
+- [2790-notion-kb-agent.json](workflows/2790-notion-kb-agent.json)
+  Descripción: Este flujo utiliza OpenAI y Notion para actuar como un asistente de conocimiento base que busca información en una base de datos de Notion basándose en preguntas del usuario.
+
+- [2791-notion-workflow-generator.json](workflows/2791-notion-workflow-generator.json)
+  Descripción: Este flujo genera un workflow personalizado de n8n para bases de datos de Notion a partir de una URL proporcionada por el usuario. Utiliza agentes de lenguaje y validación para asegurar la correcta estructura del JSON.
+
+- [2792-flujo-imagen-ai.json](workflows/2792-flujo-imagen-ai.json)
+  Descripción: Flujo que genera imágenes AI basadas en prompts y estilos seleccionados por el usuario, usando la API de Hugging Face. El usuario puede elegir entre diferentes estilos visuales como cyberpunk o neon para crear composiciones visuales avanzadas.
+
+- [2793-image-caption-generator.json](workflows/2793-image-caption-generator.json)
+  Descripción: Este flujo automatiza la generación de subtítulos en imágenes usando el modelo Gemini y los aplica visualmente.
+
+- [2794-visual-regression-test-flow.json](workflows/2794-visual-regression-test-flow.json)
+  Descripción: Flujo automatizado para realizar pruebas de regresión visual en sitios web usando Google Gemini y Apify. Genera imágenes base, las compara con capturas recientes e informa cambios detectados a través de Linear.
+
+- [2795-banco-estado-pdf-to-markdown.json](workflows/2795-banco-estado-pdf-to-markdown.json)
+  Descripción: Este flujo automatiza la conversión de un estado bancario PDF en formato imágenes a texto estructurado en markdown usando Google Gemini y OCR avanzado.
+
+- [2796-slack-csr-approval.json](workflows/2796-slack-csr-approval.json)
+  Descripción: Este flujo automático gestiona la solicitud de certificados digitales a través de Slack. Analiza las amenazas usando VirusTotal y genera una confirmación automática o un informe para aprobación manual.
+
+- [2797-adobe-pdf-processing.json](workflows/2797-adobe-pdf-processing.json)
+  Descripción: Este flujo automático implementa una integración con la API de Adobe para procesar archivos PDF, realizando tareas como subir un archivo, enviar una query de procesamiento y descargar el resultado. Utiliza credenciales personalizadas para autenticación y gestiona diferentes estados del proceso.
+
+- [2798-podcast-summarizer.json](workflows/2798-podcast-summarizer.json)
+  Descripción: Este flujo automatiza la creación de un resumen diario de podcasts específicos por género. Utiliza la API de Taddy para obtener las listas de podcasts más populares, descarga los episodios seleccionados, transcribe su contenido con Whisper y luego genera un resumen usando OpenAI. El resultado se envía mediante correo electrónico.
+
+- [2799-faq-generator-n8n.json](workflows/2799-faq-generator-n8n.json)
+  Descripción: Este flujo automatiza la creación de FAQ para integraciones de n8n usando OpenAI y Google Sheets. Extrae datos de una hoja de cálculo, genera pares de preguntas y respuestas, completa algunas respuestas con AI y guarda los resultados en Google Drive.
+
+- [2800-monitor-github.json](workflows/2800-monitor-github.json)
+  Descripción: Este flujo monitorea múltiples repositorios de GitHub sin polling, registrando y manejando webhooks para recibir notificaciones de eventos como empujes y solicitudes de pull.
+
+- [2801-email-reply-draft.json](workflows/2801-email-reply-draft.json)
+  Descripción: Este flujo automático utiliza OpenAI para generar respuestas a correos electrónicos y los guarda en la bandeja de borradores de Fastmail.
+
+- [2802-webhook-relay.json](workflows/2802-webhook-relay.json)
+  Descripción: Este flujo automático utiliza webhook.site para recibir y almacenar requests, posteriormente los procesa y reenvía a una dirección local mediante n8n. Se usa un token de autenticación y una clave para sincronizar el estado entre ejecuciones.
+
+- [2803-workflow_calendar_task.json](workflows/2803-workflow_calendar_task.json)
+  Descripción: Flujo que gestiona tareas y citas en Google Calendar y Notion mediante agentes especializados para calendar y tasks, usando OpenAI y Chat Models para la inteligencia artificial.
+
+- [2804-fastmail-masked-email-flow.json](workflows/2804-fastmail-masked-email-flow.json)
+  Descripción: Este flujo gestiona los direcciones de correo electrónico anónimas de Fastmail mediante su API. Permite obtener una lista de correos electrónicos anonimizados, crear nuevos con estado inicial, actualizar el estado (habilitado/deshabilitado) y eliminarlos. La interfaz HTML generada muestra un listado con opciones para filtrar por estado, agregar nuevos y realizar acciones.
+
+- [2805-sincronizacion-stripe-s3.json](workflows/2805-sincronizacion-stripe-s3.json)
+  Descripción: Este flujo automatiza la sincronización de facturas PDF desde Stripe hacia un.bucket de AWS S3 organizando los archivos en subcarpetas según el año y mes. Configura intervalos mensuales para descargar solo las facturas emitidas a partir del primer día del mes.
+
+- [2806-telegram-bot-memory.json](workflows/2806-telegram-bot-memory.json)
+  Descripción: Este flujo automático gestiona conversaciones en Telegram usando OpenAI y Supabase para mantener el contexto. Crea una nueva hilera de discusión en OpenAI si es la primera vez que un usuario habla con el bot, guarda la información del usuario en Supabase y envía respuestas personalizadas.
+
+- [2807-automatiza-categorizacion-outlook.json](workflows/2807-automatiza-categorizacion-outlook.json)
+  Descripción: Este flujo automatiza la categorización de correos electrónicos en Outlook utilizando un agente de inteligencia artificial. Extrae el cuerpo del correo, lo procesa para eliminar HTML y luego lo envía a un modelo de lenguaje Ollama para asignar categorías. Si falla, registra el error. Dependiendo de la categoría resultante, mueve los correos a diferentes carpetas como 'Junk', 'Receipt', 'SaaS', 'Community', 'Business' u 'Action'.
+
+- [2808-telegram-ai-agent.json](workflows/2808-telegram-ai-agent.json)
+  Descripción: Este flujo utiliza Telegram para recibir mensajes, procesa voz o texto, transcribe voz a texto, y usa OpenAI como agente de inteligencia artificial para responder basándose en correo electrónico, calendario y contactos.
+
+- [2809-seo-ai-keywords-generator.json](workflows/2809-seo-ai-keywords-generator.json)
+  Descripción: Flujo que genera keywords SEO utilizando un agente de inteligencia artificial basado en el perfil del cliente ideal (ICP).
+
+- [2810-incident-service-now.json](workflows/2810-incident-service-now.json)
+  Descripción: Este flujo recibe una solicitud de Slack mediante un comando slash, extrae el ID de incidente y consulta ServiceNow para obtener detalles. Si el incidente existe, envía la información a Slack; si no, notifica al usuario.
+
+- [2811-gmail-auto-label.json](workflows/2811-gmail-auto-label.json)
+  Descripción: Automatiza la categorización de correo electrónico en Gmail usando OpenAI para etiquetar mensajes basándose en existentes o crear nuevas etiquetas si es necesario.
+
+- [2812-youtube-metagen.json](workflows/2812-youtube-metagen.json)
+  Descripción: Este flujo automatiza la generación de metadatos para videos de YouTube, incluyendo títulos, descripciones y tags optimizados para SEO, utilizando un formulario de entrada que procesa enlaces de video y transcripciones.
+
+- [2813-transform-text.json](workflows/2813-transform-text.json)
+  Descripción: Este flujo transforma un texto en minúsculas, mayúsculas y reemplaza palabras específicas usando comandos echo.
+
+- [2814-subscriber-unsubscribes-customerio.json](workflows/2814-subscriber-unsubscribes-customerio.json)
+  Descripción: Este flujo activa un nodo cuando un suscriptor se da de baja en Customer.io, permitiendo realizar acciones basadas en dicho evento.
+
+- [2815-luma-video-generator.json](workflows/2815-luma-video-generator.json)
+  Descripción: Este flujo crea videos personalizados utilizando la API de Luma AI Dream Machine. Genera un video basado en un prompt definido globalmente con diferentes opciones de aspecto, duración y movimiento aleatorio. Registra los datos del video en Airtable.
+
+- [2816-rss-telegram-updates.json](workflows/2816-rss-telegram-updates.json)
+  Descripción: Este flujo automatiza la publicación de actualizaciones desde un feed RSS a Telegram. Lee entradas RSS, verifica si son nuevas usando fecha, y las envía al canal si son recientes.
+
+- [2817-eleven-labs-transcript.json](workflows/2817-eleven-labs-transcript.json)
+  Descripción: Este flujo automatiza la creación de transcripciones de audio usando Eleven Labs. Inicia con un clic en 'Test workflow', lee el archivo multimedia desde el disco (/files/tmp/tst1.mp4), y lo procesa para obtener una transcripción enviando una solicitud POST a la API de Eleven Labs.
+
+- [2818-squarespace-fulfillment.json](workflows/2818-squarespace-fulfillment.json)
+  Descripción: Este flujo automatiza la gestión de órdenes en Squarespace Commerce. Busca órdenes pendientes y las marca como cumplidas, utilizando el API Key para autenticación.
+
+- [2819-procesar_Ordenes_Gmail.json](workflows/2819-procesar_Ordenes_Gmail.json)
+  Descripción: Flujo automático que procesa órdenes de compra recibidas por correo electrónico, extrae información relevante y la almacena en una hoja de Google Sheets.
+
+- [2820-auto-assign-jira.json](workflows/2820-auto-assign-jira.json)
+  Descripción: Este flujo automatiza la asignación de tareas estancadas en JIRA mediante un sistema de coincidencias con issues resueltos pasados usando IA y bases de datos vectoriales. Busca tareas sin asignar durante más de 5 días, encuentra las más similares en la base de conocimientos y asigna a los miembros del equipo con menos cargas actuales.
+
+- [2821-automatizacion-facturas-outlook.json](workflows/2821-automatizacion-facturas-outlook.json)
+  Descripción: Este flujo automatiza la gestión de facturas desde una cuenta de Outlook, clasificando mensajes para detectar y descargar attachments que sean facturas emitidas a la empresa. Utiliza Google Gemini para verificar si los archivos adjuntos son facturas relevantes y extraer información clave, posteriormente registra estos datos en una hoja de cálculo de Excel.
+
+- [2822-automated-sales-email-generator.json](workflows/2822-automated-sales-email-generator.json)
+  Descripción: Este flujo automatiza la creación de emails personalizados para ventas utilizando Google Gemini y Gmail. Recupera correos electrónicos de clientes, construye perfiles personalizados con un análisis de comunicación y estilo de compra, genera pitches adaptados y crea borradores para revisión humana.
+
+- [2823-anthropic-batch-processing.json](workflows/2823-anthropic-batch-processing.json)
+  Descripción: Este flujo automático envía múltiples prompts simultáneamente a la API de Anthropic Claude Batch, verifica su estado y procesa los resultados utilizando记忆节点 para mantener el contexto.
+
+- [2824-csrd-audit-flow.json](workflows/2824-csrd-audit-flow.json)
+  Descripción: Flujo automático para auditar reportes CSRD en formato xHTML. Analiza y genera un informe sumarizando hallazgos clave y recomendaciones.
+
+- [2825-gestion_citas_vapi.json](workflows/2825-gestion_citas_vapi.json)
+  Descripción: Este flujo automático gestiona la reserva y gestión de citas mediante Vapi, Google Calendar y Airtable. Permite verificar disponibilidad, crear, actualizar y eliminar eventos, así como registrar información de llamadas telefónicas.
+
+- [2826-client-usage-tracker.json](workflows/2826-client-usage-tracker.json)
+  Descripción: Este flujo registra el uso de tokens y costos de clientes al utilizar un servicio de extracción de datos de CV con OpenAI, almacenando los datos en una hoja de cálculo de Google Sheets.
+
+- [2827-redis_lock_workflow.json](workflows/2827-redis_lock_workflow.json)
+  Descripción: Este flujo utiliza Redis para bloquear la ejecución de un workflow hasta que expire una clave TTL, evitando así la ejecución concurrente.
+
+- [2828-organizador-tags.json](workflows/2828-organizador-tags.json)
+  Descripción: Este flujo automático organiza workflows en carpetas específicas basadas en tags. Primero, inicia sesión en n8n, extrae los tags de los proyectos personales, permite seleccionarlos mediante un formulario y luego mueve los workflows a las carpetas correspondientes o crea nuevas si son necesarias.
+
+- [2829-digest-novedades-plantillas.json](workflows/2829-digest-novedades-plantillas.json)
+  Descripción: Este flujo automático genera un resumen diario de las plantillas más recientes de n8n filtradas por categorías seleccionadas por los subscriptores almacenados en una hoja de cálculo de Excel. Utiliza OpenAI para resumir las descripciones y Outlook para enviar el correo electrónico.
+
+- [2830-outlook-calendar-agent.json](workflows/2830-outlook-calendar-agent.json)
+  Descripción: Este flujo utiliza un agente de inteligencia artificial para manejar consultas relacionadas con el calendario de Outlook. El usuario puede hacer preguntas sobre eventos calendarísticos y el agente, equipado con herramientas de Outlook, responderá apropiadamente.
+
+- [2831-rss_to_gsheet_cleaner.json](workflows/2831-rss_to_gsheet_cleaner.json)
+  Descripción: Este flujo automatiza la actualización y manejo de entradas RSS en Google Sheets. Primero, utiliza un temporizador para leer los enlaces desde una hoja de cálculo, luego extrae las noticias correspondientes y las procesa. Filtros eliminan entradas antiguas (más de 3 días) y las nuevas se guardan con un tiempo de espera para evitar bloqueos. Entradas viejas son eliminadas después de cierto tiempo.
+
+- [2832-gmail-to-drive-organizer.json](workflows/2832-gmail-to-drive-organizer.json)
+  Descripción: Este flujo automatiza la descarga de archivos adjuntos de Gmail, los organiza en carpetas específicas en Google Drive según el correo electrónico receptor y fecha, creando las carpetas necesarias si no existen.
+
+- [2833-icp_scoring_workflow.json](workflows/2833-icp_scoring_workflow.json)
+  Descripción: Este flujo automatiza la puntuación de ICP recolectando y procesando datos de perfiles de LinkedIn. Primero, utiliza Google Sheets para obtener información personal, luego extrae detalles del perfil de LinkedIn y calcula una puntuación ICP basada en intereses en AI, nivel técnico y seniority.
+
+- [2834-automated-instagram-posts.json](workflows/2834-automated-instagram-posts.json)
+  Descripción: Este flujo automático publica contenido en Instagram usando Google Drive para detectar subidas de archivo, OpenAI para generar captions y Facebook Graph API para publicación.
+
+- [2835-acuity-chatbot-search.json](workflows/2835-acuity-chatbot-search.json)
+  Descripción: Flujo que utiliza un chatbot para buscar información en la API de soporte de AcuityScheduling y formatear los resultados.
+
+- [2836-sms-course-assistant.json](workflows/2836-sms-course-assistant.json)
+  Descripción: Este flujo automatiza una asistente de SMS para Northvale Institute of Technology que utiliza OpenAI y Airtable para responder preguntas sobre cursos. Recibe mensajes vía Twilio, consulta la base de datos de cursos y envía respuestas mediante SMS.
+
+- [2837-linkedin-posts-generator.json](workflows/2837-linkedin-posts-generator.json)
+  Descripción: Este flujo automatiza la generación de mensajes LinkedIn promocionales para cada publicación de blog extraída de Ghost. Utiliza un agente AI para crear contenido atractivo y lo registra en una hoja de cálculo de Google.
+
+- [2838-retell-call-storage.json](workflows/2838-retell-call-storage.json)
+  Descripción: Este flujo procesa y almacena en diferentes herramientas como Airtable, Google Sheets y Notion los datos de las llamadas analizadas por Retell AI. Recibe un webhook cuando una llamada termina, filtra solo los eventos 'call_analyzed', extrae información relevante como el ID de la llamada, duración, costo y transcripción, y la guarda en Airtable, Google Sheets y Notion.
+
+- [2839-automaton-ics-calendario.json](workflows/2839-automaton-ics-calendario.json)
+  Descripción: Este flujo automatiza la extracción de fechas y eventos de un archivo Excel usando Cloudflare para convertirlo a formato legible, luego utiliza el modelo Gemini para extraer información estructurada y crea un calendario ICS para compartir via email.
+
+- [2840-google-drive-deduplicate.json](workflows/2840-google-drive-deduplicate.json)
+  Descripción: Este flujo automatiza la deduplicación de archivos en Google Drive. Identifica duplicados basándose en el checksum md5 y gestiona su eliminación o renombrado según las configuraciones de Keep (first/last) y Action (trash/flag).
+
+- [2841-export_google_keep_to_sheet.json](workflows/2841-export_google_keep_to_sheet.json)
+  Descripción: Este flujo automatiza la exportación de notas desde Google Keep alinear con un sistema de procesamiento y almacenamiento en Google Sheets. Busca archivos JSON en una carpeta específica de Google Drive, filtra aquellos que no estén archivados y contengan palabras clave como 'dépensé' o 'depense', descarga los archivos seleccionados, extrae su contenido y utiliza OpenAI para tratar la información antes de insertarla en una hoja de cálculo.
+
+- [2842-automated-purchase-order-processing.json](workflows/2842-automated-purchase-order-processing.json)
+  Descripción: Este flujo automatiza la importación y procesamiento de órdenes de compra desde Outlook. Convierte archivos XLSX a formato legible por LLMs, extrae detalles usando IA y realiza validaciones.
+
+- [2843-gdrive-audit.json](workflows/2843-gdrive-audit.json)
+  Descripción: Este flujo automatiza la auditoría de permisos en Google Drive, identificando archivos compartidos públicamente o con usuarios externos y generando un informe diario que se envía por correo electrónico.
+
+- [2844-actualizar_Tasas.json](workflows/2844-actualizar_Tasas.json)
+  Descripción: Este flujo automatiza la actualización diaria de tasas de cambio desde USD a múltiples divisas utilizando una API. Registra los datos en Google Sheets y mantiene un historial archivado.
+
+- [2845-linkedin-enrichment-icebreaker.json](workflows/2845-linkedin-enrichment-icebreaker.json)
+  Descripción: Este flujo automático en n8n permite extraer y enriquecer datos de perfiles de LinkedIn usando Bright Data, generar icebreakers personalizados con el modelo Claude de Anthropic y actualizar una hoja de Google Sheets con la información resultante.
+
+- [2846-news-email-digest.json](workflows/2846-news-email-digest.json)
+  Descripción: Flujo que recolecta, procesa y selecciona artículos de RSS de Calcalist y Mako para enviar un resumen diario formatiado por correo electrónico con los más relevantes para ejecutivos.
+
+- [2847-paulgraham-essays-milvus.json](workflows/2847-paulgraham-essays-milvus.json)
+  Descripción: Este flujo extrae los títulos de ensayos de Paul Graham, obtiene su contenido, los procesa y almacena en Milvus para luego responder preguntas sobre ellos.
+
+- [2848-linkedin-jobs-to-sheets.json](workflows/2848-linkedin-jobs-to-sheets.json)
+  Descripción: Este flujo automatiza la extracción de ofertas laborales de LinkedIn utilizando Bright Data, las limpia y las envía a una hoja de cálculo de Google Sheets. Incluye un formulario para definir filtros como ubicación, palabra clave y país, espera a que se procese la solicitud, luego envía los datos limpios a la planilla.
+
+- [2849-producthunt-to-sheets.json](workflows/2849-producthunt-to-sheets.json)
+  Descripción: Este flujo recoge y procesa información de Product Hunt cada día para actualizar una hoja de cálculo de Google Sheets con los datos básicos de los productos publicados.
+
+- [2850-nutrientes_dieta.json](workflows/2850-nutrientes_dieta.json)
+  Descripción: Este flujo procesa mensajes de Telegram para extraer nutrientes y macros de la dieta diaria. Si es un mensaje de voz, lo transcribe; luego estructura los datos y los almacena en Google Sheets.
+
+- [2851-job_scraping_openai.json](workflows/2851-job_scraping_openai.json)
+  Descripción: Este flujo automatiza la búsqueda de ofertas laborales en Indeed usando Bright Data y OpenAI para evaluar si cada cargo es adecuado. Inicia con un formulario que recoge ubicación, palabra clave y país, luego envía una solicitud a Bright Data, espera a que se procese el.snapshot, extrae los datos, y finalmente utiliza OpenAI para determinar si eres un buen candidato.
+
+- [2852-glassdoor-jobs-scraper.json](workflows/2852-glassdoor-jobs-scraper.json)
+  Descripción: Este flujo utiliza Bright Data para extraer ofertas laborales de Glassdoor basadas en ubicación, palabra clave y país, espera a que estén listas, las guarda en Google Sheets y luego genera pitches personalizados usando un LLM.
+
+- [2853-trustpilot-analysis.json](workflows/2853-trustpilot-analysis.json)
+  Descripción: Este flujo automatiza la extracción y análisis de reseñas negativas de competidores en Trustpilot usando Bright Data. El usuario ingresa una URL de Trustpilot y selecciona un período, luego el workflow envía una solicitud a Bright Data, espera hasta que los datos estén listos, filtra las reseñas negativas (1 o 2 estrellas), agrupa los comentarios y utiliza OpenAI para generar texto persuasivo basado en esas quejas. Finalmente, envía un resumen por correo electrónico.
+
+- [2854-finanzas-sync.json](workflows/2854-finanzas-sync.json)
+  Descripción: Este flujo automático genera informes financieros mensuales que comparan los datos presupuestales con los resultados reales para una unidad de negocio específica. Incluye el análisis detallado de las ventas, costos, márgenes, y un informe de empleados, utilizando inteligencia artificial para la interpretación.
+
+- [2855-cripto-market-summary.json](workflows/2855-cripto-market-summary.json)
+  Descripción: Este flujo automático obtiene los datos de precios de mercado de Binance para BTC, ETH y SOLUSDC a través de su API, analiza las fluctuaciones y envía un resumen detallado al canal de Telegram.
+
+- [2856-amazon_reviews_analysis.json](workflows/2856-amazon_reviews_analysis.json)
+  Descripción: Este flujo utiliza Bright Data para extraer y analizar opiniones de productos en Amazon. Configura un formulario para introducir URLs de productos, envía una solicitud HTTP para iniciar el análisis, espera a que se procese la información y luego almacena los datos en Google Sheets. Después, utiliza OpenAI para resumir las reseñas, genera imágenes creativas basadas en los resultados y envía estos creativos por correo electrónico.
+
+- [2857-filesystem-mcp-server.json](workflows/2857-filesystem-mcp-server.json)
+  Descripción: Flujo que implementa un servidor MCP para manejar operaciones de archivo como listar directorios, leer y crear archivos en un sistema de archivos a través de comandos controlados.
+
+- [2858-postgre-mcp-server.json](workflows/2858-postgre-mcp-server.json)
+  Descripción: Flujo que implementa una interfaz MCP para interactuar con PostgreSQL permitiendo operaciones CRUD seguras usando herramientas personalizadas.
+
+- [2859-sqlite-mcp-server.json](workflows/2859-sqlite-mcp-server.json)
+  Descripción: Flujo que implementa un servidor MCP de SQLite para realizar operaciones básicas en una base de datos local como lectura, inserción y actualización de registros, usando nodos personalizados para manejar las operaciones seguras.
+
+- [2860-gdrive-mcp-server.json](workflows/2860-gdrive-mcp-server.json)
+  Descripción: Este flujo configura un servidor MCP que interactúa con Google Drive para buscar y leer archivos, convirtiendo formatos binarios a texto. Utiliza OpenAI para analizar imágenes y transcribir audio.
+
+- [2861-github-mcp-server.json](workflows/2861-github-mcp-server.json)
+  Descripción: Este flujo configura un servidor MCP personalizado en n8n para interactuar con GitHub, permitiendo visualizar y comentar issues. Utiliza nodos personalizados para obtener los últimos problemas, comentarios de issues y agregar nuevos comentarios.
+
+- [2862-mcp-qdrant-reviews.json](workflows/2862-mcp-qdrant-reviews.json)
+  Descripción: Este flujo configura y administra una base de datos vectorial con Qdrant para realizar operaciones como insertar, buscar, comparar y recomendar revisiones de empresas. Utiliza MCP Server Trigger para manejar diferentes herramientas personalizadas y extiende la funcionalidad del servidor Qdrant con capacidades avanzadas.
+
+- [2863-youtube-mcp-server.json](workflows/2863-youtube-mcp-server.json)
+  Descripción: Este flujo configura un servidor MCP que utiliza herramientas externas para realizar búsquedas en YouTube, descargar transcripciones y monitorear métricas de uso con APIFY.com.
+
+- [2864-mcp-paycaptain-employees.json](workflows/2864-mcp-paycaptain-employees.json)
+  Descripción: Este flujo configura un servidor MCP que interactúa con la API de PayCaptain para permitir operaciones de búsqueda y actualización de empleados, protegiendo datos sensibles y logueando actividades en Google Sheets.
+
+- [2865-image_alt_text_generator.json](workflows/2865-image_alt_text_generator.json)
+  Descripción: Este flujo extrae las imágenes y su texto alternativo de una página web, genera texto alternativo si es necesario y actualiza una hoja de cálculo con los resultados.
+
+- [2866-legis-sostenibilidad.json](workflows/2866-legis-sostenibilidad.json)
+  Descripción: Este flujo automático extrae información de procedimientos legislativos relacionados con sostenibilidad de la página web del Parlamento Europeo, clasificando cada documento utilizando un agente de lenguaje OpenAI y almacenándolos en una hoja de Google Sheets.
+
+- [2867-telegram-voz-tareas.json](workflows/2867-telegram-voz-tareas.json)
+  Descripción: Este flujo utiliza Telegram para recibir mensajes de voz, descargar y transcribir audios con OpenAI, y gestionar tareas en Google Tasks a través de MCP Server.
+
+- [2868-sustentabilidad-news.json](workflows/2868-sustentabilidad-news.json)
+  Descripción: Este flujo automático extrae y clasifica las noticias de la UE, identificando si están relacionadas con la sostenibilidad, y envía un resumen por correo electrónico.
+
+- [2869-automail_manager.json](workflows/2869-automail_manager.json)
+  Descripción: Este flujo automatiza la gestión de correo electrónico utilizando OpenRouter y Telegram. Recupera mensajes no leídos de Gmail, los categoriza con ayuda de Chat Model, y envía notificaciones por Telegram.
+
+- [2870-paypal-payment-email.json](workflows/2870-paypal-payment-email.json)
+  Descripción: Este flujo recoge datos de un webhook de PayPal, filtra eventos de pago completados, extrae detalles del orden, captura información del comprador y del producto, genera un correo electrónico con los datos formateados y adjunta un archivo JSON.
+
+- [2871-image-processing.json](workflows/2871-image-processing.json)
+  Descripción: Este flujo automático descarga imágenes de URLs, las analiza para crear un prompt de fotografía de producto y genera una nueva imagen con OpenAI antes de almacenarla en Google Drive y actualizar una tabla.
+
+- [2872-flujo_conversaciones.json](workflows/2872-flujo_conversaciones.json)
+  Descripción: Este flujo automatiza la gestión de conversaciones con clientes mediante HubSpot y LangChain. Permite buscar IDs de clientes, resumir conversaciones, enrutar feedback a departamentos específicos y enviar correos electrónicos usando Gmail.
+
+- [2873-google-drive-folder-creator.json](workflows/2873-google-drive-folder-creator.json)
+  Descripción: Este flujo crea una estructura jerárquica en Google Drive a partir de un path dado y devuelve el ID del último folder creado.
+
+- [2875-email-process-hubspot.json](workflows/2875-email-process-hubspot.json)
+  Descripción: Este flujo automático procesa un correo electrónico recibido, extrae información relevante con IA, verifica si existe un contacto en HubSpot y crea una nueva entrada o actualiza el registro existente.
+
+- [2876-workflow_mcp_manager.json](workflows/2876-workflow_mcp_manager.json)
+  Descripción: Este flujo gestiona dinámicamente una lista de workflows disponibles mediante Redis y n8n, permitiendo operaciones como agregar, eliminar y listar workflows. Utiliza un agente de lenguaje para ejecutar tareas basadas en estos workflows.
+
+- [2877-import-hubspot.json](workflows/2877-import-hubspot.json)
+  Descripción: Este flujo importa datos desde un archivo CSV a HubSpot. Primero, valida los campos del archivo contra una lista de propiedades existentes en HubSpot. Si hay discrepancias, muestra un formulario para asignar campos correspondientes. Luego procesa los datos y los exporta a Google Sheets.
+
+- [2878-n8n-backup-workflows.json](workflows/2878-n8n-backup-workflows.json)
+  Descripción: Este flujo automatiza la copia de seguridad diaria de los workflows de n8n en Google Drive. Busca y procesa todos los workflows, y si no hay un archivo existente, crea uno nuevo; si ya existe, lo actualiza con la nueva información.
+
+- [2879-stock-analysis-bot.json](workflows/2879-stock-analysis-bot.json)
+  Descripción: Este flujo automático realiza un análisis detallado de acciones combinando análisis técnico y sentimiento de noticias. Utiliza varias APIs para obtener datos técnicos (gráficos, indicadores) y analítica de sentimiento, luego los procesa con GPT-4 para generar un informe estructurado en formato HTML en hebreo, que se envía por correo electrónico.
+
+- [2880-calendario_openai_report.json](workflows/2880-calendario_openai_report.json)
+  Descripción: Este flujo automatiza la investigación de asistentes y empresas utilizando API de OpenAI, recolecta información de calendario Google y envía un informe detallado por correo electrónico.
+
+- [2881-hotel-reservation-confirmation.json](workflows/2881-hotel-reservation-confirmation.json)
+  Descripción: Este flujo maneja una reserva hotelera mediante un webhook de Retell, confirma la reserva y envía una respuesta al usuario.
+
+- [2882-contact_discovery.json](workflows/2882-contact_discovery.json)
+  Descripción: Este flujo automatiza la descubierta de tomadores de decisiones en empresas utilizando Google Sheets y Apollo.io. Extrae información de empresas, encuentra contactos clave, realiza una verificación humana a través de Slack y enrriquece los datos con APIs para luego actualizar una base de contactos verificados.
+
+- [2883-chatbot-interactivo.json](workflows/2883-chatbot-interactivo.json)
+  Descripción: Este flujo gestiona la interacción de un chatbot, almacenando mensajes en Redis y usando OpenAI para extraer información. Espera una cantidad de tiempo variable basada en el conteo de palabras antes de procesar los mensajes.
+
+- [2884-instagram-post-automation.json](workflows/2884-instagram-post-automation.json)
+  Descripción: Automatiza la creación de publicaciones en Instagram mediante Google Sheets y herramientas AI. Incluye desde la generación de conceptos de contenido hasta la publicación final.
+
+- [2885-reddit-business-opportunities.json](workflows/2885-reddit-business-opportunities.json)
+  Descripción: Este flujo automatiza la extracción y análisis de publicaciones de Reddit relevantes para oportunidades empresariales, aplicando filtros y generando resúmenes con LLM.
+
+- [2886-jira-ticket-automatizacion.json](workflows/2886-jira-ticket-automatizacion.json)
+  Descripción: Este flujo automático utiliza JIRA y OpenAI para triage, priorizar y resolver incidentes de soporte. Busca tiquetes abiertos, los procesa con AI para etiquetar y reescribir, luego busca resoluciones similares en la historia para sugerir comentarios basados en ellos.
+
+- [2887-ai-language-tools.json](workflows/2887-ai-language-tools.json)
+  Descripción: Este flujo incluye una variedad de nodos relacionados con agentes de lenguaje y herramientas de IA, como transformadores de lenguaje, cadenas de encadenamiento, extraedores de información, analizadores de sentimiento, herramientas de vectores y memoria. También contiene conexiones con servicios externos como Google Sheets, Dropbox, Gmail, Twitter y más.
+
+- [2888-automatizacion-ticket.json](workflows/2888-automatizacion-ticket.json)
+  Descripción: Este flujo automatiza la generación y triaje de tickets.watch para esto, utiliza Gmail para extraer mensajes de soporte, OpenAI para triajear y etiquetar cada ticket, y Linear.app para crear un.issue basado en los resultados.ai
+
+- [2889-linkedin-monitor.json](workflows/2889-linkedin-monitor.json)
+  Descripción: Este flujo automatiza la monitoreo de perfiles en LinkedIn y actualiza una hoja de cálculo Google Sheets con información de clientes. Obtiene listas de propietarios de HubSpot, busca perfiles en LinkedIn, compara datos y envía notificaciones por correo electrónico si hay cambios.
+
+- [2890-email_bot_transcripciones.json](workflows/2890-email_bot_transcripciones.json)
+  Descripción: Este flujo automático procesa emails nuevos, utiliza OpenAI para determinar si necesitan respuesta y transcribe audios de Telegram para generar respuestas formateadas en Gmail.
+
+- [2891-flujo_whatsapp_klicktipp.json](workflows/2891-flujo_whatsapp_klicktipp.json)
+  Descripción: Este flujo automatiza la entrega de mensajes personalizados en WhatsApp a partir de KlickTipp y procesa respuestas de los usuarios para controlar campañas. Detecta si el mensaje comienza con 'STOP' para re direccionar hacia soporte o suscribir al contacto.
+
+- [2892-resto-order-processor.json](workflows/2892-resto-order-processor.json)
+  Descripción: Flujo automatizado para procesar pedidos en restaurantes. Extrae información de los pedidos mediante un agente de chat y herramientas de IA, separa los items, cantidad y número de mesa, confirma la orden y registra en una hoja de Google Sheets.
+
+- [2893-imagen-style-transfer.json](workflows/2893-imagen-style-transfer.json)
+  Descripción: Este flujo genera imágenes basadas en un estilo de imagen fuente utilizando Google Imagen 3.0 y Gemini 2.0 para describir el estilo. Los usuarios proporcionan una URL de imagen fuente y un prompt de imagen objetivo a través de un formulario, luego se valida la entrada y se descarga la imagen fuente. La imagen se analiza con Gemini 2.0 para obtener una descripción detallada del estilo visual, que se combina con el prompt del usuario para generar nuevas imágenes con Imagen 3.0. Las imágenes generadas se suben a Cloudinary y se envían al correo electrónico si el usuario lo especifica.
+
+- [2894-onboarding-clientes.json](workflows/2894-onboarding-clientes.json)
+  Descripción: Este flujo automatiza el onboarding de nuevos clientes enviando un correo de bienvenida y agendando una llamada con un asesor de cuenta asignado.
+
+- [2896-secure-webhook-validator.json](workflows/2896-secure-webhook-validator.json)
+  Descripción: Este flujo implementa un webhook seguro con autenticación y validación de campos requeridos. Verifica el token de autorización y los campos obligatorios en la solicitud, respondiendo con códigos HTTP apropiados (401 si falla la autenticación o 400 si faltan campos) y devolviendo una respuesta JSON exitosa.
+
+- [2897-team-weekly-report.json](workflows/2897-team-weekly-report.json)
+  Descripción: Este flujo automático recopila los mensajes de un canal de Microsoft Teams, Agrupa y resume la actividad de cada miembro del equipo utilizando OpenAI para generar informes personalizados, y publica un resumen semanal en el canal.
+
+- [2898-whatsapp-flow-encrypt.json](workflows/2898-whatsapp-flow-encrypt.json)
+  Descripción: Flujo que maneja la decodificación y encriptación híbrida de datos mediante RSA y AES-GCM para procesar interacciones seguras con usuarios a través de Whatsapp Flow.
+
+- [2899-prevent-concurrent-workflows.json](workflows/2899-prevent-concurrent-workflows.json)
+  Descripción: Este flujo utiliza Redis para prevenir la ejecución concurrente de workflows. Almacena estados en Redis y verifica si un proceso ya está en curso antes de continuar.
+
+- [2900-inventario-materiales.json](workflows/2900-inventario-materiales.json)
+  Descripción: Este flujo automático gestiona la solicitud de materiales, desde la recepción hasta su aprobación y actualización en库存, incluyendo notificaciones de stock bajo. Integra Google Sheets y Supabase para mantener el seguimiento preciso del inventario.
+
+- [2901-error_alert_summarizer.json](workflows/2901-error_alert_summarizer.json)
+  Descripción: Este flujo automático detecta errores en ejecuciones n8n y genera alertas de correo electrónico con diagnóstico y resolución.
+
+- [2902-financial-tracker-bot.json](workflows/2902-financial-tracker-bot.json)
+  Descripción: Este flujo automatiza el seguimiento financiero al recibir facturas por Telegram, extraer datos con Google Gemini, estructurarlos en Notion y generar reportes visuales.
+
+- [2903-extraer_y_decodificar_noticias_google.json](workflows/2903-extraer_y_decodificar_noticias_google.json)
+  Descripción: Este flujo extrae y decodifica URLs de noticias de Google News a partir de su feed RSS, limpiando los enlaces para obtener artículos claros y accesibles.
+
+- [2904-ai-ready-vector-datasets.json](workflows/2904-ai-ready-vector-datasets.json)
+  Descripción: Este flujo crea conjuntos de datos vectoriales listos para LLMs usando Bright Data, Gemini y Pinecone. Realiza extracción de información, formateo estructurado y persistencia en una base de vectores.
+
+- [2905-analyze-email-headers.json](workflows/2905-analyze-email-headers.json)
+  Descripción: Este flujo analiza cabeceras de correo electrónico para detectar direcciones IP y fraude. Extrae IPs de las cabeceras 'received' y consulta su reputación mediante la API IP Quality Score, también verifica autenticación SPF, DKIM y DMARC.
+
+- [2906-workflow-obsidian-markdown.json](workflows/2906-workflow-obsidian-markdown.json)
+  Descripción: Este flujo automatiza la creación de notas en formato Markdown en tu Obsidian Vault mediante Google Drive. Recibe resultados de workflows, procesa información para generar contenido estructurado con YAML frontmatter y almacena los archivos en Google Drive.
+
+- [2907-automated_churn_management.json](workflows/2907-automated_churn_management.json)
+  Descripción: Automatiza la detección y manejo de riesgo de churn diario, generando ofertas personalizadas para clientes con alto riesgo de abandono.
+
+- [2908-llm_chaining.json](workflows/2908-llm_chaining.json)
+  Descripción: Este flujo utiliza cadenas de LLM para realizar tareas secuenciales y paralelas con diferentes modelos de inteligencia artificial, incluyendo la obtención de datos de una página web, el análisis con prompts específicos y la combinación de resultados.
+
+- [2909-workflow_management.json](workflows/2909-workflow_management.json)
+  Descripción: Este flujo automático gestiona y sincroniza Workflows de n8n con Airtable y Dropbox. Recupera detalles de Workflows, prepara datos, maneja cron jobs y actualiza o agrega nuevos registros en Airtable.
+
+- [2910-import_odoo_product_images.json](workflows/2910-import_odoo_product_images.json)
+  Descripción: Este flujo importa imágenes de productos desde Google Drive a Odoo, filtrando y actualizando las mismas en base al modelo y SKU. Mantiene un sistema para mover archivos procesados y notificar el total descargado.
+
+- [2911-manejador_comentarios_ig.json](workflows/2911-manejador_comentarios_ig.json)
+  Descripción: Este flujo automático gestiona los comentarios en Instagram de manera autónoma. Recibe notificaciones de webhooks, valida el origen, extrae datos y utiliza un agente de IA para responder adecuadamente.
+
+- [2912-youtube-ai-summarizer.json](workflows/2912-youtube-ai-summarizer.json)
+  Descripción: Este flujo automatiza la sumailla y análisis de playlists o vídeos de YouTube mediante IA. Detecta URLs, procesa transcripciones, genera resúmenes estructurados y almacena embeddings para respuestas contextualizadas.
+
+- [2914-openai-file-citation.json](workflows/2914-openai-file-citation.json)
+  Descripción: Este flujo extrae y formatea citas de archivos almacenados en OpenAI a partir de un hilo de conversación, asegurando que las referencias se muestren correctamente con nombres de archivo.
+
+- [2915-mcp-google-calendar.json](workflows/2915-mcp-google-calendar.json)
+  Descripción: Este flujo configura un servidor MCP integrado con Google Calendar para realizar operaciones de calendario como crear, actualizar y eliminar eventos mediante herramientas específicas.
+
+- [2916-telegram-rag-pdf.json](workflows/2916-telegram-rag-pdf.json)
+  Descripción: Este flujo automático procesa un documento PDF enviado por Telegram, lo carga en Pinecone para realizar búsquedas de preguntas y respuestas con inteligencia artificial.
+
+- [2917-youtube-to-airtable.json](workflows/2917-youtube-to-airtable.json)
+  Descripción: Este flujo automatiza la extracción de transcripciones de vídeos de YouTube y genera resúmenes detallados que se guardan en Airtable.
+
+- [2918-generador_csv_usuarios.json](workflows/2918-generador_csv_usuarios.json)
+  Descripción: Este flujo genera y procesa datos aleatorios de usuarios ficticios en formato CSV utilizando GPT-4. Crea una lista de usuarios con nombres, correos electrónicos, estado de suscripción y fecha de suscripción, los cuales son divididos en lotes y guardados como archivos CSV.
+
+- [2919-gestor_consultas_medicas.json](workflows/2919-gestor_consultas_medicas.json)
+  Descripción: Este flujo gestiona tareas de reagendamiento de consultas médicas y envía recordatorios a través de WhatsApp y Telegram utilizando Google Calendar y Tasks, integrando herramientas como OpenAI para procesar texto y mensajes.
+
+- [2920-flujo-extraccion-apuestas.json](workflows/2920-flujo-extraccion-apuestas.json)
+  Descripción: Este flujo automático programa la extracción de datos de apuestas deportivas utilizando TheOddsAPI y Airtable. Realiza capturas diarias al inicio y fin del día para eventos futuros y resultados, respectivamente, y actualiza los registros en Airtable con información detallada.
+
+- [2921-ai-agent-charts-generator.json](workflows/2921-ai-agent-charts-generator.json)
+  Descripción: Este flujo permite a un agente de inteligencia artificial generar gráficos personalizados en conversaciones usando OpenAI Structured Output para definir configuraciones de gráficos Chart.js y Quickchart.io.
+
+- [2922-n8n_creator_leaderboard_report.json](workflows/2922-n8n_creator_leaderboard_report.json)
+  Descripción: Este flujo automático genera informes detallados sobre los creadores y flujos de trabajo en n8n. Utiliza herramientas como OpenAI GPT-4 y Google Gemini para analizar y sintetizar datos, y luego envía los resultados a Google Drive o Telegram.
+
+- [2923-dashboard-metricas.json](workflows/2923-dashboard-metricas.json)
+  Descripción: Este flujo automatiza la actualización de un dashboard que recopila y muestra estadísticas y métricas desde diversas fuentes como Docker, npm, GitHub y Product Hunt. Utiliza Cron para programar ejecuciones periódicas, extrae datos mediante HTTP requests, procesa y formatea los resultados, y actualiza_WIDGETS en un host dashboard con autenticación.
+
+- [2924-hacker_news_video_creator.json](workflows/2924-hacker_news_video_creator.json)
+  Descripción: Este flujo automatiza la creación de videos a partir de noticias de Hacker News. Recoge los artículos, los analiza para determinar su relevancia, genera imágenes con Leonardo AI y RunwayML, y crea un video con Creatomate.
+
+- [2925-google-drive-rag-index.json](workflows/2925-google-drive-rag-index.json)
+  Descripción: Flujo que indexa documentos de Google Drive en Pinecone usando embeddings de Gemini para permitir búsquedas semánticas y asistente de chat con memoria.
+
+- [2926-google-sheets-to-postgres.json](workflows/2926-google-sheets-to-postgres.json)
+  Descripción: Este flujo automatiza la importación de datos desde Google Sheets a PostgreSQL. Analiza dinámicamente los datos para detectar tipos y generar esquemas SQL, crea tablas si no existen y realiza inserciones con formato adecuado.
+
+- [2927-convert-squarespace-to-shopify.json](workflows/2927-convert-squarespace-to-shopify.json)
+  Descripción: Este flujo automático convierte perfiles de Squarespace a clientes en Shopify utilizando Google Sheets. Extrae datos desde una hoja de cálculo de Squarespace, procesa y actualiza información en Shopify.
+
+- [2928-sitemap-index-automatizado.json](workflows/2928-sitemap-index-automatizado.json)
+  Descripción: Este flujo automatiza la indexación de URLs en Google Search Console usando sitemap.xml. Extrae URLs de los archivos sitemap, verifica su estado y actualiza las que han sido modificadas o no están indexadas.
+
+- [2929-support-sales-flow.json](workflows/2929-support-sales-flow.json)
+  Descripción: Este flujo implementa un sistema de soporte al cliente y ventas que utiliza inteligencia artificial para gestionar pedidos, actualizar stock y mantener conversaciones con los usuarios. El chatbot puede verificar el stock, realizar pedidos y actualizar la disponibilidad en Google Sheets.
+
+- [2930-exam-question-generator.json](workflows/2930-exam-question-generator.json)
+  Descripción: Flujo para generar preguntas de examen tanto abiertas como cerradas a partir de contenido en Google Docs usando vectores Qdrant y diferentes modelos de lenguaje.
+
+- [2931-linkedin-leads-enrichment.json](workflows/2931-linkedin-leads-enrichment.json)
+  Descripción: Flujo automatizado para extraer y enriquecer datos de leads de LinkedIn usando Apollo.io y RapidAPI, con manejo de bases de datos en Google Sheets. Incluye la obtención de perfiles, correo electrónico, validación, resumen de posts y actualización del estado.
+
+- [2932-bluesky-threads.json](workflows/2932-bluesky-threads.json)
+  Descripción: Este flujo crea hilos en Bluesky usando autenticación y solicitudes HTTP para publicar posts iniciales y respuestas anidadas con un esquema de espera y bucle.
+
+- [2933-monitoreo_precios.json](workflows/2933-monitoreo_precios.json)
+  Descripción: Este flujo automatiza la monitoreo de precios en diferentes sitios web. Extrae los precios de productos específicos utilizando selección por CSS, actualiza los datos guardados y envía notificaciones si hay una disminución de precio.
+
+- [2936-api_schema_extractor.json](workflows/2936-api_schema_extractor.json)
+  Descripción: Extrae esquemas de API identificando y procesando documentación técnica en línea para generar un esquema personalizado.
+
+- [2937-tiktok-youtube-generator.json](workflows/2937-tiktok-youtube-generator.json)
+  Descripción: Este flujo automático genera contenido multimedia para TikTok y YouTube Shorts/Reels de manera automatizada utilizando APIs como PiAPI para imágenes y videos, ElevenLabs para voces, Google Drive para almacenamiento y OpenAI para texto. Incluye capturas de ideas, generación de imágenes, conversión a video, adición de audio, mezcla de elementos y notificación al final.
+
+- [2938-auth0-login-flow.json](workflows/2938-auth0-login-flow.json)
+  Descripción: Este flujo implementa un sistema de autenticación OAuth2 con Auth0, que inicia una sesión del usuario redirigiéndolo a una página de login, obtiene el código de autorización y luego solicita el token de acceso para verificar la identidad del usuario.
+
+- [2940-dmarc-processing-flow.json](workflows/2940-dmarc-processing-flow.json)
+  Descripción: Este flujo automático procesa informes DMARC recibidos por correo electrónico, extrae y formatea los datos relevantes, y los inserta en una base de datos MySQL. Si hay fallos en DKIM o SPF, envía notificaciones a Slack y correo electrónico.
+
+- [2941-blog-automation.json](workflows/2941-blog-automation.json)
+  Descripción: Este flujo automatiza la creación y publicación de artículos en un blog usando Google Sheets como origen de datos. Configura parámetros, recupera información de hojas de cálculo, procesa prompts personalizados con OpenAI, genera contenido, valida fechas y statuses, y actualiza el estado en tiempo real.
+
+- [2942-categorizador-ai-outlook.json](workflows/2942-categorizador-ai-outlook.json)
+  Descripción: Este flujo categoriza automáticamente los correos electrónicos de Outlook usando IA para clasificarlos en diferentes carpetas basadas en su contenido.
+
+- [2943-auto-label-gmail.json](workflows/2943-auto-label-gmail.json)
+  Descripción: Este flujo automatiza la asignación de etiquetas a mensajes nuevos en Gmail utilizando inteligencia artificial. Recoge los correos, los procesa con un modelo de lenguaje para determinar las etiquetas adecuadas y luego las aplica.
+
+- [2944-auto-tag-wordpress.json](workflows/2944-auto-tag-wordpress.json)
+  Descripción: Automatiza la asignación de etiquetas a publicaciones de WordPress utilizando IA para analizar contenido y administrar tags existentes o crear nuevos.
+
+- [2945-automate-blog-ai.json](workflows/2945-automate-blog-ai.json)
+  Descripción: Este flujo automatiza la creación de artículos de blog en voz de marca usando AI. Analiza contenido existente para extraer características de estilo y tono, luego genera nuevos artículos consistentes con ellos.
+
+- [2946-automate-content-generator-wordpress.json](workflows/2946-automate-content-generator-wordpress.json)
+  Descripción: Este flujo automático genera contenido para WordPress usando DeepSeek R1, incluyendo artículos y títulos SEO-friendlys, crea imágenes con DALL-E, las sube y actualiza una hoja de cálculo de Google Sheets.
+
+- [2947-automate-support-issues.json](workflows/2947-automate-support-issues.json)
+  Descripción: Este flujo automático gestiona la resolución de problemas de soporte utilizando IA para clasificar y resolver incidencias en Jira. Analiza los comentarios, utiliza agentes de conocimiento, y notifica por Slack si es necesario.
+
+- [2948-pinterest-analysis-ai.json](workflows/2948-pinterest-analysis-ai.json)
+  Descripción: Este flujo automático extrae y analiza datos de Pinterest usando su API, almacena la información en Airtable, luego utiliza OpenAI para generar recomendaciones de contenido y envía un resumen a Gmail.
+
+- [2949-automate-sales-meeting-prep.json](workflows/2949-automate-sales-meeting-prep.json)
+  Descripción: Este flujo automático programa reuniones y envía notificaciones con información relevante a través de WhatsApp utilizando inteligencia artificial para resumir correos electrónicos y perfiles de LinkedIn.
+
+- [2950-automate-siem-enrichment-mitre.json](workflows/2950-automate-siem-enrichment-mitre.json)
+  Descripción: Este flujo automatiza la enriquecimiento de alertas de SIEM mediante el marco MITRE ATT&CK, usando Qdrant como vector store y Zendesk para actualizar incidentes con información contextualizada.
+
+- [2951-automate-rfp-openai.json](workflows/2951-automate-rfp-openai.json)
+  Descripción: Automatiza el proceso de RFP mediante la integración con OpenAI para extraer preguntas, generar respuestas y notificar vía Slack y correo electrónico.
+
+- [2952-crawler-ai-scraper.json](workflows/2952-crawler-ai-scraper.json)
+  Descripción: Flujo que utiliza agentes de IA para extraer enlaces de redes sociales de sitios web autonomamente.
+
+- [2953-influxdb-docker-deploy.json](workflows/2953-influxdb-docker-deploy.json)
+  Descripción: Este flujo automático implementa y gestiona un contenedor de InfluxDB en Docker para una aplicación relacionada con WHMCS/WISECP, admitiendo operaciones como despliegue, arranque, parada, suspensión, montaje y control de disco.
+
+- [2954-financial-documents-assistant.json](workflows/2954-financial-documents-assistant.json)
+  Descripción: Este flujo monitorea un directorio local para documentos financieros y sincroniza los cambios con Qdrant usando Mistral.ai para crear un asistente de preguntas y respuestas.
+
+- [2955-auto-content-generator.json](workflows/2955-auto-content-generator.json)
+  Descripción: Este flujo automatiza la creación de contenido multimedia basado en datos de Google Sheets. Genera imágenes y videos cinemáticos con textos promocionales, agrega sonidos ambientales, y publica el resultado en YouTube.
+
+- [2956-nextcloud-docker-flow.json](workflows/2956-nextcloud-docker-flow.json)
+  Descripción: Este flujo configura y gestiona entornos Docker para NextCloud utilizando n8n, incluyendo acciones como iniciar, detener, suspender, desususpender, montar/desmontar discos, actualizar paquetes y más. También administra conexiones DNS y verifica la validez del dominio.
+
+- [2957-oaut-service-config.json](workflows/2957-oaut-service-config.json)
+  Descripción: Este flujo utiliza un modelo de lenguaje para identificar configuraciones OAuth2 a partir de un nombre de servicio. El proceso incluye la generación de URIs de autorización y token con una puntuación de confianza.
+
+- [2958-formulario-datos.json](workflows/2958-formulario-datos.json)
+  Descripción: Este flujo automático registra los datos de un formulario en Google Sheets y Airtable, extrae la fecha y hora de la submission, y envía correos electrónicos personalizados.
+
+- [2959-centroid_calculator.json](workflows/2959-centroid_calculator.json)
+  Descripción: Este flujo calcula el centroide de un conjunto de vectores. Recibe una solicitud GET con un array de vectores, valida que sean consistentes y calcula su centroid.
+
+- [2960-video_analyzer_youtube.json](workflows/2960-video_analyzer_youtube.json)
+  Descripción: Este flujo utiliza diferentes modelos de lenguaje para analizar un video de YouTube a través de su transcripción, estructurando el análisis en formato JSON y envía los resultados por correo electrónico.
+
+- [2961-anomaly-crops-detection.json](workflows/2961-anomaly-crops-detection.json)
+  Descripción: Este flujo utiliza embeddings de imágenes y clustering para detectar anomalias en cultivos. Recibe una URL de imagen, la convierte en un vector con el modelo de Voyage.ai, consulta contra vectores almacenados en Qdrant y determina si es similar a algún cultivo conocido o detecta anomalías.
+
+- [2962-telegram-links-sync.json](workflows/2962-telegram-links-sync.json)
+  Descripción: Este flujo automatiza la sincronización de enlaces entre un canal de Telegram y dos servicios: Readeck y Hoarder. Primero, utiliza una API de Telegram para recuperar los mensajes del canal especificado. Luego, filtra y procesa los enlaces no guardados en cada servicio, realizando peticiones POST para almacenar aquellos que aún no han sido agregados.
+
+- [2963-spotify-sync-playlist.json](workflows/2963-spotify-sync-playlist.json)
+  Descripción: Este flujo sincroniza las canciones marcadas como favoritas en Spotify con una lista de reproducción específica. Automáticamente agrega nuevas canciones que estén en tus gustados pero no en la playlist y elimina aquellas que hayan sido eliminadas de tus gustados.
+
+- [2964-image_generator_9_16.json](workflows/2964-image_generator_9_16.json)
+  Descripción: Este flujo genera imágenes de aspecto 9:16 a partir de contenido y guías de marca utilizando OpenAI y Leonardo.ai para crear activos visuales optimizados.
+
+- [2965-instagram-content-generator.json](workflows/2965-instagram-content-generator.json)
+  Descripción: Este flujo automatiza la creación de contenido para Instagram usando tendencias del momento y generación de imágenes con IA. Descarga contenido popular de Instagram a través de una API, analiza las imágenes con GPT-4, crea captions atractivas y genera nuevas imágenes con Flux AI. Publica el contenido en tu cuenta de Instagram empresarial y monitorea el estado de las publicaciones.
+
+- [2966-generar-palabras-clave-seo.json](workflows/2966-generar-palabras-clave-seo.json)
+  Descripción: Este flujo genera frases clave SEO iniciales usando IA basándose en el perfil de cliente ideal.
+
+- [2967-sql-agent-scheme.json](workflows/2967-sql-agent-scheme.json)
+  Descripción: Flujo que utiliza un agente de IA para generar consultas SQL basadas en esquema de base de datos guardando la estructura localmente y usando OpenAI para formular sentencias SQL.
+
+- [2968-image-embedder.json](workflows/2968-image-embedder.json)
+  Descripción: Este flujo automatiza la creación de embeddings de imágenes mediante resumen textual. Descarga una imagen desde Google Drive, extrae información de colores y genera palabras clave usando OpenAI, luego combina estos datos para crear un documento que se almacena en un vector store.
+
+- [2969-chatbot_line.json](workflows/2969-chatbot_line.json)
+  Descripción: Este flujo de trabajo configura un chatbot en LINE que muestra una animación de cargando al recibir un mensaje y utiliza un agente de IA con CBT para responder a los usuarios. Si el mensaje no es texto, envía un aviso.
+
+- [2970-autoclip-video-generator.json](workflows/2970-autoclip-video-generator.json)
+  Descripción: Este flujo automático genera clips de video seleccionando aleatoriamente entre vídeos y música de Google Drive, yuxtapone citas y luego los sube a YouTube.
+
+- [2971-youtube-automatic-metadata-uploader.json](workflows/2971-youtube-automatic-metadata-uploader.json)
+  Descripción: Flujo para subir videos a YouTube con metadata optimizada automaticamente usando transcripciones e IA.
+
+- [2972-youtube-ai-agent.json](workflows/2972-youtube-ai-agent.json)
+  Descripción: Este flujo automatiza la extracción de detalles y transcripciones de videos de YouTube, los cuales son procesados por un agente de inteligencia artificial para permitir una conversación contextualizada y análisis detallado del contenido.
+
+- [2973-pinterest-analysis-ai-suggestions.json](workflows/2973-pinterest-analysis-ai-suggestions.json)
+  Descripción: Este flujo automático extrae y analiza datos de Pinterest Organic utilizando la API, almacena los resultados en Airtable y genera recomendaciones de contenido con inteligencia artificial para marketing.
+
+- [2974-mcp_calendar_operations.json](workflows/2974-mcp_calendar_operations.json)
+  Descripción: Este flujo maneja operaciones de calendario de Google como obtener eventos, verificar disponibilidad, actualizar y eliminar eventos.
+
+- [2975-conversion-rate-optimizer.json](workflows/2975-conversion-rate-optimizer.json)
+  Descripción: Este flujo automatiza la optimización de tasa de conversión analizando una página de aterrizaje mediante el scraping y utilizando un agente de IA para realizar un análisis crítico y proponer mejoras específicas.
+
+- [2976-ai-research-jina.json](workflows/2976-ai-research-jina.json)
+  Descripción: Este flujo automático utiliza la API de DeepSearch de Jina AI para realizar búsquedas y análisis en profundidad, formatear y limpiar las respuestas generadas por el modelo de IA.
+
+- [2978-linkedin-empresa-score.json](workflows/2978-linkedin-empresa-score.json)
+  Descripción: Este flujo automatiza la búsqueda de empresas en LinkedIn mediante la API de Ghost Genius, procesa sus datos, evalúa su fitness con un modelo de IA y los registra en una hoja de cálculo de Google Sheets. Primero, obtiene información detallada de cada empresa, filtra aquellas con más de 200 seguidores y una.website, luego verifica si ya existen en el CRM. Si son nuevas, las puntuación con IA y finalmente las agrega al CRM con su score y detalles relevantes.
+
+- [2979-multi_methods_airtable.json](workflows/2979-multi_methods_airtable.json)
+  Descripción: Este flujo maneja diferentes métodos HTTP para interactuar con una API de Airtable, realizando operaciones como crear, obtener todo, obtener un registro por ID, actualizar y eliminar registros.
+
+- [2980-reddit-pr-report.json](workflows/2980-reddit-pr-report.json)
+  Descripción: Este flujo automatiza la identificación de historias trending mediante el análisis de discusiones en Reddit y su posterior análisis con LLM para generar informes estratégicos de PR.
+
+- [2981-instagram_content_generator.json](workflows/2981-instagram_content_generator.json)
+  Descripción: Este flujo automatiza la creación de contenido para Instagram basado en las tendencias más populares, utilizando IA para generar imágenes y publicarlas. Realiza scraping de tendencias específicas como #blender3d e isometric, filtra el contenido por imágenes, analiza las imágenes con GPT-4 y OpenAI, genera captions atractivas, crea imágenes nuevas con Flux AI, y verifica si el contenido ya existe en una base de datos para evitar duplicaciones. Publica en Instagram y envía notificaciones al canal de Telegram.
+
+- [2982-amazon-best-seller-electronic-extractor.json](workflows/2982-amazon-best-seller-electronic-extractor.json)
+  Descripción: Este flujo extrae información de los mejores vendedores de Amazon en la categoría de electrónica utilizando Bright Data y Google Gemini para una extracción estructurada de datos.
+
+- [2983-hacker-news-jobs-scraper.json](workflows/2983-hacker-news-jobs-scraper.json)
+  Descripción: Este flujo extrae y procesa información de ofertas laborales publicadas en Hacker News utilizando su API y_algolia, estructura los datos con OpenAI y los exporta a Airtable.
+
+- [2984-hn-throwback-analyzer.json](workflows/2984-hn-throwback-analyzer.json)
+  Descripción: Este flujo recopila y analiza los titulares de la portada de Hacker News para una fecha específica en años pasados, utilizando un modelo LLM para categorizarlos temáticamente y enviar el resultado a Telegram.
+
+- [2985-hacker_news_video_content.json](workflows/2985-hacker_news_video_content.json)
+  Descripción: Este flujo automatiza la conversión de artículos de Hacker News a contenido en vídeo usando.RunwayML y LeonardoAI para generar imágenes y vídeos personalizados.
+
+- [2986-appointment-leads-follow-up.json](workflows/2986-appointment-leads-follow-up.json)
+  Descripción: Este flujo automático gestiona citas y seguimientos de leads utilizando Twilio para SMS, Cal.com para programación de citas y OpenAI para interacciones con el cliente. Detecta comandos como STOP para detener mensajes, actualiza Airtable con datos de seguimiento y envía recordatorios.
+
+- [2987-gestion-solicitudes-AI.json](workflows/2987-gestion-solicitudes-AI.json)
+  Descripción: Flujo que automatiza la gestión de solicitudes de empleo usando formularios y herramientas de inteligencia artificial para extraer información, clasificar documentos y almacenar datos en Airtable.
+
+- [2988-line-bot-flow.json](workflows/2988-line-bot-flow.json)
+  Descripción: Este flujo procesa mensajes de LINE, incluyendo textos, imágenes y namecards, para almacenar en Microsoft To Do y Teams, utilizando OpenRouter para extracciones y agentes de imagen.
+
+- [2989-motion-illustration.json](workflows/2989-motion-illustration.json)
+  Descripción: Este flujo genera una ilustración animada usando Midjourney y Kling API. Primero crea una imagen con Midjourney, luego espera y procesa el estado para generar un video con Kling, finalmente devuelve la URL del video sin marca de agua.
+
+- [2990-optimizar-prompt.json](workflows/2990-optimizar-prompt.json)
+  Descripción: Flujo que optimiza prompts usando un agente de AI para mejorar la claridad y especificación, enviando el resultado via Telegram.
+
+- [2991-auto_create_publish_videos.json](workflows/2991-auto_create_publish_videos.json)
+  Descripción: Este flujo automático crea y publica videos sociales con AI utilizando Telegram, GPT-4 y Blotato. Incluye desde la creación del video hasta su distribución en múltiples plataformas como Instagram, YouTube, TikTok, Facebook, entre otras.
+
+- [2992-telegram-chatbot-multi-format.json](workflows/2992-telegram-chatbot-multi-format.json)
+  Descripción: Este flujo automático gestiona mensajes y voz en Telegram, transcribe audio a texto con OpenAI, procesa inputs y envía respuestas formatadas.
+
+- [2993-paul_graham_essays_milvus.json](workflows/2993-paul_graham_essays_milvus.json)
+  Descripción: Este flujo automatiza la extracción y almacenamiento de artículos de Paul Graham en Milvus, utilizando OpenAI para generar respuestas con citas contextuales.
+
+- [2994-gemini-video-analysis.json](workflows/2994-gemini-video-analysis.json)
+  Descripción: Este flujo analiza videos utilizando la API de Gemini AI. Descarga un video, lo sube a los servidores de Google y genera una descripción detallada mediante el modelo Gemini-2.0-flash-exp.
+
+- [2995-lead-automaton-v4.json](workflows/2995-lead-automaton-v4.json)
+  Descripción: Este flujo automático monitorea entradas en Google Sheets y envía notificaciones a Slack y Gmail al recibir una nueva Lead. Si el interés es caliente y no ha sido seguido up, programa un recordatorio después de 3 minutos.
+
+- [2996-perplexity_to_html.json](workflows/2996-perplexity_to_html.json)
+  Descripción: Este flujo automatiza la creación de una página HTML a partir de investigación de Perplexity, estructurando y estilizando con Tailwind CSS.
+
+- [2997-deep_research_agent.json](workflows/2997-deep_research_agent.json)
+  Descripción: Este flujo automático genera aprendizajes desde resultados de búsqueda SEO para una investigación deepen, utilizando n8n, OpenAI y Apify. Analiza contenido, extrae información clave y organiza los resultados en Notion.
+
+- [2998-notion-clockify-sync.json](workflows/2998-notion-clockify-sync.json)
+  Descripción: Este flujo sincroniza datos entre Notion y Clockify, manejando clientes, proyectos y tareas. Actualiza estados y IDs de manera bidireccional.
+
+- [2999-hr-it-chatbot-transcription.json](workflows/2999-hr-it-chatbot-transcription.json)
+  Descripción: Este flujo configura un chatbot para asistencia HR e IT que procesa mensajes de texto y audio en Telegram, utiliza embeddings OpenAI para transcripciones y almacenamiento vectorial PostgreSQL, respondiendo preguntas basadas en políticas internas.
+
+- [3000-automatizacion_rrhh.json](workflows/3000-automatizacion_rrhh.json)
+  Descripción: Este flujo automatiza la publicación de ofertas laborales y evalúa candidatos utilizando inteligencia artificial. Incluye formularios para postulaciones, análisis de CV con ChatGPT, generación de cuestionarios personalizados y seguimiento en Airtable.
+
+- [3002-n8n-check-models.json](workflows/3002-n8n-check-models.json)
+  Descripción: Este flujo verifica y registra qué modelos están siendo utilizados en cada workflow de n8n, recolectando información detallada sobre los nodos y workflows relevantes.
+
+- [3003-extract-summarize-indeed.json](workflows/3003-extract-summarize-indeed.json)
+  Descripción: Este flujo extrae y resume información de empresas de Indeed utilizando Bright Data y Google Gemini. Incluye web scraping, análisis con LLM y notificaciones por webhook.
+
+- [3004-voice-chatbot-rag-qdrant.json](workflows/3004-voice-chatbot-rag-qdrant.json)
+  Descripción: Este flujo implementa un chatbot de voz que utiliza RAG (Retrieval-Augmented Generation) con ElevenLabs y OpenAI para responder preguntas usando una base de datos vectorial en Qdrant.
+
+- [3005-chinese-translator-line.json](workflows/3005-chinese-translator-line.json)
+  Descripción: Este flujo traduce mensajes de LINE utilizando OpenRouter.ai para obtener caracteres chinos, pinyin y traducción al inglés.
+
+- [3006-linkedin-to-airtable.json](workflows/3006-linkedin-to-airtable.json)
+  Descripción: Este flujo automatiza la extracción de me gusta en LinkedIn, filtra las publicaciones más recientes y relevantes, y las registra en Airtable para organizarlas como ideas de contenido.
+
+- [3007-travel-agent-couchbase-vector.json](workflows/3007-travel-agent-couchbase-vector.json)
+  Descripción: Este flujo utiliza Google Gemini 2.0 Flash y OpenAI para crear un agente de planificación de viajes con capacidad de búsqueda vectorial en Couchbase, permitiendo buscar y almacenar puntos de interés.
+
+- [3008-minio-deploy.json](workflows/3008-minio-deploy.json)
+  Descripción: Este flujo automatiza el despliegue y gestión de contenedores Docker para MinIO en un servidor con WHMCS/WISECP. Maneja operaciones como crear, arrancar, detener, suspender, montar/desmontar discos y configurar ACLs, además de integración con Nginx para el acceso.
+
+- [3009-enra-zammad-sync.json](workflows/3009-enra-zammad-sync.json)
+  Descripción: Este flujo sincroniza contactos de Entra con usuarios en Zammad. Recupera contactos de Microsoft Graph, los compara con usuarios existentes y actualiza o crea nuevos usuarios en Zammad.
+
+- [3010-coinmarketcap_dex_agent.json](workflows/3010-coinmarketcap_dex_agent.json)
+  Descripción: Este flujo automático actúa como una herramienta de agente inteligente para interactuar con la API de CoinMarketCap DEXScan, permitiendo recuperar y analizar datos en tiempo real sobre exchanges descentralizados, pares de trading, volumen, liquidez y actividad comercial mediante un sistema multiagente integrado.
+
+- [3011-flujo-analisis-crowdstrike-detecciones.json](workflows/3011-flujo-analisis-crowdstrike-detecciones.json)
+  Descripción: Este flujo automático analiza las detecciones de CrowdStrike, busca indicadores de compromiso (IOCs) en VirusTotal y crea un ticket en Jira, además de enviar una notificación a Slack.
+
+- [3012-web-query-semantic-re-ranking.json](workflows/3012-web-query-semantic-re-ranking.json)
+  Descripción: Este flujo automatiza la realización de consultas web y reordena los resultados semanticamente usando Brave y Google Gemini para mejorar la relevancia.
+
+- [3013-facturas-automaticas-extraccion.json](workflows/3013-facturas-automaticas-extraccion.json)
+  Descripción: Este flujo automático procesa facturas en formato PDF recibidas por correo electrónico utilizando LlamaParse para extraer datos y luego los inserta en una hoja de cálculo de Google Sheets. Detecta correos con adjuntos PDF, los procesa con OpenAI para estructurar la información y actualiza una planilla con detalles como fecha, número de factura, proveedor, cliente, dirección, línea de artículos y total.
+
+- [3014-factura-extraccion-llamaparse.json](workflows/3014-factura-extraccion-llamaparse.json)
+  Descripción: Este flujo automático extrae información de facturas en formato PDF usando LlamaParse y OpenAI. Detecta correos con adjuntos PDF, procesa los documentos para obtener datos estructurados y los almacena en una hoja de cálculo de Google Sheets.
+
+- [3015-automated-resume-review-system.json](workflows/3015-automated-resume-review-system.json)
+  Descripción: Este flujo automático permite analizar y evaluar currículos de manera automatizada utilizando OpenAI y Google Sheets. Incluye la subida al Drive, extracción de información, resumen profesional y almacenamiento en hojas de cálculo.
+
+- [3016-it-slack-ai-bot.json](workflows/3016-it-slack-ai-bot.json)
+  Descripción: Este flujo automático gestiona las consultas IT en Slack mediante un chatbot integrado con OpenAI y Confluence. Analiza mensajes, verifica webhooks, evita bots y proporciona respuestas basadas en el conocimiento de la empresa.
+
+- [3017-knn_land_classifier.json](workflows/3017-knn_land_classifier.json)
+  Descripción: Este flujo utiliza un clasificador KNN para determinar la clase de una imagen basada en su embedding vectorial. Primero, obtiene el embedding de la imagen mediante la API de Voyage AI, luego consulta Qdrant con este embedding para encontrar los vecinos más cercanos y aplica votación mayoritaria para resolver conflictos.
+
+- [3018-webflow-airtable-tables-creator.json](workflows/3018-webflow-airtable-tables-creator.json)
+  Descripción: Este flujo crea tablas dinámicas en Airtable para las submisiones de formularios de Webflow. Automatiza la creación de tableros y registros basados en los formulario, usando credenciales de API y manejando errores.
+
+- [3019-export_zammad_to_excel.json](workflows/3019-export_zammad_to_excel.json)
+  Descripción: Este flujo exporta objetos de Zammad como Usuarios, Roles, Grupos y Organizaciones a archivos Excel.
+
+- [3020-convertir_imagenes_webp.json](workflows/3020-convertir_imagenes_webp.json)
+  Descripción: Este flujo automático convierte imágenes JPG y PNG a formato WEBP usando la API de APYHub. Recupera URLs de imágenes desde una hoja de cálculo de Google Sheets, determina el tipo de archivo, realiza la conversión correspondiente y actualiza la hoja con los nuevos enlaces. Finalmente, sube las imágenes convertidas a Google Drive.
+
+- [3021-automatizacion-pipedrive-tokens.json](workflows/3021-automatizacion-pipedrive-tokens.json)
+  Descripción: Este flujo automatiza el proceso de actualización de tokens de acceso y refresco en Pipedrive. Utiliza Supabase para almacenar y recuperar credenciales, maneja errores y valida los accesos토큰 mediante webhooks.
+
+- [3022-youtube_transcriber.json](workflows/3022-youtube_transcriber.json)
+  Descripción: Este flujo transcribe videos de YouTube validando la URL y estructurando el texto con OpenAI para una salida limpia en portugués.
+
+- [3023-ai-whatsapp-support-bot.json](workflows/3023-ai-whatsapp-support-bot.json)
+  Descripción: Este flujo automatiza un asistente de soporte al cliente en WhatsApp que utiliza inteligencia artificial para responder preguntas basadas en el contenido web de la empresa. Utiliza herramientas de crawling y análisis de páginas para obtener información precisa.
+
+- [3024-ssl-expiry-alert.json](workflows/3024-ssl-expiry-alert.json)
+  Descripción: Este flujo automático monitorea la expiración de certificados SSL de sitios web y envía alertas vía correo electrónico o Telegram cuando los certificados están por vencerse.
+
+- [3025-zoom-meeting-assistant.json](workflows/3025-zoom-meeting-assistant.json)
+  Descripción: Este flujo automatiza la asistencia a reuniones de Zoom mediante la extracción y análisis de transcripciones para enviar resúmenes por correo electrónico, crear tareas en ClickUp y programar citas futuras.
+
+- [3026-shopify-mautic-sync.json](workflows/3026-shopify-mautic-sync.json)
+  Descripción: Este flujo sincroniza y gestiona los estados de marketing entre Shopify y Mautic. Detecta cambios en la suscripción de correo electrónico de los clientes en Shopify, verifica su existencia en Mautic y actualiza automáticamente su segmentación o crea una nueva entrada si es necesario.
+
+- [3027-retry-executions-hourly.json](workflows/3027-retry-executions-hourly.json)
+  Descripción: Este flujo programa una ejecución automática hourly para buscar y retry de executions con estado 'error' en n8n, usando credenciales guardadas.
+
+- [3028-telegram-woocommerce-notifications.json](workflows/3028-telegram-woocommerce-notifications.json)
+  Descripción: Este flujo envía notificaciones de Telegram cuando un pedido de WooCommerce cambia su estado a 'Processing', incluyendo detalles como ID, nombre del cliente, monto total y productos ordenados.
+
+- [3029-wordpress-to-mautic-form.json](workflows/3029-wordpress-to-mautic-form.json)
+  Descripción: Flujo que recibe datos de un formulario de WordPress, normaliza y valida los campos como el correo electrónico, y crea o actualiza una entrada en Mautic si la dirección es válida.
+
+- [3030-n8n-rag-living-data.json](workflows/3030-n8n-rag-living-data.json)
+  Descripción: Este flujo automatiza la integración de datos en tiempo real desde Notion hacia un sistema de recuperación de información basado en vectores (RAG) usando OpenAI y Supabase. Procesa documentos, los divide en fragmentos, genera embeddings con OpenAI y almacena los resultados en Supabase para permitir búsquedas semánticas.
+
+- [3031-google-drive-summarizer.json](workflows/3031-google-drive-summarizer.json)
+  Descripción: Este flujo descarga un archivo de Google Drive, lo sumaiza utilizando Mistral AI y envía el resumen por correo electrónico.
+
+- [3032-gitlab-merge-request-review.json](workflows/3032-gitlab-merge-request-review.json)
+  Descripción: Este flujo automático analiza los cambios en una solicitud de integración (MR) de GitLab, utiliza Claude AI para evaluar el riesgo y genera un informe estructurado con recomendaciones, casos de prueba y correcciones.
+
+- [3033-clockify-backup.json](workflows/3033-clockify-backup.json)
+  Descripción: Este flujo automático extrae y almacena reportes detallados de Clockify en GitHub. Para cada mes configurado, verifica si el archivo existe y lo actualiza o crea uno nuevo.
+
+- [3034-google-analytics-seo-analysis.json](workflows/3034-google-analytics-seo-analysis.json)
+  Descripción: Este flujo automático recopila y analiza datos de Google Analytics para una página web, comparando estadísticas semanales como páginas vistas, usuarios activos y tasas de participación. Luego, envía esta información a un modelo de lenguaje A.I. para obtener recomendaciones SEO y guarda los resultados en Baserow.
+
+- [3035-cripto-market-agent.json](workflows/3035-cripto-market-agent.json)
+  Descripción: Este flujo utiliza agentes de lenguaje y herramientas de HTTP para consultar datos de mercado criptográfico mediante la API de CoinMarketCap, proporcionando información sobre exchanges, activos, índices y sentimiento del mercado.
+
+- [3036-procesador-imagenes-ollama.json](workflows/3036-procesador-imagenes-ollama.json)
+  Descripción: Este flujo automatiza el análisis detallado de imágenes utilizando modelos visuales locales de Ollama. Descarga una imagen desde Google Drive, la procesa con múltiples modelos (como granita3.2-vision y llama3.2-vision), genera descripciones exhaustivas en markdown y las guarda en Google Docs.
+
+- [3037-youtube-summarizer-gpt.json](workflows/3037-youtube-summarizer-gpt.json)
+  Descripción: Este flujo extrae y procesa transcripciones de videos de YouTube para resumirlas y mantener una conversación sobre su contenido utilizando GPT-4o-mini e interactúa a través de Telegram.
+
+- [3038-personal_assistant_mcp_server.json](workflows/3038-personal_assistant_mcp_server.json)
+  Descripción: Este flujo configura un asistente personal que utiliza Google Gemini para procesar mensajes de chat, mantiene una memoria contextual y interactúa con MCP Server para realizar tareas como programar citas en Google Calendar, manejar correos electrónicos, actualizar hojas de cálculo de Google Sheets y buscar/actualizar filas en CRM.
+
+- [3039-documento_procesamiento_ai.json](workflows/3039-documento_procesamiento_ai.json)
+  Descripción: Este flujo automático procesa documentos adjuntos en correo electrónico usando LlamaParse para extraer información y almacenarla en Google Sheets y Drive, además de enviar resúmenes por Telegram.
+
+- [3040-enra_zammad_sync.json](workflows/3040-enra_zammad_sync.json)
+  Descripción: Este flujo sincroniza usuarios de Entra con Zammad. Recupera grupos y miembros de Entra, crea objetos de usuario universales, compara datos para actualizar o desactivar usuarios en Zammad.
+
+- [3041-online-marketing-report.json](workflows/3041-online-marketing-report.json)
+  Descripción: Este flujo automático genera un informe semanal de marketing digital que recopila y analiza datos de Google Analytics, Google Ads y Meta Ads. Utiliza sub-flujos para obtener métricas actuales y del año pasado, procesa la información con OpenAI y envía el reporte por correo electrónico.
+
+- [3042-airtable-mcp-server.json](workflows/3042-airtable-mcp-server.json)
+  Descripción: Este flujo crea un servidor MCP usando Airtable para interactuar con una base de datos, permitiendo operaciones como obtener, buscar, actualizar y eliminar registros.
+
+- [3043-three-view-to-video.json](workflows/3043-three-view-to-video.json)
+  Descripción: Convierte proyecciones ortográficas tridimensionales en video animado dinámico utilizando GPT-4o e Kling para generar imágenes y vídeos.
+
+- [3044-video_generator_short_form.json](workflows/3044-video_generator_short_form.json)
+  Descripción: Este flujo automático genera vídeos cortos con IA, utilizando OpenAI para generar textos y prompts, Flux y Kling de PiAPI para crear imágenes y vídeos, ElevenLabs para la voz y Creatomate para renderizar el vídeo final. Luego los sube a todas las redes sociales.
+
+- [3045-selenium_scraping_automatizado.json](workflows/3045-selenium_scraping_automatizado.json)
+  Descripción: Este flujo automatiza la extracción de datos web utilizando Selenium y OpenAI. Busca URLs relevantes en una página dada, extrae información con IA, maneja cookies y sesiones para logueo opcional, toma capturas de pantalla y detecta posibles bloqueos por WAF.
+
+- [3047-contact_form_classifier.json](workflows/3047-contact_form_classifier.json)
+  Descripción: Este flujo automático clasifica los mensajes de formulario de contacto en eCommerce en categorías específicas como pedidos, información de productos, problemas generales y cotizaciones, y envía las respuestas correspondientes a diferentes departamentos.
+
+- [3048-analyze_youtube_workflow.json](workflows/3048-analyze_youtube_workflow.json)
+  Descripción: Este flujo analiza videos de YouTube para resumirlos, generar transcripciones y extraer contenido utilizando la API de Gemini AI de Google. Permite diferentes tipos de análisis como resúmenes concisos, transcripciones verbatim, subtítulos con marcas de tiempo y más.
+
+- [3049-line-chat-gcal-gmail.json](workflows/3049-line-chat-gcal-gmail.json)
+  Descripción: Este flujo automático permite a un chatbot de LINE integrarse con Google Calendar y Gmail para gestionar eventos y correo electrónico, utilizando memoria contextual y capacidades de respuesta avanzadas.
+
+- [3050-telegram-ai-document-assistant.json](workflows/3050-telegram-ai-document-assistant.json)
+  Descripción: Este flujo crea un asistente de chatbot en Telegram que procesa documentos PDF y utiliza Google Gemini para generar respuestas basadas en el contenido almacenado en Supabase.
+
+- [3051-airtable-markdown-to-html.json](workflows/3051-airtable-markdown-to-html.json)
+  Descripción: Este flujo procesa descripciones en formato markdown de un Airtable y las convierte a HTML. Si hay un solo registro, actualiza esa entrada; si hay múltiples registros, actualiza todas con el HTML convertido.
+
+- [3052-email-chatbot-telegram-vector.json](workflows/3052-email-chatbot-telegram-vector.json)
+  Descripción: Este flujo implementa un chatbot que utiliza Telegram y PostgreSQL con vectores para realizar búsquedas semánticas y estructuradas en bases de datos de correo electrónico, permitiendo una interacción avanzada y contextualizada.
+
+- [3053-Notify_user_quarantined_email.json](workflows/3053-Notify_user_quarantined_email.json)
+  Descripción: Este flujo notifica a un usuario de Slack cuando un correo electrónico es quarantinizado y crea una tarjeta en Jira si el correo fue abierto antes de la cuarentena.
+
+- [3054-business-canvas-generator.json](workflows/3054-business-canvas-generator.json)
+  Descripción: Flujo que genera un Canvas de Modelo de Negocio a partir de inputs de chat, utilizando LLM para cada sección y transformando los resultados en HTML.
+
+- [3055-discord-server-flow.json](workflows/3055-discord-server-flow.json)
+  Descripción: Este flujo configura una integración con Discord que permite realizar diversas acciones como enviar mensajes, obtener información de servidores y usuarios, manejar roles y esperar respuestas.
+
+- [3056-email-classifier.json](workflows/3056-email-classifier.json)
+  Descripción: Este flujo automático clasifica y organiza emails en Gmail utilizando IA para etiquetarlos como Prioritarios, Relacionados con el trabajo o Promociones.
+
+- [3057-email_summary_dailly.json](workflows/3057-email_summary_dailly.json)
+  Descripción: Este flujo automatiza la creación de resúmenes diarios de correo electrónico. Cada mañana a las 7 AM, recupera los correos electrónicos recibidos en las últimas 24 horas, organiza los datos, utiliza OpenAI para sintetizar el contenido y luego envía un informe estructurado con formato HTML.
+
+- [3058-set_medoids_cultivos.json](workflows/3058-set_medoids_cultivos.json)
+  Descripción: Este flujo configura los medoides (centros) de dos tipos para la detección de anomalías en un conjunto de datos de cultivos usando Qdrant y el modelo Voyage. Calcula representantes de clusters mediante matrices de distancia y vectores embedding de texto.
+
+- [3059-openai-file-retrieval-rg.json](workflows/3059-openai-file-retrieval-rg.json)
+  Descripción: Este flujo utiliza OpenAI para recuperar y citar contenido de archivos almacenados en un vector store, formateando la salida con Markdown o HTML.
+
+- [3060-manipula-pdf-adobe.json](workflows/3060-manipula-pdf-adobe.json)
+  Descripción: Este flujo maneja la manipulación de archivos PDF utilizando la API de Adobe Services. Realiza autenticación, carga un archivo PDF, procesa solicitudes específicas (como extracción) y espera la finalización del proceso antes de descargar los resultados.
+
+- [3061-wordpress-ai-optimizer.json](workflows/3061-wordpress-ai-optimizer.json)
+  Descripción: Este flujo automatiza la creación y optimización de entradas en WordPress usando AI para generar títulos, artículos y metaetiquetas SEO amigables, además de manejar imágenes y actualizar hojas de cálculo.
+
+- [3062-coinmarketcap-analyst.json](workflows/3062-coinmarketcap-analyst.json)
+  Descripción: Este flujo automático utiliza un agente de inteligencia artificial para analizar y enviar información en tiempo real sobre criptomonedas a través de Telegram, usando tres sub-agentes especializados: Crypto, Exchange & Community y DEXScan. El sistema procesa consultas de usuarios, gestiona memoria de sesión y utiliza API de CoinMarketCap para proporcionar insights detallados.
+
+- [3063-animated_stories_generator.json](workflows/3063-animated_stories_generator.json)
+  Descripción: Este flujo crea historias animadas utilizando GPT-4o-mini para generar prompts, Midjourney para crear imágenes y Kling para generar videos, posteriormente combine los videos en Creatomate.
+
+- [3064-outlook-email-ai-assistant.json](workflows/3064-outlook-email-ai-assistant.json)
+  Descripción: Este flujo utiliza Microsoft Outlook para leer correos electrónicos no marcados yWithout categorías, procesa su contenido con OpenAI para categorizarlos, actualiza su importancia y asigna categorías. También integra contactos de Monday.com y Airtable para mejorar la contextualización.
+
+- [3065-chat-voice-agent-RAG.json](workflows/3065-chat-voice-agent-RAG.json)
+  Descripción: Este flujo integra un chatbot, agente de voz y telefonía con Voiceflow, Google Calendar y RAG para gestionar citas, realizar búsquedas y respaldarse en vectores Qdrant.
+
+- [3066-generar_fondo_grafico.json](workflows/3066-generar_fondo_grafico.json)
+  Descripción: Este flujo utiliza Midjourney, GPT-4o-mini y Canvas API para generar un fondo de pantalla gráfico con una copia emotiva. Primero, GPT-4o-mini genera un texto basado en el tema y escenario proporcionados, luego Midjourney crea una imagen según la descripción, y finalmente Canvas diseña la composición final con texto y elementos visuales.
+
+- [3067-format-phone-us.json](workflows/3067-format-phone-us.json)
+  Descripción: Este flujo procesa y formatea números de teléfono estadounidenses. Extrae solo los dígitos, verifica el código de país inicial, agrega el código si falta y luego formatea el número en diferentes formatos como nacional e internacional.
+
+- [3068-confluence-chatbot-ai.json](workflows/3068-confluence-chatbot-ai.json)
+  Descripción: Este flujo utiliza la API de Confluence para buscar y recuperar contenido específico de páginas, convierte HTML a Markdown, y utiliza el agente AI de GPT-4 para responder preguntas basadas en el contexto proporcionado. Además, envía las respuestas mediante Telegram.
+
+- [3069-email-routing-ai.json](workflows/3069-email-routing-ai.json)
+  Descripción: Este flujo automático clasifica y enruta correos electrónicos comerciales utilizando IA para asignar mensajes a diferentes departamentos.
+
+- [3070-spotify-archiver.json](workflows/3070-spotify-archiver.json)
+  Descripción: Este flujo automático archiva mensualmente las canciones favoritas de Spotify en una hoja de cálculo de Google y clasifica Tracks en playlists utilizando un modelo AI.
+
+- [3071-line-file-save-to-google-drive.json](workflows/3071-line-file-save-to-google-drive.json)
+  Descripción: Este flujo automatiza la descarga de archivos desde LINE, los organiza en Google Drive según configuración y registra detalles en una hoja de cálculo.
+
+- [3072-ollama-llm-router.json](workflows/3072-ollama-llm-router.json)
+  Descripción: Este flujo configura una ruta automática de LLM privada y local usando Ollama para seleccionar dinámicamente el modelo más apropiado basado en la entrada del usuario.
+
+- [3073-reservation_medica.json](workflows/3073-reservation_medica.json)
+  Descripción: Este flujo utiliza un agente de inteligencia artificial para gestionar citas médicas, integrando OpenAI y Google Calendar/Sheets. El agente recibe mensajes, verifica disponibilidad en el calendario, sugiere horarios o crea citas.
+
+- [3074-erp-chatbot-odoo.json](workflows/3074-erp-chatbot-odoo.json)
+  Descripción: Este flujo automático permite a un chatbot contextualizado con Memoria de ventana recuperar y resumir oportunidades comerciales de Odoo, utilizando herramientas de cálculo y agentes conversacionales para mejorar la asistencia al usuario.
+
+- [3075-video-narration-ai.json](workflows/3075-video-narration-ai.json)
+  Descripción: Este flujo automatiza la creación de un guion narrativo para videos utilizando inteligencia artificial multimodal. Descarga un video, extrae marcos均匀mente distribuidos, los procesa con un modelo de lenguaje grande (LLM) para generar textos descriptivos y luego convierte ese texto en audio.
+
+- [3076-ai-seo-keyword-automation.json](workflows/3076-ai-seo-keyword-automation.json)
+  Descripción: Este flujo automático utiliza inteligencia artificial para realizar una investigación de palabras clave SEO. Incluye la expansión de temas, análisis de competidores, métricas como volumen de búsqueda y CPC, y genera una estrategia final optimizada.
+
+- [3077-shopify-to-d365-sync.json](workflows/3077-shopify-to-d365-sync.json)
+  Descripción: Este flujo sincroniza órdenes de Shopify con Dynamics 365 Business Central creando pedidos y facturas. Detecta si las órdenes son de POS o web para generar respectivamente facturas o pedidos, verifica existencia de clientes y crea nuevos si no están en BC. Maneja ubicaciones multi-tienda y adiciona impuestos y descuentos como líneas.
+
+- [3078-ai_tech_newsletter.json](workflows/3078-ai_tech_newsletter.json)
+  Descripción: Este flujo automatiza la creación de un newsletter tecnológico personalizado utilizando RSS feeds, OpenAI y Gmail. Cada día, recoge artículos de noticias desde fuentes como Wired y TechCrunch, los procesa y almacena en un vector store. Semanalmente, utiliza OpenAI para resumir los artículos más relevantes según tus intereses y envía la recapByEmail.
+
+- [3079-extract-spend-details.json](workflows/3079-extract-spend-details.json)
+  Descripción: Este flujo extrae y procesa detalles de gastos a partir de correos electrónicos relacionados con pagos e invoices utilizando Gmail como origen de datos. Analiza emails etiquetados específicamente para detectar transacciones, invoice y pagos, utiliza LLMs (Google Gemini y Groq) para estructurar la información y finalmente inserta los datos en una hoja de cálculo de Google Sheets.
+
+- [3080-email-ai-management.json](workflows/3080-email-ai-management.json)
+  Descripción: Este flujo automático gestiona emails de manera eficiente utilizando inteligencia artificial para resumir, clasificar y responder automáticamente. Utiliza Qdrant para almacenar vectores de documentos, OpenAI para embeddings y LLMs para generar respuestas, además de integrar con Gmail y Outlook.
+
+- [3081-whatsapp-ai-chatbot.json](workflows/3081-whatsapp-ai-chatbot.json)
+  Descripción: Este flujo implementa un chatbot de WhatsApp que utiliza tecnología RAG (Retrieval-Augmented Generation) para responder consultas usando OpenAI y Qdrant. Recoge documentos desde Google Drive, los vectoriza con OpenAI, almacena en Qdrant y usa el agente AI para contestar preguntas basadas en ellos.
+
+- [3082-pge-energy-cost-tracker.json](workflows/3082-pge-energy-cost-tracker.json)
+  Descripción: Este flujo automatiza la extracción diaria de los costos de energía de PG&E, incluyendo electricidad y gas, desde su sitio web. Utiliza un navegador para iniciar sesión, navegar a las páginas relevantes, extraer los datos y enviar un correo electrónico con un informe formateado.
+
+- [3083-linkedin-profile-finder.json](workflows/3083-linkedin-profile-finder.json)
+  Descripción: Este flujo automatiza la búsqueda de perfiles de LinkedIn a través de un formulario donde el usuario proporciona el nombre completo y la empresa. Utiliza Bright Data para realizar búsquedas en Google y GPT-4o-mini para analizar los resultados, extraer información relevante y generar un seguimiento personalizado por correo electrónico.
+
+- [3084-notion-chatbot-generator.json](workflows/3084-notion-chatbot-generator.json)
+  Descripción: Este flujo genera un asistente de chatbot personalizado para bases de datos de Notion, creando una workflow adaptada al esquema proporcionado. Analiza la URL de la base de datos, simplifica los objetos y utiliza agentes de lenguaje para modificar el JSON del workflow según las necesidades específicas.
+
+- [3085-notion-ai-assistant.json](workflows/3085-notion-ai-assistant.json)
+  Descripción: Este flujo actúa como un asistente de conocimiento que utiliza Notion para buscar información y OpenAI para responder preguntas, organizando datos de bases de datos de manera eficiente.
+
+- [3086-linkedin-to-airtable.json](workflows/3086-linkedin-to-airtable.json)
+  Descripción: Este flujo automatiza la búsqueda de empresas en LinkedIn y las agrega a una base de datos de Airtable CRM. Busca compañías según criterios como industria, tamaño y ubicación, luego verifica si ya existen en el CRM y las ingresa si no están duplicadas.
+
+- [3087-email-automatizado-con-HITL.json](workflows/3087-email-automatizado-con-HITL.json)
+  Descripción: Este flujo automático procesa emails entrantes mediante un sistema de correo IMAP, los resume con IA y genera respuestas automáticas. El usuario humano valida la respuesta antes de enviarla.
+
+- [3088-whatsapp_medical_appointments_bot.json](workflows/3088-whatsapp_medical_appointments_bot.json)
+  Descripción: Este flujo automático envía notificaciones de citas médicas por WhatsApp a usuarios que han dado su consentimiento,registra mensajes en una hoja de cálculo de Google Sheets y permite responder a los usuarios a través de un sistema escalable.
+
+- [3089-automated-backups-google-drive.json](workflows/3089-automated-backups-google-drive.json)
+  Descripción: Este flujo automático programa backups diarios de los workflows guardando archivos JSON en Google Drive con una marca de fecha y hora. Maneja la retención de archivos manteniendo solo las copias más recientes de siete días, eliminando las antiguas, y envía notificaciones vía Telegram al completar el proceso.
+
+- [3090-app-wordpress-genai.json](workflows/3090-app-wordpress-genai.json)
+  Descripción: Este flujo implementa una aplicación que utiliza tecnologías de RAG (Retrieval-Augmented Generation) y GenAI para interactuar con contenido de WordPress. Extrae embeddings de texto, gestiona documentos en Supabase y mantiene memoria del chat usando PostgreSQL.
+
+- [3091-obsidian-podcast-flow.json](workflows/3091-obsidian-podcast-flow.json)
+  Descripción: Flujo que convierte notas de Obsidian en audios para podcasts usando OpenAI y almacena datos en Google Sheets.
+
+- [3092-woocommerce-chatbot-posventa.json](workflows/3092-woocommerce-chatbot-posventa.json)
+  Descripción: Este flujo automático implementa un chatbot de soporte pos-venta integrado con WooCommerce que utiliza inteligencia artificial para manejar consultas de clientes, recuperar información de órdenes, verificar identidad y proporcionar asistencia mediante OpenAI y Qdrant. Incluye escalado a operadores humanos vía Telegram si es necesario.
+
+- [3093-bright_data_extractor.json](workflows/3093-bright_data_extractor.json)
+  Descripción: Este flujo utiliza Bright Data Web Scraper para extraer datos estructurados en masa. Inicia una captura, espera a que esté lista y luego descarga los datos. Maneja errores y notifica por webhook.
+
+- [3094-flujo-get-scaleway-servers.json](workflows/3094-flujo-get-scaleway-servers.json)
+  Descripción: Este flujo automatiza la obtención y filtración de información de servidores en Scaleway, incluyendo instancias y baremetal, permitiendo buscar por tags, nombre, IP pública o zona.
+
+- [3095-remove-background-google-drive.json](workflows/3095-remove-background-google-drive.json)
+  Descripción: Este flujo elimina el fondo de las imágenes almacenadas en Google Drive utilizando la API de Photoroom, añadiendo un color de fondo configurable y guardando las nuevas imágenes en una ubicación específica.
+
+- [3096-ahrefs-keyword-research.json](workflows/3096-ahrefs-keyword-research.json)
+  Descripción: Flujo de investigación de palabras clave que utiliza Ahrefs para extraer y formatear datos SEO, pasando por un agente de limpieza de consultas y luego procesando la información con el modelo Gemini para una respuesta estructurada.
+
+- [3097-mcp-supabase-agent.json](workflows/3097-mcp-supabase-agent.json)
+  Descripción: Este flujo implementa un agente de LangChain con capacidades de recuperación de vectores y embeddings de OpenAI, usando Supabase para almacenar y gestionar datos como mensajes, tareas y estado.
+
+- [3098-ai-powered-research-flow.json](workflows/3098-ai-powered-research-flow.json)
+  Descripción: Flujo automatizado que utiliza LLMs y APIs para realizar investigaciones en deep search, generar queries de búsqueda, analizar resultados y crear informes detallados.
+
+- [3099-country-capitals-tool.json](workflows/3099-country-capitals-tool.json)
+  Descripción: Este flujo configura un asistente de chat que puede listar capitales de países ficticios o devolver la capital de un país específico basándose en una herramienta personalizada.
+
+- [3100-openai-examples.json](workflows/3100-openai-examples.json)
+  Descripción: Este flujo utiliza diferentes modelos de OpenAI como ChatGPT para resumir y traducir texto, Whisper-1 para transcripción de audio y DALLE-2 para generar imágenes a partir de descripciones textuales.
+
+- [3101-update-printify-products.json](workflows/3101-update-printify-products.json)
+  Descripción: Este flujo actualiza títulos y descripciones de productos en Printify usando OpenAI para optimizar contenido y Google Sheets para la gestión.
+
+- [3102-organizar-archivos-con-AI.json](workflows/3102-organizar-archivos-con-AI.json)
+  Descripción: Este flujo automatiza la organización de archivos en directorios locales utilizando IA. Monitorea un folder específico, lista los archivos y carpetas, utiliza Mistral AI para clasificar los archivos sugiriendo subdirectorios existentes o nuevos, y luego mueve los archivos según las indicaciones de la IA.
+
+- [3103-email-autoresponder-approval.json](workflows/3103-email-autoresponder-approval.json)
+  Descripción: Este flujo automático procesa emails entrantes, los resume y genera respuestas con RAG usando DeepSeek R1 y Qdrant. Permite una aprobación por correo electrónico antes de enviar la respuesta final.
+
+- [3104-flux-image-edit.json](workflows/3104-flux-image-edit.json)
+  Descripción: Este flujo maneja una solicitud de relleno de imagen utilizando la API de FLUX. Primero recibe una imagen y un máscara a través de un webhook, luego procesa la imagen con el modelo de IA para generar una versión editada basada en un prompt proporcionado por el usuario.
+
+- [3105-generate-sql-from-schema.json](workflows/3105-generate-sql-from-schema.json)
+  Descripción: Este flujo genera consultas SQL basadas en un esquema de base de datos usando inteligencia artificial. Extrae información de la estructura de las tablas y utiliza el modelo OpenAI para crear sentencias SQL sin necesidad de acceder a los datos reales.
+
+- [3106-automate-content-generator-wordpress.json](workflows/3106-automate-content-generator-wordpress.json)
+  Descripción: Este flujo automatiza la creación de contenido para WordPress utilizando DeepSeek. Genera artículos, títulos y imágenes basadas en ideas proporcionadas en una hoja de cálculo de Google Sheets.
+
+- [3107-ai-chatbot-memory-router.json](workflows/3107-ai-chatbot-memory-router.json)
+  Descripción: Este flujo implementa un chatbot con memoria a largo plazo que utiliza herramientas de enrutamiento dinámico para almacenar y recuperar información usando Google Docs, además de enviar notificaciones por Telegram o Gmail.
+
+- [3108-subworkflow-dependency-graph.json](workflows/3108-subworkflow-dependency-graph.json)
+  Descripción: Este flujo automatiza la creación de un grafo de dependencias entre workflows en n8n y asigna etiquetas automáticamente basadas en las relaciones detectadas. Analiza los flujos para identificar cuáles son llamados por otros, visualiza estas relaciones y crea nuevas etiquetas si detecta cambios.
+
+- [3109-parents-bot-memory.json](workflows/3109-parents-bot-memory.json)
+  Descripción: Este flujo utiliza un chatbot para manejar mensajes de Telegram, transcribe voz a texto, consulta información y almacena datos en vectores para mejorar la memoria contextual.
+
+- [3110-automated-pdf-invoice-processing.json](workflows/3110-automated-pdf-invoice-processing.json)
+  Descripción: Este flujo automatiza la extracción de información desde un PDF utilizando LlamaParse y guarda los datos estructurados en Airtable. Detecta nuevos archivos en Google Drive, procesa el contenido con OpenAI para extraer detalles específicos de las facturas y crea registros tanto para la factura principal como para cada ítem detallado.
+
+- [3111-air-quality-scheduler.json](workflows/3111-air-quality-scheduler.json)
+  Descripción: Este flujo recolecta y procesa datos de calidad del aire y polen utilizando la API de Ambee, luego utiliza un agente de inteligencia artificial para generar recomendaciones personalizadas basadas en el perfil del usuario, y finalmente envía estas recomendaciones por correo electrónico.
+
+- [3112-track-time-pausas.json](workflows/3112-track-time-pausas.json)
+  Descripción: Este flujo rastrea el tiempo de trabajo y las pausas en Notion. Crea una nueva página al inicio, actualiza el final del tiempo, maneja las interrupciones y envía mensajes al webhook.
+
+- [3113-training_feedback_automat.json](workflows/3113-training_feedback_automat.json)
+  Descripción: Este flujo automático gestiona retroalimentación de capacitación enviando notificaciones y creando tareas según la calificación dada. Detecta retroalimentación negativa para acción inmediata, crea tareas en UserTask y envía correo electrónico a los encargados.
+
+- [3114-chatbot_personal_shopper.json](workflows/3114-chatbot_personal_shopper.json)
+  Descripción: Este flujo implementa un chatbot personal shopper para WooCommerce que utiliza RAG con Google Drive y openAI. Analiza mensajes de chat para buscar productos o responder preguntas generales usando vectores almacenados en Qdrant.
+
+- [3115-hdw-lead-management.json](workflows/3115-hdw-lead-management.json)
+  Descripción: Flujo automático para la gestión de leads en LinkedIn que incluye búsqueda, enriquecimiento de datos, análisis y scoring de contactos utilizando APIs como HDW y OpenAI, con integración con Google Sheets para mantener un registro y seguimiento.
+
+- [3116-webflow-slack-submissions.json](workflows/3116-webflow-slack-submissions.json)
+  Descripción: Este flujo automático envía las submissions de formularios de Webflow a Slack. Primero, verifica si existe un canal correspondiente al nombre del formulario; si no existe, crea uno nuevo y notifica en el canal #general. Luego, compone y envía el mensaje con los datos del formulario al canal apropiado.
+
+- [3117-ai-search-console-chat.json](workflows/3117-ai-search-console-chat.json)
+  Descripción: Este flujo utiliza OpenAI y Postgres para permitir a un agente de chat interactuar con datos de Google Search Console, recuperando información mediante una conversación natural.
+
+- [3118-Vision-Scraping-Agent.json](workflows/3118-Vision-Scraping-Agent.json)
+  Descripción: Este flujo automatiza la extracción de datos web utilizando vision artificial con Google Sheets, ScrapingBee y Gemini. Realiza capturas de pantalla completas de páginas web, utiliza el modelo Gemini para extraer información visualmente, y en caso de falla, recurre a herramientas HTML para asegurar datos precisos.
+
+- [3119-batch_crops_qdrant.json](workflows/3119-batch_crops_qdrant.json)
+  Descripción: Este flujo carga un conjunto de datos de imágenes agrícolas en Qdrant usando embeddings de Voyage AI y Google Cloud Storage. Primero verifica si la colección existe, crea una nueva si es necesario, luego procesa las imágenes en tandas y las sube al vectorstore.
+
+- [3120-usuarios_ficticios.json](workflows/3120-usuarios_ficticios.json)
+  Descripción: Este flujo genera y procesa datos JSON para crear archivos CSV con nombres y correos electrónicos aleatorios, usando GPT-4. Los usuarios pueden estar suscritos o no, con fechas de suscripción opcionales.
+
+- [3121-deteccion_objetos_gemini.json](workflows/3121-deteccion_objetos_gemini.json)
+  Descripción: Este flujo utiliza la API de Gemini 2.0 para detectar objetos en una imagen basada en un prompt. Descarga una imagen, usa el modelo de Gemini para obtener coordenadas normalizadas de los bounding boxes y luego las ajusta al tamaño original de la imagen para dibujarlas sobre ella.
+
+- [3122-Proxmox-AI-Agent.json](workflows/3122-Proxmox-AI-Agent.json)
+  Descripción: Este flujo automático gestiona tareas en Proxmox usando n8n y generativa AI. Analiza comandos, valida entradas, genera comandos API y los ejecuta.
+
+- [3123-sync-todoist-notion.json](workflows/3123-sync-todoist-notion.json)
+  Descripción: Este flujo sincroniza tareas etiquetadas en Todoist con Notion y marca las tareas como enviadas una vez completada la sincronización.
+
+- [3124-actualizar_n8n.json](workflows/3124-actualizar_n8n.json)
+  Descripción: Este flujo automatiza la actualización de n8n verificando versiones en GitHub, notificando por Telegram si hay una nueva versión y pidiendo confirmación antes de actualizar.
+
+- [3125-linkedin-stories-generator.json](workflows/3125-linkedin-stories-generator.json)
+  Descripción: Este flujo extrae información de LinkedIn usando la API de Bright Data y genera historias empresariales con Google Gemini. Incluye el procesamiento de datos, extracción de información y resumen mediante LLM.
+
+- [3126-multi-ai-chatbot-postgres-chart.json](workflows/3126-multi-ai-chatbot-postgres-chart.json)
+  Descripción: Este flujo automático permite a un chatbot interactuar con una base de datos PostgreSQL o Supabase mediante consultas SQL y generar gráficos visualizados en QuickChart usando agentes de inteligencia artificial. El sistema utiliza OpenAI para procesar las preguntas del usuario, ejecutar consultas SQL, obtener definiciones de tablas y crear gráficos basados en los resultados obtenidos.
+
+- [3127-email-ai-responder.json](workflows/3127-email-ai-responder.json)
+  Descripción: Este flujo automatiza la respuesta a correos electrónicos mediante DeepSeek R1 para resumir y enviar contestaciones profesionales.
+
+- [3128-gmail-mcp-server.json](workflows/3128-gmail-mcp-server.json)
+  Descripción: Este flujo configura un servidor MCP para interactuar con Gmail, permitiendo realizar operaciones como buscar, eliminar, marcar como leído, agregar o quitar etiquetas y más.
+
+- [3129-discord_cleaner.json](workflows/3129-discord_cleaner.json)
+  Descripción: Este flujo automático elimina mensajes de Discord que sean antiguos de más de 7 días, ejecutándose diariamente a las 21:00 horas. Utiliza nodos para descargar canales, filtrar mensajes por fecha y eliminar los viejos, con pausas para respetar los límites de la API.
+
+- [3130-extract-google-maps.json](workflows/3130-extract-google-maps.json)
+  Descripción: Este flujo utiliza Google Maps y herramientas de scrappeo para extraer datos empresariales como nombre, dirección, teléfono, correo electrónico y website. Utiliza OpenAI para procesar las peticiones yGuardar en Google Sheets.
+
+- [3131-ssl-expiry-monitor.json](workflows/3131-ssl-expiry-monitor.json)
+  Descripción: Este flujo automático monitorea la fecha de expiración de certificados SSL de sitios web almacenados en una hoja de cálculo de Google. Cada semana, extrae las URLs, verifica el estado de los certificados SSL usando ssl-checker.io y envía un correo electrónico si algún certificado está por vencer en menos de 7 días.
+
+- [3132-ai-agent-chatbot-memory.json](workflows/3132-ai-agent-chatbot-memory.json)
+  Descripción: Este flujo implementa un agente de chatbot con memoria a largo plazo y almacenamiento de notas integrados, utilizando Google Docs para guardar memorias y notas, y Telegram para las respuestas. El sistema utiliza diferentes modelos de lenguaje como GPT-4o-mini y DeepSeek-V3 para procesar mensajes y mantener una conversación contextualizada.
+
+- [3133-phone-agent-lead-qualification.json](workflows/3133-phone-agent-lead-qualification.json)
+  Descripción: Este flujo automático gestiona llamadas salientes y entrantes, cualificando leads y programando citas mediante RetellAI, Google Sheets, Twilio y Gmail. Detecta nuevas oportunidades en Google Sheets, envía recordatorios SMS, programa llamadas automáticas con RetellAI, maneja citas por teléfono, registra interacciones, envía correos de confirmación y análisis con OpenAI.
+
+- [3134-line-bot-ocr-to-sheets.json](workflows/3134-line-bot-ocr-to-sheets.json)
+  Descripción: Este flujo automático recoge datos de una imagen enviada a un bot de LINE, la procesa para extraer información relevante usando OCR y luego almacena los datos en Google Sheets.
+
+- [3135-docker-immich-deploy.json](workflows/3135-docker-immich-deploy.json)
+  Descripción: Este flujo configura y gestiona entornos Docker para la aplicación Immich, incluyendo deploy, arranque, parada, suspensión, montaje de discos y gestión de usuarios y ACLs. Utiliza SSH y Webhooks para interactuar con el servidor.
+
+- [3136-tavily-search-extract.json](workflows/3136-tavily-search-extract.json)
+  Descripción: Este flujo automatiza la búsqueda y extracción de información utilizando la API de Tavily, filtrando resultados por relevancia y resumiendo contenido con OpenAI.
+
+- [3137-calificacion-leads-gpt.json](workflows/3137-calificacion-leads-gpt.json)
+  Descripción: Este flujo automatiza la calificación de leads usando Google Sheets y GPT-4. Detecta entradas nuevas en una hoja de cálculo, las envía a OpenAI para evaluar su calidad y actualiza el status en la misma hoja con una calificación y explicación.
+
+- [3138-qualify-leads-pipedrive.json](workflows/3138-qualify-leads-pipedrive.json)
+  Descripción: Este flujo automático cualifica respuestas de leads en Pipedrive utilizando inteligencia artificial para determinar su interés y crea una oportunidad si el lead muestra interés.
+
+- [3139-AppointmentQualifierAI.json](workflows/3139-AppointmentQualifierAI.json)
+  Descripción: Flujo de formulario que utiliza inteligencia artificial para calificar solicitudes de citas y administra la aprobación de las mismas mediante formularios integrados en n8n.
+
+- [3140-n8n-credentials-agent.json](workflows/3140-n8n-credentials-agent.json)
+  Descripción: Este flujo automatiza la gestión de credenciales de workflows en n8n almacenándolas en una base de datos SQLite y utiliza un agente de IA para realizar búsquedas avanzadas mediante SQL.
+
+- [3141-load_prompts_github.json](workflows/3141-load_prompts_github.json)
+  Descripción: Este flujo carga prompts desde un repositorio de GitHub y los procesa para reemplazar variables dinámicamente.
+
+- [3142-social-media-publisher.json](workflows/3142-social-media-publisher.json)
+  Descripción: Este flujo automático gestiona la publicación de contenido en redes sociales como Instagram, LinkedIn, Facebook, X y TikTok a través de un formulario que acepta fotos o videos. Detecta el tipo de archivo (imagen o video), envía la información necesaria a la API correspondiente y muestra mensajes de éxito o error.
+
+- [3144-chatbot_companyIdocs.json](workflows/3144-chatbot_companyIdocs.json)
+  Descripción: Este flujo automatiza la creación de un chatbot que utiliza documentos de la empresa almacenados en Google Drive y Gemini para responder preguntas.
+
+- [3145-rag_context_chunking.json](workflows/3145-rag_context_chunking.json)
+  Descripción: Este flujo automatiza la creación de vectores contextuales a partir de documentos en Google Drive usando RAG (Retrieval-Augmented Generation) con división en secciones y almacenamiento en Pinecone.
+
+- [3146-reconcile-rent-payments.json](workflows/3146-reconcile-rent-payments.json)
+  Descripción: Este flujo automatiza la reconciliación de pagos de alquileres utilizando un modelo OpenAI para detectar y flaggear discrepancias en los pagos contra una base de datos local en Excel. Identifica misses, pagos incorrectos, vencimientos y alerta acciones necesarias.
+
+- [3147-reddit-n8n-analizador.json](workflows/3147-reddit-n8n-analizador.json)
+  Descripción: Este flujo recolecta y analiza publicaciones recientes de Reddit relacionadas con n8n, usando OpenAI para clasificar y resumir los posts.
+
+- [3148-remove_pii_from_csv.json](workflows/3148-remove_pii_from_csv.json)
+  Descripción: Este flujo automatiza la eliminación de datos personales (PII) de archivos CSV alojados en Google Drive. Utiliza OpenAI para identificar las columnas con información sensible y genera un nuevo archivo sin dichos datos.
+
+- [3149-outlook-ai-email-assistant.json](workflows/3149-outlook-ai-email-assistant.json)
+  Descripción: Este flujo automatiza la gestión de correos electrónicos en Microsoft Outlook usando inteligencia artificial para categorizar y priorizar emails. Extrae información relevante, procesa el cuerpo del correo para eliminar formato HTML, consulta bases de datos externas como Airtable y Monday.com para contexto adicional y utiliza el modelo OpenAI para asignar categorías. Actualiza la importancia y categorías en Outlook según las reglas definidas.
+
+- [3150-whatsapp-ai-responder.json](workflows/3150-whatsapp-ai-responder.json)
+  Descripción: Este flujo automático gestiona mensajes de WhatsApp usando IA para responder de manera profesional. Analiza diferentes tipos de mensajes (texto, audio, video e imagen), los procesa con herramientas como Google Gemini y Wikipedia, y genera respuestas oportunas.
+
+- [3151-dub-co-url-shortener.json](workflows/3151-dub-co-url-shortener.json)
+  Descripción: Este flujo configura y automatiza la creación de enlaces cortos usando la API de Dub.co. Permite ingresar una URL larga, opcionalmente un slug personalizado y dominio, y crea o actualiza el enlace correspondiente.
+
+- [3152-property_leads_enrichment.json](workflows/3152-property_leads_enrichment.json)
+  Descripción: Este flujo automatiza la obtención de datos de propiedades inmuebles mediante BatchData, realiza un filtrado avanzado y enriquecimiento con información del dueño, formatea los resultados y los exporta a CRM y Excel.
+
+- [3153-reschedule-overdue-asana.json](workflows/3153-reschedule-overdue-asana.json)
+  Descripción: Este flujo automático programado para ejecutarse每日7点，recupera las tareas asignadas desde Asana y gestiona el estado de los trabajos. Se encarga de reprogramar tareas vencidas al día actual si están abiertas y eliminar aquellas que ya han sido finalizadas.
+
+- [3154-dynamic_form_dropdown.json](workflows/3154-dynamic_form_dropdown.json)
+  Descripción: Este flujo configura un formulario con un campo desplegable dinámico que se actualiza con valores obtenidos de una fuente de datos externa, como una hoja de cálculo de Google Sheets. La estructura incluye nodos para capturar la submisión del formulario, recuperar los datos de la fuente, transformarlos y actualizar el formulario con las nuevas opciones.
+
+- [3155-telegram-neuroai-integration.json](workflows/3155-telegram-neuroai-integration.json)
+  Descripción: Este flujo utiliza la API de NeurochainAI para procesar mensajes y generar respuestas o imágenes en Telegram. Detecta comandos con /flux, envía prompts y gestiona errores.
+
+- [3156-deepseek-telegram-agent.json](workflows/3156-deepseek-telegram-agent.json)
+  Descripción: Este flujo utiliza un agente de inteligencia artificial DeepSeek integrado con Telegram para manejar conversaciones, validando usuarios y chats, procesando mensajes de texto, audio e imágenes, recuperando记忆es长期 desde Google Docs y respondiendo a través de la API de Telegram.
+
+- [3157-test-webhooks-n8n-postbin-example.json](workflows/3157-test-webhooks-n8n-postbin-example.json)
+  Descripción: Este flujo permite probar webhooks en n8n utilizando PostBin y BambooHR sin necesidad de modificar la variable WEBHOOK_URL. Crea una bin en PostBin, registra un webhook en BambooHR, prueba su funcionalidad y notifica a Slack sobre nuevos empleados.
+
+- [3158-scrape-news-with-ai-to-nocodb.json](workflows/3158-scrape-news-with-ai-to-nocodb.json)
+  Descripción: Este flujo extrae HTML de una página web específicamente con CSS, luego suma los enlaces y fechas de las publicaciones, filtra por fecha reciente, obtiene el contenido individual de cada post, genera resúmenes y palabras clave usando OpenAI, y almacena los datos en NocoDB.
+
+- [3159-trustpilot-sentiment.json](workflows/3159-trustpilot-sentiment.json)
+  Descripción: Este flujo extrae y analiza opiniones de Trustpilot usando DeepSeek para obtener información detallada y luego OpenAI para evaluar el sentimiento.
+
+- [3160-chatgpt-email-responses.json](workflows/3160-chatgpt-email-responses.json)
+  Descripción: Este flujo automático envía una respuesta de ChatGPT a través de correo electrónico cuando se recibe un correo electrónico y registra las respuestas en Google Sheets. También registra retroalimentación para mejorar el modelo.
+
+- [3161-analytics-to-ai-seo.json](workflows/3161-analytics-to-ai-seo.json)
+  Descripción: Este flujo recolecta datos de Analytics de Google, los procesa y envía a un modelo de lenguaje para análisis SEO, guardando luego los resultados en Baserow.
+
+- [3162-google-analytics-to-ai-seo-analysis.json](workflows/3162-google-analytics-to-ai-seo-analysis.json)
+  Descripción: Este flujo recopila datos de analítica web, procesa y envía información a un modelo de IA para análisis SEO comparativo semanal, guardando los resultados en Baserow.
+
+- [3163-gmail-to-drive-pdfs.json](workflows/3163-gmail-to-drive-pdfs.json)
+  Descripción: Este flujo automatiza la transferencia de archivos PDF específicos desde Gmail a Google Drive usando OpenAI para filtrar y subir solo aquellos que coinciden con un término determinado.
+
+- [3164-sentiment-linear-slack.json](workflows/3164-sentiment-linear-slack.json)
+  Descripción: Este flujo analiza continuamente las conversaciones de soporte en Linear, realiza un análisis de sentimiento en los comentarios y envía notificaciones a Slack si hay una transición al sentimiento negativo.
+
+- [3165-sentiment-linear-slack.json](workflows/3165-sentiment-linear-slack.json)
+  Descripción: Este flujo monitorea continuamente las conversaciones en los problemas de soporte de Linear, realiza un análisis de sentimiento en los comentarios y notifica vía Slack si el sentimiento pasa a ser negativo.
+
+- [3166-buscar_palabras_clave.json](workflows/3166-buscar_palabras_clave.json)
+  Descripción: Este flujo automatiza la búsqueda de palabras clave principales usando NocoDB y DataforSEO para analizar volumen de búsquedas en Google y YouTube. Genera y actualiza datos en_batches en una base de datos.
+
+- [3167-slack-ai-chatbot-rag.json](workflows/3167-slack-ai-chatbot-rag.json)
+  Descripción: Flujo de un chatbot en Slack integrado con RAG que utiliza embeddings y vectores de Qdrant para responder preguntas basadas en documentos internos.
+
+- [3168-generar_palabras_clave_seo.json](workflows/3168-generar_palabras_clave_seo.json)
+  Descripción: Este flujo genera nuevas palabras clave para SEO y obtiene sus volúmenes de búsqueda utilizando la API de Google Ads. Analiza las palabras clave enviadas, extrae métricas como competencia y volumen promedio mensual, y actualiza una hoja de cálculo.
+
+- [3169-siri_ai_agent.json](workflows/3169-siri_ai_agent.json)
+  Descripción: Flujo que utiliza Siri para activar un agente de OpenAI a través de Apple Shortcuts, procesando comandos de voz y generando respuestas.
+
+- [3170-auto-tag-wordpress.json](workflows/3170-auto-tag-wordpress.json)
+  Descripción: Este flujo automatiza la asignación de etiquetas en WordPress usando IA. Analiza entradas RSS, genera y estructura tags, crea nuevas si son necesarias y actualiza las existentes.
+
+- [3171-utm-link-generator-with-analytics.json](workflows/3171-utm-link-generator-with-analytics.json)
+  Descripción: Este flujo crea enlaces UTM personalizados, genera códigos QR y programa informes de Analytics para monitorear su rendimiento.
+
+- [3172-automated-social-media-email.json](workflows/3172-automated-social-media-email.json)
+  Descripción: Este flujo automático permite analizar publicaciones en LinkedIn y Twitter de leads, generar un correo electrónico personalizado usando OpenAI y enviarlo automáticamente.
+
+- [3173-social-banner-generator.json](workflows/3173-social-banner-generator.json)
+  Descripción: Este flujo automatiza la creación de banners sociales usando n8n Forms para capturar datos del evento, OpenAI para generar imágenes y BannerBear para crear el banner final.
+
+- [3174-analisis-seo-serp.json](workflows/3174-analisis-seo-serp.json)
+  Descripción: Automatiza el análisis de datos SEO de SERPBear enviando información a OpenRouter para obtener una sumailla y guardando los resultados en Baserow.
+
+- [3175-google-doc-summarizer.json](workflows/3175-google-doc-summarizer.json)
+  Descripción: Este flujo automático monitorea un folder específico en Google Drive, obtiene los nuevos documentos .doc, extrae su contenido y lo sumaiza utilizando un modelo de IA, luego almacena el resumen junto con metadatos en una hoja de cálculo de Google Sheets.
+
+- [3176-email-summarizer-line.json](workflows/3176-email-summarizer-line.json)
+  Descripción: Este flujo automatiza la lectura de correos electrónicos, utiliza un modelo de IA para resumirlos y posteriormente envía los resúmenes a través de LINE Messenger.
+
+- [3177-email-to-line-summarizer.json](workflows/3177-email-to-line-summarizer.json)
+  Descripción: Este flujo automatiza la lectura de correos electrónicos, los resume con inteligencia artificial y los envía al mensajero LINE.
+
+- [3178-youtube-summarizer.json](workflows/3178-youtube-summarizer.json)
+  Descripción: Este flujo automatiza la resumen de videos de YouTube mediante la extracción de transcripciones y el uso de un motor de lenguaje para generar resúmenes concisos.
+
+- [3179-google-reminder-bot.json](workflows/3179-google-reminder-bot.json)
+  Descripción: Este flujo automático envía una notificación amable y personalizada a través de Telegram recordando eventos de Google Calendar con hasta 1 hora de anticipación, evitando duplicados.
+
+- [3180-sqlite-ai-agent.json](workflows/3180-sqlite-ai-agent.json)
+  Descripción: Este flujo permite interactuar con una base de datos SQLite usando un agente de inteligencia artificial. Descarga, extrae y carga la base de datos localmente, luego utiliza el agente de SQL para responder preguntas basadas en los datos.
+
+- [3181-telegram-ai-bot.json](workflows/3181-telegram-ai-bot.json)
+  Descripción: Este flujo automatiza un chatbot de Telegram que utiliza OpenAI y LangChain para procesar mensajes, mantener memoria contextual y generar imágenes con Dall-E 3.
+
+- [3182-spotify_telegram_bot.json](workflows/3182-spotify_telegram_bot.json)
+  Descripción: Este flujo utiliza Telegram para recibir mensajes musicales, consulta a OpenAI para obtener información de canciones y reproduce música en Spotify.
+
+- [3183-ollama-chat-flow.json](workflows/3183-ollama-chat-flow.json)
+  Descripción: Este flujo procesa mensajes de chat utilizando el modelo Llama 3.2 de Ollama a través de una cadena básica de LLM para generar respuestas estructuradas en formato JSON.
+
+- [3184-audio-transcription-notion.json](workflows/3184-audio-transcription-notion.json)
+  Descripción: Este flujo automatiza la transcripción de archivos de audio desde Google Drive, utiliza GPT-4 para resumir el contenido y almacena el resumen en Notion.
+
+- [3185-transform-image-to-lego.json](workflows/3185-transform-image-to-lego.json)
+  Descripción: Este flujo transforma una imagen recibida a través de LINE en un estilo LEGO utilizando la API de DALL-E.
+
+- [3187-traductor_telegram_audio.json](workflows/3187-traductor_telegram_audio.json)
+  Descripción: Este flujo traduce mensajes de voz en Telegram utilizando IA. Detecta automáticamente el idioma y los traduce al idioma configurado.
+
+- [3188-ai-voice-chat.json](workflows/3188-ai-voice-chat.json)
+  Descripción: Este flujo implementa un chatbot de voz que utiliza Webhook, Memory Manager, OpenAI, Google Gemini y ElevenLabs para mantener una conversación contextualizada con el usuario. El proceso incluye transcribir audio, almacenar y recuperar contexto, generar respuestas con inteligencia artificial y convertirlas en audio.
+
+- [3189-ubicacion-trabajo.json](workflows/3189-ubicacion-trabajo.json)
+  Descripción: Este flujo automático registra automáticamente los tiempos de entrada y salida basados en ubicación usando Webhooks, Google Sheets y Drive. Detecta si la hoja de trabajo existe, crea una nueva si no está presente y registra los datos de hora con fecha y dirección.
+
+- [3197-slack-to-linear-tickets.json](workflows/3197-slack-to-linear-tickets.json)
+  Descripción: Este flujo automático monitorea un canal de Slack para mensajes con la emoji de ticket, utiliza OpenAI para generar el título y descripción de los tickets, y crea incidentes en Linear si no existen duplicados.
+
+- [3199-text_automation.json](workflows/3199-text_automation.json)
+  Descripción: Flujo para automatizar tareas de traducción y edición de texto usando Apple Shortcuts y OpenAI. Analiza el tipo de solicitud, realiza la acción correspondiente con GPT-4 Mini y responde al Shortcut.
+
+- [3201-whatsapp-ai-sales-agent.json](workflows/3201-whatsapp-ai-sales-agent.json)
+  Descripción: Este flujo automático utiliza WhatsApp para recibir mensajes de usuarios y responderles mediante un agente de AI integrado con una base de conocimientos vectorizada. Incluye la descarga de un catálogo en PDF, su procesamiento y almacenamiento en un vector store, así como la gestión de tipos de mensajes no soportados.
+
+- [3202-whatsapp-bot-process.json](workflows/3202-whatsapp-bot-process.json)
+  Descripción: Este flujo automático procesa mensajes de WhatsApp, maneja diferentes tipos como audio, video e imagen utilizando Google Gemini para transcripción y análisis, y utiliza un agente de inteligencia artificial para responder.
+
+- [3203-video-narration-generator.json](workflows/3203-video-narration-generator.json)
+  Descripción: Este flujo automatiza la creación de un guion narrativo para videos usando OpenAI y luego genera un audio a partir de dicho guion.
+
+- [3205-backup-n8n.json](workflows/3205-backup-n8n.json)
+  Descripción: Este flujo automático realiza una copia de seguridad diaria de los workflows de n8n en Google Drive. Crea y verifica las carpetas 'n8n_backups' y 'n8n_old', mueve las copias antiguas a la carpeta 'n8n_old' y elimina aquellas que excedan 30 días.
+
+- [3207-waitlist-verification.json](workflows/3207-waitlist-verification.json)
+  Descripción: Flujo para manejar una lista de espera que incluye registro de usuarios, generación de código de verificación, envío de correo electrónico y validación. Si el código es incorrecto, se le pide al usuario reintentar. Una vez validado, se guarda en Google Sheets.
+
+- [3208-sql-agent-chart-generator.json](workflows/3208-sql-agent-chart-generator.json)
+  Descripción: Este flujo utiliza un agente de SQL y OpenAI para generar respuestas con visualizaciones en tiempo real. El usuario puede hacer preguntas sobre los datos y el sistema determinará si incluir una gráfica usando Chart.js, accionando un subflujo para crear una imagen compatible con Quickchart.io.
+
+- [3210-google_maps_email_scraper.json](workflows/3210-google_maps_email_scraper.json)
+  Descripción: Este flujo extrae y procesa correos electrónicos de negocios desde Google Maps utilizando una lista de consultas. Busca URLs relacionadas con las búsquedas iniciales, filtra las irrelevantes, scrapea las páginas resultantes para encontrar direcciones de correo electrónico, elimina duplicados e importa los resultados a una hoja de cálculo de Google.
+
+- [3211-blueSky-welcome-bot.json](workflows/3211-blueSky-welcome-bot.json)
+  Descripción: Este flujo programa un mensaje de bienvenida automático a nuevos seguidores en BlueSky. Primero inicia sesión, luego lista los seguidores y compara con una base de datos guardada para detectar新人. Los nuevos seguidores reciben un mensaje privado con un texto definido. Se actualiza la lista de seguidores en un archivo JSON.
+
+- [3212-cv-screening.json](workflows/3212-cv-screening.json)
+  Descripción: Este flujo automático descarga un CV desde una URL, extrae su contenido PDF y envía la información junto con una descripción de trabajo a OpenAI para obtener una evaluación estructurada que determina el perfil del candidato en base a los requisitos del puesto.
+
+- [3213-import-productboard-to-snowflake.json](workflows/3213-import-productboard-to-snowflake.json)
+  Descripción: Este flujo importa datos de Productboard (notas, empresas y características) a Snowflake. Utiliza solicitudes HTTP para recuperar información de Productboard, realiza mapeos manuales y actualiza tablas en Snowflake. Incluye unavisador en Slack con resúmenes semanales.
+
+- [3215-linear_productboard_sync.json](workflows/3215-linear_productboard_sync.json)
+  Descripción: Este flujo sincroniza el estado y fecha final de proyectos en Linear con una función en Productboard. Actualiza automáticamente los estados y las fechas en Productboard basado en los datos de Linear y notifica cambios mediante Slack.
+
+- [3216-aplicacion_cv_automatizada.json](workflows/3216-aplicacion_cv_automatizada.json)
+  Descripción: Flujo de aplicación para la gestión de CV y formulario de solicitud optimizado con IA, que incluye validación de documentos, extracción de información, y almacenamiento en Airtable.
+
+- [3217-appointment-scheduling-flow.json](workflows/3217-appointment-scheduling-flow.json)
+  Descripción: Este flujo automatiza la gestión de citas profesionales usando formularios interactivos y aprobación humana. Recibe solicitudes, clasifica enquires con IA, valida términos, agenda fechas/horas, notifica al usuario y gestiona citas aprobadas o rechazadas.
+
+- [3218-newsletter-survey.json](workflows/3218-newsletter-survey.json)
+  Descripción: Este flujo recoge información del usuario a través de un formulario multi-página: correo electrónico inicialmente y posteriormente datos adicionales como nombre, país, nivel laboral, funciones laborales, experiencia en sin-código y aficiones al producto. Los datos se guardan en Google Sheets y se envía una notificación a Slack.
+
+- [3223-search-console-report.json](workflows/3223-search-console-report.json)
+  Descripción: Este flujo extrae datos de Search Console mediante tres reportes diferentes (palabras clave, páginas y fechas) usando la API de Google. Los datos se procesan para separarlos y luego actualizar una hoja de cálculo de Google con información detallada sobre clics, impresiones, CTR y posiciones.
+
+- [3227-calendly-klicktipp-sync.json](workflows/3227-calendly-klicktipp-sync.json)
+  Descripción: Este flujo automático sincroniza eventos de Calendly con KlickTipp, manejando reservas y.Cancelaciones, transformando datos para asegurar que los invitados sean agregados o eliminados correctamente en la lista de subscriptores.
+
+- [3228-linear-sentiment-monitor.json](workflows/3228-linear-sentiment-monitor.json)
+  Descripción: Este flujo automatiza la monitorización de los problemas activos en Linear, realiza un análisis de sentimiento en los comentarios de las issues utilizando OpenAI y actualiza una tabla en Airtable con el estado emocional. Detecta transiciones de sentimiento negativo para enviar notificaciones a Slack.
+
+- [3229-ai_content_generator.json](workflows/3229-ai_content_generator.json)
+  Descripción: Este flujo utiliza IA para analizar artículos existentes y extraer características de voz y estilo, luego genera contenido nuevo siguiendo esas pautas y publica en WordPress.
+
+- [3230-gemini-bounding-box.json](workflows/3230-gemini-bounding-box.json)
+  Descripción: Este flujo utiliza la API de Gemini 2.0 para detectar objetos en imágenes y dibujar cajas envolventes personalizadas.
+
+- [3231-transcription-ai-flow.json](workflows/3231-transcription-ai-flow.json)
+  Descripción: Este flujo automatiza la transcripción en tiempo real de reuniones, estructura los datos y genera resúmenes usando OpenAI y bases de datos PostgreSQL.
+
+- [3232-automated-backup.json](workflows/3232-automated-backup.json)
+  Descripción: Este flujo automatiza la copia de seguridad de trabajos en GitHub usando n8n. Almacena los workflows como archivos JSON en un repositorio designado.
+
+- [3234-invoice-parser-flow.json](workflows/3234-invoice-parser-flow.json)
+  Descripción: Este flujo automático detecta nuevos archivos en Google Drive, los envía a LlamaParse para análisis y extrae información de facturas. Los datos procesados se almacenan en Airtable como registros de invoices y sus respectivos ítems detallados.
+
+- [3235-phishing-email-monitor.json](workflows/3235-phishing-email-monitor.json)
+  Descripción: Este flujo automático monitorea correo electrónico de Gmail y Outlook, genera capturas de pantalla HTML, analiza amenazas con ChatGPT-4 y crea tickets en Jira para phishing.
+
+- [3236-email-threat-detection.json](workflows/3236-email-threat-detection.json)
+  Descripción: Este flujo automatiza la detección de amenazas en correo electrónico mediante integración con Gmail y Outlook, análisis con ChatGPT y creación de tickets en Jira.
+
+- [3237-ai_magic_position.json](workflows/3237-ai_magic_position.json)
+  Descripción: Este flujo incluye un agente AI con capacidades de memoria y recuperación vectorial, conectado a OpenAI y herramientas HTTP para posicionar flujos.
+
+- [3240-strava-to-sheets.json](workflows/3240-strava-to-sheets.json)
+  Descripción: Este flujo programa un horario que cada dos horas extrae actividades de Strava, filtra aquellas no guardadas en Google Sheets y las procesa para actualizar una hoja de cálculo con detalles como distancia, fecha, tiempo y desnivel.
+
+- [3241-ai-meeting-automator.json](workflows/3241-ai-meeting-automator.json)
+  Descripción: Este flujo automático utiliza un agente de inteligencia artificial para procesar transcripciones de reuniones, extraer tareas y notificar al cliente. Para ello, utiliza Airtable para crear tareas y Google Calendar para programar citas.
+
+- [3243-service-now-slack-notifications.json](workflows/3243-service-now-slack-notifications.json)
+  Descripción: Este flujo automatiza la notificación de incidentes recientes de ServiceNow a un canal de Slack cada 5 minutos. Utiliza un timestamp para buscar incidentes creados en los últimos 5 minutos y, si hay nuevos, los ordena por número y envía detalles formateados al Slack. Si ocurre un error con ServiceNow, notifica el problema.
+
+- [3245-csvToJsonParser.json](workflows/3245-csvToJsonParser.json)
+  Descripción: Este flujo procesa una solicitud POST con datos en formato CSV o JSON. Primero, verifica el tipo de contenido y extrae los datos utilizando ExtractFromFile. Luego, convierte los datos_RAW a CSV si es necesario. Si hay errores, devuelve un código 500 con un mensaje de error. Si la conversión es exitosa, agrega los datos al cuerpo JSON y responde con un código 200.
+
+- [3251-automated-social-media-email.json](workflows/3251-automated-social-media-email.json)
+  Descripción: Este flujo automático extrae publicaciones de LinkedIn y Twitter de leads, las procesa para generar mensajes personalizados con OpenAI y envía emails automatizados.
+
+- [3252-docker-registry-cleaner.json](workflows/3252-docker-registry-cleaner.json)
+  Descripción: Este flujo automático elimina las imágenes y etiquetas viejas de un registro de Docker manteniendo solo las últimas 10 versiones y notificando los cambios.
+
+- [3253-cyber-attack-vector-store.json](workflows/3253-cyber-attack-vector-store.json)
+  Descripción: Este flujo automatiza la gestión de incidentes cibernéticos usando MITRE ATT&CK. Analiza alertas SIEM con LLM, consulta bases vectoriales Qdrant y actualiza Zendesk.
+
+- [3255-flujo-independiente.json](workflows/3255-flujo-independiente.json)
+  Descripción: Este flujo implementa un proceso independiente que inicia una ejecución secundaria a través de un webhook y la reanuda en el contexto principal.
+
+- [3256-github-backup-workflow.json](workflows/3256-github-backup-workflow.json)
+  Descripción: Este flujo automatiza la copia de seguridad de trabajos en GitHub al comparar y actualizar archivos JSON. Utiliza un bucle para procesar cada instancia, verifica diferencias entre versiones y gestiona operaciones de creación o edición según el estado.
+
+- [3258-automate-lead-generation-suitecrm.json](workflows/3258-automate-lead-generation-suitecrm.json)
+  Descripción: Flujo para automatizar la generación de leads en SuiteCRM usando formularios web y Google Sheets. Permite crear Leads con cupones exclusivos verificando si son duplicados y actualizando una hoja de cálculo.
+
+- [3259-notion-md-sincro.json](workflows/3259-notion-md-sincro.json)
+  Descripción: Este flujo automatiza la sincronización de bloques de Notion convirtiendo texto enriquecido a formato Markdown y viceversa, permitiendo actualizar contenido con formato.
+
+- [3260-fact-checking_workflow.json](workflows/3260-fact-checking_workflow.json)
+  Descripción: Este flujo automatiza la verificación de hechos y análisis de textos. Separa un texto en oraciones, utiliza LLM para marcar declaraciones como correctas o incorrectas, y produce un informe con las inexactitudes identificadas.
+
+- [3261-bbc_podcast_workflow.json](workflows/3261-bbc_podcast_workflow.json)
+  Descripción: Este flujo extrae y clasifica noticias de BBC, genera un guion para podcast usando LLM y los envía a Hugging Face para conversión en audio.
+
+- [3263-ai-resume-screening.json](workflows/3263-ai-resume-screening.json)
+  Descripción: Flujo automático para evaluar currículos en base a una descripción de empleo utilizando inteligencia artificial. Analiza, clasifica y organiza candidatos en carpetas según su perfil.
+
+- [3264-zoom-stripe-payments.json](workflows/3264-zoom-stripe-payments.json)
+  Descripción: Este flujo automático crea reuniones en Zoom y enlaza pagos seguros con Stripe para eventos. Automatiza la creación de citas, facturaclientes y envía notificaciones por correo electrónico con los detalles necesarios.
+
+- [3266-yt-ai-playlist.json](workflows/3266-yt-ai-playlist.json)
+  Descripción: Este flujo crea y actualiza una playlist de YouTube con noticias AI, eliminando la anterior y notificando su creación.
+
+- [3267-certificado-automatico.json](workflows/3267-certificado-automatico.json)
+  Descripción: Este flujo automatiza la generación y envío de certificados basados en un cuestionario de Google Forms. Recoge datos de las respuestas, verifica la puntuación, crea una presentación personalizada con el nombre del usuario, convierte la presentación a PDF y envía un correo electrónico con el certificado al usuario si supera la calificación.
+
+- [3268-prompt-generator.json](workflows/3268-prompt-generator.json)
+  Descripción: Flujo para generar y organizar prompts optimizados en Airtable usando Google Gemini. Permite categorizar y estructurar prompts de chatbot para un mejor manejo en n8n.
+
+- [3269-gong-call-processing.json](workflows/3269-gong-call-processing.json)
+  Descripción: Este flujo automatiza la extracción de información relevante de las llamadas comerciales grabadas en Gong y Salesforce. Busca oportunidades primarias con valores y etapas específicas, formatea los datos de las llamadas y envía la información procesada a un preprocesador para su análisis posterior.
+
+- [3270-call-processing-flow.json](workflows/3270-call-processing-flow.json)
+  Descripción: Este flujo automatiza la extracción y procesamiento de datos de llamadas de venta, integrando información complementaria como competidores y listas de integraciones para enriquecer los transcritos antes de enviarlos a un sistema de inteligencia artificial.
+
+- [3271-gong-call-processor.json](workflows/3271-gong-call-processor.json)
+  Descripción: Este flujo extrae y procesa datos de llamadas de ventas de Gong para generar un transcript enriquecido con metadatos como compañías, asistentes internos/externos y formato unificado.
+
+- [3272-call_processing_ai.json](workflows/3272-call_processing_ai.json)
+  Descripción: Este flujo automatiza la procesamiento de llamadas de ventas usando AI para extraer información y almacenarla en Notion. Incluye alertas en Slack y maneja errores para garantizar la integridad de los datos.
+
+- [3274-procesador-llamadas-venta.json](workflows/3274-procesador-llamadas-venta.json)
+  Descripción: Este flujo procesa datos de competidores, integraciones y objeciones extraídos de un análisis de llamadas de ventas. Actualiza bases de datos en Notion con información estructurada y crea entradas específicas para cada categoría.
+
+- [3275-automarketing-insights.json](workflows/3275-automarketing-insights.json)
+  Descripción: Este flujo automatiza la creación de insights marketing y temas recurrentes en Notion a partir de datos de llamadas de ventas. Analiza y organiza información clave en bases de datos específas.
+
+- [3277-water-drink-reminder.json](workflows/3277-water-drink-reminder.json)
+  Descripción: Este flujo automatiza la gestión de un sistema de recordatorio de beber agua. Recoge datos desde Google Sheets, utiliza OpenAI para generar mensajes motivacionales personalizados y envía notificaciones a Slack con botones interactivos.
+
+- [3278-google-sheets-analysis.json](workflows/3278-google-sheets-analysis.json)
+  Descripción: Este flujo utiliza un agente de inteligencia artificial para analizar y manipular datos desde Google Sheets, permitiendo realizar consultas avanzadas filtrando por fechas y estados, transformar formatos complicados en JSON, y obtener estadísticas a través de herramientas como el cálculo y la agregación.
+
+- [3280-trading-agent-analysis.json](workflows/3280-trading-agent-analysis.json)
+  Descripción: Este flujo automático permite a un usuario realizar un análisis técnico de acciones mediante un agente de inteligencia artificial en Telegram. Recibe mensajes, procesa texto o voz, genera gráficos personalizados y envía el análisis al usuario.
+
+- [3281-telegram-voice-to-social.json](workflows/3281-telegram-voice-to-social.json)
+  Descripción: Este flujo recibe mensajes de Telegram, los analiza para ver si son voz o texto, y en caso de ser voz los transcribe. Luego utiliza OpenAI y SerpAPI para generar contenido optimizado para redes sociales con un prompt detallado para crear imágenes.
+
+- [3282-analisis_medios_gemini.json](workflows/3282-analisis_medios_gemini.json)
+  Descripción: Este flujo utiliza diferentes metodologías para analizar medios como imágenes y PDFs empleando agentes de inteligencia artificial. Incluye rutas específicas para análisis de imágenes individuales y en=batch, uso de prompts personalizados, transformación a formato base64 y llamadas directas a la API de Gemini.
+
+- [3283-sync-email-templates.json](workflows/3283-sync-email-templates.json)
+  Descripción: Este flujo sincroniza plantillas de correo electrónico entre Dartagnan y Braze. Recupera plantillas de Dartagnan, compara con las existentes en Braze y actualiza o crea nuevas según corresponda.
+
+- [3285-mistral-ocr-parsing.json](workflows/3285-mistral-ocr-parsing.json)
+  Descripción: Flujo que utiliza Mistral OCR para analizar documentos y imágenes subidas a Google Drive. Primero carga archivos desde Google Drive, luego los envía a Mistral Cloud para obtener URLs firmadas, procesa el OCR con esas URLs y finalmente realiza análisis de documento o imagen utilizando diferentes modelos (chat completions).
+
+- [3288-follow_up_meetings.json](workflows/3288-follow_up_meetings.json)
+  Descripción: Este flujo automático monitorea citas de venta pasadas para detectar si se han enviado mensajes posteriores y sugiere nuevas citas disponibles al usuario para programar una nueva reunión si es necesario.
+
+- [3289-ko-fi-webhook-handler.json](workflows/3289-ko-fi-webhook-handler.json)
+  Descripción: Flujo que procesa webhooks de Ko-fi, verifica el token y maneja donaciones, suscripciones y órdenes de compra.
+
+- [3290-aprendizaje_idiomas.json](workflows/3290-aprendizaje_idiomas.json)
+  Descripción: Este flujo automatiza la creación de tarjetas flash para aprendizaje de idiomas. Utiliza Google Sheets para almacenar palabras, traduce al chino usando Google Translate, genera fonética y oraciones con un agente AI, busca imágenes en Pexels y las sube a Google Drive.
+
+- [3292-breach-monitor.json](workflows/3292-breach-monitor.json)
+  Descripción: Este flujo automático monitorea continuamente por nuevos brechas en haveibeenpwned.com y envía alertas cuando se detectan. Almacena la información de los últimos breaches en un archivo cache.json para evitar notificaciones duplicadas.
+
+- [3293-youtube-notificacion-videos.json](workflows/3293-youtube-notificacion-videos.json)
+  Descripción: Este flujo utiliza la API de YouTube para buscar y filtrar videos de canales subscriptos, detectando aquellos con duración mayor a 61 segundos y enviando notificaciones por correo electrónico.
+
+- [3295-email-processing-flow.json](workflows/3295-email-processing-flow.json)
+  Descripción: Este flujo automático procesa correos electrónicos de Gmail usando un clasificador de texto para asignar mensajes a categorías específicas como Guest Post, Youtube o Cursos. Luego, envía respuestas predefinidas utilizando plantillas HTML y marca los emails como leídos además de agregar etiquetas y contactos en Brevo.
+
+- [3296-shopify-to-google-spreadsheet.json](workflows/3296-shopify-to-google-spreadsheet.json)
+  Descripción: Este flujo extrae información de clientes de Shopify y la exporta a una hoja de cálculo de Google Sheets. Utiliza un bucle para recuperar datos paginados hasta que no haya más páginas, procesando la información y actualizando continuamente.
+
+- [3297-dropbox-watch-files.json](workflows/3297-dropbox-watch-files.json)
+  Descripción: Este flujo monitorea cambios en dos carpetas de Dropbox (/z_Apps/a_iphone/RecUp Memos/ y /z_Apps/auphonic/whisper) para detectar nuevos archivos o carpetas. Utiliza NocoDB para almacenar los metadatos de los archivos, filtra aquellos que no han sido procesados antes y ejecuta flujos específicos para cada tipo de archivo detectado.
+
+- [3298-pomodoro-bot.json](workflows/3298-pomodoro-bot.json)
+  Descripción: Este flujo gestiona sesiones de trabajo Pomodoro con Telegram y registra actividades en Google Sheets. Detecta comandos como /start y /stop, maneja intervalos de trabajo y descanso, y registra estadísticas.
+
+- [3301-antispam_discord.json](workflows/3301-antispam_discord.json)
+  Descripción: Este flujo automático detecta y modera mensajes spam en Discord usando IA para clasificar textos, notifica a los moderadores y realiza acciones según la decisión humana.
+
+- [3302-webpage-change-monitor.json](workflows/3302-webpage-change-monitor.json)
+  Descripción: Flujo automatizado para detectar cambios en una página web y notificar via correo electrónico cuando hay modificación. Utiliza un hash de contenido para comparación y registra actividades en Google Sheets.
+
+- [3303-email-pdf-classifier.json](workflows/3303-email-pdf-classifier.json)
+  Descripción: Este flujo automático utiliza n8n para analizar emails con adjuntos PDF y clasificarlos usando OpenAI. Crea carpetas en Google Drive según fechas, verifica si los archivos son facturas/receipts y los almacena allí o los envía por correo electrónico.
+
+- [3305-seo-wordpress-generator.json](workflows/3305-seo-wordpress-generator.json)
+  Descripción: Este flujo automático genera contenido optimizado para SEO para WordPress utilizando investigación de Perplexity y OpenAI. Incluye creación de títulos, slug y metadatos, desarrollo de HTML estructurado, y publicación en el blog.
+
+- [3308-historias-infantiles-arabic.json](workflows/3308-historias-infantiles-arabic.json)
+  Descripción: Flujo que automatiza la creación y envío de historias en árabe para niños a través de Telegram, utilizando OpenAI para generar contenido, traducir, crear imágenes y audio.
+
+- [3312-chatbot-curriculos.json](workflows/3312-chatbot-curriculos.json)
+  Descripción: Este flujo permite crear un chatbot personalizado que gestiona currículos y envía reportes diarios con información de conversaciones mediante Google Drive, Gemini, Pinecone y NocoDB.
+
+- [3315-coin_market_cap_crypto_agent.json](workflows/3315-coin_market_cap_crypto_agent.json)
+  Descripción: Flujo de agente decriptivo que utiliza API de CoinMarketCap para analizar y proporcionar información sobre criptomonedas a través de un sistema integrado de análisis de lenguaje natural con memoria.
+
+- [3317-agendamiento-citas-ai.json](workflows/3317-agendamiento-citas-ai.json)
+  Descripción: Este flujo automático utiliza Gmail y Google Calendar para analizar correos electrónicos que soliciten una cita, revisar la disponibilidad en el calendario y proponer horarios libres mediante un agente de inteligencia artificial.
+
+- [3318-extract_text_from_pdf_image_to_csv.json](workflows/3318-extract_text_from_pdf_image_to_csv.json)
+  Descripción: Este flujo automático extrae texto de archivos PDF y imágenes usando Vertex AI (Gemini) y los convierte en CSV para su almacenamiento en Google Drive.
+
+- [3319-umami-ai-analytics.json](workflows/3319-umami-ai-analytics.json)
+  Descripción: Este flujo extrae datos de analítica web de Umami, procesa y envía información a un modelo de IA para obtener resúmenes y comparativas semanales, guardando los resultados en Baserow.
+
+- [3320-supabase-vector-flow.json](workflows/3320-supabase-vector-flow.json)
+  Descripción: Este flujo integra Supabase con n8n para realizar inserciones, actualizaciones y recuperaciones en una base de datos vectoriales, utilizando embeddings de OpenAI y un motor de vectores optimizado para búsquedas eficientes.
+
+- [3323-hr-automatizacion.json](workflows/3323-hr-automatizacion.json)
+  Descripción: Este flujo automático gestiona la automatización del proceso de selección de personal mediante la extracción de información clave de los CVs, el análisis con inteligencia artificial y la consolidación de resultados en una hoja de cálculo.
+
+- [3325-split-test-ab.json](workflows/3325-split-test-ab.json)
+  Descripción: Este flujo implementa un test de división A/B para evaluar diferentes mensajes en un chatbot. Al recibir un mensaje, verifica si la sesión existe y asigna aleatoriamente un.prompt entre dos opciones guardadas en Supabase, luego utiliza el agente AI con el prompt seleccionado.
+
+- [3326-telegram-ai-bot.json](workflows/3326-telegram-ai-bot.json)
+  Descripción: Este flujo procesa mensajes de voz y texto en Telegram, transcribe audio a texto y utiliza OpenAI para responder inteligentemente.
+
+- [3327-telegram-ai-bot.json](workflows/3327-telegram-ai-bot.json)
+  Descripción: Este flujo Telegram implementa un bot que procesa comandos /flux para generar imágenes y respuestas textuales con NeurochainAI. Incluye manejo de errores y enlaces de reintentar.
+
+- [3328-telegram-ai-bot.json](workflows/3328-telegram-ai-bot.json)
+  Descripción: Este flujo Telegram AI Chatbot gestiona comandos específicos y utiliza OpenAI para responder mensajes en diferentes modos como conversación, bienvenida y generación de imágenes.
+
+- [3330-telegram-pdf-integration.json](workflows/3330-telegram-pdf-integration.json)
+  Descripción: Este flujo procesa un archivo PDF enviado por Telegram, lo carga en Pinecone para permitir búsquedas y contestaciones basadas en el contenido.
+
+- [3332-text-automations-shortcuts.json](workflows/3332-text-automations-shortcuts.json)
+  Descripción: Este flujo utiliza Apple Shortcuts para enviar textos a un webhook y usar OpenAI para realizar diferentes tareas como traducir, corregir gramática o ajustar el largo del texto.
+
+- [3333-Enrich_Company_Data.json](workflows/3333-Enrich_Company_Data.json)
+  Descripción: Este flujo automatiza la enriquecimiento de datos empresariales usando Google Sheets, OpenAI y una herramienta de extracción web. Recupera información de una hoja de cálculo, utiliza un agente de inteligencia artificial para analizar sitios web mediante ScrapingBee y actualiza los datos en tiempo real.
+
+- [3335-github-releases-tracker.json](workflows/3335-github-releases-tracker.json)
+  Descripción: Este flujo rastrea los lanzamientos de proyectos en GitHub y extrae información relevante para enviar mensajes formatizados a Slack. Configura repositorios seguidos, verifica releases periódicamente con un temporizador y utiliza Redis para cachear IDs.
+
+- [3336-credenciales-transfer-n8n.json](workflows/3336-credenciales-transfer-n8n.json)
+  Descripción: Flujo para transferir credenciales entre instancias de n8n. Permite seleccionar una instancia destino y una credencial origen, luego exporta, procesa y envía la credencial al destino.
+
+- [3339-amazon_price_tracker.json](workflows/3339-amazon_price_tracker.json)
+  Descripción: Este flujo monitorea los precios de productos en Amazon utilizando la API de ScrapeOps, registra cambios y envía alertas por correo electrónico cuando hay alteraciones significativas.
+
+- [3340-transcribe-bank-statements.json](workflows/3340-transcribe-bank-statements.json)
+  Descripción: Este flujo transforma un estado de cuenta bancario en formato PDF a markdown utilizando el modelo Gemini Vision AI para una fácil extracción de datos.
+
+- [3341-audio-translation-flow.json](workflows/3341-audio-translation-flow.json)
+  Descripción: Este flujo traduce texto al inglés, genera audio en francés, transcribe ese audio de vuelta al texto y luego lo convierte en un archivo de voz en inglés.
+
+- [3342-web_agent_airtop.json](workflows/3342-web_agent_airtop.json)
+  Descripción: Este flujo configura un agente web que utiliza Airtop para interactuar con una ventana del navegador, incluyendo abrir URLs, hacer clics y consultar páginas web siguiendo instrucciones dadas por el usuario. El agente también utiliza Claude 3.5 de Anthropic para procesar las interacciones.
+
+- [3343-Indeed_Data_Scraper_Gemini.json](workflows/3343-Indeed_Data_Scraper_Gemini.json)
+  Descripción: Este flujo extrae y resume datos de compañías de Indeed usando Bright Data y Google Gemini. Utiliza Airtable para almacenar los enlaces y procesa la información con agentes y cadenas de pensamiento AI.
+
+- [3344-scrape-trustpilot-sentiment.json](workflows/3344-scrape-trustpilot-sentiment.json)
+  Descripción: Este flujo extrae reseñas de Trustpilot usando DeepSeek, analiza su sentimiento con OpenAI y las registra en Google Sheets.
