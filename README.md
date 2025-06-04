@@ -1,16 +1,47 @@
-# Colección de Workflows de n8n
+# 🧠 Colección de Flujos de Trabajo de n8n
 
-Este repositorio contiene diversos blueprints para n8n recopilados de la comunidad. Cada archivo `.json` puede importarse desde la interfaz de n8n.
+Este repositorio es un **fork** de la iniciativa original de [@Zie619](https://github.com/Zie619/n8n-workflows), quien recopiló flujos de trabajo (workflows) de n8n procedentes de diversas fuentes, tales como:
 
-## Cómo importar un workflow
+- El sitio oficial de [n8n.io](https://n8n.io/) y su foro comunitario.  
+- Ejemplos compartidos públicamente en GitHub, blogs y otros sitios web.
 
-1.  Abre tu instancia de n8n.
-2.  Pulsa el menú **Importar** y selecciona el archivo deseado de la carpeta `workflows`.
-3.  Guarda y revisa las credenciales antes de ejecutarlo.
+El propósito de este repositorio es ofrecer un recurso consolidado para inspirarte, facilitar tu aprendizaje y permitir la reutilización de workflows en tus propios proyectos de n8n.
 
-A continuación encontrarás un listado con enlaces a cada blueprint y una descripción corta de su función.
 
-## Listado de Workflows
+## 📂 Mejoras Implementadas
+
+- **Descripciones en español**: Cada archivo `.json` fue analizado y se le asignó una descripción clara en español, basada en las acciones que realiza.  
+- **Eliminación de duplicados**: Se verificó y validó el hash único de cada archivo para detectar y eliminar workflows duplicados, garantizando que cada flujo de trabajo sea único en contenido.  
+- **Renombrado de archivos**: Se actualizaron los nombres de los archivos para que describan con mayor precisión su funcionalidad principal, facilitando su búsqueda y selección.
+
+
+## 🛠 Instrucciones de Uso
+
+Para importar cualquier flujo de trabajo en tu instancia de n8n, sigue estos pasos:
+
+1. Abre tu instancia de n8n.  
+2. Pulsa el menú “Importar” (☰ → Importar workflow).  
+3. Selecciona el archivo `.json` deseado desde la carpeta `workflows`.  
+4. Revisa y ajusta las credenciales o URLs de los webhooks según sea necesario.  
+5. Guarda y ejecuta el flujo de trabajo.
+
+
+## 🤝 Contribución
+
+Si descubriste un workflow interesante o desarrollaste uno propio, ¡anímate a contribuir a esta colección! Solo ten en cuenta:
+
+- **Nombre descriptivo**: Elige un nombre de archivo que refleje claramente la función principal del workflow.  
+- **Mención de la fuente**: Si el flujo de trabajo proviene de otra fuente, incluye un comentario breve al inicio del archivo indicando su origen.
+
+Para proponer contribuciones, abre un pull request con tu nuevo workflow o mejora.
+
+
+## ⚠️ Aviso
+
+Todos los workflows aquí compartidos se proporcionan tal cual. **Antes de emplearlos en un entorno de producción, inspecciónalos y pruébalos en un entorno controlado**. Asegúrate de entender completamente cada nodo, credencial y enlace para evitar posibles errores o brechas de seguridad.
+
+
+## 📋 Listado de Workflows
 
 - [0001-nostr-damus-ai-report.json](workflows/0001-nostr-damus-ai-report.json)
   Descripción: Este flujo automatizado analiza contenido Nostr con el hashtag #damus usando modelos de lenguaje para generar informes y luego envía los resultados por correo electrónico y Telegram.
