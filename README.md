@@ -25,6 +25,7 @@ Para importar cualquier flujo de trabajo en tu instancia de n8n, sigue estos pas
 4. Revisa y ajusta las credenciales o URLs de los webhooks según sea necesario.  
 5. Guarda y ejecuta el flujo de trabajo.
 6. [Si no encuentras el flujo que necesitas, puedes usar este Custom GPT para que te ayude a encontrarlo o a resolver cualquier problema que tengas con N8N.](https://chatgpt.com/g/g-6840a79abd348191966dd06abd7236c8-asistente-de-flujos-n8n).
+7. También puedes chatear con este repositorio usando [https://gitmcp.io/DragonJAR/n8n-workflows-es/chat](https://gitmcp.io/DragonJAR/n8n-workflows-es/chat)
 
 ## 🖥️ Servidor MCP (Model Context Protocol)
 
