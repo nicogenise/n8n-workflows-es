@@ -3687,6 +3687,153 @@ All workflows shared here are provided “as is.” **Before using them in a pro
   Description: This flow synchronizes tasks between Notion and ClickUp. When a Notion database page is updated, the corresponding task status in ClickUp is updated, and vice versa.
 
 
+- [1254-_damus-report.json](workflows/1254-_damus-report.json)
+  Description: Generates Damus reports and sends notifications via Gmail and Telegram.
+
+- [1256-n8n_executions_csv.json](workflows/1256-n8n_executions_csv.json)
+  Description: Exports a summary of n8n executions to a CSV file.
+
+- [1258-pdf-to-vector-store.json](workflows/1258-pdf-to-vector-store.json)
+  Description: Converts a PDF into vector data for later searches.
+
+- [1259-jira-ticket-autoresolver.json](workflows/1259-jira-ticket-autoresolver.json)
+  Description: Automatically resolves Jira tickets according to predefined rules.
+
+- [1261-ai-interview-flow.json](workflows/1261-ai-interview-flow.json)
+  Description: Automates interviews using AI-generated questions.
+
+- [1262-thehive-slack-integration.json](workflows/1262-thehive-slack-integration.json)
+  Description: Sends case notifications from TheHive to a Slack channel.
+
+- [1263-meeting-reminder-bot.json](workflows/1263-meeting-reminder-bot.json)
+  Description: Bot that sends meeting reminders via messaging.
+
+- [1264-slack-image-uploader.json](workflows/1264-slack-image-uploader.json)
+  Description: Automatically uploads images to a Slack channel.
+
+- [1265-airtable-baserow-form-connector.json](workflows/1265-airtable-baserow-form-connector.json)
+  Description: Connects Airtable forms with Baserow databases.
+
+- [1266-smartlead-processing.json](workflows/1266-smartlead-processing.json)
+  Description: Processes Smartlead leads and updates the database.
+
+- [1267-email_subscription_workflow.json](workflows/1267-email_subscription_workflow.json)
+  Description: Manages email subscriptions automatically.
+
+- [1268-automatizacion_becas_ai.json](workflows/1268-automatizacion_becas_ai.json)
+  Description: Automates scholarship application processing using AI.
+
+- [1269-api-schema-extractor.json](workflows/1269-api-schema-extractor.json)
+  Description: Extracts and documents an API schema.
+
+- [1270-email-header-analyzer.json](workflows/1270-email-header-analyzer.json)
+  Description: Analyzes an email's headers to obtain metadata.
+
+- [1271-email-header-analyzer.json](workflows/1271-email-header-analyzer.json)
+  Description: Analyzes an email's headers to obtain metadata.
+
+- [1272-ai_airtable_agent.json](workflows/1272-ai_airtable_agent.json)
+  Description: AI agent that manages records in Airtable.
+
+- [1273-service_now_search_bot.json](workflows/1273-service_now_search_bot.json)
+  Description: Bot that searches for information in ServiceNow.
+
+- [1274-proxmox-ai-agent.json](workflows/1274-proxmox-ai-agent.json)
+  Description: Agent that automates tasks on Proxmox servers with AI.
+
+- [1275-flujo-seleccion-candidatos-ai.json](workflows/1275-flujo-seleccion-candidatos-ai.json)
+  Description: Candidate selection flow assisted by AI.
+
+- [1276-airtable-pdf-llm-update.json](workflows/1276-airtable-pdf-llm-update.json)
+  Description: Updates Airtable records with data extracted from PDFs using an LLM.
+
+- [1277-baserow-llm-updates.json](workflows/1277-baserow-llm-updates.json)
+  Description: Performs updates in Baserow using a language model.
+
+- [1278-chatbot-citas.json](workflows/1278-chatbot-citas.json)
+  Description: Chatbot for automatically scheduling appointments.
+
+- [1279-spotify_to_youtube_sync.json](workflows/1279-spotify_to_youtube_sync.json)
+  Description: Syncs Spotify playlists with YouTube.
+
+- [1297-generador_totp.json](workflows/1297-generador_totp.json)
+  Description: Generates TOTP codes for two-factor authentication.
+
+- [1392-deep_researcher.json](workflows/1392-deep_researcher.json)
+  Description: Deep research agent powered by AI.
+
+- [1393-ai_phone_agent_retell.json](workflows/1393-ai_phone_agent_retell.json)
+  Description: AI phone agent using Retell.
+
+- [1394-yoga-line-bot.json](workflows/1394-yoga-line-bot.json)
+  Description: LINE bot that sends yoga routines.
+
+- [1395-call-processor.json](workflows/1395-call-processor.json)
+  Description: Processes call recordings and extracts information.
+
+- [1396-ai-product-data-processor.json](workflows/1396-ai-product-data-processor.json)
+  Description: Processes product data with the help of AI.
+
+- [1397-telegram-tareas.json](workflows/1397-telegram-tareas.json)
+  Description: Manages tasks via a Telegram bot.
+
+- [1398-mails2notion.json](workflows/1398-mails2notion.json)
+  Description: Converts emails into Notion pages.
+
+- [1399-startups-funding-monitor.json](workflows/1399-startups-funding-monitor.json)
+  Description: Monitors startup funding rounds.
+
+- [1400-telegram_survey_bot.json](workflows/1400-telegram_survey_bot.json)
+  Description: Telegram bot for surveys.
+
+- [1401-logistica-telegram-flow.json](workflows/1401-logistica-telegram-flow.json)
+  Description: Automates logistics notifications via Telegram.
+
+- [1402-edi-processor.json](workflows/1402-edi-processor.json)
+  Description: Processes EDI files for electronic data interchange.
+
+- [1403-web-security-audit.json](workflows/1403-web-security-audit.json)
+  Description: Performs automated web security audits.
+
+- [1405-team_weekly_report_slack.json](workflows/1405-team_weekly_report_slack.json)
+  Description: Sends weekly team reports in Slack.
+
+- [1409-automated_social_media_factory.json](workflows/1409-automated_social_media_factory.json)
+  Description: Generates social media content automatically.
+
+- [1413-automate_blog_creation.json](workflows/1413-automate_blog_creation.json)
+  Description: Automates blog post creation.
+
+- [1414-spot-discrimination-analysis.json](workflows/1414-spot-discrimination-analysis.json)
+  Description: Detects discrimination in text using AI.
+
+- [1415-survey_insights_qdrant.json](workflows/1415-survey_insights_qdrant.json)
+  Description: Analyzes survey responses and stores vectors in Qdrant.
+
+- [1416-video-social-generator.json](workflows/1416-video-social-generator.json)
+  Description: Generates short videos for social media.
+
+- [1417-bitrix-chatbot-rag.json](workflows/1417-bitrix-chatbot-rag.json)
+  Description: Bitrix chatbot with RAG search.
+
+- [1418-telegram-bot-integration.json](workflows/1418-telegram-bot-integration.json)
+  Description: Integrates a Telegram bot with external services.
+
+- [1419-youtube-rss-notifications.json](workflows/1419-youtube-rss-notifications.json)
+  Description: Sends notifications of new YouTube videos via RSS.
+
+- [1420-graphic-design-flow.json](workflows/1420-graphic-design-flow.json)
+  Description: Automates basic graphic design tasks.
+
+- [1421-automated-seo-audit-report.json](workflows/1421-automated-seo-audit-report.json)
+  Description: Generates SEO audit reports automatically.
+
+- [1422-analyze_reddit_posts_business_opportunities.json](workflows/1422-analyze_reddit_posts_business_opportunities.json)
+  Description: Analyzes Reddit posts for business opportunities.
+
+- [1423-bot_handoff.json](workflows/1423-bot_handoff.json)
+  Description: Transfers the conversation from a bot to a human agent.
+
 - [2529-firecrawl-tool.json](workflows/2529-firecrawl-tool.json)
   Description: This flow allows any user to send URLs to get responses from the Firecrawl API and keep them as editable fields in the workflow context.
 
