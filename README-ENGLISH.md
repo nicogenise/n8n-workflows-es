@@ -180,8 +180,6 @@ All workflows shared here are provided “as is.” **Before using them in a pro
 - [0042-iss-mqtt-flow.json](workflows/0042-iss-mqtt-flow.json)
   Description: This automated flow executes an HTTP call every minute to get the current position of the International Space Station from api.wheretheiss.at, processes the data, and sends it via MQTT to the topic 'iss-position'.
 
-- [0043-rag-supabase-notion.json](workflows/0043-rag-supabase-notion.json)
-  Description: This automated flow allows a chatbot to maintain a contextualized conversation with current Notion data using embeddings stored in Supabase.
 
 - [0044-gmail-drive-adjunto.json](workflows/0044-gmail-drive-adjunto.json)
   Description: This automated flow extracts messages from Gmail, saves attachments to Google Drive, and then gets the direct link to facilitate access.
@@ -1260,8 +1258,6 @@ All workflows shared here are provided “as is.” **Before using them in a pro
 - [0414-passport-photo-validator.json](workflows/0414-passport-photo-validator.json)
   Description: This automated flow verifies the validity of passport photos according to British government criteria using an AI model.
 
-- [0415-siri-ai-agente.json](workflows/0415-siri-ai-agente.json)
-  Description: This workflow allows interacting with an AI agent via the 'Hey Siri' command on mobile devices.
 
 - [0416-zotero-pagination-bibliography.json](workflows/0416-zotero-pagination-bibliography.json)
   Description: This automated flow allows downloading collections and items (articles) from the Zotero API via a loop that handles pagination.
@@ -2136,8 +2132,6 @@ All workflows shared here are provided “as is.” **Before using them in a pro
 - [0711-phishing-analysis-n8n.json](workflows/0711-phishing-analysis-n8n.json)
   Description: This automated flow analyzes indicators of compromise in emails, extracts URLs, and scans them with VirusTotal and URLScan.io to detect potential phishing threats.
 
-- [0712-lead-calification.json](workflows/0712-lead-calification.json)
-  Description: This flow automates the qualification of new leads in a spreadsheet with Google using OpenAI's GPT-4.
 
 - [0713-bright-data-gemini-chat-enhancement.json](workflows/0713-bright-data-gemini-chat-enhancement.json)
   Description: This flow allows Gemini AI to incorporate real-time search results from Google, Bing, or Yandex to improve chatbot responses.
@@ -2520,8 +2514,6 @@ All workflows shared here are provided “as is.” **Before using them in a pro
 - [0843-spy-intelligence-tool.json](workflows/0843-spy-intelligence-tool.json)
   Description: This automated flow allows a LINE chatbot to perform automated spy intelligence. It periodically (daily) scans information from a URL extracted by AI and compares old content with current content to send email alerts if there are significant differences.
 
-- [0844-sql-agent-memory.json](workflows/0844-sql-agent-memory.json)
-  Description: This flow allows interacting with a locally loaded SQLite database via the LangChain SQL Agent, maintaining contextual memory in each conversation.
 
 - [0845-openai-image-generator.json](workflows/0845-openai-image-generator.json)
   Description: This workflow allows generating images using the OpenAI API based on inputs provided via forms.
@@ -2571,8 +2563,6 @@ All workflows shared here are provided “as is.” **Before using them in a pro
 - [0865-bamboo-hr-ai-chatbot.json](workflows/0865-bamboo-hr-ai-chatbot.json)
   Description: This flow is an AI-powered chatbot for answering questions about corporate policies, benefits, and labor procedures using documents uploaded from BambooHR as an information source. It implements vector search with OpenAI, contextual memory (window buffer memory), and employee lookup tools that allow AI to search for internal contacts or departments to facilitate responses.
 
-- [0866-gmail-email-categorization.json](workflows/0866-gmail-email-categorization.json)
-  Description: This automated flow automatically categorizes incoming emails in Gmail by assigning them existing labels or creating new labels based on content analysis.
 
 - [0867-linea_inventario_agendador.json](workflows/0867-linea_inventario_agendador.json)
   Description: This automated flow allows an n8n chatbot to schedule meetings by checking availability in Google Calendar and generating 30-minute time slots between working hours from Monday to Friday.
@@ -3090,8 +3080,6 @@ All workflows shared here are provided “as is.” **Before using them in a pro
 - [1044-line-customer-service-whatsapp-asana.json](workflows/1044-line-customer-service-whatsapp-asana.json)
   Description: This automated flow allows integrating WhatsApp form responses with task creation in Asana for incident tracking.
 
-- [1045-google-sheets-feedback-summary.json](workflows/1045-google-sheets-feedback-summary.json)
-  Description: This automated flow extracts responses from a Google Sheets form, aggregates them by question using the Aggregate node, and then uses OpenAI GPT-4 to generate a detailed feedback summary in Markdown format.
 
 - [1046-gmail-api-automation.json](workflows/1046-gmail-api-automation.json)
   Description: This automated flow allows sending and receiving emails via the Gmail API, using a single set of OAuth2 credentials for different operations.
@@ -3420,8 +3408,6 @@ All workflows shared here are provided “as is.” **Before using them in a pro
 - [1157-n8n-multi-workflow.json](workflows/1157-n8n-multi-workflow.json)
   Description: This automated flow allows executing multiple secondary jobs in parallel and tracking their status until all are finished.
 
-- [1158-hackernews-resource-recommendations.json](workflows/1158-hackernews-resource-recommendations.json)
-  Description: This automated flow searches for and analyzes educational resources related to a specified topic (like Python or artificial intelligence), using the Hacker News API. It then categorizes these resources by type and difficulty level, performs basic sentiment analysis, and integrates everything into a formatted email to send personalized recommendations.
 
 - [1159-webinar-registration-klicktipp.json](workflows/1159-webinar-registration-klicktipp.json)
   Description: This flow automates the integration of webinar registrations from JotForm with KlickTipp. It validates and transforms data like names, dates, work experiences, and URLs to create subscribers in KlickTipp and apply dynamic tags based on form responses.
@@ -3549,8 +3535,6 @@ All workflows shared here are provided “as is.” **Before using them in a pro
 - [1200-telegram-image-analysis.json](workflows/1200-telegram-image-analysis.json)
   Description: This automated flow analyzes Telegram images using the OpenAI API.
 
-- [1201-telegram-ai-memory-dalle.json](workflows/1201-telegram-ai-memory-dalle.json)
-  Description: This automated flow allows a Telegram chatbot to maintain a contextualized conversation using window memory and also generate images with Dall-E 3 according to user requests, all via integrated tools.
 
 - [1202-gmail-emails-monitor.json](workflows/1202-gmail-emails-monitor.json)
   Description: This flow monitors Gmail email and automatically adds each received message as a new row in a spreadsheet.
@@ -3690,14 +3674,8 @@ All workflows shared here are provided “as is.” **Before using them in a pro
 - [1247-auto-subir-multimedia.json](workflows/1247-auto-subir-multimedia.json)
   Description: This automated flow allows downloading videos from Google Drive and then extracting their audio to generate descriptions used for simultaneous upload to Instagram and TikTok. It also has a mechanism to notify errors via Telegram.
 
-- [1248-rag-supabase-notion.json](workflows/1248-rag-supabase-notion.json)
-  Description: This automated flow allows a chatbot to maintain a contextualized conversation with current Notion data using embeddings stored in Supabase.
 
-- [1249-linkedin-top-sourcer.json](workflows/1249-linkedin-top-sourcer.json)
-  Description: This flow allows finding LinkedIn profiles using boolean search techniques from a natural description of the candidate.
 
-- [1250-todoist-ai-categorization.json](workflows/1250-todoist-ai-categorization.json)
-  Description: This flow automatically organizes Todoist tasks into specific projects using artificial intelligence to categorize them.
 
 - [1251-trello-list-updates.json](workflows/1251-trello-list-updates.json)
   Description: This flow monitors and receives updates about changes in a specific Trello list.
@@ -3708,8 +3686,6 @@ All workflows shared here are provided “as is.” **Before using them in a pro
 - [1253-notion-clickup-sync.json](workflows/1253-notion-clickup-sync.json)
   Description: This flow synchronizes tasks between Notion and ClickUp. When a Notion database page is updated, the corresponding task status in ClickUp is updated, and vice versa.
 
-- [2528-line-llm-memory.json](workflows/2528-line-llm-memory.json)
-  Description: This flow uses OpenRouter with configurable LLM models to maintain contextualized conversations in LINE using buffer memory.
 
 - [2529-firecrawl-tool.json](workflows/2529-firecrawl-tool.json)
   Description: This flow allows any user to send URLs to get responses from the Firecrawl API and keep them as editable fields in the workflow context.
@@ -3738,8 +3714,6 @@ All workflows shared here are provided “as is.” **Before using them in a pro
 - [2537-agricultural-crops-vector-db.json](workflows/2537-agricultural-crops-vector-db.json)
   Description: This automated flow jointly loads agricultural crop images and related data (like plant names) from Google Cloud Storage, generates embeddings using Voyage AI's Multimodal model, and stores them in a Qdrant vector collection. It also checks if the collection already exists to avoid duplication and includes an in-memory index on the plant name (crop_name). Loading is done in batches with a configurable size, thus allowing efficient and fast index creation.
 
-- [2538-knn-landsat-classifier.json](workflows/2538-knn-landsat-classifier.json)
-  Description: This flow analyzes satellite landscape images using KNN classification with a vector database, automatically identifying types like 'agricultural', 'buildings', or 'forest'.
 
 - [2539-lands-knn-classification.json](workflows/2539-lands-knn-classification.json)
   Description: This workflow uses KNN with satellite images to classify landscape types via Voyage AI model embeddings and Qdrant queries. When there are ties, it increases the number of neighbors until a clear majority is found.
@@ -4080,8 +4054,6 @@ All workflows shared here are provided “as is.” **Before using them in a pro
 - [2654-comparador-multiples-modelos.json](workflows/2654-comparador-multiples-modelos.json)
   Description: This flow allows comparing multiple language model responses while maintaining separate memory per model.
 
-- [2655-Generate_AI-Ready_llms.txt_Files_from_Screaming_Frog.json](workflows/2655-_Generate_AI-Ready_llms.txt_Files_from_Screaming_Frog.json)
-  Description: This automated flow allows generating an 'llms.txt' file from a Screaming Frog crawler CSV export. It extracts relevant data like titles, URLs, and indexability to create optimized content that helps LLM models in web page discovery and classification.
 
 - [2656-pipedrive-enrichment-flow.json](workflows/2656-pipedrive-enrichment-flow.json)
   Description: This automated flow scans the website of a newly created organization in Pipedrive to generate a detailed summary using GPT-4o, allowing updated and integrated data directly in the CRM system.
