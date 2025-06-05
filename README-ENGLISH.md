@@ -12,7 +12,7 @@ The purpose of this repository is to offer a consolidated resource to inspire yo
 
 ## 📂 Implemented Improvements
 
-- **Spanish Descriptions**: Each `.json` file was analyzed and given a clear description in Spanish based on the actions it performs.  
+- **English Descriptions**: Each `.json` file was analyzed and given a clear description in English based on the actions it performs.  
 - **Duplicate Removal**: The unique hash of each file was verified and validated to detect and remove duplicate workflows, ensuring that each workflow is unique in content.  
 - **File Renaming**: File names were updated to more accurately describe their main functionality, making them easier to search for and select.
 
@@ -2213,3 +2213,2201 @@ All workflows shared here are provided “as is.” **Before using them in a pro
 
 - [0737-getresponse-trigger-airtable.json](workflows/0737-getresponse-trigger-airtable.json)
   Description: This automated flow is triggered by a subscriber in GetResponse for the list 'qtPk7'. When this event occurs, n8n collects the contact data and adds an entry in Airtable to the specified table.
+
+- [0738-n8n-flujo-set-stackby.json](workflows/0738-n8n-flujo-set-stackby.json)
+  Description: This flow uses a manual trigger to set static values in a 'set' node, then passes this data to another Stackby node that displays it in a table. The second Stackby uses the ID and name configuration from the first node, maintaining consistency with those fields.
+
+- [0739-peekalink-verificacion.json](workflows/0739-peekalink-verificacion.json)
+  Description: This flow verifies if a service is available by querying a specific URL and using logical conditions.
+
+- [0740-tapfiliate-crear-cuenta.json](workflows/0740-tapfiliate-crear-cuenta.json)
+  Description: This automated flow creates an affiliate account in Tapfiliate with predefined data and adds a custom tag.
+
+- [0741-strava-activity-flow.json](workflows/0741-strava-activity-flow.json)
+  Description: This automated flow allows creating activities in Strava with specific parameters, updating them using the previously obtained ID, and getting information about them.
+
+- [0742-typeform-demio-registration.json](workflows/0742-typeform-demio-registration.json)
+  Description: This automated flow activates registration in Demio with data provided by a Typeform form.
+
+- [0743-quickbooks-cliente-factura.json](workflows/0743-quickbooks-cliente-factura.json)
+  Description: This automated flow allows creating a customer in QuickBooks and then sending an existing invoice related to that ID.
+
+- [0744-raindrop-automations.json](workflows/0744-raindrop-automations.json)
+  Description: This automated flow uses Raindrop to create and update notes sequentially.
+
+- [0745-crear-organizacion-affinity.json](workflows/0745-crear-organizacion-affinity.json)
+  Description: This automated flow allows creating an organization in Affinity via a manual trigger.
+
+- [0746-strava-twitter-tweet.json](workflows/0746-strava-twitter-tweet.json)
+  Description: This automated flow monitors new cycling activities in Strava and posts a tweet on Twitter with details about the distance covered and the name of the exercise.
+
+- [0747-twitter-monitor-n8n-mentions.json](workflows/0747-twitter-monitor-n8n-mentions.json)
+  Description: This automated flow searches for the latest tweets mentioning a company on Twitter and shares them in a Slack channel if they are more recent than the previous execution.
+
+- [0748-webinar-creation-update.json](workflows/0748-webinar-creation-update.json)
+  Description: This automated flow creates a web session for the webinar 'Getting started with n8n', then updates its description, and finally executes the webinar action.
+
+- [0749-emelia-campaign-contact.json](workflows/0749-emelia-campaign-contact.json)
+  Description: This automated flow creates a marketing campaign in Emelia and adds a contact to that campaign.
+
+- [0751-weather-alert-schedule.json](workflows/0751-weather-alert-schedule.json)
+  Description: This workflow checks the current weather in Berlin every time it is manually started or at a scheduled time (06:15), comparing the temperature with a threshold and sending an alert via signl4 if it is below 25°C.
+
+- [0752-line-chatbot-context.json](workflows/0752-line-chatbot-context.json)
+  Description: This automated flow uses Webhook and the postHog Integration node to maintain a contextualized conversation.
+
+- [0753-mailerlite-suscriptor.json](workflows/0753-mailerlite-suscriptor.json)
+  Description: This workflow uses MailerLite nodes to create, update, and get subscriber details based on email.
+
+- [0754-agile-crm-contact-creation.json](workflows/0754-agile-crm-contact-creation.json)
+  Description: This automated flow allows creating a new contact in Agile CRM by activating the manual 'execute' button.
+
+- [0755-airtable-lemlist-sync.json](workflows/0755-airtable-lemlist-sync.json)
+  Description: This flow imports records from Airtable and converts them into leads in Lemlist, using specific credentials for both connections.
+
+- [0756-lemplist-mattermost-email-reply.json](workflows/0756-lemplist-mattermost-email-reply.json)
+  Description: This automated flow sends notifications of replies received in a specific Lemplist campaign to a designated Mattermost channel.
+
+- [0757-weather-query-response.json](workflows/0757-weather-query-response.json)
+  Description: This automated flow queries a web service to get weather data for a specified city, formats it, and returns it as a response.
+
+- [0758-asana-task-creator.json](workflows/0758-asana-task-creator.json)
+  Description: This automated flow queries the Asana API via OAuth2 and processes the result to generate a message showing the permalink of a created task.
+
+- [0759-typeform-api-invoice.json](workflows/0759-typeform-api-invoice.json)
+  Description: This flow uses a Typeform trigger to receive responses and uses them as JSON parameters in the APITemplate.io PDF generator.
+
+- [0760-asana-task-creator.json](workflows/0760-asana-task-creator.json)
+  Description: This flow allows creating a new task in Asana manually by clicking 'execute'.
+
+- [0761-iss-kafka-positions.json](workflows/0761-iss-kafka-positions.json)
+  Description: This automated flow queries the current position of the ISS satellite every minute via the WhereTheIss API and sends the data in real-time to the Kafka topic 'iss-position'.
+
+- [0762-line-chatbot-automations.json](workflows/0762-line-chatbot-automations.json)
+  Description: This flow configures automatic processes for LINE Chatbots using n8n Autopilot nodes and passing parameters between them.
+
+- [0763-autopilot-to-airtable-contact.json](workflows/0763-autopilot-to-airtable-contact.json)
+  Description: This automated flow automatically imports new contacts from Autopilot to a specific table in Airtable.
+
+- [0764-wise-eur-transfer-flow.json](workflows/0764-wise-eur-transfer-flow.json)
+  Description: This automated flow uses the Wise API to create and execute monetary transfers between accounts.
+
+- [0765-wise-transfer-handler.json](workflows/0765-wise-transfer-handler.json)
+  Description: This automated flow allows logging transfer details in Airtable when their status changes using the Wise API.
+
+- [0766-demo-batch.json](workflows/0766-demo-batch.json)
+  Description: This flow uses the Function node to generate a list of items and then applies SplitInBatches with a batch size of 1 to process them in individual batches, checking if there are pending items.
+
+- [0767-split-batch-test.json](workflows/0767-split-batch-test.json)
+  Description: This flow uses a manual trigger to start an execution that generates 10 numerical items and processes them one by one using SplitInBatches, checking if the current index is equal to 5.
+
+- [0768-beber.json](workflows/0768-beber.json)
+  Description: This flow gets random drink preparation instructions from TheCocktailDB API and translates them to French using DeepL.
+
+- [0769-sql-query-execution.json](workflows/0769-sql-query-execution.json)
+  Description: This automated flow allows executing a SQL query in a Microsoft SQL database via a manual trigger.
+
+- [0770-google-drive-video-upload.json](workflows/0770-google-drive-video-upload.json)
+  Description: This automated flow allows uploading videos to Google Drive and immediately uploading them to Instagram, TikTok, and YouTube with a title or description generated by AI (OpenAI). The process includes downloading the video from Google Drive, extracting its audio for analysis with OpenAI, and finally making the necessary HTTP requests to publish on the three social media platforms.
+
+- [0771-google-trends-resumen.json](workflows/0771-google-trends-resumen.json)
+  Description: This automated flow extracts data from Google Trends using Bright Data Web Unlocker and processes it with LLM chains (Google Gemini Flash) to generate a structured summary that is then written to a JSON file or sent by email.
+
+- [0772-generador_3d_figurine.json](workflows/0772-generador_3d_figurine.json)
+  Description: This flow uses Midjourney to generate base images and GPT-4o to create orthographic views of 3D characters.
+
+- [0773-slack-birthday-contacts.json](workflows/0773-slack-birthday-contacts.json)
+  Description: This automated flow allows a user to get all people from Google Contacts with birthdays on the current day and automatically send birthday reminder messages to a specific Slack channel.
+
+- [0774-coffee-groups-organization.json](workflows/0774-coffee-groups-organization.json)
+  Description: This automated flow virtually organizes employees into groups for coffee chats every Monday at 10:00 AM.
+
+- [0775-Email-AI-HLT-System.json](workflows/0775-Email-AI-HLT-System.json)
+  Description: This automated flow uses IMAP to receive emails and AI to generate responses, integrating human intervention in the loop for validation.
+
+- [0776-youtube-seo-blog-generator.json](workflows/0776-youtube-seo-blog-generator.json)
+  Description: This automated flow allows extracting YouTube video transcripts using Dumpling AI, generating a complete SEO blog post with OpenAI GPT-4o based on that transcript, and sending it as an email along with a generated image.
+
+- [0777-telegram-file-downloader.json](workflows/0777-telegram-file-downloader.json)
+  Description: This automated flow downloads and saves new files received via Telegram message to Google Drive.
+
+- [0778-discord-ai-agent.json](workflows/0778-discord-ai-agent.json)
+  Description: This automated flow allows a Discord chatbot to maintain contextualized conversations across different channels using advanced memory and integrated tools.
+
+- [0779-rag-movie-recom-qdrant-openai.json](workflows/0779-rag-movie-recom-qdrant-openai.json)
+  Description: This automated flow implements an AI chatbot based on RAG to recommend movies using Qdrant as vector storage and OpenAI for embeddings and interaction.
+
+- [0780-milvus-paul-graham-essays.json](workflows/0780-milvus-paul-graham-essays.json)
+  Description: This flow allows creating a knowledge base with OpenAI embeddings from recent Paul Graham essays, storing the vectors in a Milvus collection.
+
+- [0781-line-chatbot-automatic-reply.json](workflows/0781-line-chatbot-automatic-reply.json)
+  Description: This automated flow allows a LINE bot to automatically respond to messages received via webhooks, confirming their receipt. Additionally, it supports manually scheduled message sending using a specific user ID.
+
+- [0782-telegram-chatbot-sessions.json](workflows/0782-telegram-chatbot-sessions.json)
+  Description: This automated flow allows a Telegram chatbot to manage multiple conversations while maintaining memory and history per session using Google Sheets.
+
+- [0783-sql-email-query-generator.json](workflows/0783-sql-email-query-generator.json)
+  Description: This flow translates questions about emails into SQL queries and executes them against the database.
+
+- [0784-ai-meeting-tool.json](workflows/0784-ai-meeting-tool.json)
+  Description: This automated flow allows an AI assistant to manage meeting transcripts and perform automated actions like creating Google Calendar events for follow-up.
+
+- [0785-typeform-feedback.json](workflows/0785-typeform-feedback.json)
+  Description: This flow processes positive responses from a Typeform form and automatically adds them to a Notion table while creating a Trello card and notifying on Slack.
+
+- [0786-telegram-groq-llava.json](workflows/0786-telegram-groq-llava.json)
+  Description: This automated flow allows receiving an image via Telegram, converting it to base64, and sending it to the GROQ LLAVA V1.5-7B model to get its description.
+
+- [0787-n8n-ai-demo-multifunction.json](workflows/0787-n8n-ai-demo-multifunction.json)
+  Description: This automated flow uses the n8n platform to build a multifunctional AI system that includes PDF processing via embeddings and text splitting, as well as a chatbot with document-based QA using the GPT-4o model. It also integrates functionality for scheduling appointments.
+
+- [0789-telegram-ai-chat.json](workflows/0789-telegram-ai-chat.json)
+  Description: This automated flow allows a Telegram chatbot to maintain contextualized conversations, answer questions, and generate images when users request it.
+
+- [0790-amazon-ads-optimization-flow.json](workflows/0790-amazon-ads-optimization-flow.json)
+  Description: This automated flow analyzes Amazon Ads reports stored in Google Drive, using AI to generate detailed recommendations on bidding strategies, tactical optimization, and budget scaling.
+
+- [0791-ai-wordpress-summary.json](workflows/0791-ai-wordpress-summary.json)
+  Description: This automated flow generates and adds an AI summary to the beginning of WordPress articles using OpenAI, checks if one already exists to avoid duplicates, updates the page, and saves the data in Google Sheets.
+
+- [0792-line-chatbot-memory-search.json](workflows/0792-line-chatbot-memory-search.json)
+  Description: This automated flow allows a LINE chatbot to maintain a contextualized conversation using buffer memory, integrating web search capability with SerpAPI and the GPT-4o-mini language model.
+
+- [0794-fireflies-ai-agent-tasks-notification.json](workflows/0794-fireflies-ai-agent-tasks-notification.json)
+  Description: This automated flow captures meeting transcripts in Fireflies.ai and uses an OpenAI-based AI agent to generate tasks in Airtable based on key meeting points. Additionally, it sends specific notifications to clients about their pending items via Gmail if relevant and schedules Google Calendar events if follow-up calls are required.
+
+- [0795-realtime-meeting-transcriber.json](workflows/0795-realtime-meeting-transcriber.json)
+  Description: This flow automates real-time meeting transcription using Recall.ai and integrates the generated notes with an OpenAI chatbot for insights.
+
+- [0796-n8n-reAct-scraper.json](workflows/0796-n8n-reAct-scraper.json)
+  Description: This flow uses a ReAct AI agent with the HTTP_Request_Tool to extract and process HTML content via HTTP requests, applying limitations on page length and simplifying it according to parameters.
+
+- [0797-line-chatbot-memory.json](workflows/0797-line-chatbot-memory.json)
+  Description: This automated flow allows a LINE chatbot to maintain a contextualized conversation with user memory using cache storage.
+
+- [0798-ai-chat-with-supabase-documents.json](workflows/0798-ai-chat-with-supabase-documents.json)
+  Description: This automated flow allows an AI chatbot to process PDF and text documents stored in Supabase, generate vector embeddings with OpenAI, and create an interactive knowledge base for file queries.
+
+- [0799-supabase-chat-ai.json](workflows/0799-supabase-chat-ai.json)
+  Description: This automated flow allows a chatbot to interact conversationally with a PostgreSQL database hosted on Supabase, executing SQL queries based on user requests.
+
+- [0800-search-console-ai-agent.json](workflows/0800-search-console-ai-agent.json)
+  Description: This automated flow allows a chatbot to interact with search engine data using Google Search Console API tools, OpenAI, and store conversation history in a PostgreSQL database.
+
+- [0801-ai-agent-weather-wiki.json](workflows/0801-ai-agent-weather-wiki.json)
+  Description: This automated flow allows an AI chatbot to answer questions about current weather and general data using Wikipedia tools, storing the conversation in memory to maintain context.
+
+- [0802-google-calendar-ai-agent.json](workflows/0802-google-calendar-ai-agent.json)
+  Description: This automated flow allows a Google Calendar assistant to interact with users via chat to create events or retrieve data, using the OpenAI API and maintaining conversational context.
+
+- [0803-n8n-hr-cv-automation.json](workflows/0803-n8n-hr-cv-automation.json)
+  Description: This automated flow analyzes candidate resumes by extracting and summarizing key data using AI models.
+
+- [0804-ai-agent-hacker-news.json](workflows/0804-ai-agent-hacker-news.json)
+  Description: This automated flow allows an AI chatbot to maintain a contextualized conversation using custom tools. In this specific case, the agent uses a workflow to get and process data about the most popular articles on Hacker News.
+
+- [0805-conversational-ai-search.json](workflows/0805-conversational-ai-search.json)
+  Description: This automated flow allows a chatbot to maintain contextualized conversations using window memory and integrating tools for web search.
+
+- [0806-stock-fundamental-ai-analyzer.json](workflows/0806-stock-fundamental-ai-analyzer.json)
+  Description: This automated flow analyzes fund data using OpenAI embeddings, LangChain processing, and vector storage in Qdrant to answer questions about fundamental stock analysis.
+
+- [0807-analisis-sentimiento-feedback.json](workflows/0807-analisis-sentimiento-feedback.json)
+  Description: This automated flow allows collecting customer feedback in a Google sheet, analyzing it with AI to detect sentiment, and then integrating it along with other form data into the same sheet.
+
+- [0808-airtable-dynamic-prompts-llm.json](workflows/0808-airtable-dynamic-prompts-llm.json)
+  Description: This automated flow allows the user to generate and maintain a dynamic field schema in an Airtable table via webhooks, optimizing updates with LLM only when necessary.
+
+- [0809-baserow-pdf-extractor.json](workflows/0809-baserow-pdf-extractor.json)
+  Description: This automated flow allows a user to extract data from PDFs using dynamic prompts in a Baserow table.
+
+- [0810-strava-coaching.json](workflows/0810-strava-coaching.json)
+  Description: This flow analyzes Strava data to offer personalized sports coaching in triathlon.
+
+- [0811-jina-scraper-book-extractor.json](workflows/0811-jina-scraper-book-extractor.json)
+  Description: This flow uses Jina.ai to access and extract book data from web scraping, processes it with OpenAI, and saves the result in Google Sheets.
+
+- [0812-social_media_caption_generator.json](workflows/0812-social_media_caption_generator.json)
+  Description: This automated flow creates social media captions based on a brief presentation and target audience data, storing everything directly in an Airtable record.
+
+- [0813-voice-ai-chat.json](workflows/0813-voice-ai-chat.json)
+  Description: This automated flow integrates Webhook for real-time voice inputs, contextualized memory management with models like Google Gemini and ElevenLabs.
+
+- [0814-elevenlabs-voice-rag-chatbot.json](workflows/0814-elevenlabs-voice-rag-chatbot.json)
+  Description: This automated flow allows an ElevenLabs chatbot to maintain voice conversations with customers using vectorized documents and contextualized memory.
+
+- [0815-ai-company-researcher-sales.json](workflows/0815-ai-company-researcher-sales.json)
+  Description: This automated flow uses AI along with web tools like SERPAPI or ScrapingBee to research company properties such as domain, LinkedIn URL, market type (B2B/B2C), cheapest plans, API, and free trials, then updates the data in Google Sheets.
+
+- [0816-youtube-trend-finder-n8n.json](workflows/0816-youtube-trend-finder-n8n.json)
+  Description: This automated flow uses AI to analyze data from trending YouTube videos based on a specific niche.
+
+- [0817-erp_lead_automation.json](workflows/0817-erp_lead_automation.json)
+  Description: This automated flow uses AI to manage new customer opportunities (leads) from ERPNext, analyzing their notes and generating email notifications to relevant contacts if they are related to products or services.
+
+- [0818-ai-summary-wordpress.json](workflows/0818-ai-summary-wordpress.json)
+  Description: This automated flow analyzes and classifies WordPress content to determine if it already includes an AI-generated summary, generating new summaries with GPT-4o-mini when necessary.
+
+- [0819-erpnext-candidate-automation.json](workflows/0819-erpnext-candidate-automation.json)
+  Description: This automated flow allows integrating ERPNext webhooks to manage candidate applications via AI analysis (like Google Gemini) and update their statuses based on the result.
+
+- [0820-historias-para-ninos.json](workflows/0820-historias-para-ninos.json)
+  Description: This automated flow creates stories in English for children, illustrates them visually, and sends them as text and audio images via Telegram.
+
+- [0821-email-ai-auto-responder.json](workflows/0821-email-ai-auto-responder.json)
+  Description: This automated flow analyzes incoming emails using DeepSeek and OpenAI to summarize them and identify the topic. If the classification detects it is a request about the company, a professionally structured response is generated based on information from Qdrant.
+
+- [0822-email-approval-ia.json](workflows/0822-email-approval-ia.json)
+  Description: This flow automates the processing of incoming emails, generates summaries and responses using RAG and AI, requires Yes/No approval before sending them.
+
+- [0823-ai-monitoring-slack.json](workflows/0823-ai-monitoring-slack.json)
+  Description: This automated flow monitors articles of interest in real-time using multiple RSS feeds, classifies their relevance with AI, and generates formatted summaries for efficient management.
+
+- [0824-rag-financial-report-gen.json](workflows/0824-rag-financial-report-gen.json)
+  Description: This flow uses the RAG system to analyze corporate profitability reports based on historical documents stored as embeddings in Pinecone. It processes information using Google Gemini and OpenAI models, synthesizes data with a specialized agent, and integrates everything into a markdown report that is automatically saved in Google Docs.
+
+- [0825-ai-social-media-amplifier.json](workflows/0825-ai-social-media-amplifier.json)
+  Description: This automated flow allows sharing featured GitHub discussions that appear on Hacker News, generating and sending formatted posts for Twitter and LinkedIn.
+
+- [0826-ai-woocommerce-support-agent.json](workflows/0826-ai-woocommerce-support-agent.json)
+  Description: This automated flow implements an AI assistant with n8n and WooCommerce to manage customer inquiries about their orders, ensuring privacy through email encryption and integrating functions like DHL.
+
+- [0827-workflow-retriever-qa.json](workflows/0827-workflow-retriever-qa.json)
+  Description: This automated flow allows querying any data source by retrieving existing workflows.
+
+- [0828-podcast-consciencia-ai.json](workflows/0828-podcast-consciencia-ai.json)
+  Description: This flow analyzes podcasts about the philosophy of mind, extracts key information, and performs Wikipedia searches to elaborate improved summaries.
+
+- [0829-news-monitor-trello.json](workflows/0829-news-monitor-trello.json)
+  Description: This automated flow monitors multiple RSS feeds (Artificial Intelligence Blog, Testing Catalog, and MarkTechPost), filters articles based on date, transforms results to Markdown format, and posts comments on Trello while sending email notifications.
+
+- [0830-assistant-travel-agency.json](workflows/0830-assistant-travel-agency.json)
+  Description: This automated flow allows creating an OpenAI assistant from the content of documents stored in Google Drive and maintaining a contextualized conversation for the travel agency.
+
+- [0831-monitor-usdt-balance.json](workflows/0831-monitor-usdt-balance.json)
+  Description: This flow automatically monitors the ERC-20 USDT balance stored in a wallet, notifying Telegram every 5 minutes if it has changed or not.
+
+- [0832-wordpress-ai-content-generator.json](workflows/0832-wordpress-ai-content-generator.json)
+  Description: This automated flow creates WordPress articles at different reading levels using language models. It processes rewritten content, validates that they have a title and introduction, generates related images, and saves drafts in Google Drive.
+
+- [0833-n8n-nodos-unicos.json](workflows/0833-n8n-nodos-unicos.json)
+  Description: This flow analyzes a unique blueprint file with node definitions for n8n.
+
+- [0834-code-review-ai.json](workflows/0834-code-review-ai.json)
+  Description: This automated flow allows the repository's Code Review tool to interact with integrated systems that handle pull requests, generating intelligent comments based on detected differences.
+
+- [0835-analisis-papers-hf.json](workflows/0835-analisis-papers-hf.json)
+  Description: This automated flow extracts and analyzes academic articles from the Hugging Face platform using artificial intelligence (OpenAI) and stores the result in a structured format in Notion.
+
+- [0836-email-phishing-analysis.json](workflows/0836-email-phishing-analysis.json)
+  Description: This automated flow analyzes and classifies suspicious emails using ChatGPT to determine if they are fraudulent or not. Gmail and Outlook alerts capture incoming messages, which are then processed with AI to assess their nature.
+
+- [0837-analisis-retroalimentacion-mattermost.json](workflows/0837-analisis-retroalimentacion-mattermost.json)
+  Description: This flow analyzes the sentiment of a feedback comment using the Google Cloud Natural Language API and, if positive (score > 0), sends a notification to the specified Mattermost channel.
+
+- [0838-typeform-mattermost-sentimiento-negativo.json](workflows/0838-typeform-mattermost-sentimiento-negativo.json)
+  Description: This flow analyzes the sentiment of comments in Typeform forms and sends only those with a negative rating to a Mattermost channel.
+
+- [0839-email-phishing-analysis.json](workflows/0839-email-phishing-analysis.json)
+  Description: This automated flow analyzes suspicious email messages detected in Gmail and Outlook, using ChatGPT Vision to evaluate their visual appearance and indicate if they might be phishing attempts. The results are formatted and stored in Jira.
+
+- [0841-bright-data-gemini-hotel-summarizer.json](workflows/0841-bright-data-gemini-hotel-summarizer.json)
+  Description: This automated flow extracts hotel data from Bing Copilot using the Bright Data API and uses Google Gemini AI to format it into JSON structure and generate concise summaries.
+
+- [0842-telegram-ai-assistant.json](workflows/0842-telegram-ai-assistant.json)
+  Description: This automated flow allows Angie to maintain real-time conversational context while interacting with users via Telegram (both text messages and audio files) and access their emails, calendar, and Baserow-based data.
+
+- [0843-spy-intelligence-tool.json](workflows/0843-spy-intelligence-tool.json)
+  Description: This automated flow allows a LINE chatbot to perform automated spy intelligence. It periodically (daily) scans information from a URL extracted by AI and compares old content with current content to send email alerts if there are significant differences.
+
+- [0844-sql-agent-memory.json](workflows/0844-sql-agent-memory.json)
+  Description: This flow allows interacting with a locally loaded SQLite database via the LangChain SQL Agent, maintaining contextual memory in each conversation.
+
+- [0845-openai-image-generator.json](workflows/0845-openai-image-generator.json)
+  Description: This workflow allows generating images using the OpenAI API based on inputs provided via forms.
+
+- [0846-workflow-pinecone-openai.json](workflows/0846-workflow-pinecone-openai.json)
+  Description: This flow loads documents from Google Drive into a Pinecone vector store using OpenAI embeddings to then allow information retrieval via question-answer chains.
+
+- [0847-wp-ai-categorizer.json](workflows/0847-wp-ai-categorizer.json)
+  Description: This flow automates the categorization of posts in WordPress using OpenAI language models.
+
+- [0848-competitor-analysis-n8n.json](workflows/0848-competitor-analysis-n8n.json)
+  Description: This automated flow analyzes databases and webinars using scraping and artificial intelligence tools to gather structured information about competitors.
+
+- [0849-passport-photo-validation.json](workflows/0849-passport-photo-validation.json)
+  Description: This automated flow verifies the validity of passport photos according to British government guidelines using computer vision models in n8n.
+
+- [0852-strapi-testimonials-automation.json](workflows/0852-strapi-testimonials-automation.json)
+  Description: This automated flow seeks to collect and analyze positive testimonials in a Strapi system by integrating with Twitter.
+
+- [0853-fine-tuning-openai-with-drive.json](workflows/0853-fine-tuning-openai-with-drive.json)
+  Description: This automated flow allows performing a complete fine-tuning process on OpenAI models using JSONL files hosted on Google Drive.
+
+- [0855-eliminar-fondos-google-drive.json](workflows/0855-eliminar-fondos-google-drive.json)
+  Description: This flow automatically removes backgrounds from images in Google Drive using the Photoroom API.
+
+- [0856-youtube-x-automation.json](workflows/0856-youtube-x-automation.json)
+  Description: This automated flow seeks to promote the latest videos from a specific YouTube channel on X, verifying that they comply with character limitations and maintaining a record in Google Sheets.
+
+- [0857-calendar-event-automation.json](workflows/0857-calendar-event-automation.json)
+  Description: This automated flow creates events in Google Calendar from data inserted into a Google Sheets spreadsheet.
+
+- [0858-tiktok-downloader-json.json](workflows/0858-tiktok-downloader-json.json)
+  Description: Automatic to download TikTok videos without the watermark sticker
+
+- [0859-telegram-gmail-alertas.json](workflows/0859-telegram-gmail-alertas.json)
+  Description: This flow automates sending filtered Gmail emails to a Telegram chat, notifying only those with subjects containing specific keywords like 'Urgent' or 'Server Down'.
+
+- [0861-line-chatbot-memory.json](workflows/0861-line-chatbot-memory.json)
+  Description: This automated flow allows a LINE chatbot to maintain a contextualized conversation with its users by using memory via the service's REST API.
+
+- [0863-weather-slack-integration.json](workflows/0863-weather-slack-integration.json)
+  Description: This automated flow allows receiving locations in Slack messages, searching their coordinates using OpenStreetMap, and then getting the local weather forecast via the National Weather Service API to send the formatted information as text in the same Slack channel.
+
+- [0864-n8n_leaderboard_stats.json](workflows/0864-n8n_leaderboard_stats.json)
+  Description: This automated flow analyzes n8n user metrics to generate a detailed and Markdown-formatted report, including ranking of most popular workflows and creator statistics.
+
+- [0865-bamboo-hr-ai-chatbot.json](workflows/0865-bamboo-hr-ai-chatbot.json)
+  Description: This flow is an AI-powered chatbot for answering questions about corporate policies, benefits, and labor procedures using documents uploaded from BambooHR as an information source. It implements vector search with OpenAI, contextual memory (window buffer memory), and employee lookup tools that allow AI to search for internal contacts or departments to facilitate responses.
+
+- [0866-gmail-email-categorization.json](workflows/0866-gmail-email-categorization.json)
+  Description: This automated flow automatically categorizes incoming emails in Gmail by assigning them existing labels or creating new labels based on content analysis.
+
+- [0867-linea_inventario_agendador.json](workflows/0867-linea_inventario_agendador.json)
+  Description: This automated flow allows an n8n chatbot to schedule meetings by checking availability in Google Calendar and generating 30-minute time slots between working hours from Monday to Friday.
+
+- [0868-n8n-deployer.json](workflows/0868-n8n-deployer.json)
+  Description: This flow allows importing and configuring a workflow in n8n using JSON files hosted in a specific Google Drive folder.
+
+- [0869-bitrix-chatbot-webhook.json](workflows/0869-bitrix-chatbot-webhook.json)
+  Description: This automated flow allows Bitrix24 to process chatbot events via webhooks, validate tokens, and send appropriate responses.
+
+- [0870-chatbot-salud-ia.json](workflows/0870-chatbot-salud-ia.json)
+  Description: This automated flow allows a chatbot to maintain a contextualized conversation about health donation plans, using persistent memory and integration with external APIs to search for specific information.
+
+- [0871-line-chatbot-memory.json](workflows/0871-line-chatbot-memory.json)
+  Description: This automated flow allows a LINE chatbot to maintain a contextualized conversation with users by processing messages in both text and images, extracting relevant information about account statements and personal data, and then inserting it into Google Sheets.
+
+- [0872-estudio-descomposicion-documents-n8n.json](workflows/0872-estudio-descomposicion-documents-n8n.json)
+  Description: This automated flow allows the system to process documents uploaded in a specified directory, split them into text blocks, vectorize their content, and then generate different types of study materials like guides or timelines using AI language models. Finally, it exports these generated files along with the original.
+
+- [0873-opensea-marketplace-agent.json](workflows/0873-opensea-marketplace-agent.json)
+  Description: This automated flow allows a chatbot to interact with the OpenSea API to get information about listings, offers, and NFT orders in different collections and identifiers.
+
+- [0874-tax-code-assistant-qdrant-mistral-openai.json](workflows/0874-tax-code-assistant-qdrant-mistral-openai.json)
+  Description: This automated flow allows an AI chatbot to answer questions about the Texas state tax code using Mistral.ai embeddings to generate vectors and Qdrant to efficiently store and retrieve documents, optimizing large file management through strategic decompression.
+
+- [0875-assistente_viajes_actualizado.json](workflows/0875-assistente_viajes_actualizado.json)
+  Description: This automated flow allows creating an OpenAI assistant from a PDF document stored in Google Drive, maintaining a contextualized conversation via buffer memory and allowing interaction via chat.
+
+- [0876-image-search-workflow.json](workflows/0876-image-search-workflow.json)
+  Description: This automated flow allows searching for images based on detected objects using artificial intelligence, CDN, and ElasticSearch to efficiently store and query results.
+
+- [0877-rag-peliculas-recomendacion-qdrant.json](workflows/0877-rag-peliculas-recomendacion-qdrant.json)
+  Description: This automated flow allows a chatbot to recommend movies using Qdrant vector storage and embeddings generated with OpenAI for user query analysis.
+
+- [0879-whatsapp-sales-agent.json](workflows/0879-whatsapp-sales-agent.json)
+  Description: This automated flow allows a WhatsApp chatbot to act as a sales assistant for Yamaha Powered speakers. The bot responds to text messages by querying a vector database with the catalog, maintains conversational memory per customer, and automatically rejects non-text processing.
+
+- [0880-telegram-schedule-ai.json](workflows/0880-telegram-schedule-ai.json)
+  Description: This flow allows a Telegram chatbot to interact with AI using conversational memory and calendar data extracted from a Google sheet, sending responses to both the n8n application and the Telegram user.
+
+- [0881-github-trending-scraping.json](workflows/0881-github-trending-scraping.json)
+  Description: This flow allows extracting the 13 most popular repositories from GitHub Trends, storing information like author, title, language, and description for monitoring or analysis.
+
+- [0882-hubspot-chatgpt-integration.json](workflows/0882-hubspot-chatgpt-integration.json)
+  Description: This automated flow allows a HubSpot chatbot to integrate conversations with the OpenAI Assistant API to maintain context and generate responses.
+
+- [0883-n8n-ai-categorize-wordpress.json](workflows/0883-n8n-ai-categorize-wordpress.json)
+  Description: This automatic template uses AI to assign a single category to multiple WordPress posts based on their title.
+
+- [0884-auto-post-sociales-n8n.json](workflows/0884-auto-post-sociales-n8n.json)
+  Description: This automated flow, triggered daily at 10:00 PM via a scheduled trigger, collects information from a Google spreadsheet (URL and video description) and integrates with the Blotato API to publish content on multiple social platforms without manual intervention.
+
+- [0885-zammad-roles-sync.json](workflows/0885-zammad-roles-sync.json)
+  Description: This automated flow updates all user roles in Zammad for active users based on a predefined list of default roles.
+
+- [0886-workflow-doc-analyzer.json](workflows/0886-workflow-doc-analyzer.json)
+  Description: This automated flow analyzes documents uploaded via form, converts markdown to HTML, and saves the results in a vector database to feed a chatbot.
+
+- [0887-horario-tareas-n8n.json](workflows/0887-horario-tareas-n8n.json)
+  Description: This flow automates the activation and deactivation of a workflow in n8n at 08:00 and 20:00 daily.
+
+- [0888-webflow-discord-form.json](workflows/0888-webflow-discord-form.json)
+  Description: This automated flow creates a Discord channel for each Webflow web form and sends the submitted responses to that channel.
+
+- [0889-openai-chatbot-memory-api.json](workflows/0889-openai-chatbot-memory-api.json)
+  Description: This flow allows an OpenAI chatbot to maintain conversations with persistent memory in PostgreSQL and access external information via APIs.
+
+- [0890-Google_Sheet_AI_Interface.json](workflows/0890-Google_Sheet_AI_Interface.json)
+  Description: This automated flow allows a chatbot to interact with a Google sheet using custom functions, optimizing data query and management.
+
+- [0891-rag-github-api-chatbot.json](workflows/0891-rag-github-api-chatbot.json)
+  Description: This flow uses the RAG (Retrieval-Augmented Generation) pattern with OpenAI and Pinecone to create a chatbot that answers queries about GitHub API documentation.
+
+- [0892-ollama-n8n-chat.json](workflows/0892-ollama-n8n-chat.json)
+  Description: This flow allows interacting with local language models (managed by Ollama) via a chat interface.
+
+- [0893-chat-ai-contexto.json](workflows/0893-chat-ai-contexto.json)
+  Description: This automated flow allows maintaining a contextualized conversation with the OpenAI assistant by managing previous messages.
+
+- [0894-telegram-gpt-ai-agent.json](workflows/0894-telegram-gpt-ai-agent.json)
+  Description: This automated flow allows a Telegram chatbot to process incoming user messages using the OpenAI GPT model and send an emoji-enriched response.
+
+- [0895-chat-pdf-ai-citas.json](workflows/0895-chat-pdf-ai-citas.json)
+  Description: This automated flow allows a chatbot to analyze PDF documents using OpenAI embeddings and retrieve relevant information with exact citations when queried.
+
+- [0896-postgres-chat-ai.json](workflows/0896-postgres-chat-ai.json)
+  Description: This flow allows an AI chatbot to interact with a PostgreSQL database using tools to execute SQL queries and maintain context.
+
+- [0897-telegram-schedule-bot.json](workflows/0897-telegram-schedule-bot.json)
+  Description: This flow allows a chatbot to interact with the event calendar from a Google spreadsheet using Telegram.
+
+- [0898-gitlab-chatgpt-review.json](workflows/0898-gitlab-chatgpt-review.json)
+  Description: This automated flow uses ChatGPT to review code changes detected in a GitLab merge request (MR), analyzing the differences between the original and modified code. It then integrates these reviews with the GitLab API to comment directly on the changes.
+
+- [0899-yelp-summary.json](workflows/0899-yelp-summary.json)
+  Description: This automated flow allows extracting and summarizing business reviews on Yelp using Bright Data web services for data collection, followed by structured analysis with Google Gemini.
+
+- [0900-n8n-lemlist-reply-classification.json](workflows/0900-n8n-lemlist-reply-classification.json)
+  Description: Classifies Lemplist responses with OpenAI and automates management, sending alerts to Slack or unsubscribing interested parties.
+
+- [0901-linear-bugs-classifier.json](workflows/0901-linear-bugs-classifier.json)
+  Description: This automated flow classifies new bugs in Linear using OpenAI GPT-4 to determine the correct team based on a predefined list of responsibilities and updates or notifies if a suitable destination is not found.
+
+- [0902-baserow-markdown-sync.json](workflows/0902-baserow-markdown-sync.json)
+  Description: This automated flow allows synchronizing and updating records in Baserow where the video description is in Markdown format. It first checks if there is a single record or multiple, converts each description to HTML while maintaining the original data structure, and logs in via a webhook.
+
+- [0903-bitrix24-chatbot-workflow.json](workflows/0903-bitrix24-chatbot-workflow.json)
+  Description: This automated flow allows Bitrix24 to process chatbot-related events (like messages and installations) via webhooks, perform token validations, and respond appropriately.
+
+- [0904-line-chatbot-memory.json](workflows/0904-line-chatbot-memory.json)
+  Description: This automated flow allows a LINE chatbot to maintain a contextualized conversation using persistent memory.
+
+- [0905-whatsapp-chatbot-rag.json](workflows/0905-whatsapp-chatbot-rag.json)
+  Description: This automated flow configures an AI-powered WhatsApp chatbot that uses RAG (Retrieval-Augmented Generation) with OpenAI to maintain contextualized conversations.
+
+- [0906-gmail-reply-drafts-openai-assistant.json](workflows/0906-gmail-reply-drafts-openai-assistant.json)
+  Description: This automated flow allows Gmail to reply to messages with the help of OpenAI Assistant, creating draft responses based on email content and removing the triggering labels after composing the message.
+
+- [0908-ai-interviews-n8n.json](workflows/0908-ai-interviews-n8n.json)
+  Description: This automated flow with n8n allows conducting conversational interviews with an AI agent that dynamically asks questions and records responses in Redis, using forms to capture information. Responses are saved in Google Sheets.
+
+- [0909-openai-tts-manual.json](workflows/0909-openai-tts-manual.json)
+  Description: This flow allows converting text to speech via the OpenAI API with a manual process.
+
+- [0910-url-markdown-batch.json](workflows/0910-url-markdown-batch.json)
+  Description: This flow processes URLs in batches of 10, uses the Firecrawl API to convert HTML content to markdown and extract links, managing provider limitations.
+
+- [0911-google-calendar-telegram-eventos.json](workflows/0911-google-calendar-telegram-eventos.json)
+  Description: This automated flow sends a Telegram notification when a new event is created in Google Calendar. It extracts key details like event name, description, location, start and end date/time, and sends it to the specified chat.
+
+- [0912-adaptive-rag-strategy.json](workflows/0912-adaptive-rag-strategy.json)
+  Description: This flow analyzes and classifies queries into specific categories (Factual, Analytical, Opinion, or Contextual) to apply adaptive retrieval and artificial intelligence strategies that optimize obtaining relevant information.
+
+- [0913-google-maps-leads-generator.json](workflows/0913-google-maps-leads-generator.json)
+  Description: This automated flow uses the Google Maps API to search for places based on specific categories and postal codes, extracting relevant data and inserting it into a Google Sheets spreadsheet with anti-duplicate control mechanisms and exponential error handling.
+
+- [0914-website-chatbot-n8n.json](workflows/0914-website-chatbot-n8n.json)
+  Description: This automated flow allows an n8n chatbot to maintain conversations with customers, check calendar availability via Microsoft Outlook API, and send structured responses. The AI agent uses the GPT-4o model to process queries and make decisions about appointments or message sending.
+
+- [0915-google_analytics_report_workflow.json](workflows/0915-google_analytics_report_workflow.json)
+  Description: This flow analyzes Google Analytics data for the last 7 days and compares it with the same period of the previous year, then uses AI to format it into a detailed HTML report sent by email. Additionally, it transforms this data into plain text for Telegram and optionally shares it.
+
+- [0916-twitter-profile-banner-generator.json](workflows/0916-twitter-profile-banner-generator.json)
+  Description: This automated flow allows creating a dynamic Twitter banner by combining the avatar images of the most recent followers with a background image, using the OAuth1.0 API.
+
+- [0917-email-drafting-fastmail-openai.json](workflows/0917-email-drafting-fastmail-openai.json)
+  Description: This automated flow analyzes unread emails from an IMAP mailbox via the Fastmail API and generates responses using models like GPT-4, saving the drafts in a specific folder.
+
+- [0918-humantic-profile-management.json](workflows/0918-humantic-profile-management.json)
+  Description: This automated flow allows creating, updating, and getting a Humantic AI profile using a LinkedIn URL as the initial input.
+
+- [0919-slack-ai-bot.json](workflows/0919-slack-ai-bot.json)
+  Description: This automated flow processes Slack messages via an AI agent based on Google Gemini, maintaining contextualized conversations with window memory.
+
+- [0920-squarespace-orders-to-sheets.json](workflows/0920-squarespace-orders-to-sheets.json)
+  Description: This automated flow collects all orders from a Squarespace store and automatically updates a Google Sheets file.
+
+- [0921-n8n-flujo-langchain.json](workflows/0921-n8n-flujo-langchain.json)
+  Description: This flow allows executing two types of interactions: one to get responses with custom LLM chains and another that uses a chat agent integrated with WikipediaQueryRun as a tool.
+
+- [0922-trustpilot-customer-insights.json](workflows/0922-trustpilot-customer-insights.json)
+  Description: This automated flow extracts customer review information from TrustPilot using Qdrant to store vectors and LLMs to generate insights on general sentiment and identify recurring themes.
+
+- [0923-customer-support-ticketing.json](workflows/0923-customer-support-ticketing.json)
+  Description: This automated flow monitors a specific Slack channel (n8n-tickets) for messages with the ticket emoji. When it detects a new one, it queries Linear to see if a corresponding ticket already exists and, if not found, uses ChatGPT to generate a descriptive title, a summary description, suggestions for resolving the issue, and determine its priority based on the user's message.
+
+- [0924-cv-multimodal-ai.json](workflows/0924-cv-multimodal-ai.json)
+  Description: This workflow uses multimodal vision with AI to analyze PDF resumes and assess if candidates are suitable for an interview.
+
+- [0925-cv-screening-openai.json](workflows/0925-cv-screening-openai.json)
+  Description: This automated flow analyzes resumes in PDF format using the OpenAI API, creating structured evaluations with a percentage score and detailed summaries.
+
+- [0926-docker_n8n_api_workflow.json](workflows/0926-docker_n8n_api_workflow.json)
+  Description: This automated flow manages the creation and administration of Docker containers via an API with basic authentication.
+
+- [0927-digital-ocean-upload-form.json](workflows/0927-digital-ocean-upload-form.json)
+  Description: This flow allows uploading files to Digital Ocean Spaces via a form and displaying the link after the upload.
+
+- [0928-n8n_workflow_stats.json](workflows/0928-n8n_workflow_stats.json)
+  Description: This automated flow allows users to get detailed statistics about n8n workflows, including information per node, global, tags, webhooks, and more. It uses advanced JS functions like JMESPath for efficient processing.
+
+- [0929-analisis_comentarios_youtube.json](workflows/0929-analisis_comentarios_youtube.json)
+  Description: This flow analyzes YouTube video comments using the Google API and GPT-4o-mini to generate a detailed report with insights on audience trends, highlighted topics, and practical recommendations.
+
+- [0930-linkedin-data-processing.json](workflows/0930-linkedin-data-processing.json)
+  Description: This automated flow uses Bright Data's MCP to extract Markdown information from LinkedIn profiles or companies, processes this data with Google Gemini (PaLM model) which converts it to JSON and incorporates deep context to generate detailed stories, and finally writes the output to local files.
+
+- [0931-calendar-gemini-slack-summarization.json](workflows/0931-calendar-gemini-slack-summarization.json)
+  Description: This automated flow extracts events from Google Calendar to generate daily summaries using the Gemini AI model and shares them in a Slack channel.
+
+- [0932-podcast-summary-flow.json](workflows/0932-podcast-summary-flow.json)
+  Description: This automated flow allows users to receive a daily summary of top podcasts by specific genre via transcription and artificial intelligence.
+
+- [0933-telegram_baserow_ai_assistant.json](workflows/0933-telegram_baserow_ai_assistant.json)
+  Description: This automated flow allows a chatbot to interact with Telegram by receiving messages (voice, text, or image), managing them with tools like OpenAI to transcribe voice and analyze images, maintaining contextual memory using Baserow, and then responding appropriately in each modality.
+
+- [0934-ai-logo-sheet-extractor.json](workflows/0934-ai-logo-sheet-extractor.json)
+  Description: This automated flow allows extracting information from images showing logo tables, identifying tools and their attributes to save them in Airtable.
+
+- [0935-uber_eats_expense_tracker.json](workflows/0935-uber_eats_expense_tracker.json)
+  Description: This automated flow searches Gmail emails with the specific subject '透過 Uber Eats 系统送出的订单', extracts information like price, store, date, and time from the email content using regular expressions, and then sends this formatted information to Slack via blocks. It also provides a direct link to integrate with Moze expense tracker.
+
+- [0936-ai-grant-tracker.json](workflows/0936-ai-grant-tracker.json)
+  Description: This automated flow allows filtering and analyzing grant opportunities related to AI on grants.gov. It uses nodes to eliminate duplicates via a tracking system, requests detailed information about each grant through the grants.gov API, and incorporates OpenAI generative models to determine eligibility and facilitate the process.
+
+- [0937-detect-hallucinations-ollama.json](workflows/0937-detect-hallucinations-ollama.json)
+  Description: This flow analyzes texts to identify incorrect statements using a specialized Ollama model called bespoke-minicheck. It processes the text by splitting it into sentences while maintaining structural elements like dates and lists, then extracts 'facts' for verification via LLM chains.
+
+- [0938-telegram-moderador.json](workflows/0938-telegram-moderador.json)
+  Description: This automated flow detects profane language in Telegram messages and responds with a warning message when the score exceeds 0.7.
+
+- [0939-gmail-gemini-email-management.json](workflows/0939-gmail-gemini-email-management.json)
+  Description: This automated flow uses Google Gemini AI along with Gmail OAuth2 to classify emails using a machine learning model. Emails are evaluated based on numerical confidences (0-1) where values above 0.5 indicate the email is unacceptable, marketing, or spam, and are automatically deleted via the Gmail API. A Telegram notification is sent when an email is deleted, not otherwise, or if errors occur.
+
+- [0940-n8n_discord_ai_categorizer.json](workflows/0940-n8n_discord_ai_categorizer.json)
+  Description: This automated flow categorizes user requests using OpenAI GPT-4, generating a JSON structure to send them via Webhook to different departments in Discord according to their classification.
+
+- [0941-techradar-ai-agent.json](workflows/0941-techradar-ai-agent.json)
+  Description: This automated flow manages corporate technology for three companies, keeping records updated in a SQL database and Pinecone vector storage. A cron job runs monthly to synchronize data from Google Sheets, deleting old records.
+
+- [0942-pdf2blog-automatizado.json](workflows/0942-pdf2blog-automatizado.json)
+  Description: This automated flow allows converting PDF files into blogs by extracting text, processing with an OpenAI API, and publishing to Ghost if the results are valid.
+
+- [0943-Telegram-Buffered-Messages.json](workflows/0943-Telegram-Buffered-Messages.json)
+  Description: This automated flow allows a Telegram chatbot to combine messages received at short intervals using a Supabase database and maintain contextualized memory to generate cohesive responses.
+
+- [0944-obsidian-email-sender.json](workflows/0944-obsidian-email-sender.json)
+  Description: This automated flow allows sending emails from Obsidian using webhooks, correctly processing attachments via base64 encoding and adding sender information.
+
+- [0945-convertapi-merge.json](workflows/0945-convertapi-merge.json)
+  Description: This automated flow downloads two PDF documents from CDN using ConvertPDF API authentication and then merges them into a single file for saving.
+
+- [0946-dynamically_switch_llms_customer_support.json](workflows/0946-dynamically_switch_llms_customer_support.json)
+  Description: This n8n flow dynamically selects and uses different language models (like OpenAI) based on an index to generate versatile responses and iterate until one meets specified criteria, such as polite tone.
+
+- [0947-trustpilot_reviews_google_sheets.json](workflows/0947-trustpilot_reviews_google_sheets.json)
+  Description: This n8n flow automates the extraction of Trustpilot reviews to Google Sheets via paginated scraping and data transformation.
+
+- [0948-glassdoor-resume-empresa.json](workflows/0948-glassdoor-resume-empresa.json)
+  Description: This flow automates the extraction of company data from Glassdoor using Bright Data Web Scraper, splits it for processing with Gemini, and generates a summary.
+
+- [0949-dsp_telegram_tutor.json](workflows/0949-dsp_telegram_tutor.json)
+  Description: This automated flow allows a Telegram chatbot to maintain a contextualized conversation on signal processing topics, using tools like Wikipedia and a calculator to solve problems.
+
+- [0950-dsp-ai-tutor.json](workflows/0950-dsp-ai-tutor.json)
+  Description: This n8n flow acts as a tutoring assistant for signal processing students, using OpenAI and Google Gemini models to guide them interactively through theoretical explanations, numerical solutions, or memory references.
+
+- [0951-book-scraping-automation.json](workflows/0951-book-scraping-automation.json)
+  Description: This automated flow extracts book data from URLs using Dumpling AI, cleans the HTML, and saves the information to a CSV.
+
+- [0952-facturas-ocr-google-drive.json](workflows/0952-facturas-ocr-google-drive.json)
+  Description: This automated flow allows automatically recognizing invoices stored in a Google Drive folder (PDF, PNG, or JPG formats) using the OakPDF API. The workflow is activated when there are new files and extracts key data such as issuer name, address, total paid, and specific details to save them structured in Google Sheets.
+
+- [0953-notion-supabase-vector.json](workflows/0953-notion-supabase-vector.json)
+  Description: This flow automates storing Notion pages as vectorized documents in a Supabase project using vector columns and OpenAI-generated embeddings.
+
+- [0954-bamboo-hr-ai-chatbot.json](workflows/0954-bamboo-hr-ai-chatbot.json)
+  Description: This automated flow allows an HR chatbot to access and interpret information about corporate policies and benefits by integrating with vector storage in Supabase. It also facilitates searches for specific employees or departments for relevant contacts.
+
+- [0956-html-generator.json](workflows/0956-html-generator.json)
+  Description: This flow uses OpenAI Structured Output along with n8n to dynamically generate HTML pages based on user requests, using a predefined JSON schema and Tailwind CSS as a framework.
+
+- [0957-noco-kanban-ai-monitoring.json](workflows/0957-noco-kanban-ai-monitoring.json)
+  Description: This automated flow analyzes incidents via AI to assign categories and parameters, which are inserted into a NocoDB table. It then periodically checks the status of tasks without excessive notifications.
+
+- [0958-image-caption-overlay.json](workflows/0958-image-caption-overlay.json)
+  Description: This automated flow downloads an image using HTTP Request, resizes it for AI optimization, and adds a punny caption generated by Gemini 1.5 Pro.
+
+- [0959-squarespace-backup.json](workflows/0959-squarespace-backup.json)
+  Description: This automated flow allows saving Squarespace customizations (injection code) into HTML files within a GitHub repository, maintaining context by domain and performing backups hourly.
+
+- [0960-gitea-backup-workflow.json](workflows/0960-gitea-backup-workflow.json)
+  Description: This automated flow verifies and saves n8n workflows to a Git repository hosted on Gitea through change comparison and updates.
+
+- [0961-lead-presentaciones-auto.json](workflows/0961-lead-presentaciones-auto.json)
+  Description: This automated flow creates personalized presentations based on lead data by monitoring new files in Google Drive and processing them through Google Sheets and Slides operations to integrate the information.
+
+- [0962-email-ai-assistant.json](workflows/0962-email-ai-assistant.json)
+  Description: This automated flow analyzes incoming emails using AI to summarize and generate responses, allowing human review when necessary.
+
+- [0963-copiar-documentos-escaneados-json.json](workflows/0963-copiar-documentos-escaneados-json.json)
+  Description: This automated flow copies scanned documents from a server via HTTP to a Nextcloud account.
+
+- [0965-factoid_subscription_service.json](workflows/0965-factoid_subscription_service.json)
+  Description: This automated flow uses n8n forms to manage subscriptions to daily, weekly, or surprising educational emails with generative AI models and Airtable storage.
+
+- [0966-email-summary-agent.json](workflows/0966-email-summary-agent.json)
+  Description: This automated flow collects emails from the last day and summarizes them with AI to highlight key details, issues, and action instructions, sending a summarized HTML report.
+
+- [0967-comparador-sql.json](workflows/0967-comparador-sql.json)
+  Description: This flow compares two SQL datasets based on customer number and year, using an option to handle multiple matches.
+
+- [0968-HR_CV_Evaluation_AI.json](workflows/0968-HR_CV_Evaluation_AI.json)
+  Description: This automated flow allows automatically evaluating candidate applications via AI analysis to determine their qualification and suitability for the vacancy, then updating Airtable according to the result.
+
+- [0969-ats-ai-assessment.json](workflows/0969-ats-ai-assessment.json)
+  Description: This automated flow processes candidate applications extracted from forms, analyzes their personal data and qualifications using Google Gemini models, assigns experiences by roles using an LLM extractor, evaluates their alignment with specific role descriptions in Notion ATS, generates structured evaluations, and updates records in both Notion and Google Sheets.
+
+- [0970-buffer-chat-twilio-redis.json](workflows/0970-buffer-chat-twilio-redis.json)
+  Description: This flow uses Redis to store user messages and Twilio to receive SMS inputs, allowing the AI agent to process multiple linked messages as if they were one after verifying no new pending messages.
+
+- [0972-slack-qualys-shortcut.json](workflows/0972-slack-qualys-shortcut.json)
+  Description: This automated flow allows a Slack bot to integrate report creation and scan initiatives with the Qualys system, processing user interactions via webhooks.
+
+- [0973-ai-faq-generator.json](workflows/0973-ai-faq-generator.json)
+  Description: This flow uses n8n and language models like ChatGPT to automatically generate complete FAQ content based on provided data.
+
+- [0974-pipedrive-enrichment.json](workflows/0974-pipedrive-enrichment.json)
+  Description: This workflow automatically enriches Pipedrive organizational data with information extracted by GPT-4o and sends a Slack notification.
+
+- [0975-airtable-image-analysis.json](workflows/0975-airtable-image-analysis.json)
+  Description: This flow automates the analysis of images captured in Airtable to identify product attributes and integrates web information, optimizing inventory management.
+
+- [0976-research-report-gen.json](workflows/0976-research-report-gen.json)
+  Description: This automated flow allows generating research reports using OpenAI, Wikipedia, Google Search and sending them via email or Telegram.
+
+- [0977-postgresql-chat-automaton.json](workflows/0977-postgresql-chat-automaton.json)
+  Description: This automated flow allows a chatbot to interact with a PostgreSQL database, generating responses based on SQL queries that analyze the requested data.
+
+- [0978-ai-cv-screening.json](workflows/0978-ai-cv-screening.json)
+  Description: This automated flow collects form information and analyzes uploaded PDF CVs to qualify candidates. It integrates AI evaluation, sends HR notifications, and confirms submission by email.
+
+- [0979-pipeline-etl-twitter-sentiment.json](workflows/0979-pipeline-etl-twitter-sentiment.json)
+  Description: This daily automation searches for tweets with the #OnThisDay hashtag via ETL, analyzes their sentiment using Google NLP, and stores the results in Postgres and MongoDB tables.
+
+- [0980-lead-generation.json](workflows/0980-lead-generation.json)
+  Description: This automated flow allows extracting and saving thousands of leads with complete data to Airtable.
+
+- [0981-html-generator.json](workflows/0981-html-generator.json)
+  Description: This automated flow allows dynamically generating complete HTML pages based on user requests using the structure defined by OpenAI. The process sends the user's text to the GPT-4o-mini API with a specific JSON schema, then converts that JSON response into complete HTML.
+
+- [0982-comparativa-ia-pdf.json](workflows/0982-comparativa-ia-pdf.json)
+  Description: This flow automates data extraction directly from PDF files using AI models like Claude or Gemini for efficient comparison.
+
+- [0983-telegram-resume-processing.json](workflows/0983-telegram-resume-processing.json)
+  Description: This automated flow allows extracting information from a resume in PDF format via Telegram chatbot and generates a copy in PDF format with Gotenberg.
+
+- [0984-ai-logo-extractor.json](workflows/0984-ai-logo-extractor.json)
+  Description: This automated flow allows extracting information from an image with multiple logos using AI, and saving it in structured Airtable tables to categorize tools.
+
+- [0985-youtube-ai-agent-comment-analysis.json](workflows/0985-youtube-ai-agent-comment-analysis.json)
+  Description: This automated flow allows an AI conversational agent to interact and analyze YouTube data, including video transcription, comment collection, channel detail retrieval, thumbnail evaluation, and PostgreSQL memory management implementation.
+
+- [0986-extract-lp.json](workflows/0986-extract-lp.json)
+  Description: This flow allows automatically extracting the license plate number from images uploaded via form.
+
+- [0987-line-chatbot-llm-extraction.json](workflows/0987-line-chatbot-llm-extraction.json)
+  Description: This automated flow uses a self-hosted LLM model (Mistral Nemo) to extract personal information from messages received on LINE, analyzing and structuring the response according to a predefined JSON schema.
+
+- [0988-finance-email-parser.json](workflows/0988-finance-email-parser.json)
+  Description: This automated flow extracts financial transaction data from emails using Gmail as a source, Google Gemini AI for content analysis and interpretation, and finally structures the information into a specific format sent to a Google spreadsheet. The workflow uses custom labels to identify different transaction types (invoices, multiple payments, etc.) and applies intelligent processing based on the email sender.
+
+- [0989-vertex-ai-pdf-image-extractor.json](workflows/0989-vertex-ai-pdf-image-extractor.json)
+  Description: This automated flow allows extracting text from PDF files and images using Vertex AI (Gemini) and converting them to CSV for storage.
+
+- [0990-google-trends-automatizacion.json](workflows/0990-google-trends-automatizacion.json)
+  Description: This automated flow analyzes Google Trends results, filters by minimum traffic and maximum results, then extracts information from related articles via scraping with Jina.ai. If conditions are met (e.g., adequate traffic and new terms), it saves the information in a Google sheet for tracking.
+
+- [0991-umami-analytics-ai.json](workflows/0991-umami-analytics-ai.json)
+  Description: This analytical flow processes web traffic data from Umami using multiple API calls and JavaScript transformations to extract key metrics like visits and impressions. It then sends these results along with requests to an OpenRouter AI model to generate detailed analysis, which is finally stored in Baserow.
+
+- [0992-monitor-urls-periodico.json](workflows/0992-monitor-urls-periodico.json)
+  Description: This n8n flow periodically checks three specific URLs via HTTP requests, useful for monitoring web resources or services.
+
+- [0993-airtable-telli-ia.json](workflows/0993-airtable-telli-ia.json)
+  Description: This automated flow connects Airtable with telli, allowing contacts to be automatically added from the base and AI voice calls to be scheduled.
+
+- [0994-spotify_telegram_integration.json](workflows/0994-spotify_telegram_integration.json)
+  Description: This automated flow allows a user to send messages to Telegram about songs or artists, which are analyzed by OpenAI to get detailed information, and then that music is searched for and controlled on Spotify.
+
+- [0995-agent-access-control.json](workflows/0995-agent-access-control.json)
+  Description: This flow verifies user credentials in Airtable to establish permissions and access control to different agents and tools.
+
+- [0996-speech_assistant_telegram.json](workflows/0996-speech_assistant_telegram.json)
+  Description: This flow uses the Google Gemini and OpenAI API along with n8n to process messages in Telegram, whether textual or voice. It analyzes content, provides feedback on clarity, structure, and content, and allows collaborative speech refinement.
+
+- [0997-netsuite-suiteql-query.json](workflows/0997-netsuite-suiteql-query.json)
+  Description: This flow allows executing SuiteQL queries in NetSuite and receiving the results via a webhook.
+
+- [0998-google-credentials-setup.json](workflows/0998-google-credentials-setup.json)
+  Description: This automated flow allows creating multiple Google OAuth2 credentials in the n8n tool, using manually provided information.
+
+- [0999-github-prompts-dynamic.json](workflows/0999-github-prompts-dynamic.json)
+  Description: This flow automates loading dynamic prompts from a GitHub repository and auto-populating them with n8n expressions for use in language models.
+
+- [1000-ip-authentication-report.json](workflows/1000-ip-authentication-report.json)
+  Description: This flow queries and filters successful authentication events for different login types and then sends a report in CSV format via email.
+
+- [1001-flux-image-generator.json](workflows/1001-flux-image-generator.json)
+  Description: This automated flow allows generating images with predefined styles (like AI Dystopia, Hyper-Surreal Escape, etc.) via the huggingface API. After a user completes a form providing a prompt and selects a style, the system calls the corresponding model, uploads the generated image to S3, and displays the result on a webpage.
+
+- [1002-flux-dev-image-generation.json](workflows/1002-flux-dev-image-generation.json)
+  Description: This automated flow generates an image using the Fal.ai API with predefined parameters and downloads it for automatic storage in Google Drive.
+
+- [1003-ia-output-parser.json](workflows/1003-ia-output-parser.json)
+  Description: This flow forces AIs to use a specific output format via structured or self-fixing parsers, ensuring organized and validated responses.
+
+- [1004-imagen-optimizada-gdrive.json](workflows/1004-imagen-optimizada-gdrive.json)
+  Description: This automated flow optimizes images uploaded to a Google Drive folder and resends them to the same service.
+
+- [1005-telegram-crypto-price-agent.json](workflows/1005-telegram-crypto-price-agent.json)
+  Description: This automated flow allows a Telegram chatbot to maintain conversations about cryptocurrency prices using contextualized memory and tools to query the CoinMarketCap API.
+
+- [1006-rag-stock-analysis.json](workflows/1006-rag-stock-analysis.json)
+  Description: This flow analyzes profitability reports using RAG to generate a detailed markdown report on trends and differences.
+
+- [1007-comprador-personalizado-IA-RAG.json](workflows/1007-comprador-personalizado-IA-RAG.json)
+  Description: This flow uses OpenAI and RAG to create a personalized assistant that answers queries about products or general business information.
+
+- [1008-workflow-pdf-wordpress-ai.json](workflows/1008-workflow-pdf-wordpress-ai.json)
+  Description: This automated flow transforms PDF documents into WordPress blog posts formatted using AI to generate content and titles, creating images with pollinations.ai, and incorporating human review via Gmail.
+
+- [1009-huggingface-notion-ai-database.json](workflows/1009-huggingface-notion-ai-database.json)
+  Description: This automated flow executes a daily query to the Hugging Face API weekly to get data on publications related to artificial intelligence and stores it in a structured format as a database in Notion.
+
+- [1010-workflow-contact-form-automation.json](workflows/1010-workflow-contact-form-automation.json)
+  Description: This automated flow classifies WordPress form (CF7) responses and generates personalized email drafts to efficiently respond to customers.
+
+- [1011-producthunt-monitor-ai-agents.json](workflows/1011-producthunt-monitor-ai-agents.json)
+  Description: This automated flow searches for the latest product launches related to 'AI Agents' on ProductHunt, verifies if there are valid results, and sends an update to a Slack channel daily.
+
+- [1012-crm-coupon-assignment.json](workflows/1012-crm-coupon-assignment.json)
+  Description: This automated flow manages the assignment and validation of unique coupons via QR code for lead generation, maintaining a bidirectional relationship with Google Sheets.
+
+- [1013-openai-image-generation.json](workflows/1013-openai-image-generation.json)
+  Description: This automated flow allows generating multiple images using OpenAI's GPT-4 image model via its API.
+
+- [1014-INSEE_AgileCRM_Enrichment.json](workflows/1014-INSEE_AgileCRM_Enrichment.json)
+  Description: This automated flow enriches company data in Agile CRM using the open INSEE API.
+
+- [1015-modelo_openai_fine_tuning.json](workflows/1015-modelo_openai_fine_tuning.json)
+  Description: This automated flow allows the creation and use of custom OpenAI models through fine-tuning based on JSONL files downloaded from Google Drive.
+
+- [1016-bright-data-serp-extractor.json](workflows/1016-bright-data-serp-extractor.json)
+  Description: This flow uses the Bright Data API to extract data from Google search result pages (SERP) and processes it with LLM chains like Gemini Flash Exp to generate a structured response.
+
+- [1018-elevenlabs-tts-api.json](workflows/1018-elevenlabs-tts-api.json)
+  Description: This automated flow allows generating text audio using the Elevenlabs API via webhooks, first verifying that 'voice_id' and 'text' parameters are correctly provided.
+
+- [1019-obsidian-airtable-agent.json](workflows/1019-obsidian-airtable-agent.json)
+  Description: This flow allows getting data from Airtable and generating notes in Obsidian using an OpenAI chat model.
+
+- [1020-item-matching-example.json](workflows/1020-item-matching-example.json)
+  Description: This flow uses the itemMatching() function in the code node to modify specific fields of the workflow items.
+
+- [1021-daily-digest.json](workflows/1021-daily-digest.json)
+  Description: This automated flow compiles a daily summary with news, emails, and pending tasks in a single HTML view.
+
+- [1022-gmail-ai-auto-responder.json](workflows/1022-gmail-ai-auto-responder.json)
+  Description: This automated flow analyzes incoming emails and decides if a response is needed using OpenAI artificial intelligence, creating drafts in Gmail for conversations.
+
+- [1023-get-bible-api-adapter.json](workflows/1023-get-bible-api-adapter.json)
+  Description: This flow allows converting a list of structured biblical references into a compatible format for querying via the GetBible API.
+
+- [1024-clicksend-tts.json](workflows/1024-clicksend-tts.json)
+  Description: This flow uses n8n to send synthesized voice messages via the ClickSend service using a REST API. It allows creating a form where users can enter text (body), destination number, choose between male or female voice, and select the language.
+
+- [1025-chatbot-extraccion-datos-personales.json](workflows/1025-chatbot-extraccion-datos-personales.json)
+  Description: This automated flow analyzes chat messages to extract personal data (name, surname, communication type) and contacts in JSON format.
+
+- [1026-factura-pdf-jsreport.json](workflows/1026-factura-pdf-jsreport.json)
+  Description: This flow allows entering invoice information via a form and automatically generates a PDF document using JSReport, which is then attached to an email.
+
+- [1027-facebook-long-lived-token.json](workflows/1027-facebook-long-lived-token.json)
+  Description: This automated flow obtains a long-lived Facebook access token from configured parameters and then uses it to obtain page tokens with application scope.
+
+- [1028-lark-message-sender.json](workflows/1028-lark-message-sender.json)
+  Description: This automated flow allows obtaining an authentication token for Larksuite and subsequently sending a text message to a specific conversation.
+
+- [1029-seo-onpage-audit.json](workflows/1029-seo-onpage-audit.json)
+  Description: This flow analyzes the on-page SEO of a landing page using GPT models to generate detailed reports.
+
+- [1030-telegram-ai-image-generation.json](workflows/1030-telegram-ai-image-generation.json)
+  Description: This automated flow converts Telegram message text into OpenAI-generated images and sends them back to the user via the Telegram application.
+
+- [1031-open-meteo-ai-chat.json](workflows/1031-open-meteo-ai-chat.json)
+  Description: This automated flow uses Open-Meteo API functions (Tools) with ChatGPT to determine the exact location of a city requested by the user and subsequently use those coordinates to generate a detailed weather forecast.
+
+- [1032-ai-agents-http-tool.json](workflows/1032-ai-agents-http-tool.json)
+  Description: This flow allows users to request activities or information via an AI query, using integrated HTTP tools that simplify API calls.
+
+- [1033-icypeas-email-verification.json](workflows/1033-icypeas-email-verification.json)
+  Description: This flow verifies a single email in Icypeas via an HTTP request followed by authentication.
+
+- [1034-icypeas-domain-search.json](workflows/1034-icypeas-domain-search.json)
+  Description: This automated flow performs domain searches using the Icypeas API.
+
+- [1035-deepseek-chat-r1.json](workflows/1035-deepseek-chat-r1.json)
+  Description: This flow allows interacting with DeepSeek models (conversational and reasoner) while maintaining contextualized memory.
+
+- [1036-daily-calendar-summarization-slack.json](workflows/1036-daily-calendar-summarization-slack.json)
+  Description: This automated flow allows the user to get all daily Google Calendar events and send an AI-generated summary to their Slack channel.
+
+- [1037-gsc-weekly-report.json](workflows/1037-gsc-weekly-report.json)
+  Description: This automated flow executes a weekly SEO report based on Google Search Console data and sends it via email.
+
+- [1038-kb-confluence-search-response.json](workflows/1038-kb-confluence-search-response.json)
+  Description: This flow searches Confluence for relevant information based on received queries to improve technical support.
+
+- [1039-amazon-keywords-automation.json](workflows/1039-amazon-keywords-automation.json)
+  Description: This automated flow gets keyword suggestions from the Amazon Completion API based on a webhook input, cleans the data, and then stores it in Airtable.
+
+- [1040-auto_resume_disabled_workflows.json](workflows/1040-auto_resume_disabled_workflows.json)
+  Description: This automated flow searches for workflows with auto-resume enabled that are disabled, then activates them to maintain the correct state.
+
+- [1041-google-drive-rag-automation.json](workflows/1041-google-drive-rag-automation.json)
+  Description: This automated flow allows downloading Google Drive documents, extracting and normalizing their text, generating embeddings with Gemini, inserting them into a Pinecone index for semantic search, and when a chat message is received, retrieving relevant information from the vector store.
+
+- [1042-youtube-ai-summary-discord.json](workflows/1042-youtube-ai-summary-discord.json)
+  Description: This automated flow monitors new YouTube videos via an RSS URL, gets their English subtitles, processes and summarizes them with the ChatGPT API, and then posts the summary along with the video link to a Discord channel.
+
+- [1043-linkedin-url-discovery.json](workflows/1043-linkedin-url-discovery.json)
+  Description: This flow searches and extracts LinkedIn URLs in a specific Google sheet for each row.
+
+- [1044-line-customer-service-whatsapp-asana.json](workflows/1044-line-customer-service-whatsapp-asana.json)
+  Description: This automated flow allows integrating WhatsApp form responses with task creation in Asana for incident tracking.
+
+- [1045-google-sheets-feedback-summary.json](workflows/1045-google-sheets-feedback-summary.json)
+  Description: This automated flow extracts responses from a Google Sheets form, aggregates them by question using the Aggregate node, and then uses OpenAI GPT-4 to generate a detailed feedback summary in Markdown format.
+
+- [1046-gmail-api-automation.json](workflows/1046-gmail-api-automation.json)
+  Description: This automated flow allows sending and receiving emails via the Gmail API, using a single set of OAuth2 credentials for different operations.
+
+- [1048-notion-clockify-client-sync.json](workflows/1048-notion-clockify-client-sync.json)
+  Description: This automated flow detects new clients in a Notion database and automatically adds each one to the Clockify time management system.
+
+- [1049-pdf-to-text-converter.json](workflows/1049-pdf-to-text-converter.json)
+  Description: Converts PDF files to text using a custom plugin and an HTML input.
+
+- [1050-techcrunch-scraping.json](workflows/1050-techcrunch-scraping.json)
+  Description: This automated flow extracts detailed information about the latest TechCrunch articles through sequential HTML processing and HTTP requests.
+
+- [1051-youtube-video-summarizer.json](workflows/1051-youtube-video-summarizer.json)
+  Description: This flow uses Searchapi.io along with OpenAI models and advanced text splitting techniques to extract, process, and generate a complete summary of the content of specified YouTube videos.
+
+- [1052-monday-com-column-split.json](workflows/1052-monday-com-column-split.json)
+  Description: This flow processes data from specific columns in a Monday.com card and splits them to handle sub-items separately.
+
+- [1053-movie-recommendations-agent.json](workflows/1053-movie-recommendations-agent.json)
+  Description: This flow allows a chat assistant to get movie recommendations using the OpenAI API and real-time querying of a MongoDB database.
+
+- [1054-outlook-ai-response.json](workflows/1054-outlook-ai-response.json)
+  Description: This automated flow connects a Microsoft Outlook account to filter and process specific incoming emails (in this case 'sales@yourcompany.com'), using an AI agent that responds with a professional, concise, and modern style based on predefined examples.
+
+- [1055-line-chatbot-search.json](workflows/1055-line-chatbot-search.json)
+  Description: This automated flow allows a LINE chatbot to search for information on the web when the user makes queries, using tools like SearchAPI.io and LLM models like OpenAI.
+
+- [1056-test_pdf.json](workflows/1056-test_pdf.json)
+  Description: This flow allows combining multiple PDFs into a single document and writing it to the file system.
+
+- [1057-analisis-feedback-ia.json](workflows/1057-analisis-feedback-ia.json)
+  Description: This flow processes customer comments, analyzes feedback with artificial intelligence to get a summary, improvement suggestions, and ideas for social posts, and then sends the results by email to the team address.
+
+- [1059-automatic-meetings-telegram.json](workflows/1059-automatic-meetings-telegram.json)
+  Description: This automated flow sends a list of your scheduled meetings for the current day to Telegram every morning at six, with dates and times formatted in Persian.
+
+- [1060-slack-gmeet-automator.json](workflows/1060-slack-gmeet-automator.json)
+  Description: This automated flow allows generating Google Meet links from Slack requests and sending them to channel participants.
+
+- [1061-telegram-echo-bot.json](workflows/1061-telegram-echo-bot.json)
+  Description: This automated flow allows a Telegram chatbot to display the JSON content of any message or event received in real-time.
+
+- [1062-x-post-ai.json](workflows/1062-x-post-ai.json)
+  Description: This automated flow automatically posts the latest YouTube videos to X/Twitter with text generated by ChatGPT.
+
+- [1063-github-issues-monitor.json](workflows/1063-github-issues-monitor.json)
+  Description: This automated flow queries open issues from a specific GitHub repository every 10 minutes (with parameters like state and labels) and sends only those with fewer than 5 comments via Telegram.
+
+- [1064-okMME97B70fXzK5U_telegram_to_kindle.json](workflows/1064-okMME97B70fXzK5U_telegram_to_kindle.json)
+  Description: This automated flow allows receiving attachments via Telegram, verifying their existence, renaming them to send as email attachments to a Kindle address, and notifying both the user on Telegram and via email if the process is successful or fails.
+
+- [1065-assistant-creator.json](workflows/1065-assistant-creator.json)
+  Description: This automated flow allows downloading Google Drive documents and creating an OpenAI assistant with those files, followed by a conversation with the assistant.
+
+- [1066-openai-tweet-generator.json](workflows/1066-openai-tweet-generator.json)
+  Description: This flow uses OpenAI to generate tweets based on randomly selected hashtags and then automatically saves them to an Airtable base.
+
+- [1067-discord-gemini-response.json](workflows/1067-discord-gemini-response.json)
+  Description: This automated flow allows a Discord bot to use Google Gemini to generate conversational responses based on a context window, maintaining conversation history using a memory buffer.
+
+- [1068-openai-tts-audio-generation.json](workflows/1068-openai-tts-audio-generation.json)
+  Description: This flow allows generating audio from text using OpenAI's Text-to-Speech (TTS) API. A webhook is configured to receive POST requests that include the text to be converted.
+
+- [1069-telegram-error-handler.json](workflows/1069-telegram-error-handler.json)
+  Description: This automated flow sends error notifications to a specific Telegram chat when a failure occurs in any workflow execution.
+
+- [1070-server-monitor-n8n.json](workflows/1070-server-monitor-n8n.json)
+  Description: This automated flow checks the availability of web servers every minute via HTTP requests and logs the results in Google spreadsheets.
+
+- [1071-slack-chatbot-slash.json](workflows/1071-slack-chatbot-slash.json)
+  Description: This automated flow configures a Slack chatbot using slash commands to interact with users. It responds to different commands like /ask and /another, using OpenAI models.
+
+- [1072-openweathermap-airtable-weather.json](workflows/1072-openweathermap-airtable-weather.json)
+  Description: This automated flow gets daily weather data from the OpenWeatherMap API and stores it in an Airtable table.
+
+- [1073-namesilo-domain-checker.json](workflows/1073-namesilo-domain-checker.json)
+  Description: This automated flow verifies the availability of multiple domains via the Namesilo API and exports the results in Excel format.
+
+- [1074-netflix-email-forwarding-gmail-mailjet.json](workflows/1074-netflix-email-forwarding-gmail-mailjet.json)
+  Description: This automated flow sends Netflix emails received in a Gmail account to multiple defined recipients, using both Gmail and Mailjet services for transmission.
+
+- [1075-x-publication-automation.json](workflows/1075-x-publication-automation.json)
+  Description: This automated flow allows publishing on X using the Airtop service, following steps to create a session, open a window, write text, and click 'Publish'.
+
+- [1076-youtube-promotion-x.json](workflows/1076-youtube-promotion-x.json)
+  Description: This automated flow checks every 30 minutes if there are new videos on a specific YouTube channel and uses ChatGPT to generate messages on X (formerly Twitter) that promote said videos, staying under the character limit.
+
+- [1077-twilio-http-monitor.json](workflows/1077-twilio-http-monitor.json)
+  Description: This automated flow periodically checks the status of a URL via an HTTP request and sends an SMS via Twilio if the response is successful (code 200).
+
+- [1078-matomo-seo-ai-report.json](workflows/1078-matomo-seo-ai-report.json)
+  Description: This automated flow analyzes data from recurring visitors (more than 3 visits) in Matomo via integration with LLaMA-3 and saves the results in Baserow for SEO analysis.
+
+- [1079-automatizar-carga-csv-postgres.json](workflows/1079-automatizar-carga-csv-postgres.json)
+  Description: This automated flow reads a CSV file from /tmp, converts it to spreadsheet format, and loads the data directly into the t1 table of PostgreSQL.
+
+- [1080-ai-stock-analysis.json](workflows/1080-ai-stock-analysis.json)
+  Description: This flow analyzes stock or cryptocurrency charts via images using AI and returns a simplified technical analysis in child-like terms.
+
+- [1081-retry-on-fail-known-error.json](workflows/1081-retry-on-fail-known-error.json)
+  Description: This flow implements a retry mechanism for an action but avoids retries in case of specific known errors like 'could not be found'.
+
+- [1082-serp-bear-ai-analysis.json](workflows/1082-serp-bear-ai-analysis.json)
+  Description: This automated flow analyzes SERP Bear keyword rank data using artificial intelligence and saves the analysis in Baserow.
+
+- [1083-line-email-ai-resumen.json](workflows/1083-line-email-ai-resumen.json)
+  Description: This automated flow uses an AI model to read and summarize incoming emails via IMAP, highlighting important or urgent items like deadlines through intelligent analysis.
+
+- [1084-form-to-airtable.json](workflows/1084-form-to-airtable.json)
+  Description: This automated flow automatically captures form data and stores it in an Airtable table without manual intervention. Each form submission creates a new record with custom fields for 'Name', 'Age', 'Email', 'Address', and 'Subscription'.
+
+- [1085-send-sms-clicksend.json](workflows/1085-send-sms-clicksend.json)
+  Description: This flow allows sending a text message (SMS) via the ClickSend API when manually activated.
+
+- [1086-perplexity-api-query.json](workflows/1086-perplexity-api-query.json)
+  Description: This automated flow queries the Perplexity AI API using the Sonar model with a system prompt and a user request, and then cleanly processes the response.
+
+- [1087-insta-chatbot-gpt.json](workflows/1087-insta-chatbot-gpt.json)
+  Description: This flow allows integrating ChatGPT into Instagram via ManyChat to generate automated responses.
+
+- [1088-zip-multiple-files.json](workflows/1088-zip-multiple-files.json)
+  Description: This flow compresses multiple files into a dynamic ZIP file with n8n.
+
+- [1089-comunidad-topicos-n8n.json](workflows/1089-comunidad-topicos-n8n.json)
+  Description: This automated flow monitors specific topics in the n8n community via a search term and updates a spreadsheet with the results.
+
+- [1090-upload-instagram-tiktok.json](workflows/1090-upload-instagram-tiktok.json)
+  Description: This flow allows automatically uploading images to Instagram and TikTok using the same endpoint.
+
+- [1091-spotify-maintenance.json](workflows/1091-spotify-maintenance.json)
+  Description: This automated flow checks if songs from recent Spotify plays are already saved in the NocoDB database. If not, it creates new records for each with the song URI and the date it was added (using currentDate). It also searches the existing database for a monthly playlist with a name corresponding to the current date. If it exists, it gets its tracks; if it doesn't exist on Spotify but is in NocoDb, it creates it and synchronizes.
+
+- [1092-url-shortener-management.json](workflows/1092-url-shortener-management.json)
+  Description: This automated flow manages short URLs by generating SHA-256 hashes stored in Airtable, allowing creation and verification of unique references to control access or records.
+
+- [1093-n8n-git-automation.json](workflows/1093-n8n-git-automation.json)
+  Description: This automated flow allows adding a README.md file and performing the first commit followed by a push on GitHub when manually executed.
+
+- [1094-trello-sync.json](workflows/1094-trello-sync.json)
+  Description: This automated flow gets Google Calendar events daily at 8:00 AM, checks if they are recurring tasks (like 'Check email', etc.), and deletes them if necessary. It then creates Trello cards for each event with its details.
+
+- [1095-travis-ci-trigger.json](workflows/1095-travis-ci-trigger.json)
+  Description: This workflow activates builds on Travis CI when a 'push' event or an 'opened' action occurs in the 'n8n-io/n8n' repository.
+
+- [1096-mattermost-standup-bot.json](workflows/1096-mattermost-standup-bot.json)
+  Description: This automated flow allows the Mattermost standup bot to manage configurations and send scheduled alerts.
+
+- [1097-n8n-workflows-guardar.json](workflows/1097-n8n-workflows-guardar.json)
+  Description: This automated flow allows saving n8n workflows to JSON files in Google Drive.
+
+- [1098-eliminar-mensajes-gmail-batches.json](workflows/1098-eliminar-mensajes-gmail-batches.json)
+  Description: This automated flow allows deleting old Gmail messages via batch operations.
+
+- [1099-notion-page-archiver.json](workflows/1099-notion-page-archiver.json)
+  Description: This automated flow automatically searches for and archives empty pages in a Notion database.
+
+- [1100-gotify-weather-update.json](workflows/1100-gotify-weather-update.json)
+  Description: This automated flow is triggered daily at 9:00 AM via a Cron node and gets the current temperature of Berlin using OpenWeatherMap. It then uses Gotify to send a notification with this information as part of the message.
+
+- [1101-strapi-create-update.json](workflows/1101-strapi-create-update.json)
+  Description: This automated flow allows creating an entry in Strapi (posts), saving its ID, and then updating it with a specific slug.
+
+- [1102-disqus-forum-details.json](workflows/1102-disqus-forum-details.json)
+  Description: This automated flow executes a manual action to get the details of a specific forum on Disqus.
+
+- [1103-plex-qbittorrent-automation.json](workflows/1103-plex-qbittorrent-automation.json)
+  Description: This flow automates speed control and download management in QBittorrent based on Plex webhook events, allowing configuration of speed limits or specific actions like pausing/resuming torrents according to the received action.
+
+- [1104-airtable-batch-processing-with-rates.json](workflows/1104-airtable-batch-processing-with-rates.json)
+  Description: This flow processes records in batch in Airtable with three modes: insert, update, and upsert. To avoid Airtable API rate limits, it includes pauses after each 429 error.
+
+- [1105-netlify-deploy-alert.json](workflows/1105-netlify-deploy-alert.json)
+  Description: This automated flow detects failures in Netlify deployments and sends an alert to a Slack channel.
+
+- [1106-openlibrary-recommendation.json](workflows/1106-openlibrary-recommendation.json)
+  Description: This automated flow searches and recommends a random book from Open Library based on the theme 'juvenile_literature' every Friday at 11:00 AM or via manual execution, using HTTP requests to get data and send emails with recommendations.
+
+- [1107-activeMQ-amqp-trigger.json](workflows/1107-activeMQ-amqp-trigger.json)
+  Description: This flow uses the AMQP trigger to receive messages from an ActiveMQ queue.
+
+- [1108-notion-project-user-management.json](workflows/1108-notion-project-user-management.json)
+  Description: This flow allows managing project and user creation in Notion via functions that process data and integrates with webhooks.
+
+- [1109-transcripcion-drive-sheets.json](workflows/1109-transcripcion-drive-sheets.json)
+  Description: This automated flow transcribes voice files uploaded to Google Drive and saves the result in a spreadsheet.
+
+- [1110-nicepng-text-analysis.json](workflows/1110-nicepng-text-analysis.json)
+  Description: This flow analyzes a PNG file of motivational quotes with AWS Rekognition to detect text, then extracts the image name and link via an HTTP request and incorporates everything along with the detected texts (converted to lowercase) into Google Sheets via OAuth2.
+
+- [1111-mattermost-bebida.json](workflows/1111-mattermost-bebida.json)
+  Description: This flow allows receiving a POST request via webhook, getting random data from an API (like a cocktail recipe), and sending a formatted message to Mattermost with specific details.
+
+- [1112-openai-n8n-examples.json](workflows/1112-openai-n8n-examples.json)
+  Description: This n8n flow contains examples of how to use different OpenAI models and APIs to generate summaries (TLDR), translate text, create image prompts, and more.
+
+- [1113-swift_codes_extractor.json](workflows/1113-swift_codes_extractor.json)
+  Description: This automated flow extracts SWIFT codes from multiple web pages in different countries, processes the normalized information, and saves it in a MongoDB database.
+
+- [1114-backup-n8n-workflows.json](workflows/1114-backup-n8n-workflows.json)
+  Description: This automated n8n flow saves all server configurations into JSON files stored in a GitHub repository.
+
+- [1115-filemaker-pagination.json](workflows/1115-filemaker-pagination.json)
+  Description: This flow processes a paginated response from the FileMaker Data API to extract specific contact data.
+
+- [1116-quickbase-registros-n8n.json](workflows/1116-quickbase-registros-n8n.json)
+  Description: This flow allows creating, updating, and getting records in Quick Base via configured nodes.
+
+- [1117-telegram-multilang-bot.json](workflows/1117-telegram-multilang-bot.json)
+  Description: This automated flow allows a Telegram chatbot to maintain records in a database and send multilingual responses according to the user's language.
+
+- [1118-telegram-weather-bot.json](workflows/1118-telegram-weather-bot.json)
+  Description: This automated flow allows a Telegram bot to provide weather data via R-generated charts, following a protocol defined by /start and /getweather commands.
+
+- [1119-smart-factory-alert.json](workflows/1119-smart-factory-alert.json)
+  Description: This flow monitors factory sensors to detect temperatures above 50°C and stores both sensor data and incidents in CrateDB.
+
+- [1120-recomendaciones-qdrant-mistral.json](workflows/1120-recomendaciones-qdrant-mistral.json)
+  Description: This automated flow recommends recipes using Qdrant for vector search and Mistral AI as a language model.
+
+- [1122-wordpress-auto-generation.json](workflows/1122-wordpress-auto-generation.json)
+  Description: This automated flow selects the least used WordPress category from a PostgreSQL database to generate unique and structured articles using GPT models. After creating the complete content in specific HTML format, it generates an optimized title and downloads/attaches a featured image before publishing everything together.
+
+- [1123-shopify-deal-sync.json](workflows/1123-shopify-deal-sync.json)
+  Description: This automated flow checks if an updated order in Shopify already exists as a deal in HubSpot and, if not, creates a new deal using order data.
+
+- [1124-zendesk-pipedrive-ticket.json](workflows/1124-zendesk-pipedrive-ticket.json)
+  Description: This automated flow processes Zendesk tickets every 5 minutes to search for and update requester information using Pipedrive data.
+
+- [1125-zendesk-pipedrive-sync.json](workflows/1125-zendesk-pipedrive-sync.json)
+  Description: This automated flow synchronizes Zendesk ticket comments with notes on Pipedrive people based on the sender's email and uses the last timestamp to filter updates.
+
+- [1126-xml-to-sheets.json](workflows/1126-xml-to-sheets.json)
+  Description: This automated flow downloads a sample XML file, parses it to extract elements, and creates a new file in Google Sheets with columns defined from the content.
+
+- [1127-procesamiento_excel.json](workflows/1127-procesamiento_excel.json)
+  Description: This flow processes Excel files via various sources and destinations, allows data manipulation, and optionally saves or uploads the modified file.
+
+- [1128-csv-insert-json.json](workflows/1128-csv-insert-json.json)
+  Description: This automated flow reads a CSV file from a specific location and converts it to spreadsheet format to then insert it into the MySQL table concerts_2023_csv.
+
+- [1129-telegram-facebook-interest.json](workflows/1129-telegram-facebook-interest.json)
+  Description: This automated flow processes Telegram messages starting with '#interest' to search for interests in the Facebook Graph API and then generates a CSV file with the results.
+
+- [1130-auto-email-campaign-followup.json](workflows/1130-auto-email-campaign-followup.json)
+  Description: This automated flow manages email campaigns with subsequent follow-up. It gets information from a Google sheet, classifies conversation threads, and sends automated messages according to a predefined schedule.
+
+- [1131-notion-linear-issue-sync.json](workflows/1131-notion-linear-issue-sync.json)
+  Description: This automated flow extracts information from To-Do blocks in Notion with a specific format and uses it to automatically create tasks in Linear.
+
+- [1132-todoist-task-management.json](workflows/1132-todoist-task-management.json)
+  Description: This automated flow manages tasks in Todoist by moving them between projects according to deadlines and time conditions.
+
+- [1133-linear-tickets-sync.json](workflows/1133-linear-tickets-sync.json)
+  Description: This automated flow extracts and processes all issues from a specific team in Linear, paginating results to handle large volumes.
+
+- [1134-youtube-moments-analyzer.json](workflows/1134-youtube-moments-analyzer.json)
+  Description: This flow analyzes YouTube videos for 'engaging' moments where intensity exceeds a threshold and are not too close to each other, generating a structured response with the most relevant time coordinates.
+
+- [1135-linear-bug-report.json](workflows/1135-linear-bug-report.json)
+  Description: This n8n flow processes bug reports received via webhook in Slack and converts them into tasks within Linear, using OAuth credentials for authentication.
+
+- [1136-linear-ai-classification.json](workflows/1136-linear-ai-classification.json)
+  Description: This automated flow classifies bug tickets in Linear using AI (OpenAI) and assigns the responsible team according to their work areas. The ticket is analyzed, AI determines the appropriate team, and this is updated in Linear.
+
+- [1137-pdf-qa-vector-store.json](workflows/1137-pdf-qa-vector-store.json)
+  Description: This flow processes chat messages to answer questions about a PDF using the vector stored in Qdrant.
+
+- [1138-email-verificacion-google-sheets.json](workflows/1138-email-verificacion-google-sheets.json)
+  Description: This automated flow verifies if the email is not duplicated (based on a removeDuplicates function) and verifies its existence via API. If it exists, it performs an update in Google Sheets.
+
+- [1139-telegram-image-analysis.json](workflows/1139-telegram-image-analysis.json)
+  Description: This automated flow detects if a message receives an image and analyzes it with OpenAI to send a processed response via Telegram.
+
+- [1140-gmail-email-test.json](workflows/1140-gmail-email-test.json)
+  Description: This automated flow allows sending test emails with an attached image using OAuth2 authentication in Google Mail.
+
+- [1141-hubspot-product-replication.json](workflows/1141-hubspot-product-replication.json)
+  Description: This automated flow allows automatically replicating line items from a won deal to a newly created one in HubSpot, integrating Workflows and n8n via webhooks.
+
+- [1142-s3-lista-archivos.json](workflows/1142-s3-lista-archivos.json)
+  Description: This automated flow allows downloading all files from a specific Amazon S3 folder and compressing them into a ZIP file for easy download or later processing.
+
+- [1143-seo-serp-analysis.json](workflows/1143-seo-serp-analysis.json)
+  Description: This automated flow searches and processes Google search results for SEO analysis.
+
+- [1144-firecrawl-markdown-scraper.json](workflows/1144-firecrawl-markdown-scraper.json)
+  Description: This flow automates the extraction of web content in Markdown format and its links using the Firecrawl API.
+
+- [1145-congratulations-automator.json](workflows/1145-congratulations-automator.json)
+  Description: This automated flow checks if there are events scheduled today in the spreadsheet, and if so, customizes a message with happy wishes for each contact and sends SMS using Twilio.
+
+- [1146-digitalocean-snapshots-management.json](workflows/1146-digitalocean-snapshots-management.json)
+  Description: This automated flow automatically manages DigitalOcean instance snapshots, maintaining a maximum of 4 and deleting the oldest ones.
+
+- [1147-notion-tareas-slack-automatizado.json](workflows/1147-notion-tareas-slack-automatizado.json)
+  Description: This automated flow sends reminders of pending tasks stored in a Notion database via direct messages in Slack, filtering by specific users daily between Monday and Friday at 9:00 AM.
+
+- [1148-linkedin-automation.json](workflows/1148-linkedin-automation.json)
+  Description: This automated flow seeks to obtain recent articles about LinkedIn via scheduled searches, extract their links, and then generate contributions using AI technology.
+
+- [1149-google-docs-image-replace.json](workflows/1149-google-docs-image-replace.json)
+  Description: Google Docs automation with dynamic image replacement.
+
+- [1150-spotify-playlist-classifier.json](workflows/1150-spotify-playlist-classifier.json)
+  Description: This automated flow allows classifying and adding Spotify tracks to multiple playlists based on their characteristics and playback history using the Claude 3.5 model.
+
+- [1151-qualys-slack-integration.json](workflows/1151-qualys-slack-integration.json)
+  Description: This automated flow allows interacting with the Qualys API from Slack via modals, generating reports and executing vulnerability scans based on user input.
+
+- [1152-qualys-scan-workflow.json](workflows/1152-qualys-scan-workflow.json)
+  Description: This automated flow initiates a scan in Qualys via Slack and checks its status every 5 minutes until completion.
+
+- [1153-qualys-report-automation.json](workflows/1153-qualys-report-automation.json)
+  Description: This automated flow integrates the Qualys API with Slack to generate periodic reports and send them as attachments in the specified channel.
+
+- [1154-content-generation-automated.json](workflows/1154-content-generation-automated.json)
+  Description: This automated flow allows generating structured content from form inputs using OpenAI models and storing the results in Google Drive.
+
+- [1155-sharepoint-token-fetch.json](workflows/1155-sharepoint-token-fetch.json)
+  Description: This automated flow obtains authentication tokens to access a SharePoint list and allows executing scheduled operations with them.
+
+- [1156-qualys-thehive-integration.json](workflows/1156-qualys-thehive-integration.json)
+  Description: This automated flow searches for finalized reports in Qualys, discards those already processed according to a previous timestamp, and creates cases in TheHive with their respective report attachments.
+
+- [1157-n8n-multi-workflow.json](workflows/1157-n8n-multi-workflow.json)
+  Description: This automated flow allows executing multiple secondary jobs in parallel and tracking their status until all are finished.
+
+- [1158-hackernews-resource-recommendations.json](workflows/1158-hackernews-resource-recommendations.json)
+  Description: This automated flow searches for and analyzes educational resources related to a specified topic (like Python or artificial intelligence), using the Hacker News API. It then categorizes these resources by type and difficulty level, performs basic sentiment analysis, and integrates everything into a formatted email to send personalized recommendations.
+
+- [1159-webinar-registration-klicktipp.json](workflows/1159-webinar-registration-klicktipp.json)
+  Description: This flow automates the integration of webinar registrations from JotForm with KlickTipp. It validates and transforms data like names, dates, work experiences, and URLs to create subscribers in KlickTipp and apply dynamic tags based on form responses.
+
+- [1160-customer-lead-ai-processing.json](workflows/1160-customer-lead-ai-processing.json)
+  Description: This automated flow processes contact requests using an AI agent, analyzing notes to determine if they are valid and generating professional emails when required.
+
+- [1161-gravity-klicktipp-integration.json](workflows/1161-gravity-klicktipp-integration.json)
+  Description: This automated flow processes Gravity Forms submissions to subscribe contacts and apply tags in KlickTipp.
+
+- [1162-typeform-klicktipp-quiz.json](workflows/1162-typeform-klicktipp-quiz.json)
+  Description: This automated flow processes Typeform form responses to create contacts in KlickTipp and assign dynamic tags based on the responses.
+
+- [1163-strava_ai_coaching_analysis.json](workflows/1163-strava_ai_coaching_analysis.json)
+  Description: This automated flow analyzes sports activities from Strava using a conversational AI based on Google Gemini to offer personalized advice as a triathlon coach and sends a formatted summary via email.
+
+- [1164-zendesk-gcal-airtable-customer-flow.json](workflows/1164-zendesk-gcal-airtable-customer-flow.json)
+  Description: This automated flow allows a chatbot to integrate multiple systems like Zendesk to create tickets and manage customer data, Gcal (Google Calendar) to schedule appointments, Airtable to share transcripts with the product team, and n8n to execute all operations.
+
+- [1165-telegram-sticker-checker.json](workflows/1165-telegram-sticker-checker.json)
+  Description: This workflow analyzes if the message received on Telegram contains a sticker. If so, it responds with information about the sender and the sticker details (ID and set_name). Otherwise, it sends a message indicating that no sticker was found.
+
+- [1166-threads-notion-integration.json](workflows/1166-threads-notion-integration.json)
+  Description: This automated flow allows getting posts from the Threads API, filtering them, and saving them to a Notion database after detailed analysis.
+
+- [1167-stripe-quickbooks-integration.json](workflows/1167-stripe-quickbooks-integration.json)
+  Description: This blueprint implements an automated flow that integrates n8n with Stripe and QuickBooks Online. When a 'payment_intent.succeeded' webhook notification is received (payment success), it searches if the associated customer already exists in QuickBooks via an HTTP query to the QuickBooks API. If it doesn't exist, it creates a new customer in QuickBooks using data from the payment and Stripe, and then creates a sales receipt with those details. The flow uses n8n to handle the workflow.
+
+- [1168-linkedin-enrichment.json](workflows/1168-linkedin-enrichment.json)
+  Description: This automated flow reads LinkedIn URLs from Google Sheets, encodes and filters them to check if they are already enriched. It then calls the RapidAPI (Fresh LinkedIn Profile Data) to get complete profile data and finally updates a CSV file with this detailed information.
+
+- [1169-gmail-file-monitor.json](workflows/1169-gmail-file-monitor.json)
+  Description: This automated flow monitors emails in Gmail and classifies attachments by size for later handling, filtering large files (greater than 300MB) or intermediate files (between 10-300MB).
+
+- [1170-html-to-pdf-conversor.json](workflows/1170-html-to-pdf-conversor.json)
+  Description: This automated flow converts HTML content received in a webhook request into a PDF file and responds with it.
+
+- [1171-sheets-screenshot-storage.json](workflows/1171-sheets-screenshot-storage.json)
+  Description: This automated flow captures a website screenshot every time a new row is added in Google Sheets and saves the image to Google Drive.
+
+- [1172-pdf-generator.json](workflows/1172-pdf-generator.json)
+  Description: This automated flow allows generating PDF documents based on predefined HTML templates. It receives structured information like invoice details, automatically calculates amounts, and converts the complete structure into a PDF file using external libraries.
+
+- [1173-retell-webhook-response.json](workflows/1173-retell-webhook-response.json)
+  Description: This automated flow uses a webhook to receive incoming call data from Retell and search for the corresponding user in a Google Sheets file, responding with the necessary data.
+
+- [1174-github_n8n_releases.json](workflows/1174-github_n8n_releases.json)
+  Description: This automated flow checks daily at 10:00, 14:00, and 18:00 if there are new n8n versions published on GitHub, filtering for same-day releases that include 'n8n@' and a number with a decimal extension like '.0'. If a new version is detected, it sends notifications via Telegram and AWS SES.
+
+- [1175-postgres-data-ingestion.json](workflows/1175-postgres-data-ingestion.json)
+  Description: This automated flow executes a function every minute that generates random values and inserts them into a PostgreSQL table.
+
+- [1176-zendesk-ticket-updates.json](workflows/1176-zendesk-ticket-updates.json)
+  Description: This automated flow is configured to receive ticket updates in Zendesk via a webhook, although it is not active.
+
+- [1177-registro-betterstack.json](workflows/1177-registro-betterstack.json)
+  Description: This flow allows sending log messages to the BetterStack platform via an HTTP POST request.
+
+- [1178-email-body-parser.json](workflows/1178-email-body-parser.json)
+  Description: This flow analyzes the body of an email to extract specific fields from the message and store them as individual variables in the cloud.
+
+- [1179-telegram-freshdesk-integration.json](workflows/1179-telegram-freshdesk-integration.json)
+  Description: This automated flow processes Telegram messages to create tickets in Freshdesk or items in Monday.com depending on whether they contain the keyword 'refund'.
+
+- [1180-rss-telegram-monitor.json](workflows/1180-rss-telegram-monitor.json)
+  Description: This automated flow analyzes Instagram and Weibo RSS feeds to send updates via Telegram.
+
+- [1181-typeform-problems-monitor.json](workflows/1181-typeform-problems-monitor.json)
+  Description: This automated flow captures Typeform form submissions and stores them in Google Sheets. If severity is greater than 7, it sends an email and updates the Slack channel with problem details.
+
+- [1182-trigger-crear-ticket.json](workflows/1182-trigger-crear-ticket.json)
+  Description: This flow allows manually initiating the creation of a new ticket in Freshdesk.
+
+- [1183-mautic-student-automation.json](workflows/1183-mautic-student-automation.json)
+  Description: This automated flow processes student webhook requests, searches for users in Mautic, updates their data and newsletter-related information.
+
+- [1184-google-drive-image-tagging.json](workflows/1184-google-drive-image-tagging.json)
+  Description: This n8n flow automatically analyzes the content of images in Google Drive using an AI API and writes the results as tags (Subject/Keywords) in the EXIF metadata.
+
+- [1185-mcp-brave-telegram-search.json](workflows/1185-mcp-brave-telegram-search.json)
+  Description: This MCP flow uses the Brave API and Telegram to automatically perform web searches when the user sends a /brave command followed by a query.
+
+- [1186-mautic-get-all-registros.json](workflows/1186-mautic-get-all-registros.json)
+  Description: This flow allows manually initiating the execution of a task in the n8n system that connects to Mautic via OAuth2 authentication to get all records.
+
+- [1187-hue-light-control.json](workflows/1187-hue-light-control.json)
+  Description: This automated flow allows turning on a specific Philips Hue light and adjusting its brightness to a determined value.
+
+- [1188-n8n-backup-cron.json](workflows/1188-n8n-backup-cron.json)
+  Description: This flow schedules a task every 6 hours to execute a workflow and save its result as a binary file in Nextcloud.
+
+- [1189-sheets-automation.json](workflows/1189-sheets-automation.json)
+  Description: This automated flow allows reading data from a Google Sheets spreadsheet using search, then modifying the 'Rent' value in the found records and updating them.
+
+- [1190-captura-tiempo-automatica.json](workflows/1190-captura-tiempo-automatica.json)
+  Description: This automated flow captures the current local date and time in detailed format.
+
+- [1191-rss-feed-multi-source.json](workflows/1191-rss-feed-multi-source.json)
+  Description: This flow reads two RSS feeds from different sources using the rssFeedRead node.
+
+- [1192-json-array-splitter.json](workflows/1192-json-array-splitter.json)
+  Description: This workflow takes an initial input containing a JSON list and expands it into multiple flows, each with an individual item from the array for further processing.
+
+- [1193-line-chatbot-memory.json](workflows/1193-line-chatbot-memory.json)
+  Description: This flow processes user data to maintain context in conversations.
+
+- [1194-slack-webhook-verify.json](workflows/1194-slack-webhook-verify.json)
+  Description: This flow verifies the signature of a Slack web request using HMAC SHA256 to ensure the message actually comes from the official Slack webhook and is not a fake.
+
+- [1195-hubspot-email-validation.json](workflows/1195-hubspot-email-validation.json)
+  Description: This flow automatically verifies if a newly created contact in HubSpot has a valid, reliable, or non-suspicious email address.
+
+- [1196-trello-crear-tarjeta-automatico.json](workflows/1196-trello-crear-tarjeta-automatico.json)
+  Description: This flow allows automatically creating a card in Trello when manually executed.
+
+- [1197-slack-rss-publicacion.json](workflows/1197-slack-rss-publicacion.json)
+  Description: This automated flow posts all articles from the n8n.io/blog RSS feed published the day before to the 'news' Slack channel.
+
+- [1198-notion-duplicates-removal.json](workflows/1198-notion-duplicates-removal.json)
+  Description: This flow automatically removes duplicate pages in a Notion database.
+
+- [1199-google-drive-doc-summarizer.json](workflows/1199-google-drive-doc-summarizer.json)
+  Description: This automated flow identifies the most recently created Google Drive document, extracts its content, and summarizes it using artificial intelligence before storing it in a spreadsheet.
+
+- [1200-telegram-image-analysis.json](workflows/1200-telegram-image-analysis.json)
+  Description: This automated flow analyzes Telegram images using the OpenAI API.
+
+- [1201-telegram-ai-memory-dalle.json](workflows/1201-telegram-ai-memory-dalle.json)
+  Description: This automated flow allows a Telegram chatbot to maintain a contextualized conversation using window memory and also generate images with Dall-E 3 according to user requests, all via integrated tools.
+
+- [1202-gmail-emails-monitor.json](workflows/1202-gmail-emails-monitor.json)
+  Description: This flow monitors Gmail email and automatically adds each received message as a new row in a spreadsheet.
+
+- [1203-line-error-alerts.json](workflows/1203-line-error-alerts.json)
+  Description: This automated flow allows configuring an n8n workflow to receive immediate LINE notifications when an error occurs in another workflow. It automatically detects errors and sends an alert to the specified user via the 'Send body as JSON' button to the LINE API.
+
+- [1204-telegram-ai-multitranslator.json](workflows/1204-telegram-ai-multitranslator.json)
+  Description: This flow allows a Telegram bot to detect and translate voice messages in 55 languages, conversing with users in their native language.
+
+- [1205-dst-automation.json](workflows/1205-dst-automation.json)
+  Description: This automated flow verifies daylight saving time changes in different time zones and notifies via Slack and email about upcoming changes.
+
+- [1206-hacker-news-recomendaciones.json](workflows/1206-hacker-news-recomendaciones.json)
+  Description: This flow analyzes comments from 'ask_hn' posts related to a specific topic on Hacker News to recommend resources. It uses Google Gemini (PaLM) as a language model, processes the text, and categorizes it by type and difficulty level before sending it via email.
+
+- [1207-lemlist-automation-sales.json](workflows/1207-lemlist-automation-sales.json)
+  Description: This automated flow allows Lemlist to use GPT-3 to process lead responses and categorize them (as interested or out of office), in addition to creating deals in HubSpot based on those interactions.
+
+- [1208-pdf-image-extractor.json](workflows/1208-pdf-image-extractor.json)
+  Description: This automated flow extracts images from PDFs, analyzes each image with the GPT-4o model, and generates a text document integrating the results.
+
+- [1209-n8n-ai-meteorologia.json](workflows/1209-n8n-ai-meteorologia.json)
+  Description: This automated flow allows a chatbot to interact with the Open-Meteo API via tools that convert to functions, facilitating responses about weather forecasts based on user-specified locations.
+
+- [1210-fal-ai-image-generation.json](workflows/1210-fal-ai-image-generation.json)
+  Description: This automated flow allows generating images via the Fal.ai API, downloading them, and saving them to a specific Google Drive folder.
+
+- [1211-covid_automated_import.json](workflows/1211-covid_automated_import.json)
+  Description: This flow automates the one-time import of specific COVID-19 data (DACH: Germany, Austria, Switzerland) for the year 2023 from an external source to Google Sheets.
+
+- [1212-save-sales-emails-odoo-opportunity.json](workflows/1212-save-sales-emails-odoo-opportunity.json)
+  Description: This automated flow captures emails with specific labels in Gmail and uses them to create new sales opportunities in Odoo by summarizing their content via OpenAI.
+
+- [1213-youtube-sync.json](workflows/1213-youtube-sync.json)
+  Description: This flow synchronizes YouTube video URLs from specified channels in Google Sheets to another sheet using the YouTube API.
+
+- [1214-pdf-extractor.json](workflows/1214-pdf-extractor.json)
+  Description: This flow allows downloading a PDF via an HTTP request and specifically extracting pages 2-3 for processing.
+
+- [1215-telegram-tron-blacklist-checker.json](workflows/1215-telegram-tron-blacklist-checker.json)
+  Description: This automated flow allows a Telegram bot to check if a TRON wallet address is on the blacklist by querying the Tronscan API, and send the result to the user.
+
+- [1216-github-multiple-file-push.json](workflows/1216-github-multiple-file-push.json)
+  Description: This flow allows uploading multiple files to a GitHub repository via subscriptions, using the token and provided information for authentication and API interaction.
+
+- [1217-luma-ai-webhook-process.json](workflows/1217-luma-ai-webhook-process.json)
+  Description: This automated flow receives a web response from Luma AI via a webhook, verifies that it contains a non-empty video, and saves information about it (video URL, thumbnail) in Airtable.
+
+- [1218-pdfmonkey-document-generation.json](workflows/1218-pdfmonkey-document-generation.json)
+  Description: This automated flow detects when PDFMonkey generates a document and downloads the PDF file if generation is successful.
+
+- [1219-paul_graham_essays_resumer.json](workflows/1219-paul_graham_essays_resumer.json)
+  Description: This automated flow extracts the URLs of recent Paul Graham essays from a list of articles, then gets the full text of each essay and summarizes it using GPT.
+
+- [1220-ai-cv-screening-process.json](workflows/1220-ai-cv-screening-process.json)
+  Description: This automated flow allows the application form to capture candidate information for the Software Engineer position, process the uploaded CV, and send a detailed AI analysis to users. It then sends email confirmations to the candidate and notifies HR about new applications. Finally, it saves all this data in a Google Sheets spreadsheet.
+
+- [1221-youtube-chapters-generator.json](workflows/1221-youtube-chapters-generator.json)
+  Description: This workflow allows generating structured chapters for YouTube videos based on subtitles. It analyzes temporal content and creates an organized format.
+
+- [1222-wikipedia-summarization-fl.json](workflows/1222-wikipedia-summarization-fl.json)
+  Description: This automated flow uses Bright Data to extract information from Wikipedia and Google Gemini AI to format it into readable content and generate a concise summary.
+
+- [1223-line-gratitude-reminder.json](workflows/1223-line-gratitude-reminder.json)
+  Description: This automated flow sends a personalized message generated by Azure OpenAI at 9:00 PM to motivate reflection on the positive aspects of the day via LINE.
+
+- [1224-telegram-recipe-daily.json](workflows/1224-telegram-recipe-daily.json)
+  Description: This automated flow sends a random vegan recipe via Telegram daily via cron trigger, and also adds new users to chats to manage them appropriately.
+
+- [1225-calvin-hobbes-discord.json](workflows/1225-calvin-hobbes-discord.json)
+  Description: This automated flow daily gets Calvin and Hobbes comic strips from GoComics, extracts the image URL, and uses GPT-4o-mini to translate the original English dialogues into Korean. Finally, it posts both texts along with the image to a Discord channel.
+
+- [1226-youtube-discord-ai-summary.json](workflows/1226-youtube-discord-ai-summary.json)
+  Description: This automated flow monitors new YouTube videos and generates artificial intelligence summaries that are shared on Discord.
+
+- [1227-tracker-gastos-ia-descripcion.json](workflows/1227-tracker-gastos-ia-descripcion.json)
+  Description: This flow allows an AI agent to process messages about expenses, convert them into structured JSON data, and automatically save them in a Google sheet. It includes memory to maintain contextual conversations.
+
+- [1228-slack-ai-chatbot.json](workflows/1228-slack-ai-chatbot.json)
+  Description: This flow configures a chatbot in Slack using n8n, where different slash commands (/ask and /another) trigger responses generated by OpenAI models like gpt-4o-mini. The message is then sent to the specified channel.
+
+- [1229-notion-document-embedding.json](workflows/1229-notion-document-embedding.json)
+  Description: This flow automates the processing of Notion documents to generate their embeddings and store them in Supabase.
+
+- [1230-squarespace-sync.json](workflows/1230-squarespace-sync.json)
+  Description: Automates the extraction and real-time update of Squarespace blog and event content to Google Sheets.
+
+- [1231-feedback-resumen.json](workflows/1231-feedback-resumen.json)
+  Description: This automated workflow analyzes Google Form survey responses via Google Sheets and OpenAI GPT-4 to generate a structured summary that includes an overview of event sentiment, along with improvement ideas.
+
+- [1232-email-to-notion-tasks.json](workflows/1232-email-to-notion-tasks.json)
+  Description: This automated flow analyzes incoming emails with AI to create organized and detailed tasks in Notion. It integrates Gmail (to receive emails), Airtable (to manage active routes), and Notion API (to generate pages). It also includes error mechanisms, such as sending notifications to specific emails when problems occur.
+
+- [1233-audio-transcription-process.json](workflows/1233-audio-transcription-process.json)
+  Description: This automated flow downloads new audio files from Google Drive and sends them for transcription and sentiment interpretation via OpenAI, generating a structured summary that includes title, main content, and analysis.
+
+- [1234-twitter-ai-influencer-schedule.json](workflows/1234-twitter-ai-influencer-schedule.json)
+  Description: This automated flow generates and periodically publishes tweets using artificial intelligence to maintain a specific influencer style.
+
+- [1235-automatizacion-subtitulos-json2video.json](workflows/1235-automatizacion-subtitulos-json2video.json)
+  Description: This automated flow uses json2video to generate subtitles in videos on a scheduled basis.
+
+- [1236-jira-retrospective-flow.json](workflows/1236-jira-retrospective-flow.json)
+  Description: This automated flow is triggered when an epic in Jira is marked as completed. It collects all task details (titles, descriptions, comments) belonging to that epic and uses a language model to generate a structured document with lessons learned and recommendations.
+
+- [1237-bright-data-gemini-scraping-agent.json](workflows/1237-bright-data-gemini-scraping-agent.json)
+  Description: This automated flow uses an AI assistant based on Google Gemini to analyze web scraping queries. It then delegates the task to MCP Client tools (Bright Data) that extract data from specified URLs via webhooks, maintaining context with a buffer memory and storing results in files.
+
+- [1238-telegram-agente-multimedia.json](workflows/1238-telegram-agente-multimedia.json)
+  Description: This automated flow allows a Telegram bot to generate textual responses using GPT-4o and images via DALL-E, maintaining contextual memory and addressing the user by name.
+
+- [1239-wordpress-multi-social-publisher.json](workflows/1239-wordpress-multi-social-publisher.json)
+  Description: This automated flow allows publishing WordPress content on multiple social networks using language models and structured processing.
+
+- [1240-splunk-jira-ticket-automation.json](workflows/1240-splunk-jira-ticket-automation.json)
+  Description: This automated flow processes Splunk alerts to create unique Jira tickets when a corresponding ticket does not exist. If it already exists, it adds comments with the alert details.
+
+- [1241-google-drive-sync.json](workflows/1241-google-drive-sync.json)
+  Description: This automated flow synchronizes new files from a specific Google Drive folder, shares their details with a recipient via email, and logs the complete metadata in Airtable for tracking.
+
+- [1242-ultimate-scraper-workflow.json](workflows/1242-ultimate-scraper-workflow.json)
+  Description: This automated flow allows extracting information from any webpage, whether public or private, using advanced techniques like Selenium browser automation and analysis with OpenAI language models. Ideal for projects requiring data collection behind WAFs.
+
+- [1243-assistant-tool.json](workflows/1243-assistant-tool.json)
+  Description: This automated flow functions as a personal assistant, using specific tools to handle email, calendar, contacts, and web search tasks according to user queries.
+
+- [1244-workflow-dashboard-mermaid.json](workflows/1244-workflow-dashboard-mermaid.json)
+  Description: This automated flow allows visualizing and displaying n8n workflow graphs using the mermaid.js library to represent connections between nodes in diagrams.
+
+- [1245-github-n8n-workflow_restore.json](workflows/1245-github-n8n-workflow_restore.json)
+  Description: This automated flow allows restoring workflows from a GitHub repository to an n8n instance only if they do not already exist in the workspace.
+
+- [1246-twitter-banner-update.json](workflows/1246-twitter-banner-update.json)
+  Description: This flow allows downloading an image from Unsplash and updating it as a Twitter banner via HTTP requests.
+
+- [1247-auto-subir-multimedia.json](workflows/1247-auto-subir-multimedia.json)
+  Description: This automated flow allows downloading videos from Google Drive and then extracting their audio to generate descriptions used for simultaneous upload to Instagram and TikTok. It also has a mechanism to notify errors via Telegram.
+
+- [1248-rag-supabase-notion.json](workflows/1248-rag-supabase-notion.json)
+  Description: This automated flow allows a chatbot to maintain a contextualized conversation with current Notion data using embeddings stored in Supabase.
+
+- [1249-linkedin-top-sourcer.json](workflows/1249-linkedin-top-sourcer.json)
+  Description: This flow allows finding LinkedIn profiles using boolean search techniques from a natural description of the candidate.
+
+- [1250-todoist-ai-categorization.json](workflows/1250-todoist-ai-categorization.json)
+  Description: This flow automatically organizes Todoist tasks into specific projects using artificial intelligence to categorize them.
+
+- [1251-trello-list-updates.json](workflows/1251-trello-list-updates.json)
+  Description: This flow monitors and receives updates about changes in a specific Trello list.
+
+- [1252-ausencias_procesamiento.json](workflows/1252-ausencias_procesamiento.json)
+  Description: This automated flow collects and processes absence data (vacations and illnesses) from recent months from Google Calendar. It uses regular expressions to filter events related to vacations or illnesses, calculates the hours for each event, and generates a detailed report sent by email to payroll-team@mydomain.tld.
+
+- [1253-notion-clickup-sync.json](workflows/1253-notion-clickup-sync.json)
+  Description: This flow synchronizes tasks between Notion and ClickUp. When a Notion database page is updated, the corresponding task status in ClickUp is updated, and vice versa.
+
+- [2528-line-llm-memory.json](workflows/2528-line-llm-memory.json)
+  Description: This flow uses OpenRouter with configurable LLM models to maintain contextualized conversations in LINE using buffer memory.
+
+- [2529-firecrawl-tool.json](workflows/2529-firecrawl-tool.json)
+  Description: This flow allows any user to send URLs to get responses from the Firecrawl API and keep them as editable fields in the workflow context.
+
+- [2530-analytics-utm-generator.json](workflows/2530-analytics-utm-generator.json)
+  Description: This automated flow creates links with custom UTM parameters from specific inputs, generates QR codes for them, and then uses an OpenAI-based analytical agent to evaluate Google Analytics data.
+
+- [2531-etsy-product-scraper.json](workflows/2531-etsy-product-scraper.json)
+  Description: This automated flow uses Bright Data Web Unlocker to perform advanced scraping on Etsy and extracts detailed product information using Google Gemini Flash based on the obtained results.
+
+- [2532-pdf-digital-sign-service.json](workflows/2532-pdf-digital-sign-service.json)
+  Description: This automated flow allows the generation of digital keys and certificates for signing PDF documents.
+
+- [2533-redaktionsplan_caption_generator.json](workflows/2533-redaktionsplan_caption_generator.json)
+  Description: This automated flow creates social media captions, using an Airtable database and an AI chat model to generate creative and informative texts.
+
+- [2534-news-twitter-post.json](workflows/2534-news-twitter-post.json)
+  Description: This automated flow searches for artificial intelligence news via a Perplexity AI query, generates a formatted summary for Twitter/X, and posts it directly to the platform.
+
+- [2535-hubspot-chat-ai-integration.json](workflows/2535-hubspot-chat-ai-integration.json)
+  Description: This automated flow allows a HubSpot chatbot to integrate the Assistant function with OpenAI and store references in Airtable to maintain contextualized conversations.
+
+- [2536-billbee-address-validation.json](workflows/2536-billbee-address-validation.json)
+  Description: This automated flow validates and corrects order shipping addresses using the Endereco API to verify data in Germany.
+
+- [2537-agricultural-crops-vector-db.json](workflows/2537-agricultural-crops-vector-db.json)
+  Description: This automated flow jointly loads agricultural crop images and related data (like plant names) from Google Cloud Storage, generates embeddings using Voyage AI's Multimodal model, and stores them in a Qdrant vector collection. It also checks if the collection already exists to avoid duplication and includes an in-memory index on the plant name (crop_name). Loading is done in batches with a configurable size, thus allowing efficient and fast index creation.
+
+- [2538-knn-landsat-classifier.json](workflows/2538-knn-landsat-classifier.json)
+  Description: This flow analyzes satellite landscape images using KNN classification with a vector database, automatically identifying types like 'agricultural', 'buildings', or 'forest'.
+
+- [2539-lands-knn-classification.json](workflows/2539-lands-knn-classification.json)
+  Description: This workflow uses KNN with satellite images to classify landscape types via Voyage AI model embeddings and Qdrant queries. When there are ties, it increases the number of neighbors until a clear majority is found.
+
+- [2540-agricultural-anomaly-detection.json](workflows/2540-agricultural-anomaly-detection.json)
+  Description: This flow configures the centers of each agricultural cluster and sets thresholds for anomaly detection in crop images.
+
+- [2541-agricultural-anomaly-detector.json](workflows/2541-agricultural-anomaly-detector.json)
+  Description: This flow analyzes crop images to detect if they contain unknown specimens, using multimodal embeddings and a Qdrant vector database.
+
+- [2542-venafi_slack_certbot.json](workflows/2542-venafi_slack_certbot.json)
+  Description: This automated flow integrates Slack and Venafi to manage certificate requests based on risk analysis via VirusTotal.
+
+- [2543-openrouter-llm-agent.json](workflows/2543-openrouter-llm-agent.json)
+  Description: This flow configures an AI agent that uses different language models via OpenRouter and maintains conversational memory for chats.
+
+- [2544-n8n-chatbot-car-offer.json](workflows/2544-n8n-chatbot-car-offer.json)
+  Description: This automated flow allows a LINE chatbot to interact with the sell.peddle.com website to get an offer for a used car. It logs into Airtop, loads the site, and simulates interactions like clicks or typing text when prompted by analysis of the current screen content.
+
+- [2545-visual-regression-testing.json](workflows/2545-visual-regression-testing.json)
+  Description: This automated flow allows performing visual regression tests on web pages using Apify to capture images and visual language models like Gemini to detect changes between versions.
+
+- [2546-sql-agent-visualizacion.json](workflows/2546-sql-agent-visualizacion.json)
+  Description: This automated flow allows an AI Agent to interact with databases via SQL queries and generate visualizations using Chart.js and Quickchart.io based on user needs. The text classifier decides if a graphical representation is required to improve understanding of results.
+
+- [2547-todoist_weekly_review.json](workflows/2547-todoist_weekly_review.json)
+  Description: This automated flow performs a weekly review of completed tasks in Todoist, grouping them by date to generate a daily report sent as an email.
+
+- [2548-cv-error-notification.json](workflows/2548-cv-error-notification.json)
+  Description: This workflow detects errors in other tasks (either problems during execution or failures at startup) and sends a detailed email via Gmail to notify about the incident.
+
+- [2549-semanal-shodan-thehive.json](workflows/2549-semanal-shodan-thehive.json)
+  Description: This automated flow schedules a weekly scan of IP addresses and their specific ports using Shodan. If it finds unexpected services or behaviors, it generates an alert in TheHive for management.
+
+- [2550-3d-character-generation.json](workflows/2550-3d-character-generation.json)
+  Description: This automated flow creates 3D rotation videos and figurine models from images, using PiAPI APIs to generate character designs via Midjourney and integrating them with tools like GPT-4o.
+
+- [2551-traductor-srt.json](workflows/2551-traductor-srt.json)
+  Description: This automated flow allows processing SRT files by uploading a form containing the file and selecting the target language. The system extracts text from the binary file, splits it into parts, translates each fragment while maintaining subtitle structure, and finally generates a new file with completed translations.
+
+- [2552-google-sheets-mysql-sync.json](workflows/2552-google-sheets-mysql-sync.json)
+  Description: This automated flow synchronizes data between Google Sheets and MySQL via comparisons, updates, and specific conditions.
+
+- [2553-parquet-conversion-flujos.json](workflows/2553-parquet-conversion-flujos.json)
+  Description: This flow allows converting Parquet, Avro, ORC, and Feather files to JSON using the ParquetReader API. It starts with a webhook submission that receives the file in binary format, processes it, and returns structured data.
+
+- [2554-x-influencers-list.json](workflows/2554-x-influencers-list.json)
+  Description: This automated flow allows searching for influencers on X using Airtop, extracting their data in a structured way, deduplicating results, and incorporating them into a Google document via spreadsheet.
+
+- [2555-workflow-docs.json](workflows/2555-workflow-docs.json)
+  Description: This automated flow allows n8n to generate and maintain workflow documentation via Docsify, creating Markdown files based on workflow data.
+
+- [2556-glassdoor-discrimination-analysis.json](workflows/2556-glassdoor-discrimination-analysis.json)
+  Description: This automated flow uses ScrapingBee to extract reviews and demographic data from Glassdoor, along with OpenAI models to analyze discriminatory patterns via statistical calculations like z-scores and effect sizes.
+
+- [2557-seatable-webhook-validate.json](workflows/2557-seatable-webhook-validate.json)
+  Description: This flow verifies Seatable webhooks via HMAC SHA256 authentication, responding with 200 OK if the hash matches and 403 Forbidden otherwise.
+
+- [2558-bee-hiiv-gumroad-subscribers.json](workflows/2558-bee-hiiv-gumroad-subscribers.json)
+  Description: This flow automates adding subscribers to a Beehiiv newsletter every time a sale is made on Gumroad.
+
+- [2560-linkedin-profile-collector.json](workflows/2560-linkedin-profile-collector.json)
+  Description: This automated flow uses Google Search via SerpAPI to find relevant LinkedIn profiles, cleans and structures the information using OpenAI, and saves the results in Excel or NocoDB.
+
+- [2561-inteligente-busqueda-web.json](workflows/2561-inteligente-busqueda-web.json)
+  Description: This flow uses multiple chains of thought and LLM models to generate optimal queries, perform web searches, and implement a semantic re-ranking system that evaluates results and provides relevant structured information.
+
+- [2562-shopify_google_sync.json](workflows/2562-shopify_google_sync.json)
+  Description: This flow automatically synchronizes products from a Shopify store to a Google spreadsheet, using GraphQL to extract data like title, description, tags, and price. It implements efficient pagination using a cursor.
+
+- [2563-vector-db-loader.json](workflows/2563-vector-db-loader.json)
+  Description: This automated flow allows loading Google Drive documents into a vector database using OpenAI embeddings and PostgreSQL.
+
+- [2564-twitter-hilo-automatizacion.json](workflows/2564-twitter-hilo-automatizacion.json)
+  Description: This automated flow uses Twitter tools and an OpenAI language model to generate coherent and interactive threads, maintaining conversational context.
+
+- [2565-ai-screenshot-analysis.json](workflows/2565-ai-screenshot-analysis.json)
+  Description: This flow automates screenshot analysis using artificial intelligence. It first collects the website URL to analyze, then generates a screenshot using the URLbox API, and finally processes it with OpenAI to get a concise textual description in a single paragraph.
+
+- [2566-image-generation-api.json](workflows/2566-image-generation-api.json)
+  Description: This automated flow allows generating images from text (prompt) via a web URL.
+
+- [2567-postgres-sync.json](workflows/2567-postgres-sync.json)
+  Description: This flow automatically synchronizes data from Google Sheets to a PostgreSQL table, inserting new records or updating existing ones based on key fields.
+
+- [2568-service-page-seo-blueprint.json](workflows/2568-service-page-seo-blueprint.json)
+  Description: This flow analyzes the SEO performance of service pages, comparing structures and content with competitors in real-time to create optimized strategies.
+
+- [2569-dataforseo-backlink-checker.json](workflows/2569-dataforseo-backlink-checker.json)
+  Description: This flow checks the status (live or dead) of a set of URLs, analyzing them via the DataForSEO API and logging the result in a Google Sheets spreadsheet.
+
+- [2570-drive-video-upload.json](workflows/2570-drive-video-upload.json)
+  Description: This automated flow allows uploading videos to Google Drive via a Google Apps Script. It starts with a manual trigger that initiates execution, then sends video URL data (and a secret) to the Google Script web app to process the upload, and finally renames the newly uploaded file.
+
+- [2571-OpenSea-Insights-Telegram.json](workflows/2571-OpenSea-Insights-Telegram.json)
+  Description: This automated n8n flow analyzes the NFT market in real-time using OpenAI GPT and connects with specialized agents to answer queries via Telegram.
+
+- [2572-youtube-automation-generative.json](workflows/2572-youtube-automation-generative.json)
+  Description: This automated flow allows getting YouTube videos and generating titles, descriptions, and SEO information to automate necessary functions.
+
+- [2573-workflow-ai-investigacion.json](workflows/2573-workflow-ai-investigacion.json)
+  Description: This flow uses LLMs to generate search queries, process results, and synthesize a complete research report.
+
+- [2574-maia-health-check.json](workflows/2574-maia-health-check.json)
+  Description: This automated flow periodically checks URLs listed in a Google Sheets document via the Schedule Trigger node, and then sends the results of these checks via Telegram bot.
+
+- [2575-wordpress-ai-chatbot.json](workflows/2575-wordpress-ai-chatbot.json)
+  Description: This automated flow allows creating and maintaining WordPress content embeddings in Supabase, using OpenAI models to answer questions with contextualized information.
+
+- [2576-AI-WordPress-Article-Creator.json](workflows/2576-AI-WordPress-Article-Creator.json)
+  Description: This automated flow uses artificial intelligence to generate SEO articles in WordPress based on keywords provided by the user. It includes creation of titles, subtitles, chapters, and Wikipedia verification.
+
+- [2577-ClockifySlackCopilotWorkflow.json](workflows/2577-ClockifySlackCopilotWorkflow.json)
+  Description: This flow automates conversational management of time entries in Clockify via Slack, integrating tools to create, update, and delete records without overlap.
+
+- [2578-analisis-contenido-brand.json](workflows/2578-analisis-contenido-brand.json)
+  Description: This automated flow allows a user to configure a URL to extract markdown content, clean it leaving only text, generate a concise summary, and analyze its sentiment with Google Gemini models.
+
+- [2579-escaneo-propiedades.json](workflows/2579-escaneo-propiedades.json)
+  Description: This automated flow regularly scans the real estate market, identifies new or modified properties, and filters those with high potential profitability (high capital gain) to send alerts to the sales team via email and Slack.
+
+- [2580-multiple-local-llm-testing.json](workflows/2580-multiple-local-llm-testing.json)
+  Description: This automated flow allows testing multiple local LLM models in LM Studio via HTTP requests and detailed response analysis.
+
+- [2581-email-todoist-ai-integration.json](workflows/2581-email-todoist-ai-integration.json)
+  Description: This flow automates converting emails into Todoist tasks using the GPT-4o-mini model for summaries and action proposals.
+
+- [2582-auto-article-generation.json](workflows/2582-auto-article-generation.json)
+  Description: This automated flow uses the Perplexity model to generate initial content and then refines it through iterations using OpenAI generative models, finally publishing it on a platform like Contentful.
+
+- [2583-prospectlens_company_research.json](workflows/2583-prospectlens_company_research.json)
+  Description: This automated flow uses the ProspectLens API to get company data and update a Google Sheets spreadsheet while maintaining a record of the processing time.
+
+- [2584-youtube-video-analysis.json](workflows/2584-youtube-video-analysis.json)
+  Description: This flow analyzes YouTube videos to generate summaries, transcripts, and detailed scene descriptions. It allows choosing the analysis type via the 'promptType' variable (transcript, summary, scene) and incorporates a Gemini model for processing.
+
+- [2586-shopify-campaign-sync.json](workflows/2586-shopify-campaign-sync.json)
+  Description: This n8n flow allows saving .liquid files to the Shopify theme after uploading images using GraphQL, optimizing advertising campaign creation.
+
+- [2587-youtube-sentiment-analyzer.json](workflows/2587-youtube-sentiment-analyzer.json)
+  Description: This flow automatically analyzes YouTube video comments from a Google Sheets list using the YouTube API and OpenAI's AI to categorize them as positive, neutral, or negative.
+
+- [2588-image-meta-tagging-automation.json](workflows/2588-image-meta-tagging-automation.json)
+  Description: This automated flow analyzes the content of images uploaded to a specific Google Drive folder and directly writes the description as tags in the file's XMP metadata.
+
+- [2589-csv_to_excel_conversion.json](workflows/2589-csv_to_excel_conversion.json)
+  Description: This automated flow imports a CSV file from a specific URL and converts it to .xlsx format.
+
+- [2590-cal-booking-distribution.json](workflows/2590-cal-booking-distribution.json)
+  Description: This automated flow is triggered when a new appointment is created in Cal.com and automatically adds each attendee to Google Sheets and Beehiiv, in addition to notifying via Telegram.
+
+- [2591-chatbot-jina-scraper.json](workflows/2591-chatbot-jina-scraper.json)
+  Description: This automated flow allows a chatbot to integrate real-time web scraping via Jina.ai to intelligently answer queries.
+
+- [2592-multipage-scraper.json](workflows/2592-multipage-scraper.json)
+  Description: This automated flow allows extracting and storing the content of multiple web pages from a sitemap.xml file in Google Drive using the Jina.ai API for intelligent searches.
+
+- [2593-seo-blog-generator-flujo-automatico.json](workflows/2593-seo-blog-generator-flujo-automatico.json)
+  Description: This automated flow allows a user to send a research query related to men's health topics to be processed by multiple AI nodes, generating structured content like titles, subtitles, and hashtags based on the provided information. It then uses this structure along with research gathered via Perplexity.ai to create a complete blog article.
+
+- [2594-bluesky-post-automation.json](workflows/2594-bluesky-post-automation.json)
+  Description: This automated flow allows publishing posts with images on Bluesky, handling session authentication and file sending.
+
+- [2595-line-chatbot-ai.json](workflows/2595-line-chatbot-ai.json)
+  Description: This automated flow allows a LINE chatbot to maintain conversations using Groq and Llama3, sending incoming messages as requests to the AI to generate responses.
+
+- [2596-image-to-3d-conversion.json](workflows/2596-image-to-3d-conversion.json)
+  Description: This automated flow allows converting an image into a 3D model (.glb) using the Fal.ai API and then saving the result to Google Drive.
+
+- [2597-monitor-ia-articulos-slack.json](workflows/2597-monitor-ia-articulos-slack.json)
+  Description: This automated flow monitors relevant articles in real-time using RSS feeds, classifies their content with AI, and generates formatted summaries for Slack.
+
+- [2598-shopware-multi-manufacturer-import.json](workflows/2598-shopware-multi-manufacturer-import.json)
+  Description: This automated flow allows importing multiple manufacturers from a Google sheet to Shopware 6 via batch processing. It configures necessary parameters and creates HTTP requests with encrypted data for logos and multilingual information.
+
+- [2599-workflow-nodes-update-check-template.json](workflows/2599-workflow-nodes-update-check-template.json)
+  Description: This flow checks for outdated nodes in n8n workflows, adds new nodes with more recent versions, and renames existing ones to maintain consistency.
+
+- [2600-news-pipeline.json](workflows/2600-news-pipeline.json)
+  Description: This automated flow extracts press articles, filters them by age (7 days), generates summaries and keywords using ChatGPT, and stores everything in a SQL database.
+
+- [2601-facturacion-automatizada.json](workflows/2601-facturacion-automatizada.json)
+  Description: This automated flow downloads attachments from unread emails in Gmail and saves them to Google Drive. It then uses OpenAI to extract key data from invoices (date, description, total price), which are stored in a structured schema and finally incorporated into a spreadsheet.
+
+- [2602-kling-try-on-video-generator.json](workflows/2602-kling-try-on-video-generator.json)
+  Description: This automated flow allows generating videos with 360-degree virtual try-ons using the Kling API, first processing images and then generating the final video when available.
+
+- [2603-suspicious-login-detection.json](workflows/2603-suspicious-login-detection.json)
+  Description: This n8n flow detects suspicious account logins by integrating data from IP-API, UserParser, and GreyNoise. It analyzes new locations or different devices/browsers to determine if it is a fraudulent attempt.
+
+- [2604-discord-chat-agent.json](workflows/2604-discord-chat-agent.json)
+  Description: This automated flow allows a chatbot to interact with Discord while maintaining conversation context via memory.
+
+- [2605-Colombian-Invoices-Processor.json](workflows/2605-Colombian-Invoices-Processor.json)
+  Description: This automated flow processes Colombian electronic invoices received by email, verifying key data like taxes and subtotals, and stores them in Google Sheets using the country's tax regulations.
+
+- [2606-youtube-trend-analysis-memory.json](workflows/2606-youtube-trend-analysis-memory.json)
+  Description: This automated flow analyzes YouTube video data using tools like search and LangChain engine processing, then stores it in memory for later use. It also integrates an initial verification via chatTrigger that determines if the user provided a niche before proceeding.
+
+- [2608-youtube-transcript-extractor.json](workflows/2608-youtube-transcript-extractor.json)
+  Description: This flow allows extracting and cleaning transcribed text from a YouTube video using the RapidAPI.
+
+- [2609-monitor-precios-competicion.json](workflows/2609-monitor-precios-competicion.json)
+  Description: This automated flow monitors competitor prices via Google Sheets, queries and processes the response with Airtop to detect significant price or planning changes, updates the record only when there are substantial differences, and sends Slack notifications if changes are detected.
+
+- [2610-icp_linkedin_scoring.json](workflows/2610-icp_linkedin_scoring.json)
+  Description: This n8n flow automatically calculates Ideal Customer Profile (ICP) scores for companies based on their LinkedIn pages, using Airtop for analysis and Google Sheets to store and integrate data.
+
+- [2611-github-workflow-restore.json](workflows/2611-github-workflow-restore.json)
+  Description: This automated flow allows restoring n8n workflows from a GitHub repository.
+
+- [2612-zammad-roles-excel.json](workflows/2612-zammad-roles-excel.json)
+  Description: This automated flow allows downloading an Excel file from a previously configured URL and updating user roles in Zammad based on the data contained within it.
+
+- [2613-airflow-dag-monitor.json](workflows/2613-airflow-dag-monitor.json)
+  Description: This automated flow allows initiating an Airflow DAG execution via an API and verifying its status to take necessary actions.
+
+- [2614-custom-ai-agent-memory.json](workflows/2614-custom-ai-agent-memory.json)
+  Description: This flow configures a custom AI agent with specific features like personality, conversation topics, and response styles in Chinese. Interaction is done via the integrated chat in n8n.
+
+- [2615-jira-notion-sync.json](workflows/2615-jira-notion-sync.json)
+  Description: This automated flow synchronizes the creation, modification, and deletion of Jira issues with entries in a specific Notion database.
+
+- [2616-medium_linkedin_automation.json](workflows/2616-medium_linkedin_automation.json)
+  Description: This automated flow searches for random Medium articles using predefined tags, checks if they haven't been used already via an Airtable record, creates LinkedIn posts with their images, and sends an alert for each successful post.
+
+- [2617-woocommerce-ai-product-importer.json](workflows/2617-woocommerce-ai-product-importer.json)
+  Description: This workflow automates product import in WooCommerce via Google Sheets. It analyzes product details to generate SEO-optimized meta titles and meta descriptions, creates them immediately in the WordPress catalog, and inserts this information directly into a spreadsheet.
+
+- [2618-gemini-image-data-extractor.json](workflows/2618-gemini-image-data-extractor.json)
+  Description: This flow creates an API to extract data from images using Gemini AI, requires sending an image URL and a set of instructions defining what information should be extracted.
+
+- [2619-line-chatbot-memory.json](workflows/2619-line-chatbot-memory.json)
+  Description: This automated flow allows a LINE chatbot to maintain a contextualized conversation using memory for each user.
+
+- [2620-n8n-workflow-clone.json](workflows/2620-n8n-workflow-clone.json)
+  Description: This flow allows cloning workflows between different n8n instances via API, processing batches to optimize performance.
+
+- [2621-vector-paquete.json](workflows/2621-vector-paquete.json)
+  Description: This automated flow extracts texts from JSON files on FTP, splits them into fragments, and stores them as embeddings in a Qdrant vector database to facilitate semantic searches.
+
+- [2622-auto-content-wordpress.json](workflows/2622-auto-content-wordpress.json)
+  Description: This automated flow allows generating complete HTML content with SEO-optimized titles and specific keywords, in addition to incorporating an image from Pexels each time an article is published on WordPress.
+
+- [2623-wordpress-xmlrpc-posting.json](workflows/2623-wordpress-xmlrpc-posting.json)
+  Description: This automated flow uses n8n along with the XML-RPC protocol to publish articles on WordPress.com.
+
+- [2624-OpenSeaAnalyticsAgent.json](workflows/2624-OpenSeaAnalyticsAgent.json)
+  Description: This automated flow implements a conversational agent with memory that analyzes NFT data using the OpenSea API.
+
+- [2625-monitor-advisories-paloalto.json](workflows/2625-monitor-advisories-paloalto.json)
+  Description: This flow monitors Palo Alto security advisories, filters them by keywords like GlobalProtect or Traps, checks if they were published in the last day, and creates Jira issues or sends emails to relevant customers.
+
+- [2626-stripe-payment-auto.json](workflows/2626-stripe-payment-auto.json)
+  Description: This automated flow allows receiving payment notifications via the 'checkout.session.completed' webhook and automatically extracting customer (name, email) and product information via a subsequent HTTP call to the Stripe API.
+
+- [2627-whatsapp-webhook-echo.json](workflows/2627-whatsapp-webhook-echo.json)
+  Description: This workflow verifies a webhook with a GET request and responds to POST Requests containing user messages, sending these messages as replies on WhatsApp.
+
+- [2628-error-limitacion.json](workflows/2628-error-limitacion.json)
+  Description: This automated flow allows logging errors in a PostgreSQL database but limits notifications to a maximum of one every five minutes.
+
+- [2629-flujo_verificacion_lead.json](workflows/2629-flujo_verificacion_lead.json)
+  Description: This automated flow verifies the validity of emails in forms and, if valid, sends them to Gmail, updates a Google Sheets spreadsheet, and notifies via Discord.
+
+- [2630-dumpling-ai-maps-business-leads.json](workflows/2630-dumpling-ai-maps-business-leads.json)
+  Description: This automated flow allows extracting information from business places on Google Maps via the Dumpling AI API and saving it in a structured spreadsheet.
+
+- [2631-email-to-tasks.json](workflows/2631-email-to-tasks.json)
+  Description: This flow automatically creates tasks in Google Tasks upon receiving a new email with the 'To-Do' label.
+
+- [2632-line-chatbot-memory.json](workflows/2632-line-chatbot-memory.json)
+  Description: This automated flow allows a LINE chatbot to maintain contextualized conversations using the GPT-4o-mini model and access information via tools like Wikipedia, Google Calendar, and Gmail.
+
+- [2633-icypeas-email-search.json](workflows/2633-icypeas-email-search.json)
+  Description: This automated flow allows a user to trigger a specific email search using the Icypeas service. Steps include authentication via API key, API secret, and User ID in a custom node that requires activating the crypto module in self-hosted n8n.
+
+- [2634-opensea-nft-agent.json](workflows/2634-opensea-nft-agent.json)
+  Description: This automated flow allows an n8n chatbot to interact with the OpenSea API to retrieve and process specific NFT data.
+
+- [2635-bright_data_gemini_search.json](workflows/2635-bright_data_gemini_search.json)
+  Description: This automated flow searches web data using Perplexity, extracts relevant information with LangChain, and uses Gemini AI to generate summaries.
+
+- [2636-monday-boarditem-hierarchy.json](workflows/2636-monday-boarditem-hierarchy.json)
+  Description: This automated flow gets all fields of a board item along with its relationships and sub-items to process complete data.
+
+- [2637-line-bitrix-task-integration.json](workflows/2637-line-bitrix-task-integration.json)
+  Description: This automated flow allows a LINE chatbot to maintain a contextualized conversation and update user information in Bitrix24 to manage tasks.
+
+- [2638-telegram-github-agent.json](workflows/2638-telegram-github-agent.json)
+  Description: Automates the curation and publication on Telegram of featured GitHub project discussions from Hacker News.
+
+- [2639-oidc-client-auth-flow.json](workflows/2639-oidc-client-auth-flow.json)
+  Description: This automated n8n flow implements the OIDC (OpenID Connect) protocol to authenticate users and get information about them. It starts with a webhook that captures incoming requests, then processes authentication cookies. Afterwards, it checks if a token is present or a code is received in the URL to continue getting user data.
+
+- [2640-shopify-orders-to-baserow.json](workflows/2640-shopify-orders-to-baserow.json)
+  Description: This automated flow executes a daily GraphQL query to get Shopify orders and inserts them into a Baserow-based table, extracting UTM parameters from the first visit. Only orders where the 'Campaign' field is present are processed.
+
+- [2641-csv-google-sheets-import.json](workflows/2641-csv-google-sheets-import.json)
+  Description: This flow allows importing multiple CSV files from a local folder to Google Sheets, removing duplicates and keeping only subscribers.
+
+- [2642-gmail_vector_embeddings_import.json](workflows/2642-gmail_vector_embeddings_import.json)
+  Description: This automated flow imports Gmail emails and stores them as vector embeddings in PostgreSQL using PGVector and the Ollama model to facilitate similar searches.
+
+- [2643-api-moa-googleSheets.json](workflows/2643-api-moa-googleSheets.json)
+  Description: This automated flow collects sheep quotation data from the Ministry of Agriculture API via an HTTP request, splits it, and then adds it as new rows to a specific Google Sheets file.
+
+- [2644-openai-form-dynamic.json](workflows/2644-openai-form-dynamic.json)
+  Description: This automated flow allows a chatbot to dynamically generate forms based on user responses and analysis of a previous open-ended question, thus avoiding asking for redundant information.
+
+- [2645-v1-param-audit.json](workflows/2645-v1-param-audit.json)
+  Description: This flow analyzes the parameters of all nodes in active flows to identify those containing expressions affected by changes in n8n v1.
+
+- [2646-telegram-helpdesk-chatbot.json](workflows/2646-telegram-helpdesk-chatbot.json)
+  Description: This automated flow allows a Telegram chatbot to maintain a contextualized conversation with users using vector storage in PostgreSQL and chat memory for personalized responses.
+
+- [2647-whatsapp-ai-chatbot.json](workflows/2647-whatsapp-ai-chatbot.json)
+  Description: This automated flow allows a WhatsApp chatbot to intelligently analyze and respond to different types of messages: text, voice, images, and PDFs.
+
+- [2648-travel-planner-mongodb.json](workflows/2648-travel-planner-mongodb.json)
+  Description: This flow acts as a travel planning assistant that uses MongoDB conversational memory and Atlas vector store to search for points of interest.
+
+- [2649-zoom-ai-meeting-auto.json](workflows/2649-zoom-ai-meeting-auto.json)
+  Description: This automated flow processes Zoom meeting transcripts with AI to generate email summaries, create tasks in ClickUp, and schedule follow-up calls.
+
+- [2650-shopify-odoo-customer-sync.json](workflows/2650-shopify-odoo-customer-sync.json)
+  Description: This flow automatically synchronizes new Shopify customers with contacts in Odoo, first checking if a matching contact already exists and creating it if not found.
+
+- [2651-ai_tshirt_redesign.json](workflows/2651-ai_tshirt_redesign.json)
+  Description: This flow analyzes a t-shirt design image using an AI model, like GPT-4o, and generates an improved prompt to create an artistic visual redesign using generative models.
+
+- [2652-youtube-performance-searcher.json](workflows/2652-youtube-performance-searcher.json)
+  Description: This flow searches for the best YouTube videos in the last two weeks and stores them in a PostgreSQL database.
+
+- [2653-line-chatbot-memory.json](workflows/2653-line-chatbot-memory.json)
+  Description: This flow allows a LINE chatbot to maintain a contextualized conversation using historical memory stored in Google Sheets.
+
+- [2654-comparador-multiples-modelos.json](workflows/2654-comparador-multiples-modelos.json)
+  Description: This flow allows comparing multiple language model responses while maintaining separate memory per model.
+
+- [2655-Generate_AI-Ready_llms.txt_Files_from_Screaming_Frog.json](workflows/2655-_Generate_AI-Ready_llms.txt_Files_from_Screaming_Frog.json)
+  Description: This automated flow allows generating an 'llms.txt' file from a Screaming Frog crawler CSV export. It extracts relevant data like titles, URLs, and indexability to create optimized content that helps LLM models in web page discovery and classification.
+
+- [2656-pipedrive-enrichment-flow.json](workflows/2656-pipedrive-enrichment-flow.json)
+  Description: This automated flow scans the website of a newly created organization in Pipedrive to generate a detailed summary using GPT-4o, allowing updated and integrated data directly in the CRM system.
+
+- [2657-calendar-agent.json](workflows/2657-calendar-agent.json)
+  Description: This automated flow allows a chatbot to interact with the user's calendar, creating individual or attendee events, getting schedules, and deleting them. The Google Calendar conversational agent uses GPT models to handle requests.
+
+- [2658-agente-contact-ai.json](workflows/2658-agente-contact-ai.json)
+  Description: This flow allows the AI agent to interact with Airtable using contact search or update.
+
+- [2659-content-creator-agent.json](workflows/2659-content-creator-agent.json)
+  Description: This automated flow uses the Tavily tool to search for information on the internet about a specific topic provided by the user, and then employs an Anthropic Chat Model language model to generate well-structured HTML content for blogs. Connections ensure a web search is performed first before requesting the AI assistant to write the article.
+
+- [2660-email-agent.json](workflows/2660-email-agent.json)
+  Description: This automated flow allows a chatbot to interact with email accounts to manage tasks like sending, replying, and labeling emails.
+
+- [2661-youtube-transcripciones-resumen.json](workflows/2661-youtube-transcripciones-resumen.json)
+  Description: This automated flow allows a user to send a YouTube URL via Webhook to get its video ID and then extract the video title and description. Subsequently, the video transcript along with gpt-4o-mini is used to generate structured summaries with definitions, features, implementation details, and pros/cons, formatted in markdown.
+
+- [2662-vision-based-scraping.json](workflows/2662-vision-based-scraping.json)
+  Description: This flow uses Gemini AI to extract data from web screenshots and integrates the results into Google Sheets.
+
+- [2663-n8n-image-editor-flux-fill.json](workflows/2663-n8n-image-editor-flux-fill.json)
+  Description: This flow allows processing images via inpainting with the FLUX Fill tool, integrating user interactions in a visual editor based on Konva.js.
+
+- [2664-deepseek-ia-flujo.json](workflows/2664-deepseek-ia-flujo.json)
+  Description: This automated flow allows integrating the DeepSeek Reasoner and Chat V3 AI model while maintaining conversational context via memory.
+
+- [2665-telegram-deepseek-bot.json](workflows/2665-telegram-deepseek-bot.json)
+  Description: This automated flow allows a chatbot to interact with Telegram users by integrating the DeepSeek-V3/Chat AI model. It analyzes messages, verifies user data, maintains long-term memory in Google Docs, and responds in a personalized manner.
+
+- [2666-ft-news-resumen.json](workflows/2666-ft-news-resumen.json)
+  Description: This automated flow daily collects financial news from FT.com, organizes it by specifically extracting content using CSS Selectors, summarizes it with a Google Gemini model in HTML format, and sends the structured summary to an Outlook inbox.
+
+- [2667-auto-doc-gpt-docsify.json](workflows/2667-auto-doc-gpt-docsify.json)
+  Description: This automated flow generates Markdown documentation for n8n workflows using GPT and Docsify, allowing creation of interactive pages with visual schemas (Mermaid) describing each node.
+
+- [2668-perplexity-html-creator.json](workflows/2668-perplexity-html-creator.json)
+  Description: This automated flow uses the Perplexity AI research tool to generate HTML content based on a provided topic. The system analyzes the user's topic, calls the Perplexity API with the specified model, and processes the response to extract JSON and convert it to HTML following formatting guidelines.
+
+- [2669-ollama-chat-ai.json](workflows/2669-ollama-chat-ai.json)
+  Description: This flow processes chat messages via local language models in Ollama and returns structured JSON responses.
+
+- [2670-n8n_creators_leaderboard_stats.json](workflows/2670-n8n_creators_leaderboard_stats.json)
+  Description: This flow automates obtaining and processing statistical data from the n8n creators leaderboard to generate detailed reports in Markdown format on a user's specific contributions.
+
+- [2671-performance-testing-multi-llm.json](workflows/2671-performance-testing-multi-llm.json)
+  Description: This automated flow allows multiple tests of local language models (LLM) via the LM Studio server, analyzing metrics like readability score and average word length for each response.
+
+- [2672-telegram-multimedia-ai.json](workflows/2672-telegram-multimedia-ai.json)
+  Description: This automated flow allows processing Telegram messages (text, voice, and photos) using language models for classification or analysis.
+
+- [2673-n8n-leaderboard-ai-agente.json](workflows/2673-n8n-leaderboard-ai-agente.json)
+  Description: This automated flow collects statistics from n8n creators and flows from GitHub, processes the information with artificial intelligence to generate a detailed report in Markdown format, converts it to HTML if necessary, and shares it via email or Telegram.
+
+- [2674-ai-chatbot-memory.json](workflows/2674-ai-chatbot-memory.json)
+  Description: This automated flow allows a chatbot to store and retrieve long-term memory and specific information in Google Docs to maintain contextualized conversations via Telegram.
+
+- [2675-stripe-hubspot-sync.json](workflows/2675-stripe-hubspot-sync.json)
+  Description: This flow synchronizes Stripe charges with HubSpot contacts. It searches and sums captured amounts per customer, creating or updating a custom property in HubSpot to show the total spent.
+
+- [2676-workflow-hubspot-lead.json](workflows/2676-workflow-hubspot-lead.json)
+  Description: This automated flow manages Lead integration in Lemlist and updates information in HubSpot, notifying relevant teams about sales opportunities. It includes steps to search or create company accounts, update contact profiles, and send Slack notifications.
+
+- [2677-reddit-n8n-monitor.json](workflows/2677-reddit-n8n-monitor.json)
+  Description: This flow automates monitoring Reddit posts related to n8n, using OpenAI to classify and summarize relevant ones.
+
+- [2678-gmail-to-drive-pdfs.json](workflows/2678-gmail-to-drive-pdfs.json)
+  Description: This automated flow sends specific PDF attachments from an email to Google Drive using OpenAI to filter and upload only those matching a determined term.
+
+- [2679-chatgpt-email-sheets.json](workflows/2679-chatgpt-email-sheets.json)
+  Description: This automated flow manages ChatGPT responses to specific emails and logs interactions in Google Sheets.
+
+- [2680-reporte-notion-slack.json](workflows/2680-reporte-notion-slack.json)
+  Description: This flow automates the creation of weekly reports summarizing entries from a Notion database containing product ideas. Every Sunday at 8:00 AM, it queries the last 7 days and sends a message to the #nik-wf-testing channel on Slack with the unique count of UX ideas.
+
+- [2681-notion-gmail-sinc.json](workflows/2681-notion-gmail-sinc.json)
+  Description: This flow automates synchronizing labeled emails to a Notion database. It searches for specific emails every minute, creates new pages if they don't exist, and removes labels once processed.
+
+- [2682-compare-datasets-frutas.json](workflows/2682-compare-datasets-frutas.json)
+  Description: This flow compares two datasets of fruits and colors using the Compare Datasets node to identify differences.
+
+- [2683-podcast_workflow.json](workflows/2683-podcast_workflow.json)
+  Description: This automated flow processes a podcast episode by splitting its transcript, summarizing it, and generating related questions and topics, then formats the information into HTML and sends it via Gmail.
+
+- [2684-threat-intelligence-scan.json](workflows/2684-threat-intelligence-scan.json)
+  Description: This flow automates cyber threat inspection by performing analyses on VirusTotal and Greynoise. It receives URLs or IPs via a form or Webhook, performs DNS Lookup to get IPs, sends to VirusTotal for scanning and queries Greynoise, combining results to send detailed reports via email and Slack.
+
+- [2685-email_campaign_generator.json](workflows/2685-email_campaign_generator.json)
+  Description: This flow automates the creation of personalized email campaigns using purchase data and customer feedback. It uses OpenAI to generate engaging content and decides whether to send a promotional coupon.
+
+- [2686-nextcloud_folder_migration.json](workflows/2686-nextcloud_folder_migration.json)
+  Description: This automated flow migrates folders and their subfiles and subfolders to a specified Nextcloud location, ensuring structural integrity and avoiding rate limit exceeding.
+
+- [2687-flujo-verificacion-voz-correo.json](workflows/2687-flujo-verificacion-voz-correo.json)
+  Description: This automated flow sends voice messages for verification and then verifies the code via email.
+
+- [2688-data_extraction_bright_google.json](workflows/2688-data_extraction_bright_google.json)
+  Description: This flow extracts and analyzes structured data from a webpage using Bright Data Web Unlocker and Google Gemini to perform data mining tasks, including thematic analysis and sentiment extraction.
+
+- [2689-printify-update-product.json](workflows/2689-printify-update-product.json)
+  Description: Automates updating product titles and descriptions in Printify via Google Sheets. The workflow uses Printify API to get store and product data, processes each product to generate custom title and description options using OpenAI, and updates them in Google Sheets.
+
+- [2690-blockchain_dex_insights_agent.json](workflows/2690-blockchain_dex_insights_agent.json)
+  Description: This automated flow acts as an insights agent for DEX blockchain, using different analysis tools and the DexScreener API to provide real-time information on tokens and trading pairs.
+
+- [2691-dialpad_syncro.json](workflows/2691-dialpad_syncro.json)
+  Description: This flow automates data synchronization between Dialpad and Syncro. It receives an inbound call notification, searches for the customer in Syncro, creates a ticket if the customer doesn't exist or updates their status, and logs the information in Google Sheets.
+
+- [2692-http-web-content-processor.json](workflows/2692-http-web-content-processor.json)
+  Description: This flow processes an HTTP request to get webpage content, converts it to Markdown, and applies limitations like removing links and images if the method is simplified. It handles errors and formats the output according to provided parameters.
+
+- [2693-búsqueda_correo_icypeas.json](workflows/2693-búsqueda_correo_icypeas.json)
+  Description: This flow configures a bulk email search using Icypeas. It reads data from a Google spreadsheet with personal information and authenticates the user to make a POST request to the Icypeas API, generating a necessary SHA1 signature for the process.
+
+- [2694-dominio_icypeas.json](workflows/2694-dominio_icypeas.json)
+  Description: This flow automates the execution of a bulk domain analysis using Icypeas. It reads data from a Google spreadsheet, authenticates with the Icypeas account, and sends a POST request to perform mass searches.
+
+- [2695-g2_reviews_monitor.json](workflows/2695-g2_reviews_monitor.json)
+  Description: This automated flow extracts and monitors recent G2 reviews for competitors like Zendesk, Intercom, and Dixa using ScrapingBee. It notifies of new reviews on Slack and logs them in Google Sheets.
+
+- [2696-country_capitals_fiction.json](workflows/2696-country_capitals_fiction.json)
+  Description: This flow uses ChatGPT to answer questions about capitals of fictional countries. The user can ask for a list of countries or the capital of a specific country.
+
+- [2697-shopify-inventory-alert.json](workflows/2697-shopify-inventory-alert.json)
+  Description: Flow to monitor and notify when Shopify products are low on stock or out of stock by sending messages to Discord with product details.
+
+- [2699-telegram-support-flow.json](workflows/2699-telegram-support-flow.json)
+  Description: This automated flow manages Telegram messages via a bot, creating custom topics for each user and forwarding messages to the support group or Broadcast channel. It uses Redis to store data and ensure message integrity.
+
+- [2700-cloudflare_kv_management.json](workflows/2700-cloudflare_kv_management.json)
+  Description: This flow manages Cloudflare KV Storage operations like listing, creating, deleting, and renaming namespaces, as well as performing specific actions with key-value pairs.
+
+- [2701-songkick-event-email.json](workflows/2701-songkick-event-email.json)
+  Description: This automated flow extracts and processes music event information from Songkick, PagerDuty-style, sending an email with formatted details to the user monthly.
+
+- [2702-meraki-network-monitor.json](workflows/2702-meraki-network-monitor.json)
+  Description: This automated flow monitors and analyzes latency and packet loss data in Meraki networks to detect issues, notifying only those exceeding thresholds via Redis.
+
+- [2703-google_maps_scraper.json](workflows/2703-google_maps_scraper.json)
+  Description: This flow extracts and processes Google Maps data using SerpAPI, removes duplicates, formats them, and updates status in Google Sheets.
+
+- [2704-switchy-url-shortener.json](workflows/2704-switchy-url-shortener.json)
+  Description: This flow processes URLs to generate and shorten them using Switchy.io. It analyzes metadata, verifies security with Norton and Bitdefender, and handles different OpenGraph image modes.
+
+- [2705-automated-tasks-creator.json](workflows/2705-automated-tasks-creator.json)
+  Description: This automated flow creates tasks in Airtable based on templates and updates records with calculated dates.
+
+- [2706-airtable-csv-uploader.json](workflows/2706-airtable-csv-uploader.json)
+  Description: This automated flow processes and uploads data from a CSV file to Airtable. It detects if the campaign is not empty, marks the processing status, downloads the file, creates records in Airtable, and updates the status to 'Uploaded' or 'Failed'.
+
+- [2707-dropbox-backup-cleanup.json](workflows/2707-dropbox-backup-cleanup.json)
+  Description: This automated flow schedules periodic tasks for Workflow Backup and cleanup in Dropbox. Daily, it copies current Workflows to an 'OLD' folder and deletes backups older than 30 days.
+
+- [2708-piloterr-fundraising-scraping.json](workflows/2708-piloterr-fundraising-scraping.json)
+  Description: This automated flow extracts recent funding information from Crunchbase for Series A, B, and Seed, enriches it with additional data from LinkedIn and Semrush, and exports it to Google Sheets.
+
+- [2709-email-to-telegram.json](workflows/2709-email-to-telegram.json)
+  Description: This flow automates reading emails from an IMAP account and converting them into HTML pages hosted on GitHub Gist, sending notifications to Telegram with an access link. After 3 hours, it deletes the Gist file.
+
+- [2710-youtube-sum-resumen.json](workflows/2710-youtube-sum-resumen.json)
+  Description: This flow extracts text from a YouTube video using searchapi.io and summarizes it with LangChain and OpenAI to generate detailed summaries with example questions.
+
+- [2711-google-sheet-ai-agent.json](workflows/2711-google-sheet-ai-agent.json)
+  Description: This flow uses an artificial intelligence agent to interact with a Google Sheets spreadsheet, allowing listing columns, getting specific values, and retrieving customer information based on defined operations.
+
+- [2712-automated-email-flow.json](workflows/2712-automated-email-flow.json)
+  Description: This flow automates managing pending messages to send emails. It retrieves data from a Google Sheets spreadsheet, filters entries based on 'Waiting to be sent' status and current date, configures necessary data, sends emails via Gmail, and updates the status in the spreadsheet.
+
+- [2713-chat-agent-postgres.json](workflows/2713-chat-agent-postgres.json)
+  Description: This flow uses a language agent to process chat messages, employing simple memory and a PostgreSQL database to support system-generated SQL queries.
+
+- [2714-ai-agent-slack-transfer.json](workflows/2714-ai-agent-slack-transfer.json)
+  Description: Flow that implements an AI chat agent capable of transferring conversations to Slack if the user does not provide an email address.
+
+- [2715-discord-to-sheets-sync.json](workflows/2715-discord-to-sheets-sync.json)
+  Description: This flow automates synchronizing active Discord members with Google Sheets. It extracts information from Discord, filters by roles, and maintains a record in a spreadsheet.
+
+- [2716-form-to-email-notificacion.json](workflows/2716-form-to-email-notificacion.json)
+  Description: This flow collects data from a form where users enter their role and email. It then checks if the email is not personal using Clearbit to enrich information. If it meets certain criteria, it sends an email.
+
+- [2717-linkedin-email-finder.json](workflows/2717-linkedin-email-finder.json)
+  Description: This flow automates updating contact information in Google Sheets using the Prospeo.io API to find emails via LinkedIn URLs.
+
+- [2718-intercom-enrich-user-flow.json](workflows/2718-intercom-enrich-user-flow.json)
+  Description: This flow automates enriching newly created user data in Intercom via API. It receives Intercom notifications, verifies the 'contact.user.created' event, extracts information, and queries ExactBuyer to update details like email, phone, location, and social profiles.
+
+- [2719-discourse-slack-notifications.json](workflows/2719-discourse-slack-notifications.json)
+  Description: This flow automates Slack notifications for new highly-rated users in Discourse, filtering personal emails and verifying business data via Clearbit.
+
+- [2720-leadfeeder-to-googlesheets.json](workflows/2720-leadfeeder-to-googlesheets.json)
+  Description: This automated flow extracts and enriches Lead data from Leadfeeder, filters by company and engagement, and exports it to Google Sheets.
+
+- [2721-email-verification-flow.json](workflows/2721-email-verification-flow.json)
+  Description: This flow verifies email validity, gets company and person information from Clearbit, and adds a lead to Hubspot if the email is valid.
+
+- [2722-asignacion-deal-hubspot.json](workflows/2722-asignacion-deal-hubspot.json)
+  Description: This automated flow schedules daily tasks to get HubSpot deals and assign them to different sellers based on regions and company size.
+
+- [2723-lead-generation-flow.json](workflows/2723-lead-generation-flow.json)
+  Description: This automated flow collects Leads via a web form, verifies email validity using Hunter, evaluates customer profile with MadKudu, and if interesting (score >60), sends an outreach email via Gmail and logs the interaction in HubSpot.
+
+- [2724-social-activity-email.json](workflows/2724-social-activity-email.json)
+  Description: This automated flow collects recent Twitter tweets and LinkedIn posts from companies and sends an email with social activity to configured email addresses.
+
+- [2725-flujo-automatico-diario.json](workflows/2725-flujo-automatico-diario.json)
+  Description: This automated flow schedules daily tasks to extract and process calendar, LinkedIn, and Twitter information, enrich data with Clearbit, and send an email with a personalized summary.
+
+- [2726-crm-enrichment-flow.json](workflows/2726-crm-enrichment-flow.json)
+  Description: This flow automates the process of enriching and managing contact and company data via Clearbit and Hubspot. It detects if a company exists in CRM; otherwise, it creates or updates it with detailed information. It also validates and filters emails to avoid personal addresses.
+
+- [2727-crm-enrich-flow.json](workflows/2727-crm-enrich-flow.json)
+  Description: This automated n8n flow uses Clearbit and Hubspot to enrich company and contact data. It detects if a company exists in the CRM, creates or updates records accordingly, and manages Leads in ConvertKit. It filters non-personal emails and intelligently manages contacts.
+
+- [2728-automatizacion-leads-pipedrive.json](workflows/2728-automatizacion-leads-pipedrive.json)
+  Description: This flow automates Pipedrive lead management via Clearbit and Slack. It searches for unarchived leads with B2B tags and more than 10 employees, enriches them with Clearbit business data, marks as enriched, and notifies Slack.
+
+- [2729-form-to-pipedrive.json](workflows/2729-form-to-pipedrive.json)
+  Description: This flow uses forms to collect emails, verifies their validity with Hunter.io, gets information from Clearbit, and creates or updates records in Pipedrive.
+
+- [2730-slack-command-flow.json](workflows/2730-slack-command-flow.json)
+  Description: This flow handles Slack commands, validates tokens, creates threads, and executes workflows according to configuration. It responds to users with help or unknown commands.
+
+- [2731-woocommerce-chatbot.json](workflows/2731-woocommerce-chatbot.json)
+  Description: This automated flow allows a chatbot to retrieve and display WooCommerce order information based on the user's email address. It uses encryption tools to protect sensitive data and services like DHL for shipment tracking.
+
+- [2732-vector-chatbot-pinecone.json](workflows/2732-vector-chatbot-pinecone.json)
+  Description: This flow configures a vector retrieval system to answer questions based on content downloaded from Google Drive. It uses Pinecone as a vector database and OpenAI for embeddings and chat response.
+
+- [2733-gitlab-code-review.json](workflows/2733-gitlab-code-review.json)
+  Description: This flow uses the GitLab API to get changes made in a merge request and uses an LLM model to review those changes. If there are issues, it posts comments in the repository.
+
+- [2734-cv-extractor-telegram.json](workflows/2734-cv-extractor-telegram.json)
+  Description: This flow automates extracting and formatting resume information into HTML and PDF for Telegram. It receives a PDF CV file, extracts text, processes it with OpenAI to structure data, and generates an HTML document/converted to PDF.
+
+- [2735-traductor-deepL-GDrive.json](workflows/2735-traductor-deepL-GDrive.json)
+  Description: This flow automates PDF document translation using DeepL and Google Drive. It configures a path, selects source and target languages, and files will be automatically translated.
+
+- [2736-wordpress-article-generator.json](workflows/2736-wordpress-article-generator.json)
+  Description: Flow that automates WordPress article creation using OpenAI to generate structured content and DALL·E for images, with data validation.
+
+- [2737-stripe-payment-link.json](workflows/2737-stripe-payment-link.json)
+  Description: This flow creates a product in Stripe and generates a payment link based on submitted form data. It configures currency and price, then creates the product, and finally redirects the user.
+
+- [2738-gmail-label-assigner.json](workflows/2738-gmail-label-assigner.json)
+  Description: This flow automates assigning labels to Gmail messages using AI. It analyzes emails and determines which labels to apply based on their content.
+
+- [2739-email-ai-reply.json](workflows/2739-email-ai-reply.json)
+  Description: This automated flow processes emails with specific labels by transferring their content to the OpenAI Assistant to generate a draft reply. The workflow includes from email extraction to final sending and subsequent removal of trigger labels.
+
+- [2740-automate_ga_reporting.json](workflows/2740-automate_ga_reporting.json)
+  Description: This automated flow extracts and processes Google Analytics data to generate detailed reports on page statistics, search results, and views by country, comparing weekly data. Results are formatted in HTML and sent via email.
+
+- [2741-zalando-price-monitor.json](workflows/2741-zalando-price-monitor.json)
+  Description: This flow monitors prices on Zalando, extracts product information, compares with saved prices, and notifies if there are reductions.
+
+- [2742-email_to_podcast.json](workflows/2742-email_to_podcast.json)
+  Description: This flow automates converting emails into podcasts. It uses Gmail to detect messages with the 'CATEGORY_PROMOTIONS' label, processes them, generates a summary, and converts text to audio sent to Telegram.
+
+- [2743-youtube-rss-generator.json](workflows/2743-youtube-rss-generator.json)
+  Description: This flow generates custom RSS URLs for YouTube channels and specific videos in different formats (ATOM, JSON, MRSS, PLAINTEXT, SFEED, and XML) using external sources.
+
+- [2744-ai-storyteller-telegram.json](workflows/2744-ai-storyteller-telegram.json)
+  Description: This flow automates creating and sending children's stories to a Telegram channel, generating text, audio, and images with artificial intelligence.
+
+- [2745-kids-story-generator.json](workflows/2745-kids-story-generator.json)
+  Description: Automated flow to create and share children's stories in Arabic with OpenAI and Telegram.
+
+- [2746-dropcontact-batch.json](workflows/2746-dropcontact-batch.json)
+  Description: This flow automates bulk contact deletion in Dropcontact via PostgreSQL queries and handles up to 1500 requests per hour.
+
+- [2747-correo_n8n_version.json](workflows/2747-correo_n8n_version.json)
+  Description: This flow schedules a daily email with the most stable n8n version obtained from GitHub.
+
+- [2748-wordpress_blog_poster.json](workflows/2748-wordpress_blog_poster.json)
+  Description: This flow automates content publishing on WordPress and Airtable. It searches for entries marked 'To Post', converts markdown to HTML, uploads an image, creates a WordPress entry with it, and updates Airtable to mark it as 'Posted'.
+
+- [2749-spotify-downloads-manager.json](workflows/2749-spotify-downloads-manager.json)
+  Description: This automated flow manages a Spotify playlist called 'Downloads'. It searches for the most recent songs the user has favorited and adds them to the playlist, keeping only a defined number of songs. If the playlist doesn't exist, it creates it. If it already exists, it deletes the oldest songs if the limit is exceeded.
+
+- [2750-email_classifier.json](workflows/2750-email_classifier.json)
+  Description: This flow monitors email responses in Lemlist and uses OpenAI to categorize them, subsequently sending personalized notifications to Slack. If the response is classified as 'Unsubscribe', the lead is unsubscribed; if 'Interested', it's marked as interested.
+
+- [2751-crm-verification-form.json](workflows/2751-crm-verification-form.json)
+  Description: Flow that uses Tally Forms to capture form data, verifies email with CaptainVerify, manages credits, and creates Leads in SuiteCRM and contacts in Brevo. Notifies on NextCloudDiscussions if there's malformation or low credit.
+
+- [2752-notion-webflow-sync.json](workflows/2752-notion-webflow-sync.json)
+  Description: This flow synchronizes blog entries from Notion to Webflow by comparing slugs and updating or creating posts accordingly.
+
+- [2753-n8n-updates-checker.json](workflows/2753-n8n-updates-checker.json)
+  Description: This flow retrieves node type and available version information, then checks if any nodes require updating by comparing their current version with the latest registered version. If a node is inactive or its version is obsolete, it identifies it and generates formatted output with the flow name, its ID, and the list of outdated nodes.
+
+- [2754-backup-github.json](workflows/2754-backup-github.json)
+  Description: This flow automates credential backup to GitHub. It uses a command to export credentials, formats them, and then compares with existing versions or creates new ones if none exist.
+
+- [2755-social-media-crawler.json](workflows/2755-social-media-crawler.json)
+  Description: This flow extracts social media information from websites using text and URL retrieval tools. It navigates pages, gets social links, and organizes them in JSON format.
+
+- [2756-automatizacion-facturas-pdf.json](workflows/2756-automatizacion-facturas-pdf.json)
+  Description: This flow automates data extraction from PDF invoices sent by email. It uses LlamaParse to analyze documents and then extracts structured information with OpenAI, finally inserting data into a Google Sheets spreadsheet.
+
+- [2757-automatiza-rfp.json](workflows/2757-automatiza-rfp.json)
+  Description: Automated flow to generate RFP responses using Webhooks, Google Docs, and OpenAI. Receives an RFP document, extracts questions, processes them with AI, and inserts answers into a Google Docs document.
+
+- [2758-evento-banner-generator.json](workflows/2758-evento-banner-generator.json)
+  Description: This flow automates creating promotional event banners using n8n. It allows capturing information via a form, generating an AI image, and creating custom banners in BannerBear for sharing on Discord.
+
+- [2760-empresa_research.json](workflows/2760-empresa_research.json)
+  Description: This flow automates company research using OpenAI and Google Sheets. It collects structured information from websites and databases, and updates a spreadsheet with the results.
+
+- [2761-slack-calendar-event.json](workflows/2761-slack-calendar-event.json)
+  Description: This automated flow monitors a Slack channel for messages tagged with a calendar emoji (📅) and manages Google Calendar event creation and updates. It uses artificial intelligence to extract event details, creates a new one if necessary, or adds attendees to an existing event based on user reactions.
+
+- [2762-sitios-monitor.json](workflows/2762-sitios-monitor.json)
+  Description: This flow automates website monitoring using a timer that checks each site's status and sends email or Slack alerts if there are status changes.
+
+- [2763-google-meet-scheduler.json](workflows/2763-google-meet-scheduler.json)
+  Description: This flow automates meeting management via Google Calendar and Drive. It retrieves meeting records, processes transcripts with OpenAI, creates calendar events, and assigns attendees.
+
+- [2764-inventory-enricher.json](workflows/2764-inventory-enricher.json)
+  Description: This automated flow uses Airtable to capture inventory photos, OpenAI to analyze images, and artificial intelligence agents to enrich data. First, it gets applicable rows from Airtable with unprocessed photos. Then, it uses the OpenAI model to identify object attributes in the image. An AI agent uses custom tools (reverse image search and web scraping) to find additional information. Finally, it overwrites data in Airtable with enriched results.
+
+- [2765-image-object-extraction.json](workflows/2765-image-object-extraction.json)
+  Description: This flow uses the Cloudflare API to detect objects in an image and then extracts and stores those objects as separate images in Elasticsearch to allow object-based searches.
+
+- [2766-hellofresh-recomendador.json](workflows/2766-hellofresh-recomendador.json)
+  Description: This flow automates recommending weekly HelloFresh recipes using a vector search engine and a database. It extracts information from weekly menus, processes recipe data, generates embeddings with Mistral Cloud, and uses Qdrant to recommend options based on preferences.
+
+  
