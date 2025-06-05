@@ -3084,6 +3084,9 @@ All workflows shared here are provided “as is.” **Before using them in a pro
 - [1046-gmail-api-automation.json](workflows/1046-gmail-api-automation.json)
   Description: This automated flow allows sending and receiving emails via the Gmail API, using a single set of OAuth2 credentials for different operations.
 
+- [1047-linkedin-ai-post.json](workflows/1047-linkedin-ai-post.json)
+  Description: This workflow retrieves scheduled posts from a Notion database, formats them with OpenAI for better LinkedIn engagement, and publishes the content with its image to LinkedIn automatically.
+
 - [1048-notion-clockify-client-sync.json](workflows/1048-notion-clockify-client-sync.json)
   Description: This automated flow detects new clients in a Notion database and automatically adds each one to the Clockify time management system.
 
@@ -3113,6 +3116,9 @@ All workflows shared here are provided “as is.” **Before using them in a pro
 
 - [1057-analisis-feedback-ia.json](workflows/1057-analisis-feedback-ia.json)
   Description: This flow processes customer comments, analyzes feedback with artificial intelligence to get a summary, improvement suggestions, and ideas for social posts, and then sends the results by email to the team address.
+
+- [1058-notion-pinecone-embeddings.json](workflows/1058-notion-pinecone-embeddings.json)
+  Description: This workflow detects new Notion pages, summarizes their content, generates embeddings, and stores them in a Pinecone vector database for semantic search.
 
 - [1059-automatic-meetings-telegram.json](workflows/1059-automatic-meetings-telegram.json)
   Description: This automated flow sends a list of your scheduled meetings for the current day to Telegram every morning at six, with dates and times formatted in Persian.
@@ -3299,6 +3305,9 @@ All workflows shared here are provided “as is.” **Before using them in a pro
 
 - [1120-recomendaciones-qdrant-mistral.json](workflows/1120-recomendaciones-qdrant-mistral.json)
   Description: This automated flow recommends recipes using Qdrant for vector search and Mistral AI as a language model.
+
+- [1120-gmail-email-csv.json](workflows/1120-gmail-email-csv.json)
+  Description: This workflow retrieves an email with a JSON attachment from Gmail, converts the data to CSV, and saves the resulting file.
 
 - [1122-wordpress-auto-generation.json](workflows/1122-wordpress-auto-generation.json)
   Description: This automated flow selects the least used WordPress category from a PostgreSQL database to generate unique and structured articles using GPT models. After creating the complete content in specific HTML format, it generates an optimized title and downloads/attaches a featured image before publishing everything together.
@@ -4201,6 +4210,9 @@ All workflows shared here are provided “as is.” **Before using them in a pro
 - [2654-comparador-multiples-modelos.json](workflows/2654-comparador-multiples-modelos.json)
   Description: This flow allows comparing multiple language model responses while maintaining separate memory per model.
 
+
+- [2655-_Generate_AI-Ready_llms.txt_Files_from_Screaming_Frog.json](workflows/2655-_Generate_AI-Ready_llms.txt_Files_from_Screaming_Frog.json)
+  Description: This workflow processes Screaming Frog crawl exports uploaded via a form, filters indexable pages, and generates an `llms.txt` file listing titles, links, and descriptions.
 
 - [2656-pipedrive-enrichment-flow.json](workflows/2656-pipedrive-enrichment-flow.json)
   Description: This automated flow scans the website of a newly created organization in Pipedrive to generate a detailed summary using GPT-4o, allowing updated and integrated data directly in the CRM system.
@@ -5135,7 +5147,7 @@ All workflows shared here are provided “as is.” **Before using them in a pro
 - [2978-linkedin-empresa-score.json](workflows/2978-linkedin-empresa-score.json)
   Description: This workflow automates searching for companies on LinkedIn using the Ghost Genius API, processes their data, evaluates their fitness with an AI model, and records them in a Google Sheets spreadsheet. First, it obtains detailed information for each company, filters those with more than 200 followers and a website, then checks if they already exist in the CRM. If they are new, it scores them with AI and finally adds them to the CRM with their score and relevant details.
 
-- [2979-multi_methods_airtable.json](workflows/2797-multi_methods_airtable.json)
+- [2979-multi_methods_airtable.json](workflows/2979-multi_methods_airtable.json)
   Description: This workflow handles different HTTP methods to interact with an Airtable API, performing operations like creating, getting all, getting a record by ID, updating, and deleting records.
 
 - [2980-reddit-pr-report.json](workflows/2980-reddit-pr-report.json)
