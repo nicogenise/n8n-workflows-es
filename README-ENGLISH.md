@@ -4410,4 +4410,1496 @@ All workflows shared here are provided “as is.” **Before using them in a pro
 - [2766-hellofresh-recomendador.json](workflows/2766-hellofresh-recomendador.json)
   Description: This flow automates recommending weekly HelloFresh recipes using a vector search engine and a database. It extracts information from weekly menus, processes recipe data, generates embeddings with Mistral Cloud, and uses Qdrant to recommend options based on preferences.
 
-  
+- [2767-file-organizer-mistral.json](workflows/2767-file-organizer-mistral.json)
+  Description: This workflow uses a local trigger to monitor a directory, uses commands to get a list of files and folders, then employs the Mistral AI model to organize files by moving them to appropriate subfolders based on AI suggestions.
+
+- [2768-file_sync_qdrant.json](workflows/2768-file_sync_qdrant.json)
+  Description: This workflow monitors a local directory and synchronizes file changes with Qdrant to create a knowledge base using Mistral AI.
+
+- [2769-bank_statement_reconciliation.json](workflows/2769-bank_statement_reconciliation.json)
+  Description: This workflow monitors bank statement CSV files, processes them with an AI model to detect discrepancies in rent payments and specific notifications.
+
+- [2770-automated-notes-generator.json](workflows/2770-automated-notes-generator.json)
+  Description: This automated workflow monitors a directory for new files, processes their content, and uses AI agents to generate structured documents in Markdown format such as study guides, timelines, and informational documentation.
+
+- [2771-tax-code-ai-assistant.json](workflows/2771-tax-code-ai-assistant.json)
+  Description: This workflow automates the creation of a legal chatbot assistant specialized in Texan tax codes. It downloads, processes, and stores PDF documents in Qdrant using Mistral.ai embeddings to enable advanced searches.
+
+- [2772-pc_repair_booking.json](workflows/2772-pc_repair_booking.json)
+  Description: This automated workflow manages appointment scheduling and follow-ups for a PC and laptop repair service. It uses Twilio to receive SMS messages, Airtable to handle sessions and conversations, and OpenAI with language agents to interact with customers, in addition to Cal.com for scheduling appointments.
+
+- [2773-image-embedding_workflow.json](workflows/2773-image-embedding_workflow.json)
+  Description: This workflow downloads an image from Google Drive, extracts color information, and generates semantic keywords using OpenAI to create an embedding document, which is stored in an in-memory vector store.
+
+- [2774-chat-flow-buffer.json](workflows/2774-chat-flow-buffer.json)
+  Description: This workflow uses Redis and Twilio to handle chat messages, pausing execution for 5 seconds and checking if the last message matches the one entered. If it matches, it sends a unique response based on all buffered messages using OpenAI.
+
+- [2775-competitor-research-automator.json](workflows/2775-competitor-research-automator.json)
+  Description: This workflow automates competitive research using Exa.ai to find competitors and then collects detailed information about each competitor using AI agents that extract data from sites like Crunchbase, LinkedIn, and other relevant sites. The data is structured and inserted into Notion.
+
+- [2776-pdf-pinecone-reserva.json](workflows/2776-pdf-pinecone-reserva.json)
+  Description: Workflow that includes downloading a PDF, its embedding and storage in Pinecone, plus an appointment booking capability via Google Calendar using language agents like GPT-4o and Anthropic.
+
+- [2777-encuesta-analisis.json](workflows/2777-encuesta-analisis.json)
+  Description: This workflow automates survey collection and analysis using OpenAI and Qdrant to extract insights through clustering and embeddings.
+
+- [2778-trustpilot-insights.json](workflows/2778-trustpilot-insights.json)
+  Description: This workflow extracts, processes, and analyzes Trustpilot reviews for a specific company. It uses Qdrant as a vector database to store structured data, applies K-means clustering to identify patterns, generates insights using an LLM model, and exports the results to Google Sheets.
+
+- [2779-hn_comments_analyzer.json](workflows/2779-hn_comments_analyzer.json)
+  Description: This automated workflow extracts and analyzes comments from a Hacker News article, organizes them into clusters using clustering algorithms (K-means), and generates insights with a large language model. The data is stored in Qdrant for further analysis.
+
+- [2780-gitlab-backup-n8n.json](workflows/2780-gitlab-backup-n8n.json)
+  Description: This automated workflow configures periodic and manual backups of n8n workflows in GitLab. It uses scheduled and manual triggers to save the updated configuration in separate files within a GitLab repository.
+
+- [2781-spotify-mqtt-controller.json](workflows/2781-spotify-mqtt-controller.json)
+  Description: This workflow handles MQTT commands from a remote button to control Spotify, including volume and playback, as well as playing favorite playlists.
+
+- [2782-sync-workflows.json](workflows/2782-sync-workflows.json)
+  Description: This workflow automates the synchronization of workflows between n8n and GitLab. It retrieves n8n workflows, checks their status in GitLab, and updates or creates new JSON files based on detected differences.
+
+- [2783-paddle-invoice-processor.json](workflows/2783-paddle-invoice-processor.json)
+  Description: This automated workflow detects and processes Paddle invoices from Gmail, extracts the PDF link, downloads it, and stores it in Google Drive, organizing it into specific folders.
+
+- [2784-supabase-vector-store.json](workflows/2784-supabase-vector-store.json)
+  Description: This workflow sets up a vector database in Supabase to store and retrieve documents with OpenAI embeddings, allowing for semantic searches and answering questions based on content.
+
+- [2785-it-slack-ai-agent.json](workflows/2785-it-slack-ai-agent.json)
+  Description: This workflow uses n8n to handle Slack messages, responding to users with OpenAI-generated answers and querying Confluence. It includes webhook verification, contextual memory, and deletion of initial messages.
+
+- [2786-telegram_bot_workflow.json](workflows/2786-telegram_bot_workflow.json)
+  Description: This workflow uses Telegram to handle different types of messages and commands, such as text, photos, files, voice, and buttons. It detects the message type and acts accordingly, displaying a context menu or handling payments.
+
+- [2787-contabo-backups.json](workflows/2787-contabo-backups.json)
+  Description: This automated workflow schedules daily snapshots of instances in Contabo, checking and deleting if a snapshot already exists before creating a new one.
+
+- [2788-daily-order-summary.json](workflows/2788-daily-order-summary.json)
+  Description: This workflow automates the creation of a daily order summary and its email delivery. Each time a new order is received via a webhook, the data is stored in Airtable. At 7 PM, a report is generated with all orders of the day, and a formatted HTML is attached.
+
+- [2789-notion-task-reminder.json](workflows/2789-notion-task-reminder.json)
+  Description: This workflow automates the creation of a weekly email with reminders and push notifications for pending tasks in Notion. It retrieves tasks from a Notion database, filters and sorts them by deadline, generates an HTML with the details of each task, and sends an email or a Pushover notification if there are overdue tasks.
+
+- [2790-notion-kb-agent.json](workflows/2790-notion-kb-agent.json)
+  Description: This workflow uses OpenAI and Notion to act as a knowledge base assistant that searches for information in a Notion database based on user questions.
+
+- [2791-notion-workflow-generator.json](workflows/2791-notion-workflow-generator.json)
+  Description: This workflow generates a custom n8n workflow for Notion databases from a URL provided by the user. It uses language agents and validation to ensure the correct JSON structure.
+
+- [2792-flujo-imagen-ai.json](workflows/2792-flujo-imagen-ai.json)
+  Description: Workflow that generates AI images based on user-selected prompts and styles, using the Hugging Face API. The user can choose from different visual styles like cyberpunk or neon to create advanced visual compositions.
+
+- [2793-image-caption-generator.json](workflows/2793-image-caption-generator.json)
+  Description: This workflow automates the generation of image captions using the Gemini model and applies them visually.
+
+- [2794-visual-regression-test-flow.json](workflows/2794-visual-regression-test-flow.json)
+  Description: Automated workflow for performing visual regression tests on websites using Google Gemini and Apify. It generates base images, compares them with recent captures, and reports detected changes via Linear.
+
+- [2795-banco-estado-pdf-to-markdown.json](workflows/2795-banco-estado-pdf-to-markdown.json)
+  Description: This workflow automates the conversion of a bank statement PDF in image format to structured markdown text using Google Gemini and advanced OCR.
+
+- [2796-slack-csr-approval.json](workflows/2796-slack-csr-approval.json)
+  Description: This automated workflow manages digital certificate requests via Slack. It analyzes threats using VirusTotal and generates an automatic confirmation or a report for manual approval.
+
+- [2797-adobe-pdf-processing.json](workflows/2797-adobe-pdf-processing.json)
+  Description: This automated workflow implements an integration with the Adobe API to process PDF files, performing tasks such as uploading a file, sending a processing query, and downloading the result. It uses custom credentials for authentication and manages different process states.
+
+- [2798-podcast-summarizer.json](workflows/2798-podcast-summarizer.json)
+  Description: This workflow automates the creation of a daily summary of specific podcasts by genre. It uses the Taddy API to get lists of the most popular podcasts, downloads selected episodes, transcribes their content with Whisper, and then generates a summary using OpenAI. The result is sent via email.
+
+- [2799-faq-generator-n8n.json](workflows/2799-faq-generator-n8n.json)
+  Description: This workflow automates FAQ creation for n8n integrations using OpenAI and Google Sheets. It extracts data from a spreadsheet, generates question-answer pairs, completes some answers with AI, and saves the results to Google Drive.
+
+- [2800-monitor-github.json](workflows/2800-monitor-github.json)
+  Description: This workflow monitors multiple GitHub repositories without polling, registering and handling webhooks to receive notifications for events like pushes and pull requests.
+
+- [2801-email-reply-draft.json](workflows/2801-email-reply-draft.json)
+  Description: This automated workflow uses OpenAI to generate email replies and saves them to the Fastmail drafts folder.
+
+- [2802-webhook-relay.json](workflows/2802-webhook-relay.json)
+  Description: This automated workflow uses webhook.site to receive and store requests, then processes and forwards them to a local address via n8n. An authentication token and a key are used to synchronize state between executions.
+
+- [2803-workflow_calendar_task.json](workflows/2803-workflow_calendar_task.json)
+  Description: Workflow that manages tasks and appointments in Google Calendar and Notion using specialized agents for calendar and tasks, employing OpenAI and Chat Models for artificial intelligence.
+
+- [2804-fastmail-masked-email-flow.json](workflows/2804-fastmail-masked-email-flow.json)
+  Description: This workflow manages Fastmail's anonymous email addresses via its API. It allows getting a list of anonymized emails, creating new ones with an initial state, updating their status (enabled/disabled), and deleting them. The generated HTML interface displays a list with options to filter by status, add new ones, and perform actions.
+
+- [2805-sincronizacion-stripe-s3.json](workflows/2805-sincronizacion-stripe-s3.json)
+  Description: This workflow automates the synchronization of PDF invoices from Stripe to an AWS S3 bucket, organizing files into subfolders by year and month. It configures monthly intervals to download only invoices issued from the first day of the month.
+
+- [2806-telegram-bot-memory.json](workflows/2806-telegram-bot-memory.json)
+  Description: This automated workflow manages Telegram conversations using OpenAI and Supabase to maintain context. It creates a new discussion thread in OpenAI if it's the first time a user talks to the bot, saves user information in Supabase, and sends personalized responses.
+
+- [2807-automatiza-categorizacion-outlook.json](workflows/2807-automatiza-categorizacion-outlook.json)
+  Description: This workflow automates email categorization in Outlook using an AI agent. It extracts the email body, processes it to remove HTML, and then sends it to an Ollama language model to assign categories. If it fails, it logs the error. Depending on the resulting category, it moves emails to different folders like 'Junk', 'Receipt', 'SaaS', 'Community', 'Business', or 'Action'.
+
+- [2808-telegram-ai-agent.json](workflows/2808-telegram-ai-agent.json)
+  Description: This workflow uses Telegram to receive messages, processes voice or text, transcribes voice to text, and uses OpenAI as an AI agent to respond based on email, calendar, and contacts.
+
+- [2809-seo-ai-keywords-generator.json](workflows/2809-seo-ai-keywords-generator.json)
+  Description: Workflow that generates SEO keywords using an AI agent based on the ideal customer profile (ICP).
+
+- [2810-incident-service-now.json](workflows/2810-incident-service-now.json)
+  Description: This workflow receives a Slack request via a slash command, extracts the incident ID, and queries ServiceNow for details. If the incident exists, it sends the information to Slack; otherwise, it notifies the user.
+
+- [2811-gmail-auto-label.json](workflows/2811-gmail-auto-label.json)
+  Description: Automates email categorization in Gmail using OpenAI to label messages based on existing ones or create new labels if necessary.
+
+- [2812-youtube-metagen.json](workflows/2812-youtube-metagen.json)
+  Description: This workflow automates metadata generation for YouTube videos, including SEO-optimized titles, descriptions, and tags, using an input form that processes video links and transcriptions.
+
+- [2813-transform-text.json](workflows/2813-transform-text.json)
+  Description: This workflow transforms text to lowercase, uppercase, and replaces specific words using echo commands.
+
+- [2814-subscriber-unsubscribes-customerio.json](workflows/2814-subscriber-unsubscribes-customerio.json)
+  Description: This workflow activates a node when a subscriber unsubscribes in Customer.io, allowing actions to be performed based on that event.
+
+- [2815-luma-video-generator.json](workflows/2815-luma-video-generator.json)
+  Description: This workflow creates custom videos using the Luma AI Dream Machine API. It generates a video based on a globally defined prompt with different options for aspect ratio, duration, and random motion. It records video data in Airtable.
+
+- [2816-rss-telegram-updates.json](workflows/2816-rss-telegram-updates.json)
+  Description: This workflow automates publishing updates from an RSS feed to Telegram. It reads RSS entries, checks if they are new using the date, and sends them to the channel if they are recent.
+
+- [2817-eleven-labs-transcript.json](workflows/2817-eleven-labs-transcript.json)
+  Description: This workflow automates audio transcription creation using Eleven Labs. It starts with a 'Test workflow' click, reads the media file from disk (/files/tmp/tst1.mp4), and processes it to get a transcript by sending a POST request to the Eleven Labs API.
+
+- [2818-squarespace-fulfillment.json](workflows/2818-squarespace-fulfillment.json)
+  Description: This workflow automates order management in Squarespace Commerce. It searches for pending orders and marks them as fulfilled, using the API Key for authentication.
+
+- [2819-procesar_Ordenes_Gmail.json](workflows/2819-procesar_Ordenes_Gmail.json)
+  Description: Automated workflow that processes purchase orders received by email, extracts relevant information, and stores it in a Google Sheets spreadsheet.
+
+- [2820-auto-assign-jira.json](workflows/2820-auto-assign-jira.json)
+  Description: This workflow automates the assignment of stalled JIRA tasks using a matching system with past resolved issues using AI and vector databases. It looks for unassigned tasks for more than 5 days, finds the most similar ones in the knowledge base, and assigns them to team members with the least current workload.
+
+- [2821-automatizacion-facturas-outlook.json](workflows/2821-automatizacion-facturas-outlook.json)
+  Description: This workflow automates invoice management from an Outlook account, classifying messages to detect and download attachments that are invoices issued to the company. It uses Google Gemini to verify if attachments are relevant invoices and extract key information, then records this data in an Excel spreadsheet.
+
+- [2822-automated-sales-email-generator.json](workflows/2822-automated-sales-email-generator.json)
+  Description: This workflow automates the creation of personalized sales emails using Google Gemini and Gmail. It retrieves customer emails, builds custom profiles with communication and buying style analysis, generates tailored pitches, and creates drafts for human review.
+
+- [2823-anthropic-batch-processing.json](workflows/2823-anthropic-batch-processing.json)
+  Description: This automated workflow sends multiple prompts simultaneously to the Anthropic Claude Batch API, checks their status, and processes the results using memory nodes to maintain context.
+
+- [2824-csrd-audit-flow.json](workflows/2824-csrd-audit-flow.json)
+  Description: Automated workflow for auditing CSRD reports in xHTML format. Analyzes and generates a report summarizing key findings and recommendations.
+
+- [2825-gestion_citas_vapi.json](workflows/2825-gestion_citas_vapi.json)
+  Description: This automated workflow manages appointment booking and management using Vapi, Google Calendar, and Airtable. It allows checking availability, creating, updating, and deleting events, as well as recording phone call information.
+
+- [2826-client-usage-tracker.json](workflows/2826-client-usage-tracker.json)
+  Description: This workflow tracks client token usage and costs when using a CV data extraction service with OpenAI, storing the data in a Google Sheets spreadsheet.
+
+- [2827-redis_lock_workflow.json](workflows/2827-redis_lock_workflow.json)
+  Description: This workflow uses Redis to block the execution of a workflow until a TTL key expires, thus preventing concurrent execution.
+
+- [2828-organizador-tags.json](workflows/2828-organizador-tags.json)
+  Description: This automated workflow organizes workflows into specific folders based on tags. First, it logs into n8n, extracts tags from personal projects, allows selecting them via a form, and then moves the workflows to corresponding folders or creates new ones if necessary.
+
+- [2829-digest-novedades-plantillas.json](workflows/2829-digest-novedades-plantillas.json)
+  Description: This automated workflow generates a daily summary of the latest n8n templates filtered by categories selected by subscribers stored in an Excel spreadsheet. It uses OpenAI to summarize descriptions and Outlook to send the email.
+
+- [2830-outlook-calendar-agent.json](workflows/2830-outlook-calendar-agent.json)
+  Description: This workflow uses an AI agent to handle Outlook calendar-related queries. The user can ask questions about calendar events, and the agent, equipped with Outlook tools, will respond appropriately.
+
+- [2831-rss_to_gsheet_cleaner.json](workflows/2831-rss_to_gsheet_cleaner.json)
+  Description: This workflow automates the updating and handling of RSS entries in Google Sheets. First, it uses a timer to read links from a spreadsheet, then extracts the corresponding news and processes them. Filters remove old entries (older than 3 days), and new ones are saved with a delay to avoid blocks. Old entries are deleted after a certain time.
+
+- [2832-gmail-to-drive-organizer.json](workflows/2832-gmail-to-drive-organizer.json)
+  Description: This workflow automates downloading Gmail attachments, organizing them into specific folders in Google Drive based on the recipient's email and date, creating necessary folders if they don't exist.
+
+- [2833-icp_scoring_workflow.json](workflows/2833-icp_scoring_workflow.json)
+  Description: This workflow automates ICP scoring by collecting and processing data from LinkedIn profiles. First, it uses Google Sheets to obtain personal information, then extracts LinkedIn profile details and calculates an ICP score based on AI interests, technical level, and seniority.
+
+- [2834-automated-instagram-posts.json](workflows/2834-automated-instagram-posts.json)
+  Description: This automated workflow publishes content on Instagram using Google Drive to detect file uploads, OpenAI to generate captions, and Facebook Graph API for publication.
+
+- [2835-acuity-chatbot-search.json](workflows/2835-acuity-chatbot-search.json)
+  Description: Workflow that uses a chatbot to search for information in the AcuityScheduling support API and format the results.
+
+- [2836-sms-course-assistant.json](workflows/2836-sms-course-assistant.json)
+  Description: This workflow automates an SMS assistant for Northvale Institute of Technology that uses OpenAI and Airtable to answer questions about courses. It receives messages via Twilio, queries the course database, and sends responses via SMS.
+
+- [2837-linkedin-posts-generator.json](workflows/2837-linkedin-posts-generator.json)
+  Description: This workflow automates the generation of promotional LinkedIn posts for each blog post extracted from Ghost. It uses an AI agent to create engaging content and records it in a Google spreadsheet.
+
+- [2838-retell-call-storage.json](workflows/2838-retell-call-storage.json)
+  Description: This workflow processes and stores call data analyzed by Retell AI in different tools like Airtable, Google Sheets, and Notion. It receives a webhook when a call ends, filters only 'call_analyzed' events, extracts relevant information such as call ID, duration, cost, and transcription, and saves it in Airtable, Google Sheets, and Notion.
+
+- [2839-automaton-ics-calendario.json](workflows/2839-automaton-ics-calendario.json)
+  Description: This workflow automates the extraction of dates and events from an Excel file using Cloudflare to convert it to a readable format, then uses the Gemini model to extract structured information and creates an ICS calendar to share via email.
+
+- [2840-google-drive-deduplicate.json](workflows/2840-google-drive-deduplicate.json)
+  Description: This workflow automates file deduplication in Google Drive. It identifies duplicates based on the md5 checksum and manages their deletion or renaming according to Keep (first/last) and Action (trash/flag) settings.
+
+- [2841-export_google_keep_to_sheet.json](workflows/2841-export_google_keep_to_sheet.json)
+  Description: This workflow automates the export of notes from Google Keep to align with a processing and storage system in Google Sheets. It searches for JSON files in a specific Google Drive folder, filters those that are not archived and contain keywords like 'dépensé' or 'depense', downloads the selected files, extracts their content, and uses OpenAI to process the information before inserting it into a spreadsheet.
+
+- [2842-automated-purchase-order-processing.json](workflows/2842-automated-purchase-order-processing.json)
+  Description: This workflow automates the import and processing of purchase orders from Outlook. It converts XLSX files to a format readable by LLMs, extracts details using AI, and performs validations.
+
+- [2843-gdrive-audit.json](workflows/2843-gdrive-audit.json)
+  Description: This workflow automates Google Drive permission audits, identifying files shared publicly or with external users and generating a daily report sent by email.
+
+- [2844-actualizar_Tasas.json](workflows/2844-actualizar_Tasas.json)
+  Description: This workflow automates the daily update of exchange rates from USD to multiple currencies using an API. It records data in Google Sheets and maintains an archived history.
+
+- [2845-linkedin-enrichment-icebreaker.json](workflows/2845-linkedin-enrichment-icebreaker.json)
+  Description: This automated n8n workflow allows extracting and enriching LinkedIn profile data using Bright Data, generating personalized icebreakers with Anthropic's Claude model, and updating a Google Sheets spreadsheet with the resulting information.
+
+- [2846-news-email-digest.json](workflows/2846-news-email-digest.json)
+  Description: Workflow that collects, processes, and selects RSS articles from Calcalist and Mako to send a formatted daily summary by email with the most relevant ones for executives.
+
+- [2847-paulgraham-essays-milvus.json](workflows/2847-paulgraham-essays-milvus.json)
+  Description: This workflow extracts Paul Graham essay titles, gets their content, processes them, and stores them in Milvus to later answer questions about them.
+
+- [2848-linkedin-jobs-to-sheets.json](workflows/2848-linkedin-jobs-to-sheets.json)
+  Description: This workflow automates the extraction of job listings from LinkedIn using Bright Data, cleans them, and sends them to a Google Sheets spreadsheet. It includes a form to define filters like location, keyword, and country, waits for the request to be processed, then sends the cleaned data to the spreadsheet.
+
+- [2849-producthunt-to-sheets.json](workflows/2849-producthunt-to-sheets.json)
+  Description: This workflow collects and processes information from Product Hunt daily to update a Google Sheets spreadsheet with basic data of published products.
+
+- [2850-nutrientes_dieta.json](workflows/2850-nutrientes_dieta.json)
+  Description: This workflow processes Telegram messages to extract nutrients and macros from the daily diet. If it's a voice message, it transcribes it; then structures the data and stores it in Google Sheets.
+
+- [2851-job_scraping_openai.json](workflows/2851-job_scraping_openai.json)
+  Description: This workflow automates the search for job listings on Indeed using Bright Data and OpenAI to assess if each position is suitable. It starts with a form that collects location, keyword, and country, then sends a request to Bright Data, waits for the snapshot to be processed, extracts the data, and finally uses OpenAI to determine if you are a good candidate.
+
+- [2852-glassdoor-jobs-scraper.json](workflows/2852-glassdoor-jobs-scraper.json)
+  Description: This workflow uses Bright Data to extract job listings from Glassdoor based on location, keyword, and country, waits for them to be ready, saves them to Google Sheets, and then generates personalized pitches using an LLM.
+
+- [2853-trustpilot-analysis.json](workflows/2853-trustpilot-analysis.json)
+  Description: This workflow automates the extraction and analysis of negative competitor reviews on Trustpilot using Bright Data. The user enters a Trustpilot URL and selects a period, then the workflow sends a request to Bright Data, waits until the data is ready, filters negative reviews (1 or 2 stars), groups comments, and uses OpenAI to generate persuasive text based on those complaints. Finally, it sends a summary by email.
+
+- [2854-finanzas-sync.json](workflows/2854-finanzas-sync.json)
+  Description: This automated workflow generates monthly financial reports comparing budget data with actual results for a specific business unit. It includes detailed analysis of sales, costs, margins, and an employee report, using artificial intelligence for interpretation.
+
+- [2855-cripto-market-summary.json](workflows/2855-cripto-market-summary.json)
+  Description: This automated workflow obtains market price data from Binance for BTC, ETH, and SOLUSDC via its API, analyzes fluctuations, and sends a detailed summary to the Telegram channel.
+
+- [2856-amazon_reviews_analysis.json](workflows/2856-amazon_reviews_analysis.json)
+  Description: This workflow uses Bright Data to extract and analyze product reviews on Amazon. It sets up a form to enter product URLs, sends an HTTP request to start the analysis, waits for the information to be processed, and then stores the data in Google Sheets. Afterward, it uses OpenAI to summarize the reviews, generates creative images based on the results, and sends these creatives by email.
+
+- [2857-filesystem-mcp-server.json](workflows/2857-filesystem-mcp-server.json)
+  Description: Workflow that implements an MCP server to handle file operations like listing directories, reading, and creating files on a file system through controlled commands.
+
+- [2858-postgre-mcp-server.json](workflows/2858-postgre-mcp-server.json)
+  Description: Workflow that implements an MCP interface to interact with PostgreSQL allowing secure CRUD operations using custom tools.
+
+- [2859-sqlite-mcp-server.json](workflows/2859-sqlite-mcp-server.json)
+  Description: Workflow that implements an SQLite MCP server to perform basic operations on a local database such as reading, inserting, and updating records, using custom nodes to handle secure operations.
+
+- [2860-gdrive-mcp-server.json](workflows/2860-gdrive-mcp-server.json)
+  Description: This workflow sets up an MCP server that interacts with Google Drive to search and read files, converting binary formats to text. It uses OpenAI to analyze images and transcribe audio.
+
+- [2861-github-mcp-server.json](workflows/2861-github-mcp-server.json)
+  Description: This workflow sets up a custom MCP server in n8n to interact with GitHub, allowing viewing and commenting on issues. It uses custom nodes to get the latest issues, issue comments, and add new comments.
+
+- [2862-mcp-qdrant-reviews.json](workflows/2862-mcp-qdrant-reviews.json)
+  Description: This workflow configures and manages a vector database with Qdrant to perform operations such as inserting, searching, comparing, and recommending company reviews. It uses MCP Server Trigger to handle different custom tools and extends the Qdrant server functionality with advanced capabilities.
+
+- [2863-youtube-mcp-server.json](workflows/2863-youtube-mcp-server.json)
+  Description: This workflow configures an MCP server that uses external tools to perform YouTube searches, download transcriptions, and monitor usage metrics with APIFY.com.
+
+- [2864-mcp-paycaptain-employees.json](workflows/2864-mcp-paycaptain-employees.json)
+  Description: This workflow configures an MCP server that interacts with the PayCaptain API to allow employee search and update operations, protecting sensitive data and logging activities in Google Sheets.
+
+- [2865-image_alt_text_generator.json](workflows/2865-image_alt_text_generator.json)
+  Description: This workflow extracts images and their alt text from a webpage, generates alt text if necessary, and updates a spreadsheet with the results.
+
+- [2866-legis-sostenibilidad.json](workflows/2866-legis-sostenibilidad.json)
+  Description: This automated workflow extracts information on legislative procedures related to sustainability from the European Parliament's website, classifying each document using an OpenAI language agent and storing them in a Google Sheets spreadsheet.
+
+- [2867-telegram-voz-tareas.json](workflows/2867-telegram-voz-tareas.json)
+  Description: This workflow uses Telegram to receive voice messages, download and transcribe audio with OpenAI, and manage tasks in Google Tasks via MCP Server.
+
+- [2868-sustentabilidad-news.json](workflows/2868-sustentabilidad-news.json)
+  Description: This automated workflow extracts and classifies EU news, identifying if they are related to sustainability, and sends a summary by email.
+
+- [2869-automail_manager.json](workflows/2869-automail_manager.json)
+  Description: This workflow automates email management using OpenRouter and Telegram. It retrieves unread messages from Gmail, categorizes them with the help of a Chat Model, and sends notifications via Telegram.
+
+- [2870-paypal-payment-email.json](workflows/2870-paypal-payment-email.json)
+  Description: This workflow collects data from a PayPal webhook, filters completed payment events, extracts order details, captures buyer and product information, generates an email with formatted data, and attaches a JSON file.
+
+- [2871-image-processing.json](workflows/2871-image-processing.json)
+  Description: This automated workflow downloads images from URLs, analyzes them to create a product photography prompt, and generates a new image with OpenAI before storing it in Google Drive and updating a table.
+
+- [2872-flujo_conversaciones.json](workflows/2872-flujo_conversaciones.json)
+  Description: This workflow automates customer conversation management using HubSpot and LangChain. It allows searching for customer IDs, summarizing conversations, routing feedback to specific departments, and sending emails using Gmail.
+
+- [2873-google-drive-folder-creator.json](workflows/2873-google-drive-folder-creator.json)
+  Description: This workflow creates a hierarchical structure in Google Drive from a given path and returns the ID of the last folder created.
+
+- [2875-email-process-hubspot.json](workflows/2875-email-process-hubspot.json)
+  Description: This automated workflow processes a received email, extracts relevant information with AI, checks if a contact exists in HubSpot, and creates a new entry or updates the existing record.
+
+- [2876-workflow_mcp_manager.json](workflows/2876-workflow_mcp_manager.json)
+  Description: This workflow dynamically manages a list of available workflows using Redis and n8n, allowing operations like adding, deleting, and listing workflows. It uses a language agent to execute tasks based on these workflows.
+
+- [2877-import-hubspot.json](workflows/2877-import-hubspot.json)
+  Description: This workflow imports data from a CSV file to HubSpot. First, it validates the file fields against a list of existing properties in HubSpot. If there are discrepancies, it displays a form to map corresponding fields. Then it processes the data and exports it to Google Sheets.
+
+- [2878-n8n-backup-workflows.json](workflows/2878-n8n-backup-workflows.json)
+  Description: This workflow automates the daily backup of n8n workflows to Google Drive. It searches and processes all workflows, and if an existing file is not found, it creates a new one; if it already exists, it updates it with the new information.
+
+- [2879-stock-analysis-bot.json](workflows/2879-stock-analysis-bot.json)
+  Description: This automated workflow performs a detailed stock analysis combining technical analysis and news sentiment. It uses various APIs to obtain technical data (charts, indicators) and sentiment analytics, then processes them with GPT-4 to generate a structured report in HTML format in Hebrew, which is sent by email.
+
+- [2880-calendario_openai_report.json](workflows/2880-calendario_openai_report.json)
+  Description: This workflow automates the research of attendees and companies using OpenAI API, collects Google Calendar information, and sends a detailed report by email.
+
+- [2881-hotel-reservation-confirmation.json](workflows/2881-hotel-reservation-confirmation.json)
+  Description: This workflow handles a hotel reservation via a Retell webhook, confirms the reservation, and sends a response to the user.
+
+- [2882-contact_discovery.json](workflows/2882-contact_discovery.json)
+  Description: This workflow automates the discovery of decision-makers in companies using Google Sheets and Apollo.io. It extracts company information, finds key contacts, performs human verification via Slack, and enriches data with APIs to then update a verified contact database.
+
+- [2883-chatbot-interactivo.json](workflows/2883-chatbot-interactivo.json)
+  Description: This workflow manages chatbot interaction, storing messages in Redis and using OpenAI to extract information. It waits a variable amount of time based on word count before processing messages.
+
+- [2884-instagram-post-automation.json](workflows/2884-instagram-post-automation.json)
+  Description: Automates the creation of Instagram posts using Google Sheets and AI tools. Includes everything from content concept generation to final publication.
+
+- [2885-reddit-business-opportunities.json](workflows/2885-reddit-business-opportunities.json)
+  Description: This workflow automates the extraction and analysis of Reddit posts relevant to business opportunities, applying filters and generating summaries with an LLM.
+
+- [2886-jira-ticket-automatizacion.json](workflows/2886-jira-ticket-automatizacion.json)
+  Description: This automated workflow uses JIRA and OpenAI to triage, prioritize, and resolve support incidents. It searches for open tickets, processes them with AI to label and rewrite, then searches for similar resolutions in history to suggest comments based on them.
+
+- [2887-ai-language-tools.json](workflows/2887-ai-language-tools.json)
+  Description: This workflow includes a variety of nodes related to language agents and AI tools, such as language transformers, chaining chains, information extractors, sentiment analyzers, vector tools, and memory. It also contains connections to external services like Google Sheets, Dropbox, Gmail, Twitter, and more.
+
+- [2888-automatizacion-ticket.json](workflows/2888-automatizacion-ticket.json)
+  Description: This workflow automates ticket generation and triage. For this, it uses Gmail to extract support messages, OpenAI to triage and label each ticket, and Linear.app to create an issue based on AI results.
+
+- [2889-linkedin-monitor.json](workflows/2889-linkedin-monitor.json)
+  Description: This workflow automates LinkedIn profile monitoring and updates a Google Sheets spreadsheet with customer information. It gets lists of HubSpot owners, searches profiles on LinkedIn, compares data, and sends email notifications if there are changes.
+
+- [2890-email_bot_transcripciones.json](workflows/2890-email_bot_transcripciones.json)
+  Description: This automated workflow processes new emails, uses OpenAI to determine if they need a response, and transcribes Telegram audios to generate formatted replies in Gmail.
+
+- [2891-flujo_whatsapp_klicktipp.json](workflows/2891-flujo_whatsapp_klicktipp.json)
+  Description: This workflow automates the delivery of personalized WhatsApp messages from KlickTipp and processes user responses to control campaigns. It detects if the message starts with 'STOP' to redirect to support or subscribe the contact.
+
+- [2892-resto-order-processor.json](workflows/2892-resto-order-processor.json)
+  Description: Automated workflow for processing restaurant orders. Extracts order information using a chat agent and AI tools, separates items, quantity, and table number, confirms the order, and records it in a Google Sheets spreadsheet.
+
+- [2893-imagen-style-transfer.json](workflows/2893-imagen-style-transfer.json)
+  Description: This workflow generates images based on a source image style using Google Imagen 3.0 and Gemini 2.0 to describe the style. Users provide a source image URL and a target image prompt via a form, then input is validated and the source image is downloaded. The image is analyzed with Gemini 2.0 to get a detailed description of the visual style, which is combined with the user's prompt to generate new images with Imagen 3.0. Generated images are uploaded to Cloudinary and emailed to the user if specified.
+
+- [2894-onboarding-clientes.json](workflows/2894-onboarding-clientes.json)
+  Description: This workflow automates new client onboarding by sending a welcome email and scheduling a call with an assigned account advisor.
+
+- [2896-secure-webhook-validator.json](workflows/2896-secure-webhook-validator.json)
+  Description: This workflow implements a secure webhook with authentication and required field validation. It verifies the authorization token and mandatory fields in the request, responding with appropriate HTTP codes (401 if authentication fails or 400 if fields are missing) and returning a successful JSON response.
+
+- [2897-team-weekly-report.json](workflows/2897-team-weekly-report.json)
+  Description: This automated workflow collects messages from a Microsoft Teams channel, groups and summarizes the activity of each team member using OpenAI to generate personalized reports, and publishes a weekly summary in the channel.
+
+- [2898-whatsapp-flow-encrypt.json](workflows/2898-whatsapp-flow-encrypt.json)
+  Description: Workflow that handles hybrid data decoding and encryption using RSA and AES-GCM to process secure interactions with users via Whatsapp Flow.
+
+- [2899-prevent-concurrent-workflows.json](workflows/2899-prevent-concurrent-workflows.json)
+  Description: This workflow uses Redis to prevent concurrent execution of workflows. It stores states in Redis and checks if a process is already ongoing before continuing.
+
+- [2900-inventario-materiales.json](workflows/2900-inventario-materiales.json)
+  Description: This automated workflow manages material requests, from reception to approval and inventory update, including low stock notifications. It integrates Google Sheets and Supabase to maintain accurate inventory tracking.
+
+- [2901-error_alert_summarizer.json](workflows/2901-error_alert_summarizer.json)
+  Description: This automated workflow detects errors in n8n executions and generates email alerts with diagnostics and resolution.
+
+- [2902-financial-tracker-bot.json](workflows/2902-financial-tracker-bot.json)
+  Description: This workflow automates financial tracking by receiving invoices via Telegram, extracting data with Google Gemini, structuring it in Notion, and generating visual reports.
+
+- [2903-extraer_y_decodificar_noticias_google.json](workflows/2903-extraer_y_decodificar_noticias_google.json)
+  Description: This workflow extracts and decodes Google News URLs from its RSS feed, cleaning the links to obtain clear and accessible articles.
+
+- [2904-ai-ready-vector-datasets.json](workflows/2904-ai-ready-vector-datasets.json)
+  Description: This workflow creates LLM-ready vector datasets using Bright Data, Gemini, and Pinecone. It performs information extraction, structured formatting, and persistence in a vector database.
+
+- [2905-analyze-email-headers.json](workflows/2905-analyze-email-headers.json)
+  Description: This workflow analyzes email headers to detect IP addresses and fraud. It extracts IPs from 'received' headers and checks their reputation using the IP Quality Score API, also verifying SPF, DKIM, and DMARC authentication.
+
+- [2906-workflow-obsidian-markdown.json](workflows/2906-workflow-obsidian-markdown.json)
+  Description: This workflow automates the creation of Markdown notes in your Obsidian Vault via Google Drive. It receives workflow results, processes information to generate structured content with YAML frontmatter, and stores the files in Google Drive.
+
+- [2907-automated_churn_management.json](workflows/2907-automated_churn_management.json)
+  Description: Automates daily churn risk detection and management, generating personalized offers for customers at high risk of churn.
+
+- [2908-llm_chaining.json](workflows/2908-llm_chaining.json)
+  Description: This workflow uses LLM chains to perform sequential and parallel tasks with different AI models, including fetching data from a webpage, analyzing with specific prompts, and combining results.
+
+- [2909-workflow_management.json](workflows/2909-workflow_management.json)
+  Description: This automated workflow manages and synchronizes n8n Workflows with Airtable and Dropbox. It retrieves Workflow details, prepares data, handles cron jobs, and updates or adds new records in Airtable.
+
+- [2910-import_odoo_product_images.json](workflows/2910-import_odoo_product_images.json)
+  Description: This workflow imports product images from Google Drive to Odoo, filtering and updating them based on model and SKU. It maintains a system for moving processed files and notifying the total downloaded.
+
+- [2911-manejador_comentarios_ig.json](workflows/2911-manejador_comentarios_ig.json)
+  Description: This automated workflow autonomously manages Instagram comments. It receives webhook notifications, validates the origin, extracts data, and uses an AI agent to respond appropriately.
+
+- [2912-youtube-ai-summarizer.json](workflows/2912-youtube-ai-summarizer.json)
+  Description: This workflow automates the summarization and analysis of YouTube playlists or videos using AI. It detects URLs, processes transcriptions, generates structured summaries, and stores embeddings for contextualized responses.
+
+- [2914-openai-file-citation.json](workflows/2914-openai-file-citation.json)
+  Description: This workflow extracts and formats citations from files stored in OpenAI from a conversation thread, ensuring references are correctly displayed with filenames.
+
+- [2915-mcp-google-calendar.json](workflows/2915-mcp-google-calendar.json)
+  Description: This workflow configures an MCP server integrated with Google Calendar to perform calendar operations like creating, updating, and deleting events using specific tools.
+
+- [2916-telegram-rag-pdf.json](workflows/2916-telegram-rag-pdf.json)
+  Description: This automated workflow processes a PDF document sent via Telegram, uploads it to Pinecone to perform question and answer searches with artificial intelligence.
+
+- [2917-youtube-to-airtable.json](workflows/2917-youtube-to-airtable.json)
+  Description: This workflow automates the extraction of YouTube video transcriptions and generates detailed summaries that are saved in Airtable.
+
+- [2919-gestor_consultas_medicas.json](workflows/2919-gestor_consultas_medicas.json)
+  Description: This workflow manages medical appointment rescheduling tasks and sends reminders via WhatsApp and Telegram using Google Calendar and Tasks, integrating tools like OpenAI to process text and messages.
+
+- [2920-flujo-extraccion-apuestas.json](workflows/2920-flujo-extraccion-apuestas.json)
+  Description: This automated workflow schedules the extraction of sports betting data using TheOddsAPI and Airtable. It performs daily captures at the beginning and end of the day for future events and results, respectively, and updates records in Airtable with detailed information.
+
+- [2921-ai-agent-charts-generator.json](workflows/2921-ai-agent-charts-generator.json)
+  Description: This workflow allows an AI agent to generate custom charts in conversations using OpenAI Structured Output to define Chart.js and Quickchart.io chart configurations.
+
+- [2922-n8n_creator_leaderboard_report.json](workflows/2922-n8n_creator_leaderboard_report.json)
+  Description: This automated workflow generates detailed reports on creators and workflows in n8n. It uses tools like OpenAI GPT-4 and Google Gemini to analyze and synthesize data, and then sends the results to Google Drive or Telegram.
+
+- [2923-dashboard-metricas.json](workflows/2923-dashboard-metricas.json)
+  Description: This workflow automates the update of a dashboard that collects and displays statistics and metrics from various sources like Docker, npm, GitHub, and Product Hunt. It uses Cron to schedule periodic executions, extracts data via HTTP requests, processes and formats the results, and updates WIDGETS on a dashboard host with authentication.
+
+- [2924-hacker_news_video_creator.json](workflows/2924-hacker_news_video_creator.json)
+  Description: This workflow automates video creation from Hacker News articles. It collects articles, analyzes them for relevance, generates images with Leonardo AI and RunwayML, and creates a video with Creatomate.
+
+- [2926-google-sheets-to-postgres.json](workflows/2926-google-sheets-to-postgres.json)
+  Description: This workflow automates data import from Google Sheets to PostgreSQL. It dynamically analyzes data to detect types and generate SQL schemas, creates tables if they don't exist, and performs insertions with appropriate formatting.
+
+- [2927-convert-squarespace-to-shopify.json](workflows/2927-convert-squarespace-to-shopify.json)
+  Description: This automated workflow converts Squarespace profiles to Shopify customers using Google Sheets. It extracts data from a Squarespace spreadsheet, processes and updates information in Shopify.
+
+- [2928-sitemap-index-automatizado.json](workflows/2928-sitemap-index-automatizado.json)
+  Description: This workflow automates URL indexing in Google Search Console using sitemap.xml. It extracts URLs from sitemap files, checks their status, and updates those that have been modified or are not indexed.
+
+- [2929-support-sales-flow.json](workflows/2929-support-sales-flow.json)
+  Description: This workflow implements a customer support and sales system that uses artificial intelligence to manage orders, update stock, and maintain conversations with users. The chatbot can check stock, place orders, and update availability in Google Sheets.
+
+- [2930-exam-question-generator.json](workflows/2930-exam-question-generator.json)
+  Description: Workflow for generating both open-ended and closed-ended exam questions from content in Google Docs using Qdrant vectors and different language models.
+
+- [2931-linkedin-leads-enrichment.json](workflows/2931-linkedin-leads-enrichment.json)
+  Description: Automated workflow for extracting and enriching LinkedIn lead data using Apollo.io and RapidAPI, with database management in Google Sheets. Includes profile retrieval, email, validation, post summarization, and status updates.
+
+- [2932-bluesky-threads.json](workflows/2932-bluesky-threads.json)
+  Description: This workflow creates threads on Bluesky using authentication and HTTP requests to publish initial posts and nested replies with a wait and loop scheme.
+
+- [2933-monitoreo_precios.json](workflows/2933-monitoreo_precios.json)
+  Description: This workflow automates price monitoring on different websites. It extracts prices of specific products using CSS selection, updates saved data, and sends notifications if there is a price decrease.
+
+- [2936-api_schema_extractor.json](workflows/2936-api_schema_extractor.json)
+  Description: Extracts API schemas by identifying and processing online technical documentation to generate a custom schema.
+
+- [2937-tiktok-youtube-generator.json](workflows/2937-tiktok-youtube-generator.json)
+  Description: This automated workflow generates multimedia content for TikTok and YouTube Shorts/Reels automatically using APIs like PiAPI for images and videos, ElevenLabs for voices, Google Drive for storage, and OpenAI for text. It includes idea capturing, image generation, video conversion, audio addition, element mixing, and final notification.
+
+- [2938-auth0-login-flow.json](workflows/2938-auth0-login-flow.json)
+  Description: This workflow implements an OAuth2 authentication system with Auth0, which initiates a user session by redirecting to a login page, obtains the authorization code, and then requests the access token to verify the user's identity.
+
+- [2940-dmarc-processing-flow.json](workflows/2940-dmarc-processing-flow.json)
+  Description: This automated workflow processes DMARC reports received by email, extracts and formats relevant data, and inserts it into a MySQL database. If DKIM or SPF checks fail, it sends notifications to Slack and email.
+
+- [2941-blog-automation.json](workflows/2941-blog-automation.json)
+  Description: This workflow automates blog post creation and publication using Google Sheets as a data source. It configures parameters, retrieves information from spreadsheets, processes custom prompts with OpenAI, generates content, validates dates and statuses, and updates the status in real-time.
+
+- [2942-categorizador-ai-outlook.json](workflows/2942-categorizador-ai-outlook.json)
+  Description: This workflow automatically categorizes Outlook emails using AI to classify them into different folders based on their content.
+
+- [2943-auto-label-gmail.json](workflows/2943-auto-label-gmail.json)
+  Description: This workflow automates the assignment of labels to new messages in Gmail using artificial intelligence. It collects emails, processes them with a language model to determine appropriate labels, and then applies them.
+
+- [2945-automate-blog-ai.json](workflows/2945-automate-blog-ai.json)
+  Description: This workflow automates the creation of blog articles in a brand's voice using AI. It analyzes existing content to extract style and tone characteristics, then generates new articles consistent with them.
+
+- [2946-automate-content-generator-wordpress.json](workflows/2946-automate-content-generator-wordpress.json)
+  Description: This automated workflow generates content for WordPress using DeepSeek R1, including SEO-friendly articles and titles, creates images with DALL-E, uploads them, and updates a Google Sheets spreadsheet.
+
+- [2947-automate-support-issues.json](workflows/2947-automate-support-issues.json)
+  Description: This automated workflow manages support issue resolution using AI to classify and resolve incidents in Jira. It analyzes comments, uses knowledge agents, and notifies via Slack if necessary.
+
+- [2948-pinterest-analysis-ai.json](workflows/2948-pinterest-analysis-ai.json)
+  Description: This automated workflow extracts and analyzes Pinterest data using its API, stores the information in Airtable, then uses OpenAI to generate content recommendations and sends a summary to Gmail.
+
+- [2949-automate-sales-meeting-prep.json](workflows/2949-automate-sales-meeting-prep.json)
+  Description: This automated workflow schedules meetings and sends notifications with relevant information via WhatsApp using artificial intelligence to summarize emails and LinkedIn profiles.
+
+- [2950-automate-siem-enrichment-mitre.json](workflows/2950-automate-siem-enrichment-mitre.json)
+  Description: This workflow automates SIEM alert enrichment using the MITRE ATT&CK framework, using Qdrant as a vector store and Zendesk to update incidents with contextualized information.
+
+- [2951-automate-rfp-openai.json](workflows/2951-automate-rfp-openai.json)
+  Description: Automates the RFP process by integrating with OpenAI to extract questions, generate answers, and notify via Slack and email.
+
+- [2952-crawler-ai-scraper.json](workflows/2952-crawler-ai-scraper.json)
+  Description: Workflow that uses AI agents to autonomously extract social media links from websites.
+
+- [2953-influxdb-docker-deploy.json](workflows/2953-influxdb-docker-deploy.json)
+  Description: This automated workflow deploys and manages an InfluxDB container in Docker for an application related to WHMCS/WISECP, supporting operations such as deployment, start, stop, suspend, mount, and disk control.
+
+- [2954-financial-documents-assistant.json](workflows/2954-financial-documents-assistant.json)
+  Description: This workflow monitors a local directory for financial documents and synchronizes changes with Qdrant using Mistral.ai to create a question-and-answer assistant.
+
+- [2955-auto-content-generator.json](workflows/2955-auto-content-generator.json)
+  Description: This workflow automates multimedia content creation based on data from Google Sheets. It generates images and cinematic videos with promotional texts, adds ambient sounds, and publishes the result on YouTube.
+
+- [2956-nextcloud-docker-flow.json](workflows/2956-nextcloud-docker-flow.json)
+  Description: This workflow configures and manages Docker environments for NextCloud using n8n, including actions like starting, stopping, suspending, unsuspending, mounting/unmounting disks, updating packages, and more. It also manages DNS connections and verifies domain validity.
+
+- [2957-oaut-service-config.json](workflows/2957-oaut-service-config.json)
+  Description: This workflow uses a language model to identify OAuth2 configurations from a service name. The process includes generating authorization and token URIs with a confidence score.
+
+- [2958-formulario-datos.json](workflows/2958-formulario-datos.json)
+  Description: This automated workflow records form data in Google Sheets and Airtable, extracts the submission date and time, and sends personalized emails.
+
+- [2959-centroid_calculator.json](workflows/2959-centroid_calculator.json)
+  Description: This workflow calculates the centroid of a set of vectors. It receives a GET request with an array of vectors, validates that they are consistent, and calculates their centroid.
+
+- [2960-video_analyzer_youtube.json](workflows/2960-video_analyzer_youtube.json)
+  Description: This workflow uses different language models to analyze a YouTube video via its transcription, structuring the analysis in JSON format and sending the results by email.
+
+- [2961-anomaly-crops-detection.json](workflows/2961-anomaly-crops-detection.json)
+  Description: This workflow uses image embeddings and clustering to detect anomalies in crops. It receives an image URL, converts it into a vector with Voyage.ai model, queries against vectors stored in Qdrant, and determines if it is similar to any known crop or detects anomalies.
+
+- [2962-telegram-links-sync.json](workflows/2962-telegram-links-sync.json)
+  Description: This workflow automates the synchronization of links between a Telegram channel and two services: Readeck and Hoarder. First, it uses a Telegram API to retrieve messages from the specified channel. Then, it filters and processes unsaved links in each service, making POST requests to store those that have not yet been added.
+
+- [2963-spotify-sync-playlist.json](workflows/2963-spotify-sync-playlist.json)
+  Description: This workflow synchronizes songs marked as favorites on Spotify with a specific playlist. It automatically adds new songs that are in your liked songs but not in the playlist and removes those that have been removed from your liked songs.
+
+- [2964-image_generator_9_16.json](workflows/2964-image_generator_9_16.json)
+  Description: This workflow generates 9:16 aspect ratio images from content and brand guidelines using OpenAI and Leonardo.ai to create optimized visual assets.
+
+- [2965-instagram-content-generator.json](workflows/2965-instagram-content-generator.json)
+  Description: This workflow automates Instagram content creation using current trends and AI image generation. It downloads popular Instagram content via an API, analyzes images with GPT-4, creates attractive captions, and generates new images with Flux AI. It publishes content to your business Instagram account and monitors post status.
+
+- [2966-generar-palabras-clave-seo.json](workflows/2966-generar-palabras-clave-seo.json)
+  Description: This workflow generates initial SEO keyphrases using AI based on the ideal customer profile.
+
+- [2967-sql-agent-scheme.json](workflows/2967-sql-agent-scheme.json)
+  Description: Workflow that uses an AI agent to generate SQL queries based on a database schema, saving the structure locally and using OpenAI to formulate SQL statements.
+
+- [2968-image-embedder.json](workflows/2968-image-embedder.json)
+  Description: This workflow automates image embedding creation through textual summarization. It downloads an image from Google Drive, extracts color information, and generates keywords using OpenAI, then combines this data to create a document that is stored in a vector store.
+
+- [2969-chatbot_line.json](workflows/2969-chatbot_line.json)
+  Description: This workflow configures a LINE chatbot that displays a loading animation upon receiving a message and uses an AI agent with CBT (Cognitive Behavioral Therapy, assumed) to respond to users. If the message is not text, it sends a warning.
+
+- [2970-autoclip-video-generator.json](workflows/2970-autoclip-video-generator.json)
+  Description: This automated workflow generates video clips by randomly selecting from videos and music in Google Drive, juxtaposes quotes, and then uploads them to YouTube.
+
+- [2971-youtube-automatic-metadata-uploader.json](workflows/2971-youtube-automatic-metadata-uploader.json)
+  Description: Workflow to upload videos to YouTube with automatically optimized metadata using transcriptions and AI.
+
+- [2972-youtube-ai-agent.json](workflows/2972-youtube-ai-agent.json)
+  Description: This workflow automates the extraction of details and transcriptions from YouTube videos, which are processed by an AI agent to allow for contextualized conversation and detailed content analysis.
+
+- [2973-pinterest-analysis-ai-suggestions.json](workflows/2973-pinterest-analysis-ai-suggestions.json)
+  Description: This automated workflow extracts and analyzes Pinterest Organic data using the API, stores the results in Airtable, and generates content recommendations with artificial intelligence for marketing.
+
+- [2974-mcp_calendar_operations.json](workflows/2974-mcp_calendar_operations.json)
+  Description: This workflow handles Google Calendar operations such as getting events, checking availability, updating, and deleting events.
+
+- [2975-conversion-rate-optimizer.json](workflows/2975-conversion-rate-optimizer.json)
+  Description: This workflow automates conversion rate optimization by analyzing a landing page through scraping and using an AI agent to perform a critical analysis and propose specific improvements.
+
+- [2976-ai-research-jina.json](workflows/2976-ai-research-jina.json)
+  Description: This automated workflow uses Jina AI's DeepSearch API to perform in-depth searches and analyses, formatting and cleaning the AI model-generated responses.
+
+- [2978-linkedin-empresa-score.json](workflows/2978-linkedin-empresa-score.json)
+  Description: This workflow automates searching for companies on LinkedIn using the Ghost Genius API, processes their data, evaluates their fitness with an AI model, and records them in a Google Sheets spreadsheet. First, it obtains detailed information for each company, filters those with more than 200 followers and a website, then checks if they already exist in the CRM. If they are new, it scores them with AI and finally adds them to the CRM with their score and relevant details.
+
+- [2979-multi_methods_airtable.json](workflows/2797-multi_methods_airtable.json)
+  Description: This workflow handles different HTTP methods to interact with an Airtable API, performing operations like creating, getting all, getting a record by ID, updating, and deleting records.
+
+- [2980-reddit-pr-report.json](workflows/2980-reddit-pr-report.json)
+  Description: This workflow automates the identification of trending stories by analyzing discussions on Reddit and subsequently analyzing them with an LLM to generate strategic PR reports.
+
+- [2981-instagram_content_generator.json](workflows/2981-instagram_content_generator.json)
+  Description: This workflow automates Instagram content creation based on the most popular trends, using AI to generate images and publish them. It scrapes specific trends like #blender3d and isometric, filters content by images, analyzes images with GPT-4 and OpenAI, generates attractive captions, creates new images with Flux AI, and checks if content already exists in a database to avoid duplication. It publishes on Instagram and sends notifications to a Telegram channel.
+
+- [2982-amazon-best-seller-electronic-extractor.json](workflows/2982-amazon-best-seller-electronic-extractor.json)
+  Description: This workflow extracts information from Amazon's best sellers in the electronics category using Bright Data and Google Gemini for structured data extraction.
+
+- [2983-hacker-news-jobs-scraper.json](workflows/2983-hacker-news-jobs-scraper.json)
+  Description: This workflow extracts and processes job offer information published on Hacker News using its API and Algolia, structures the data with OpenAI, and exports it to Airtable.
+
+- [2984-hn-throwback-analyzer.json](workflows/2984-hn-throwback-analyzer.json)
+  Description: This workflow collects and analyzes Hacker News front-page headlines for a specific date in past years, using an LLM to categorize them thematically and send the result to Telegram.
+
+- [2985-hacker_news_video_content.json](workflows/2985-hacker_news_video_content.json)
+  Description: This workflow automates the conversion of Hacker News articles into video content using RunwayML and LeonardoAI to generate custom images and videos.
+
+- [2986-appointment-leads-follow-up.json](workflows/2986-appointment-leads-follow-up.json)
+  Description: This automated workflow manages appointments and lead follow-ups using Twilio for SMS, Cal.com for appointment scheduling, and OpenAI for customer interactions. It detects commands like STOP to halt messages, updates Airtable with follow-up data, and sends reminders.
+
+- [2987-gestion-solicitudes-AI.json](workflows/2987-gestion-solicitudes-AI.json)
+  Description: Workflow that automates job application management using forms and AI tools to extract information, classify documents, and store data in Airtable.
+
+- [2988-line-bot-flow.json](workflows/2988-line-bot-flow.json)
+  Description: This workflow processes LINE messages, including text, images, and namecards, to store in Microsoft To Do and Teams, using OpenRouter for extractions and image agents.
+
+- [2989-motion-illustration.json](workflows/2989-motion-illustration.json)
+  Description: This workflow generates an animated illustration using Midjourney and Kling API. It first creates an image with Midjourney, then waits and processes the status to generate a video with Kling, finally returning the URL of the unwatermarked video.
+
+- [2990-optimizar-prompt.json](workflows/2990-optimizar-prompt.json)
+  Description: Workflow that optimizes prompts using an AI agent to improve clarity and specificity, sending the result via Telegram.
+
+- [2991-auto_create_publish_videos.json](workflows/2991-auto_create_publish_videos.json)
+  Description: This automated workflow creates and publishes social videos with AI using Telegram, GPT-4, and Blotato. It includes everything from video creation to distribution on multiple platforms like Instagram, YouTube, TikTok, Facebook, among others.
+
+- [2992-telegram-chatbot-multi-format.json](workflows/2992-telegram-chatbot-multi-format.json)
+  Description: This automated workflow manages messages and voice in Telegram, transcribes audio to text with OpenAI, processes inputs, and sends formatted responses.
+
+- [2993-paul_graham_essays_milvus.json](workflows/2993-paul_graham_essays_milvus.json)
+  Description: This workflow automates the extraction and storage of Paul Graham articles in Milvus, using OpenAI to generate responses with contextual citations.
+
+- [2994-gemini-video-analysis.json](workflows/2994-gemini-video-analysis.json)
+  Description: This workflow analyzes videos using the Gemini AI API. It downloads a video, uploads it to Google's servers, and generates a detailed description using the Gemini-2.0-flash-exp model.
+
+- [2995-lead-automaton-v4.json](workflows/2995-lead-automaton-v4.json)
+  Description: This automated workflow monitors entries in Google Sheets and sends notifications to Slack and Gmail upon receiving a new Lead. If the interest is hot and has not been followed up, it schedules a reminder after 3 minutes.
+
+- [2996-perplexity_to_html.json](workflows/2996-perplexity_to_html.json)
+  Description: This workflow automates the creation of an HTML page from Perplexity research, structuring and styling with Tailwind CSS.
+
+- [2997-deep_research_agent.json](workflows/2997-deep_research_agent.json)
+  Description: This automated workflow generates learnings from SEO search results for deepened research, using n8n, OpenAI, and Apify. It analyzes content, extracts key information, and organizes results in Notion.
+
+- [2998-notion-clockify-sync.json](workflows/2998-notion-clockify-sync.json)
+  Description: This workflow synchronizes data between Notion and Clockify, managing clients, projects, and tasks. It updates statuses and IDs bidirectionally.
+
+- [2999-hr-it-chatbot-transcription.json](workflows/2999-hr-it-chatbot-transcription.json)
+  Description: This workflow configures a chatbot for HR and IT assistance that processes text and audio messages in Telegram, uses OpenAI embeddings for transcriptions and PostgreSQL vector storage, answering questions based on internal policies.
+
+- [3000-automatizacion_rrhh.json](workflows/3000-automatizacion_rrhh.json)
+  Description: This workflow automates job posting and candidate evaluation using artificial intelligence. It includes application forms, CV analysis with ChatGPT, generation of personalized questionnaires, and tracking in Airtable.
+
+- [3002-n8n-check-models.json](workflows/3002-n8n-check-models.json)
+  Description: This workflow verifies and records which models are being used in each n8n workflow, collecting detailed information about relevant nodes and workflows.
+
+- [3003-extract-summarize-indeed.json](workflows/3003-extract-summarize-indeed.json)
+  Description: This workflow extracts and summarizes company information from Indeed using Bright Data and Google Gemini. It includes web scraping, LLM analysis, and webhook notifications.
+
+- [3004-voice-chatbot-rag-qdrant.json](workflows/3004-voice-chatbot-rag-qdrant.json)
+  Description: This workflow implements a voice chatbot that uses RAG (Retrieval-Augmented Generation) with ElevenLabs and OpenAI to answer questions using a vector database in Qdrant.
+
+- [3005-chinese-translator-line.json](workflows/3005-chinese-translator-line.json)
+  Description: This workflow translates LINE messages using OpenRouter.ai to get Chinese characters, pinyin, and English translation.
+
+- [3006-linkedin-to-airtable.json](workflows/3006-linkedin-to-airtable.json)
+  Description: This workflow automates the extraction of LinkedIn likes, filters the most recent and relevant posts, and records them in Airtable to organize them as content ideas.
+
+- [3007-travel-agent-couchbase-vector.json](workflows/3007-travel-agent-couchbase-vector.json)
+  Description: This workflow uses Google Gemini 2.0 Flash and OpenAI to create a travel planning agent with vector search capability in Couchbase, allowing searching and storing points of interest.
+
+- [3008-minio-deploy.json](workflows/3008-minio-deploy.json)
+  Description: This workflow automates the deployment and management of Docker containers for MinIO on a server with WHMCS/WISECP. It handles operations like creating, starting, stopping, suspending, mounting/unmounting disks, and configuring ACLs, plus Nginx integration for access.
+
+- [3009-enra-zammad-sync.json](workflows/3009-enra-zammad-sync.json)
+  Description: This workflow synchronizes Entra contacts with users in Zammad. It retrieves contacts from Microsoft Graph, compares them with existing users, and updates or creates new users in Zammad.
+
+- [3010-coinmarketcap_dex_agent.json](workflows/3010-coinmarketcap_dex_agent.json)
+  Description: This automated workflow acts as an intelligent agent tool to interact with the CoinMarketCap DEXScan API, allowing retrieval and real-time analysis of data on decentralized exchanges, trading pairs, volume, liquidity, and trading activity through an integrated multi-agent system.
+
+- [3011-flujo-analisis-crowdstrike-detecciones.json](workflows/3011-flujo-analisis-crowdstrike-detecciones.json)
+  Description: This automated workflow analyzes CrowdStrike detections, searches for indicators of compromise (IOCs) in VirusTotal, creates a ticket in Jira, and sends a notification to Slack.
+
+- [3012-web-query-semantic-re-ranking.json](workflows/3012-web-query-semantic-re-ranking.json)
+  Description: This workflow automates web queries and semantically re-ranks results using Brave and Google Gemini to improve relevance.
+
+- [3014-factura-extraccion-llamaparse.json](workflows/3014-factura-extraccion-llamaparse.json)
+  Description: This automated workflow extracts information from invoices in PDF format using LlamaParse and OpenAI. It detects emails with PDF attachments, processes the documents to obtain structured data, and stores it in a Google Sheets spreadsheet.
+
+- [3015-automated-resume-review-system.json](workflows/3015-automated-resume-review-system.json)
+  Description: This automated workflow allows for automated resume analysis and evaluation using OpenAI and Google Sheets. It includes uploading to Drive, information extraction, professional summary, and storage in spreadsheets.
+
+- [3016-it-slack-ai-bot.json](workflows/3016-it-slack-ai-bot.json)
+  Description: This automated workflow manages IT queries on Slack via a chatbot integrated with OpenAI and Confluence. It analyzes messages, verifies webhooks, avoids bots, and provides answers based on company knowledge.
+
+- [3017-knn_land_classifier.json](workflows/3017-knn_land_classifier.json)
+  Description: This workflow uses a KNN classifier to determine the class of an image based on its vector embedding. First, it obtains the image embedding via the Voyage AI API, then queries Qdrant with this embedding to find the nearest neighbors and applies majority voting to resolve conflicts.
+
+- [3018-webflow-airtable-tables-creator.json](workflows/3018-webflow-airtable-tables-creator.json)
+  Description: This workflow creates dynamic tables in Airtable for Webflow form submissions. It automates the creation of boards and records based on forms, using API credentials and handling errors.
+
+- [3019-export_zammad_to_excel.json](workflows/3019-export_zammad_to_excel.json)
+  Description: This workflow exports Zammad objects like Users, Roles, Groups, and Organizations to Excel files.
+
+- [3020-convertir_imagenes_webp.json](workflows/3020-convertir_imagenes_webp.json)
+  Description: This automated workflow converts JPG and PNG images to WEBP format using the APYHub API. It retrieves image URLs from a Google Sheets spreadsheet, determines the file type, performs the corresponding conversion, and updates the sheet with the new links. Finally, it uploads the converted images to Google Drive.
+
+- [3021-automatizacion-pipedrive-tokens.json](workflows/3021-automatizacion-pipedrive-tokens.json)
+  Description: This workflow automates the process of updating access and refresh tokens in Pipedrive. It uses Supabase to store and retrieve credentials, handles errors, and validates access tokens via webhooks.
+
+- [3022-youtube_transcriber.json](workflows/3022-youtube_transcriber.json)
+  Description: This workflow transcribes YouTube videos by validating the URL and structuring the text with OpenAI for a clean output in Portuguese.
+
+- [3023-ai-whatsapp-support-bot.json](workflows/3023-ai-whatsapp-support-bot.json)
+  Description: This workflow automates a customer support assistant on WhatsApp that uses artificial intelligence to answer questions based on the company's web content. It uses crawling and page analysis tools to obtain accurate information.
+
+- [3024-ssl-expiry-alert.json](workflows/3024-ssl-expiry-alert.json)
+  Description: This automated workflow monitors the expiration of SSL certificates for websites and sends alerts via email or Telegram when certificates are about to expire.
+
+- [3025-zoom-meeting-assistant.json](workflows/3025-zoom-meeting-assistant.json)
+  Description: This workflow automates Zoom meeting assistance by extracting and analyzing transcriptions to send summaries via email, create tasks in ClickUp, and schedule future appointments.
+
+- [3026-shopify-mautic-sync.json](workflows/3026-shopify-mautic-sync.json)
+  Description: This workflow synchronizes and manages marketing states between Shopify and Mautic. It detects changes in customer email subscriptions in Shopify, verifies their existence in Mautic, and automatically updates their segmentation or creates a new entry if necessary.
+
+- [3027-retry-executions-hourly.json](workflows/3027-retry-executions-hourly.json)
+  Description: This workflow schedules an automatic hourly execution to search and retry executions with an 'error' status in n8n, using saved credentials.
+
+- [3028-telegram-woocommerce-notifications.json](workflows/3028-telegram-woocommerce-notifications.json)
+  Description: This workflow sends Telegram notifications when a WooCommerce order status changes to 'Processing', including details like ID, customer name, total amount, and ordered products.
+
+- [3029-wordpress-to-mautic-form.json](workflows/3029-wordpress-to-mautic-form.json)
+  Description: Workflow that receives data from a WordPress form, normalizes and validates fields like email, and creates or updates an entry in Mautic if the address is valid.
+
+- [3030-n8n-rag-living-data.json](workflows/3030-n8n-rag-living-data.json)
+  Description: This workflow automates the integration of real-time data from Notion into a vector-based information retrieval system (RAG) using OpenAI and Supabase. It processes documents, splits them into chunks, generates embeddings with OpenAI, and stores the results in Supabase to enable semantic searches.
+
+- [3031-google-drive-summarizer.json](workflows/3031-google-drive-summarizer.json)
+  Description: This workflow downloads a file from Google Drive, summarizes it using Mistral AI, and sends the summary by email.
+
+- [3032-gitlab-merge-request-review.json](workflows/3032-gitlab-merge-request-review.json)
+  Description: This automated workflow analyzes changes in a GitLab merge request (MR), uses Claude AI to assess risk, and generates a structured report with recommendations, test cases, and corrections.
+
+- [3033-clockify-backup.json](workflows/3033-clockify-backup.json)
+  Description: This automated workflow extracts and stores detailed Clockify reports in GitHub. For each configured month, it checks if the file exists and updates it or creates a new one.
+
+- [3034-google-analytics-seo-analysis.json](workflows/3034-google-analytics-seo-analysis.json)
+  Description: This automated workflow collects and analyzes Google Analytics data for a webpage, comparing weekly statistics like page views, active users, and engagement rates. Then, it sends this information to an A.I. language model to get SEO recommendations and saves the results in Baserow.
+
+- [3035-cripto-market-agent.json](workflows/3035-cripto-market-agent.json)
+  Description: This workflow uses language agents and HTTP tools to query cryptocurrency market data via the CoinMarketCap API, providing information on exchanges, assets, indexes, and market sentiment.
+
+- [3036-procesador-imagenes-ollama.json](workflows/3036-procesador-imagenes-ollama.json)
+  Description: This workflow automates detailed image analysis using local Ollama visual models. It downloads an image from Google Drive, processes it with multiple models (like granita3.2-vision and llama3.2-vision), generates exhaustive descriptions in markdown, and saves them to Google Docs.
+
+- [3037-youtube-summarizer-gpt.json](workflows/3037-youtube-summarizer-gpt.json)
+  Description: This workflow extracts and processes YouTube video transcriptions to summarize them and maintain a conversation about their content using GPT-4o-mini and interacts via Telegram.
+
+- [3038-personal_assistant_mcp_server.json](workflows/3038-personal_assistant_mcp_server.json)
+  Description: This workflow configures a personal assistant that uses Google Gemini to process chat messages, maintains contextual memory, and interacts with MCP Server to perform tasks like scheduling appointments in Google Calendar, managing emails, updating Google Sheets spreadsheets, and searching/updating CRM rows.
+
+- [3039-documento_procesamiento_ai.json](workflows/3039-documento_procesamiento_ai.json)
+  Description: This automated workflow processes email attachments using LlamaParse to extract information and store it in Google Sheets and Drive, as well as sending summaries via Telegram.
+
+- [3040-enra_zammad_sync.json](workflows/3040-enra_zammad_sync.json)
+  Description: This workflow synchronizes Entra users with Zammad. It retrieves groups and members from Entra, creates universal user objects, compares data to update or deactivate users in Zammad.
+
+- [3041-online-marketing-report.json](workflows/3041-online-marketing-report.json)
+  Description: This automated workflow generates a weekly digital marketing report that collects and analyzes data from Google Analytics, Google Ads, and Meta Ads. It uses sub-workflows to obtain current and last year's metrics, processes the information with OpenAI, and sends the report by email.
+
+- [3042-airtable-mcp-server.json](workflows/3042-airtable-mcp-server.json)
+  Description: This workflow creates an MCP server using Airtable to interact with a database, allowing operations such as getting, searching, updating, and deleting records.
+
+- [3043-three-view-to-video.json](workflows/3043-three-view-to-video.json)
+  Description: Converts three-dimensional orthographic projections into dynamic animated video using GPT-4o and Kling to generate images and videos.
+
+- [3044-video_generator_short_form.json](workflows/3044-video_generator_short_form.json)
+  Description: This automated workflow generates short AI videos, using OpenAI for texts and prompts, Flux and Kling by PiAPI for images and videos, ElevenLabs for voice, and Creatomate for final video rendering. It then uploads them to all social media platforms.
+
+- [3045-selenium_scraping_automatizado.json](workflows/3045-selenium_scraping_automatizado.json)
+  Description: This workflow automates web data extraction using Selenium and OpenAI. It searches for relevant URLs on a given page, extracts information with AI, manages cookies and sessions for optional login, takes screenshots, and detects potential WAF blocks.
+
+- [3048-analyze_youtube_workflow.json](workflows/3048-analyze_youtube_workflow.json)
+  Description: This workflow analyzes YouTube videos to summarize them, generate transcriptions, and extract content using Google's Gemini AI API. It allows for different types of analysis such as concise summaries, verbatim transcriptions, subtitles with timestamps, and more.
+
+- [3049-line-chat-gcal-gmail.json](workflows/3049-line-chat-gcal-gmail.json)
+  Description: This automated workflow allows a LINE chatbot to integrate with Google Calendar and Gmail to manage events and email, using contextual memory and advanced response capabilities.
+
+- [3050-telegram-ai-document-assistant.json](workflows/3050-telegram-ai-document-assistant.json)
+  Description: This workflow creates a chatbot assistant on Telegram that processes PDF documents and uses Google Gemini to generate responses based on content stored in Supabase.
+
+- [3051-airtable-markdown-to-html.json](workflows/3051-airtable-markdown-to-html.json)
+  Description: This workflow processes markdown descriptions from an Airtable and converts them to HTML. If there is a single record, it updates that entry; if there are multiple records, it updates all of them with the converted HTML.
+
+- [3052-email-chatbot-telegram-vector.json](workflows/3052-email-chatbot-telegram-vector.json)
+  Description: This workflow implements a chatbot that uses Telegram and PostgreSQL with vectors to perform semantic and structured searches in email databases, allowing for advanced and contextualized interaction.
+
+- [3053-Notify_user_quarantined_email.json](workflows/3053-Notify_user_quarantined_email.json)
+  Description: This workflow notifies a Slack user when an email is quarantined and creates a Jira card if the email was opened before quarantine.
+
+- [3054-business-canvas-generator.json](workflows/3054-business-canvas-generator.json)
+  Description: Workflow that generates a Business Model Canvas from chat inputs, using an LLM for each section and transforming the results into HTML.
+
+- [3055-discord-server-flow.json](workflows/3055-discord-server-flow.json)
+  Description: This workflow sets up an integration with Discord that allows performing various actions such as sending messages, getting server and user information, managing roles, and waiting for responses.
+
+- [3056-email-classifier.json](workflows/3056-email-classifier.json)
+  Description: This automated workflow classifies and organizes emails in Gmail using AI to label them as Priority, Work-related, or Promotions.
+
+- [3057-email_summary_dailly.json](workflows/3057-email_summary_dailly.json)
+  Description: This workflow automates the creation of daily email summaries. Every morning at 7 AM, it retrieves emails received in the last 24 hours, organizes the data, uses OpenAI to synthesize the content, and then sends a structured report in HTML format.
+
+- [3058-set_medoids_cultivos.json](workflows/3058-set_medoids_cultivos.json)
+  Description: This workflow configures medoids (centers) of two types for anomaly detection in a crop dataset using Qdrant and the Voyage model. It calculates cluster representatives using distance matrices and text embedding vectors.
+
+- [3059-openai-file-retrieval-rg.json](workflows/3059-openai-file-retrieval-rg.json)
+  Description: This workflow uses OpenAI to retrieve and cite content from files stored in a vector store, formatting the output with Markdown or HTML.
+
+- [3060-manipula-pdf-adobe.json](workflows/3060-manipula-pdf-adobe.json)
+  Description: This workflow handles PDF file manipulation using the Adobe Services API. It performs authentication, uploads a PDF file, processes specific requests (like extraction), and waits for process completion before downloading the results.
+
+- [3061-wordpress-ai-optimizer.json](workflows/3061-wordpress-ai-optimizer.json)
+  Description: This workflow automates the creation and optimization of WordPress posts using AI to generate SEO-friendly titles, articles, and meta tags, as well as handling images and updating spreadsheets.
+
+- [3062-coinmarketcap-analyst.json](workflows/3062-coinmarketcap-analyst.json)
+  Description: This automated workflow uses an AI agent to analyze and send real-time cryptocurrency information via Telegram, using three specialized sub-agents: Crypto, Exchange & Community, and DEXScan. The system processes user queries, manages session memory, and uses CoinMarketCap API to provide detailed insights.
+
+- [3063-animated_stories_generator.json](workflows/3063-animated_stories_generator.json)
+  Description: This workflow creates animated stories using GPT-4o-mini to generate prompts, Midjourney to create images, and Kling to generate videos, then combines the videos in Creatomate.
+
+- [3064-outlook-email-ai-assistant.json](workflows/3064-outlook-email-ai-assistant.json)
+  Description: This workflow uses Microsoft Outlook to read untagged and uncategorized emails, processes their content with OpenAI to categorize them, updates their importance, and assigns categories. It also integrates contacts from Monday.com and Airtable for better contextualization.
+
+- [3065-chat-voice-agent-RAG.json](workflows/3065-chat-voice-agent-RAG.json)
+  Description: This workflow integrates a chatbot, voice agent, and telephony with Voiceflow, Google Calendar, and RAG to manage appointments, perform searches, and rely on Qdrant vectors.
+
+- [3066-generar_fondo_grafico.json](workflows/3066-generar_fondo_grafico.json)
+  Description: This workflow uses Midjourney, GPT-4o-mini, and Canvas API to generate a graphic wallpaper with emotive copy. First, GPT-4o-mini generates text based on the provided theme and scenario, then Midjourney creates an image according to the description, and finally Canvas designs the final composition with text and visual elements.
+
+- [3067-format-phone-us.json](workflows/3067-format-phone-us.json)
+  Description: This workflow processes and formats US phone numbers. It extracts only digits, checks the initial country code, adds the code if missing, and then formats the number in different formats like national and international.
+
+- [3068-confluence-chatbot-ai.json](workflows/3068-confluence-chatbot-ai.json)
+  Description: This workflow uses the Confluence API to search and retrieve specific content from pages, converts HTML to Markdown, and uses the GPT-4 AI agent to answer questions based on the provided context. Additionally, it sends responses via Telegram.
+
+- [3069-email-routing-ai.json](workflows/3069-email-routing-ai.json)
+  Description: This automated workflow classifies and routes business emails using AI to assign messages to different departments.
+
+- [3070-spotify-archiver.json](workflows/3070-spotify-archiver.json)
+  Description: This automated workflow archives monthly favorite Spotify songs in a Google spreadsheet and classifies Tracks into playlists using an AI model.
+
+- [3071-line-file-save-to-google-drive.json](workflows/3071-line-file-save-to-google-drive.json)
+  Description: This workflow automates downloading files from LINE, organizes them in Google Drive according to configuration, and records details in a spreadsheet.
+
+- [3072-ollama-llm-router.json](workflows/3072-ollama-llm-router.json)
+  Description: This workflow sets up an automatic private and local LLM route using Ollama to dynamically select the most appropriate model based on user input.
+
+- [3073-reservation_medica.json](workflows/3073-reservation_medica.json)
+  Description: This workflow uses an AI agent to manage medical appointments, integrating OpenAI and Google Calendar/Sheets. The agent receives messages, checks calendar availability, suggests times, or creates appointments.
+
+- [3074-erp-chatbot-odoo.json](workflows/3074-erp-chatbot-odoo.json)
+  Description: This automated workflow allows a chatbot contextualized with Window Memory to retrieve and summarize business opportunities from Odoo, using calculation tools and conversational agents to improve user assistance.
+
+- [3075-video-narration-ai.json](workflows/3075-video-narration-ai.json)
+  Description: This workflow automates the creation of a narrative script for videos using multimodal artificial intelligence. It downloads a video, extracts evenly distributed frames, processes them with a large language model (LLM) to generate descriptive texts, and then converts that text into audio.
+
+- [3076-ai-seo-keyword-automation.json](workflows/3076-ai-seo-keyword-automation.json)
+  Description: This automated workflow uses artificial intelligence to perform SEO keyword research. It includes topic expansion, competitor analysis, metrics like search volume and CPC, and generates a final optimized strategy.
+
+- [3077-shopify-to-d365-sync.json](workflows/3077-shopify-to-d365-sync.json)
+  Description: This workflow synchronizes Shopify orders with Dynamics 365 Business Central by creating orders and invoices. It detects if orders are from POS or web to generate invoices or orders respectively, checks customer existence, and creates new ones if not in BC. It handles multi-store locations and adds taxes and discounts as lines.
+
+- [3078-ai_tech_newsletter.json](workflows/3078-ai_tech_newsletter.json)
+  Description: This workflow automates the creation of a personalized tech newsletter using RSS feeds, OpenAI, and Gmail. Each day, it collects news articles from sources like Wired and TechCrunch, processes them, and stores them in a vector store. Weekly, it uses OpenAI to summarize the most relevant articles according to your interests and sends the recap by email.
+
+- [3079-extract-spend-details.json](workflows/3079-extract-spend-details.json)
+  Description: This workflow extracts and processes spending details from emails related to payments and invoices using Gmail as a data source. It analyzes emails specifically tagged to detect transactions, invoices, and payments, uses LLMs (Google Gemini and Groq) to structure the information, and finally inserts the data into a Google Sheets spreadsheet.
+
+- [3080-email-ai-management.json](workflows/3080-email-ai-management.json)
+  Description: This automated workflow efficiently manages emails using artificial intelligence to summarize, classify, and automatically respond. It uses Qdrant to store document vectors, OpenAI for embeddings and LLMs to generate responses, as well as integrating with Gmail and Outlook.
+
+- [3081-whatsapp-ai-chatbot.json](workflows/3081-whatsapp-ai-chatbot.json)
+  Description: This workflow implements a WhatsApp chatbot that uses RAG (Retrieval-Augmented Generation) technology to answer queries using OpenAI and Qdrant. It collects documents from Google Drive, vectorizes them with OpenAI, stores them in Qdrant, and uses the AI agent to answer questions based on them.
+
+- [3082-pge-energy-cost-tracker.json](workflows/3082-pge-energy-cost-tracker.json)
+  Description: This workflow automates the daily extraction of PG&E energy costs, including electricity and gas, from their website. It uses a browser to log in, navigate to relevant pages, extract data, and send an email with a formatted report.
+
+- [3083-linkedin-profile-finder.json](workflows/3083-linkedin-profile-finder.json)
+  Description: This workflow automates LinkedIn profile searches through a form where the user provides the full name and company. It uses Bright Data to perform Google searches and GPT-4o-mini to analyze results, extract relevant information, and generate a personalized email follow-up.
+
+- [3084-notion-chatbot-generator.json](workflows/3084-notion-chatbot-generator.json)
+  Description: This workflow generates a custom chatbot assistant for Notion databases, creating a workflow adapted to the provided schema. It analyzes the database URL, simplifies objects, and uses language agents to modify the workflow JSON according to specific needs.
+
+- [3085-notion-ai-assistant.json](workflows/3085-notion-ai-assistant.json)
+  Description: This workflow acts as a knowledge assistant that uses Notion to search for information and OpenAI to answer questions, efficiently organizing data from databases.
+
+- [3086-linkedin-to-airtable.json](workflows/3086-linkedin-to-airtable.json)
+  Description: This workflow automates searching for companies on LinkedIn and adds them to an Airtable CRM database. It searches for companies based on criteria like industry, size, and location, then checks if they already exist in the CRM and enters them if they are not duplicates.
+
+- [3087-email-automatizado-con-HITL.json](workflows/3087-email-automatizado-con-HITL.json)
+  Description: This automated workflow processes incoming emails via an IMAP mail system, summarizes them with AI, and generates automatic responses. The human user validates the response before sending it.
+
+- [3088-whatsapp_medical_appointments_bot.json](workflows/3088-whatsapp_medical_appointments_bot.json)
+  Description: This automated workflow sends medical appointment notifications via WhatsApp to users who have given consent, records messages in a Google Sheets spreadsheet, and allows responding to users through a scalable system.
+
+- [3089-automated-backups-google-drive.json](workflows/3089-automated-backups-google-drive.json)
+  Description: This automated workflow schedules daily backups of workflows, saving JSON files to Google Drive with a date and time stamp. It handles file retention by keeping only the most recent seven days' copies, deleting older ones, and sends Telegram notifications upon process completion.
+
+- [3090-app-wordpress-genai.json](workflows/3090-app-wordpress-genai.json)
+  Description: This workflow implements an application that uses RAG (Retrieval-Augmented Generation) and GenAI technologies to interact with WordPress content. It extracts text embeddings, manages documents in Supabase, and maintains chat memory using PostgreSQL.
+
+- [3091-obsidian-podcast-flow.json](workflows/3091-obsidian-podcast-flow.json)
+  Description: Workflow that converts Obsidian notes into audio for podcasts using OpenAI and stores data in Google Sheets.
+
+- [3092-woocommerce-chatbot-posventa.json](workflows/3092-woocommerce-chatbot-posventa.json)
+  Description: This automated workflow implements a post-sales support chatbot integrated with WooCommerce that uses artificial intelligence to handle customer inquiries, retrieve order information, verify identity, and provide assistance using OpenAI and Qdrant. It includes escalation to human operators via Telegram if necessary.
+
+- [3093-bright_data_extractor.json](workflows/3093-bright_data_extractor.json)
+  Description: This workflow uses Bright Data Web Scraper to extract structured data in bulk. It initiates a capture, waits for it to be ready, and then downloads the data. It handles errors and notifies via webhook.
+
+- [3094-flujo-get-scaleway-servers.json](workflows/3094-flujo-get-scaleway-servers.json)
+  Description: This workflow automates obtaining and filtering server information in Scaleway, including instances and bare metal, allowing searches by tags, name, public IP, or zone.
+
+- [3095-remove-background-google-drive.json](workflows/3095-remove-background-google-drive.json)
+  Description: This workflow removes the background from images stored in Google Drive using the Photoroom API, adding a configurable background color and saving the new images to a specific location.
+
+- [3096-ahrefs-keyword-research.json](workflows/3096-ahrefs-keyword-research.json)
+  Description: Keyword research workflow that uses Ahrefs to extract and format SEO data, passing through a query cleaning agent and then processing the information with the Gemini model for a structured response.
+
+- [3097-mcp-supabase-agent.json](workflows/3097-mcp-supabase-agent.json)
+  Description: This workflow implements a LangChain agent with vector retrieval and OpenAI embedding capabilities, using Supabase to store and manage data like messages, tasks, and status.
+
+- [3098-ai-powered-research-flow.json](workflows/3098-ai-powered-research-flow.json)
+  Description: Automated workflow that uses LLMs and APIs to conduct deep search research, generate search queries, analyze results, and create detailed reports.
+
+- [3099-country-capitals-tool.json](workflows/3099-country-capitals-tool.json)
+  Description: This workflow configures a chat assistant that can list capitals of fictitious countries or return the capital of a specific country based on a custom tool.
+
+- [3100-openai-examples.json](workflows/3100-openai-examples.json)
+  Description: This workflow uses different OpenAI models like ChatGPT to summarize and translate text, Whisper-1 for audio transcription, and DALLE-2 to generate images from textual descriptions.
+
+- [3101-update-printify-products.json](workflows/3101-update-printify-products.json)
+  Description: This workflow updates product titles and descriptions on Printify using OpenAI to optimize content and Google Sheets for management.
+
+- [3102-organizar-archivos-con-AI.json](workflows/3102-organizar-archivos-con-AI.json)
+  Description: This workflow automates file organization in local directories using AI. It monitors a specific folder, lists files and folders, uses Mistral AI to classify files by suggesting existing or new subdirectories, and then moves files according to AI indications.
+
+- [3103-email-autoresponder-approval.json](workflows/3103-email-autoresponder-approval.json)
+  Description: This automated workflow processes incoming emails, summarizes them, and generates responses with RAG using DeepSeek R1 and Qdrant. It allows for email approval before sending the final response.
+
+- [3104-flux-image-edit.json](workflows/3104-flux-image-edit.json)
+  Description: This workflow handles an image inpainting request using the FLUX API. It first receives an image and a mask via a webhook, then processes the image with the AI model to generate an edited version based on a user-provided prompt.
+
+- [3105-generate-sql-from-schema.json](workflows/3105-generate-sql-from-schema.json)
+  Description: This workflow generates SQL queries based on a database schema using artificial intelligence. It extracts information from the table structure and uses the OpenAI model to create SQL statements without needing to access the actual data.
+
+- [3106-automate-content-generator-wordpress.json](workflows/3106-automate-content-generator-wordpress.json)
+  Description: This workflow automates content creation for WordPress using DeepSeek. It generates articles, titles, and images based on ideas provided in a Google Sheets spreadsheet.
+
+- [3107-ai-chatbot-memory-router.json](workflows/3107-ai-chatbot-memory-router.json)
+  Description: This workflow implements a chatbot with long-term memory that uses dynamic routing tools to store and retrieve information using Google Docs, as well as sending notifications via Telegram or Gmail.
+
+- [3108-subworkflow-dependency-graph.json](workflows/3108-subworkflow-dependency-graph.json)
+  Description: This workflow automates the creation of a dependency graph between workflows in n8n and assigns tags automatically based on detected relationships. It analyzes flows to identify which are called by others, visualizes these relationships, and creates new tags if changes are detected.
+
+- [3109-parents-bot-memory.json](workflows/3109-parents-bot-memory.json)
+  Description: This workflow uses a chatbot to handle Telegram messages, transcribes voice to text, queries information, and stores data in vectors to improve contextual memory.
+
+- [3110-automated-pdf-invoice-processing.json](workflows/3110-automated-pdf-invoice-processing.json)
+  Description: This workflow automates information extraction from a PDF using LlamaParse and saves structured data to Airtable. It detects new files in Google Drive, processes content with OpenAI to extract specific invoice details, and creates records for both the main invoice and each detailed item.
+
+- [3111-air-quality-scheduler.json](workflows/3111-air-quality-scheduler.json)
+  Description: This workflow collects and processes air quality and pollen data using the Ambee API, then uses an AI agent to generate personalized recommendations based on the user's profile, and finally sends these recommendations by email.
+
+- [3112-track-time-pausas.json](workflows/3112-track-time-pausas.json)
+  Description: This workflow tracks work time and breaks in Notion. It creates a new page at the start, updates the end time, handles interruptions, and sends messages to the webhook.
+
+- [3113-training_feedback_automat.json](workflows/3113-training_feedback_automat.json)
+  Description: This automated workflow manages training feedback by sending notifications and creating tasks based on the given rating. It detects negative feedback for immediate action, creates tasks in UserTask, and emails managers.
+
+- [3114-chatbot_personal_shopper.json](workflows/3114-chatbot_personal_shopper.json)
+  Description: This workflow implements a personal shopper chatbot for WooCommerce that uses RAG with Google Drive and OpenAI. It analyzes chat messages to search for products or answer general questions using vectors stored in Qdrant.
+
+- [3115-hdw-lead-management.json](workflows/3115-hdw-lead-management.json)
+  Description: Automated workflow for LinkedIn lead management including search, data enrichment, analysis, and contact scoring using APIs like HDW and OpenAI, with Google Sheets integration for record keeping and tracking.
+
+- [3116-webflow-slack-submissions.json](workflows/3116-webflow-slack-submissions.json)
+  Description: This automated workflow sends Webflow form submissions to Slack. First, it checks if a channel corresponding to the form name exists; if not, it creates a new one and notifies in the #general channel. Then, it composes and sends the message with form data to the appropriate channel.
+
+- [3117-ai-search-console-chat.json](workflows/3117-ai-search-console-chat.json)
+  Description: This workflow uses OpenAI and Postgres to allow a chat agent to interact with Google Search Console data, retrieving information through natural conversation.
+
+- [3118-Vision-Scraping-Agent.json](workflows/3118-Vision-Scraping-Agent.json)
+  Description: This workflow automates web data extraction using artificial vision with Google Sheets, ScrapingBee, and Gemini. It takes full-page screenshots of websites, uses the Gemini model to extract information visually, and if it fails, resorts to HTML tools to ensure accurate data.
+
+- [3119-batch_crops_qdrant.json](workflows/3119-batch_crops_qdrant.json)
+  Description: This workflow loads a dataset of agricultural images into Qdrant using Voyage AI embeddings and Google Cloud Storage. It first checks if the collection exists, creates a new one if necessary, then processes images in batches and uploads them to the vector store.
+
+- [3120-usuarios_ficticios.json](workflows/3120-usuarios_ficticios.json)
+  Description: This workflow generates and processes JSON data to create CSV files with random names and email addresses, using GPT-4. Users can be subscribed or not, with optional subscription dates.
+
+- [3121-deteccion_objetos_gemini.json](workflows/3121-deteccion_objetos_gemini.json)
+  Description: This workflow uses the Gemini 2.0 API to detect objects in an image based on a prompt. It downloads an image, uses the Gemini model to get normalized coordinates of bounding boxes, and then adjusts them to the original image size to draw them on it.
+
+- [3122-Proxmox-AI-Agent.json](workflows/3122-Proxmox-AI-Agent.json)
+  Description: This automated workflow manages tasks in Proxmox using n8n and generative AI. It analyzes commands, validates inputs, generates API commands, and executes them.
+
+- [3123-sync-todoist-notion.json](workflows/3123-sync-todoist-notion.json)
+  Description: This workflow synchronizes tagged tasks in Todoist with Notion and marks tasks as sent once synchronization is complete.
+
+- [3124-actualizar_n8n.json](workflows/3124-actualizar_n8n.json)
+  Description: This workflow automates n8n updates by checking versions on GitHub, notifying via Telegram if there's a new version, and asking for confirmation before updating.
+
+- [3125-linkedin-stories-generator.json](workflows/3125-linkedin-stories-generator.json)
+  Description: This workflow extracts LinkedIn information using the Bright Data API and generates business stories with Google Gemini. It includes data processing, information extraction, and LLM summarization.
+
+- [3126-multi-ai-chatbot-postgres-chart.json](workflows/3126-multi-ai-chatbot-postgres-chart.json)
+  Description: This automated workflow allows a chatbot to interact with a PostgreSQL or Supabase database via SQL queries and generate charts visualized in QuickChart using AI agents. The system uses OpenAI to process user questions, execute SQL queries, get table definitions, and create charts based on the obtained results.
+
+- [3127-email-ai-responder.json](workflows/3127-email-ai-responder.json)
+  Description: This workflow automates email responses using DeepSeek R1 to summarize and send professional replies.
+
+- [3128-gmail-mcp-server.json](workflows/3128-gmail-mcp-server.json)
+  Description: This workflow configures an MCP server to interact with Gmail, allowing operations like searching, deleting, marking as read, adding or removing labels, and more.
+
+- [3129-discord_cleaner.json](workflows/3129-discord_cleaner.json)
+  Description: This automated workflow deletes Discord messages older than 7 days, running daily at 9:00 PM. It uses nodes to download channels, filter messages by date, and delete old ones, with pauses to respect API limits.
+
+- [3130-extract-google-maps.json](workflows/3130-extract-google-maps.json)
+  Description: This workflow uses Google Maps and scraping tools to extract business data like name, address, phone, email, and website. It uses OpenAI to process requests and save to Google Sheets.
+
+- [3131-ssl-expiry-monitor.json](workflows/3131-ssl-expiry-monitor.json)
+  Description: This automated workflow monitors the expiration date of SSL certificates for websites stored in a Google spreadsheet. Every week, it extracts URLs, checks SSL certificate status using ssl-checker.io, and sends an email if any certificate is due to expire in less than 7 days.
+
+- [3132-ai-agent-chatbot-memory.json](workflows/3132-ai-agent-chatbot-memory.json)
+  Description: This workflow implements a chatbot agent with integrated long-term memory and note storage, using Google Docs to save memories and notes, and Telegram for responses. The system uses different language models like GPT-4o-mini and DeepSeek-V3 to process messages and maintain a contextualized conversation.
+
+- [3133-phone-agent-lead-qualification.json](workflows/3133-phone-agent-lead-qualification.json)
+  Description: This automated workflow manages outbound and inbound calls, qualifying leads and scheduling appointments using RetellAI, Google Sheets, Twilio, and Gmail. It detects new opportunities in Google Sheets, sends SMS reminders, schedules automated calls with RetellAI, handles phone appointments, records interactions, sends confirmation emails, and analyzes with OpenAI.
+
+- [3134-line-bot-ocr-to-sheets.json](workflows/3134-line-bot-ocr-to-sheets.json)
+  Description: This automated workflow collects data from an image sent to a LINE bot, processes it to extract relevant information using OCR, and then stores the data in Google Sheets.
+
+- [3135-docker-immich-deploy.json](workflows/3135-docker-immich-deploy.json)
+  Description: This workflow configures and manages Docker environments for the Immich application, including deployment, start, stop, suspend, disk mounting, and user and ACL management. It uses SSH and Webhooks to interact with the server.
+
+- [3136-tavily-search-extract.json](workflows/3136-tavily-search-extract.json)
+  Description: This workflow automates information search and extraction using the Tavily API, filtering results by relevance and summarizing content with OpenAI.
+
+- [3137-calificacion-leads-gpt.json](workflows/3137-calificacion-leads-gpt.json)
+  Description: This workflow automates lead scoring using Google Sheets and GPT-4. It detects new entries in a spreadsheet, sends them to OpenAI to assess their quality, and updates the status in the same sheet with a rating and explanation.
+
+- [3138-qualify-leads-pipedrive.json](workflows/3138-qualify-leads-pipedrive.json)
+  Description: This automated workflow qualifies lead responses in Pipedrive using artificial intelligence to determine their interest and creates an opportunity if the lead shows interest.
+
+- [3139-AppointmentQualifierAI.json](workflows/3139-AppointmentQualifierAI.json)
+  Description: Form workflow that uses artificial intelligence to qualify appointment requests and manages their approval through n8n-integrated forms.
+
+- [3140-n8n-credentials-agent.json](workflows/3140-n8n-credentials-agent.json)
+  Description: This workflow automates n8n workflow credential management by storing them in an SQLite database and uses an AI agent to perform advanced searches via SQL.
+
+- [3141-load_prompts_github.json](workflows/3141-load_prompts_github.json)
+  Description: This workflow loads prompts from a GitHub repository and processes them to dynamically replace variables.
+
+- [3142-social-media-publisher.json](workflows/3142-social-media-publisher.json)
+  Description: This automated workflow manages content publishing on social media platforms like Instagram, LinkedIn, Facebook, X, and TikTok through a form that accepts photos or videos. It detects the file type (image or video), sends the necessary information to the corresponding API, and displays success or error messages.
+
+- [3144-chatbot_companyIdocs.json](workflows/3144-chatbot_companyIdocs.json)
+  Description: This workflow automates the creation of a chatbot that uses company documents stored in Google Drive and Gemini to answer questions.
+
+- [3145-rag_context_chunking.json](workflows/3145-rag_context_chunking.json)
+  Description: This workflow automates the creation of contextual vectors from documents in Google Drive using RAG (Retrieval-Augmented Generation) with section splitting and storage in Pinecone.
+
+- [3146-reconcile-rent-payments.json](workflows/3146-reconcile-rent-payments.json)
+  Description: This workflow automates rent payment reconciliation using an OpenAI model to detect and flag discrepancies in payments against a local Excel database. It identifies misses, incorrect payments, due dates, and alerts necessary actions.
+
+- [3147-reddit-n8n-analizador.json](workflows/3147-reddit-n8n-analizador.json)
+  Description: This workflow collects and analyzes recent Reddit posts related to n8n, using OpenAI to classify and summarize the posts.
+
+- [3148-remove_pii_from_csv.json](workflows/3148-remove_pii_from_csv.json)
+  Description: This workflow automates the removal of personally identifiable information (PII) from CSV files hosted on Google Drive. It uses OpenAI to identify columns with sensitive information and generates a new file without such data.
+
+- [3149-outlook-ai-email-assistant.json](workflows/3149-outlook-ai-email-assistant.json)
+  Description: This workflow automates email management in Microsoft Outlook using artificial intelligence to categorize and prioritize emails. It extracts relevant information, processes the email body to remove HTML formatting, queries external databases like Airtable and Monday.com for additional context, and uses the OpenAI model to assign categories. It updates importance and categories in Outlook according to defined rules.
+
+- [3150-whatsapp-ai-responder.json](workflows/3150-whatsapp-ai-responder.json)
+  Description: This automated workflow manages WhatsApp messages using AI to respond professionally. It analyzes different message types (text, audio, video, and image), processes them with tools like Google Gemini and Wikipedia, and generates timely responses.
+
+- [3151-dub-co-url-shortener.json](workflows/3151-dub-co-url-shortener.json)
+  Description: This workflow configures and automates short link creation using the Dub.co API. It allows entering a long URL, optionally a custom slug and domain, and creates or updates the corresponding link.
+
+- [3152-property_leads_enrichment.json](workflows/3152-property_leads_enrichment.json)
+  Description: This workflow automates obtaining real estate property data using BatchData, performs advanced filtering and enrichment with owner information, formats results, and exports them to CRM and Excel.
+
+- [3153-reschedule-overdue-asana.json](workflows/3153-reschedule-overdue-asana.json)
+  Description: This automated workflow, scheduled to run daily at 7 AM, retrieves assigned tasks from Asana and manages job statuses. It reschedules overdue tasks to the current day if they are open and deletes those that have already been completed.
+
+- [3154-dynamic_form_dropdown.json](workflows/3154-dynamic_form_dropdown.json)
+  Description: This workflow configures a form with a dynamic dropdown field that updates with values obtained from an external data source, such as a Google Sheets spreadsheet. The structure includes nodes to capture form submission, retrieve data from the source, transform it, and update the form with new options.
+
+- [3155-telegram-neuroai-integration.json](workflows/3155-telegram-neuroai-integration.json)
+  Description: This workflow uses the NeurochainAI API to process messages and generate responses or images in Telegram. It detects commands with /flux, sends prompts, and manages errors.
+
+- [3156-deepseek-telegram-agent.json](workflows/3156-deepseek-telegram-agent.json)
+  Description: This workflow uses a DeepSeek AI agent integrated with Telegram to handle conversations, validating users and chats, processing text, audio, and image messages, retrieving long-term memories from Google Docs, and responding via the Telegram API.
+
+- [3157-test-webhooks-n8n-postbin-example.json](workflows/3157-test-webhooks-n8n-postbin-example.json)
+  Description: This workflow allows testing webhooks in n8n using PostBin and BambooHR without needing to modify the WEBHOOK_URL variable. It creates a bin in PostBin, registers a webhook in BambooHR, tests its functionality, and notifies Slack about new employees.
+
+- [3158-scrape-news-with-ai-to-nocodb.json](workflows/3158-scrape-news-with-ai-to-nocodb.json)
+  Description: This workflow extracts HTML from a webpage specifically with CSS, then summarizes links and publication dates, filters by recent date, gets individual post content, generates summaries and keywords using OpenAI, and stores data in NocoDB.
+
+- [3159-trustpilot-sentiment.json](workflows/3159-trustpilot-sentiment.json)
+  Description: This workflow extracts and analyzes Trustpilot reviews using DeepSeek for detailed information and then OpenAI to assess sentiment.
+
+- [3160-chatgpt-email-responses.json](workflows/3160-chatgpt-email-responses.json)
+  Description: This automated workflow sends a ChatGPT response via email when an email is received and records responses in Google Sheets. It also logs feedback to improve the model.
+
+- [3162-google-analytics-to-ai-seo-analysis.json](workflows/3162-google-analytics-to-ai-seo-analysis.json)
+  Description: This workflow collects web analytics data, processes and sends information to an AI model for weekly comparative SEO analysis, saving results in Baserow.
+
+- [3163-gmail-to-drive-pdfs.json](workflows/3163-gmail-to-drive-pdfs.json)
+  Description: This workflow automates the transfer of specific PDF files from Gmail to Google Drive using OpenAI to filter and upload only those matching a given term.
+
+- [3165-sentiment-linear-slack.json](workflows/3165-sentiment-linear-slack.json)
+  Description: This workflow continuously monitors conversations in Linear support issues, performs sentiment analysis on comments, and notifies via Slack if sentiment becomes negative.
+
+- [3166-buscar_palabras_clave.json](workflows/3166-buscar_palabras_clave.json)
+  Description: This workflow automates main keyword search using NocoDB and DataforSEO to analyze search volumes on Google and YouTube. It generates and updates data in batches in a database.
+
+- [3167-slack-ai-chatbot-rag.json](workflows/3167-slack-ai-chatbot-rag.json)
+  Description: Workflow for a Slack chatbot integrated with RAG that uses Qdrant embeddings and vectors to answer questions based on internal documents.
+
+- [3168-generar_palabras_clave_seo.json](workflows/3168-generar_palabras_clave_seo.json)
+  Description: This workflow generates new SEO keywords and gets their search volumes using the Google Ads API. It analyzes submitted keywords, extracts metrics like competition and average monthly volume, and updates a spreadsheet.
+
+- [3169-siri_ai_agent.json](workflows/3169-siri_ai_agent.json)
+  Description: Workflow that uses Siri to activate an OpenAI agent via Apple Shortcuts, processing voice commands and generating responses.
+
+- [3170-auto-tag-wordpress.json](workflows/3170-auto-tag-wordpress.json)
+  Description: This workflow automates tag assignment in WordPress using AI. It analyzes RSS feeds, generates and structures tags, creates new ones if necessary, and updates existing ones.
+
+- [3171-utm-link-generator-with-analytics.json](workflows/3171-utm-link-generator-with-analytics.json)
+  Description: This workflow creates custom UTM links, generates QR codes, and schedules Analytics reports to monitor their performance.
+
+- [3172-automated-social-media-email.json](workflows/3172-automated-social-media-email.json)
+  Description: This automated workflow allows analyzing LinkedIn and Twitter posts from leads, generating a personalized email using OpenAI, and sending it automatically.
+
+- [3173-social-banner-generator.json](workflows/3173-social-banner-generator.json)
+  Description: This workflow automates social banner creation using n8n Forms to capture event data, OpenAI to generate images, and BannerBear to create the final banner.
+
+- [3174-analisis-seo-serp.json](workflows/3174-analisis-seo-serp.json)
+  Description: Automates SERPBear SEO data analysis by sending information to OpenRouter for a summary and saving results in Baserow.
+
+- [3175-google-doc-summarizer.json](workflows/3175-google-doc-summarizer.json)
+  Description: This automated workflow monitors a specific folder in Google Drive, gets new .doc documents, extracts their content, and summarizes it using an AI model, then stores the summary along with metadata in a Google Sheets spreadsheet.
+
+- [3177-email-to-line-summarizer.json](workflows/3177-email-to-line-summarizer.json)
+  Description: This workflow automates reading emails, summarizing them with artificial intelligence, and sending them to the LINE messenger.
+
+- [3178-youtube-summarizer.json](workflows/3178-youtube-summarizer.json)
+  Description: This workflow automates YouTube video summarization by extracting transcriptions and using a language engine to generate concise summaries.
+
+- [3179-google-reminder-bot.json](workflows/3179-google-reminder-bot.json)
+  Description: This automated workflow sends a friendly and personalized notification via Telegram reminding of Google Calendar events up to 1 hour in advance, avoiding duplicates.
+
+- [3180-sqlite-ai-agent.json](workflows/3180-sqlite-ai-agent.json)
+  Description: This workflow allows interacting with an SQLite database using an AI agent. It downloads, extracts, and loads the database locally, then uses the SQL agent to answer questions based on the data.
+
+- [3181-telegram-ai-bot.json](workflows/3181-telegram-ai-bot.json)
+  Description: This workflow automates a Telegram chatbot that uses OpenAI and LangChain to process messages, maintain contextual memory, and generate images with Dall-E 3.
+
+- [3182-spotify_telegram_bot.json](workflows/3182-spotify_telegram_bot.json)
+  Description: This workflow uses Telegram to receive music messages, queries OpenAI for song information, and plays music on Spotify.
+
+- [3183-ollama-chat-flow.json](workflows/3183-ollama-chat-flow.json)
+  Description: This workflow processes chat messages using Ollama's Llama 3.2 model via a basic LLM chain to generate structured responses in JSON format.
+
+- [3184-audio-transcription-notion.json](workflows/3184-audio-transcription-notion.json)
+  Description: This workflow automates audio file transcription from Google Drive, uses GPT-4 to summarize content, and stores the summary in Notion.
+
+- [3185-transform-image-to-lego.json](workflows/3185-transform-image-to-lego.json)
+  Description: This workflow transforms an image received via LINE into a LEGO style using the DALL-E API.
+
+- [3187-traductor_telegram_audio.json](workflows/3187-traductor_telegram_audio.json)
+  Description: This workflow translates voice messages in Telegram using AI. It automatically detects the language and translates them to the configured language.
+
+- [3188-ai-voice-chat.json](workflows/3188-ai-voice-chat.json)
+  Description: This workflow implements a voice chatbot that uses Webhook, Memory Manager, OpenAI, Google Gemini, and ElevenLabs to maintain a contextualized conversation with the user. The process includes transcribing audio, storing and retrieving context, generating AI responses, and converting them to audio.
+
+- [3189-ubicacion-trabajo.json](workflows/3189-ubicacion-trabajo.json)
+  Description: This automated workflow automatically records clock-in and clock-out times based on location using Webhooks, Google Sheets, and Drive. It detects if the worksheet exists, creates a new one if not present, and records time data with date and address.
+
+- [3197-slack-to-linear-tickets.json](workflows/3197-slack-to-linear-tickets.json)
+  Description: This automated workflow monitors a Slack channel for messages with the ticket emoji, uses OpenAI to generate ticket titles and descriptions, and creates incidents in Linear if no duplicates exist.
+
+- [3199-text_automation.json](workflows/3199-text_automation.json)
+  Description: Workflow to automate text translation and editing tasks using Apple Shortcuts and OpenAI. Analyzes request type, performs corresponding action with GPT-4 Mini, and responds to the Shortcut.
+
+- [3201-whatsapp-ai-sales-agent.json](workflows/3201-whatsapp-ai-sales-agent.json)
+  Description: This automated workflow uses WhatsApp to receive user messages and respond via an AI agent integrated with a vectorized knowledge base. It includes downloading a PDF catalog, processing and storing it in a vector store, and managing unsupported message types.
+
+- [3202-whatsapp-bot-process.json](workflows/3202-whatsapp-bot-process.json)
+  Description: This automated workflow processes WhatsApp messages, handles different types like audio, video, and image using Google Gemini for transcription and analysis, and uses an AI agent to respond.
+
+- [3203-video-narration-generator.json](workflows/3203-video-narration-generator.json)
+  Description: This workflow automates narrative script creation for videos using OpenAI and then generates audio from that script.
+
+- [3205-backup-n8n.json](workflows/3205-backup-n8n.json)
+  Description: This automated workflow performs a daily backup of n8n workflows to Google Drive. It creates and verifies 'n8n_backups' and 'n8n_old' folders, moves old copies to the 'n8n_old' folder, and deletes those exceeding 30 days.
+
+- [3207-waitlist-verification.json](workflows/3207-waitlist-verification.json)
+  Description: Workflow to manage a waitlist including user registration, verification code generation, email sending, and validation. If the code is incorrect, the user is asked to retry. Once validated, it's saved in Google Sheets.
+
+- [3208-sql-agent-chart-generator.json](workflows/3208-sql-agent-chart-generator.json)
+  Description: This workflow uses an SQL agent and OpenAI to generate responses with real-time visualizations. The user can ask questions about data, and the system will determine whether to include a graph using Chart.js, triggering a sub-workflow to create an image compatible with Quickchart.io.
+
+- [3210-google_maps_email_scraper.json](workflows/3210-google_maps_email_scraper.json)
+  Description: This workflow extracts and processes business emails from Google Maps using a list of queries. It searches for URLs related to initial searches, filters irrelevant ones, scrapes resulting pages to find email addresses, removes duplicates, and imports results into a Google spreadsheet.
+
+- [3211-blueSky-welcome-bot.json](workflows/3211-blueSky-welcome-bot.json)
+  Description: This workflow schedules an automatic welcome message to new followers on BlueSky. It first logs in, then lists followers and compares with a saved database to detect newcomers. New followers receive a private message with defined text. The follower list is updated in a JSON file.
+
+- [3212-cv-screening.json](workflows/3212-cv-screening.json)
+  Description: This automated workflow downloads a CV from a URL, extracts its PDF content, and sends the information along with a job description to OpenAI to get a structured evaluation determining the candidate's profile based on job requirements.
+
+- [3213-import-productboard-to-snowflake.json](workflows/3213-import-productboard-to-snowflake.json)
+  Description: This workflow imports Productboard data (notes, companies, and features) into Snowflake. It uses HTTP requests to retrieve information from Productboard, performs manual mappings, and updates tables in Snowflake. Includes a Slack notifier with weekly summaries.
+
+- [3215-linear_productboard_sync.json](workflows/3215-linear_productboard_sync.json)
+  Description: This workflow synchronizes project status and end dates in Linear with a feature in Productboard. It automatically updates statuses and dates in Productboard based on Linear data and notifies changes via Slack.
+
+- [3216-aplicacion_cv_automatizada.json](workflows/3216-aplicacion_cv_automatizada.json)
+  Description: Application workflow for AI-optimized CV and application form management, including document validation, information extraction, and Airtable storage.
+
+- [3217-appointment-scheduling-flow.json](workflows/3217-appointment-scheduling-flow.json)
+  Description: This workflow automates professional appointment management using interactive forms and human approval. It receives requests, classifies inquiries with AI, validates terms, schedules dates/times, notifies the user, and manages approved or rejected appointments.
+
+- [3218-newsletter-survey.json](workflows/3218-newsletter-survey.json)
+  Description: This workflow collects user information via a multi-page form: email initially, then additional data like name, country, job level, job functions, no-code experience, and product hobbies. Data is saved to Google Sheets, and a Slack notification is sent.
+
+- [3223-search-console-report.json](workflows/3223-search-console-report.json)
+  Description: This workflow extracts data from Search Console via three different reports (keywords, pages, and dates) using the Google API. Data is processed to separate it and then update a Google spreadsheet with detailed information on clicks, impressions, CTR, and positions.
+
+- [3227-calendly-klicktipp-sync.json](workflows/3227-calendly-klicktipp-sync.json)
+  Description: This automated workflow synchronizes Calendly events with KlickTipp, handling bookings and cancellations, transforming data to ensure guests are correctly added or removed from the subscriber list.
+
+- [3228-linear-sentiment-monitor.json](workflows/3228-linear-sentiment-monitor.json)
+  Description: This workflow automates monitoring active issues in Linear, performs sentiment analysis on issue comments using OpenAI, and updates an Airtable table with emotional status. It detects negative sentiment transitions to send Slack notifications.
+
+- [3229-ai_content_generator.json](workflows/3229-ai_content_generator.json)
+  Description: This workflow uses AI to analyze existing articles and extract voice and style features, then generates new content following those guidelines and publishes to WordPress.
+
+- [3230-gemini-bounding-box.json](workflows/3230-gemini-bounding-box.json)
+  Description: This workflow uses the Gemini 2.0 API to detect objects in images and draw custom bounding boxes.
+
+- [3231-transcription-ai-flow.json](workflows/3231-transcription-ai-flow.json)
+  Description: This workflow automates real-time meeting transcription, structures data, and generates summaries using OpenAI and PostgreSQL databases.
+
+- [3232-automated-backup.json](workflows/3232-automated-backup.json)
+  Description: This workflow automates job backups in GitHub using n8n. It stores workflows as JSON files in a designated repository.
+
+- [3234-invoice-parser-flow.json](workflows/3234-invoice-parser-flow.json)
+  Description: This automated workflow detects new files in Google Drive, sends them to LlamaParse for analysis, and extracts invoice information. Processed data is stored in Airtable as invoice records and their respective detailed items.
+
+- [3235-phishing-email-monitor.json](workflows/3235-phishing-email-monitor.json)
+  Description: This automated workflow monitors Gmail and Outlook email, generates HTML screenshots, analyzes threats with ChatGPT-4, and creates Jira tickets for phishing.
+
+- [3236-email-threat-detection.json](workflows/3236-email-threat-detection.json)
+  Description: This workflow automates email threat detection through integration with Gmail and Outlook, analysis with ChatGPT, and Jira ticket creation.
+
+- [3237-ai_magic_position.json](workflows/3237-ai_magic_position.json)
+  Description: This workflow includes an AI agent with memory and vector retrieval capabilities, connected to OpenAI and HTTP tools for positioning flows.
+
+- [3240-strava-to-sheets.json](workflows/3240-strava-to-sheets.json)
+  Description: This workflow schedules a job that every two hours extracts Strava activities, filters those not saved in Google Sheets, and processes them to update a spreadsheet with details like distance, date, time, and elevation gain.
+
+- [3241-ai-meeting-automator.json](workflows/3241-ai-meeting-automator.json)
+  Description: This automated workflow uses an AI agent to process meeting transcriptions, extract tasks, and notify the client. It uses Airtable to create tasks and Google Calendar to schedule appointments.
+
+- [3243-service-now-slack-notifications.json](workflows/3243-service-now-slack-notifications.json)
+  Description: This workflow automates notifying a Slack channel of recent ServiceNow incidents every 5 minutes. It uses a timestamp to search for incidents created in the last 5 minutes and, if new ones exist, sorts them by number and sends formatted details to Slack. If an error occurs with ServiceNow, it reports the problem.
+
+- [3245-csvToJsonParser.json](workflows/3245-csvToJsonParser.json)
+  Description: This workflow processes a POST request with data in CSV or JSON format. First, it checks the content type and extracts data using ExtractFromFile. Then, it converts RAW data to CSV if necessary. If errors occur, it returns a 500 code with an error message. If conversion is successful, it adds data to the JSON body and responds with a 200 code.
+
+- [3251-automated-social-media-email.json](workflows/3251-automated-social-media-email.json)
+  Description: This automated workflow extracts LinkedIn and Twitter posts from leads, processes them to generate personalized messages with OpenAI, and sends automated emails.
+
+- [3252-docker-registry-cleaner.json](workflows/3252-docker-registry-cleaner.json)
+  Description: This automated workflow removes old images and tags from a Docker registry, keeping only the last 10 versions and notifying of changes.
+
+- [3253-cyber-attack-vector-store.json](workflows/3253-cyber-attack-vector-store.json)
+  Description: This workflow automates cyber incident management using MITRE ATT&CK. It analyzes SIEM alerts with LLM, queries Qdrant vector databases, and updates Zendesk.
+
+- [3255-flujo-independiente.json](workflows/3255-flujo-independiente.json)
+  Description: This workflow implements an independent process that starts a secondary execution via a webhook and resumes it in the main context.
+
+- [3256-github-backup-workflow.json](workflows/3256-github-backup-workflow.json)
+  Description: This workflow automates job backups in GitHub by comparing and updating JSON files. It uses a loop to process each instance, checks differences between versions, and manages create or edit operations based on status.
+
+- [3258-automate-lead-generation-suitecrm.json](workflows/3258-automate-lead-generation-suitecrm.json)
+  Description: Workflow to automate lead generation in SuiteCRM using web forms and Google Sheets. Allows creating Leads with exclusive coupons by checking for duplicates and updating a spreadsheet.
+
+- [3259-notion-md-sincro.json](workflows/3259-notion-md-sincro.json)
+  Description: This workflow automates Notion block synchronization by converting rich text to Markdown format and vice versa, allowing content updates with formatting.
+
+- [3260-fact-checking_workflow.json](workflows/3260-fact-checking_workflow.json)
+  Description: This workflow automates fact-checking and text analysis. It separates text into sentences, uses LLM to mark statements as correct or incorrect, and produces a report with identified inaccuracies.
+
+- [3261-bbc_podcast_workflow.json](workflows/3261-bbc_podcast_workflow.json)
+  Description: This workflow extracts and classifies BBC news, generates a podcast script using LLM, and sends them to Hugging Face for audio conversion.
+
+- [3263-ai-resume-screening.json](workflows/3263-ai-resume-screening.json)
+  Description: Automated workflow to evaluate resumes based on a job description using artificial intelligence. Analyzes, classifies, and organizes candidates into folders according to their profile.
+
+- [3264-zoom-stripe-payments.json](workflows/3264-zoom-stripe-payments.json)
+  Description: This automated workflow creates Zoom meetings and links secure payments with Stripe for events. It automates appointment creation, customer invoicing, and sends email notifications with necessary details.
+
+- [3266-yt-ai-playlist.json](workflows/3266-yt-ai-playlist.json)
+  Description: This workflow creates and updates a YouTube playlist with AI news, deleting the previous one and notifying of its creation.
+
+- [3267-certificado-automatico.json](workflows/3267-certificado-automatico.json)
+  Description: This workflow automates certificate generation and sending based on a Google Forms questionnaire. It collects data from responses, verifies scores, creates a personalized presentation with the user's name, converts the presentation to PDF, and emails the certificate to the user if they pass.
+
+- [3268-prompt-generator.json](workflows/3268-prompt-generator.json)
+  Description: Workflow to generate and organize optimized prompts in Airtable using Google Gemini. Allows categorizing and structuring chatbot prompts for better management in n8n.
+
+- [3269-gong-call-processing.json](workflows/3269-gong-call-processing.json)
+  Description: This workflow automates extracting relevant information from sales calls recorded in Gong and Salesforce. It searches for primary opportunities with specific values and stages, formats call data, and sends processed information to a preprocessor for further analysis.
+
+- [3270-call-processing-flow.json](workflows/3270-call-processing-flow.json)
+  Description: This workflow automates sales call data extraction and processing, integrating complementary information like competitors and integration lists to enrich transcripts before sending them to an AI system.
+
+- [3271-gong-call-processor.json](workflows/3271-gong-call-processor.json)
+  Description: This workflow extracts and processes sales call data from Gong to generate an enriched transcript with metadata like companies, internal/external attendees, and unified formatting.
+
+- [3272-call_processing_ai.json](workflows/3272-call_processing_ai.json)
+  Description: This workflow automates sales call processing using AI to extract information and store it in Notion. Includes Slack alerts and handles errors to ensure data integrity.
+
+- [3274-procesador-llamadas-venta.json](workflows/3274-procesador-llamadas-venta.json)
+  Description: This workflow processes competitor, integration, and objection data extracted from sales call analysis. It updates Notion databases with structured information and creates specific entries for each category.
+
+- [3275-automarketing-insights.json](workflows/3275-automarketing-insights.json)
+  Description: This workflow automates marketing insight creation and recurring themes in Notion from sales call data. Analyzes and organizes key information in specific databases.
+
+- [3277-water-drink-reminder.json](workflows/3277-water-drink-reminder.json)
+  Description: This workflow automates a water drinking reminder system. It collects data from Google Sheets, uses OpenAI to generate personalized motivational messages, and sends notifications to Slack with interactive buttons.
+
+- [3278-google-sheets-analysis.json](workflows/3278-google-sheets-analysis.json)
+  Description: This workflow uses an AI agent to analyze and manipulate data from Google Sheets, allowing advanced queries by filtering dates and statuses, transforming complex formats into JSON, and obtaining statistics through tools like calculation and aggregation.
+
+- [3280-trading-agent-analysis.json](workflows/3280-trading-agent-analysis.json)
+  Description: This automated workflow allows a user to perform technical stock analysis via an AI agent on Telegram. It receives messages, processes text or voice, generates custom charts, and sends the analysis to the user.
+
+- [3281-telegram-voice-to-social.json](workflows/3281-telegram-voice-to-social.json)
+  Description: This workflow receives Telegram messages, analyzes them to see if they are voice or text, and transcribes voice if it is. Then it uses OpenAI and SerpAPI to generate social media optimized content with a detailed prompt for image creation.
+
+- [3282-analisis_medios_gemini.json](workflows/3282-analisis_medios_gemini.json)
+  Description: This workflow uses different methodologies to analyze media like images and PDFs using AI agents. It includes specific routes for individual and batch image analysis, use of custom prompts, conversion to base64 format, and direct calls to the Gemini API.
+
+- [3283-sync-email-templates.json](workflows/3283-sync-email-templates.json)
+  Description: This workflow synchronizes email templates between Dartagnan and Braze. It retrieves templates from Dartagnan, compares with existing ones in Braze, and updates or creates new ones as appropriate.
+
+- [3285-mistral-ocr-parsing.json](workflows/3285-mistral-ocr-parsing.json)
+  Description: Workflow that uses Mistral OCR to analyze documents and images uploaded to Google Drive. First, it loads files from Google Drive, then sends them to Mistral Cloud to get signed URLs, processes OCR with those URLs, and finally performs document or image analysis using different models (chat completions).
+
+- [3288-follow_up_meetings.json](workflows/3288-follow_up_meetings.json)
+  Description: This automated workflow monitors past sales appointments to detect if follow-up messages have been sent and suggests new available appointments to the user to schedule a new meeting if necessary.
+
+- [3289-ko-fi-webhook-handler.json](workflows/3289-ko-fi-webhook-handler.json)
+  Description: Workflow that processes Ko-fi webhooks, verifies the token, and handles donations, subscriptions, and purchase orders.
+
+- [3290-aprendizaje_idiomas.json](workflows/3290-aprendizaje_idiomas.json)
+  Description: This workflow automates flashcard creation for language learning. It uses Google Sheets to store words, translates to Chinese using Google Translate, generates phonetics and sentences with an AI agent, searches for images on Pexels, and uploads them to Google Drive.
+
+- [3292-breach-monitor.json](workflows/3292-breach-monitor.json)
+  Description: This automated workflow continuously monitors for new breaches on haveibeenpwned.com and sends alerts when detected. It stores information from the latest breaches in a cache.json file to avoid duplicate notifications.
+
+- [3293-youtube-notificacion-videos.json](workflows/3293-youtube-notificacion-videos.json)
+  Description: This workflow uses the YouTube API to search and filter videos from subscribed channels, detecting those longer than 61 seconds and sending email notifications.
+
+- [3295-email-processing-flow.json](workflows/3295-email-processing-flow.json)
+  Description: This automated workflow processes Gmail emails using a text classifier to assign messages to specific categories like Guest Post, Youtube, or Courses. Then, it sends predefined responses using HTML templates and marks emails as read, as well as adding labels and contacts in Brevo.
+
+- [3296-shopify-to-google-spreadsheet.json](workflows/3296-shopify-to-google-spreadsheet.json)
+  Description: This workflow extracts customer information from Shopify and exports it to a Google Sheets spreadsheet. It uses a loop to retrieve paginated data until no more pages are left, processing information and updating continuously.
+
+- [3297-dropbox-watch-files.json](workflows/3297-dropbox-watch-files.json)
+  Description: This workflow monitors changes in two Dropbox folders (/z_Apps/a_iphone/RecUp Memos/ and /z_Apps/auphonic/whisper) to detect new files or folders. It uses NocoDB to store file metadata, filters those not previously processed, and executes specific flows for each detected file type.
+
+- [3298-pomodoro-bot.json](workflows/3298-pomodoro-bot.json)
+  Description: This workflow manages Pomodoro work sessions with Telegram and records activities in Google Sheets. It detects commands like /start and /stop, handles work and break intervals, and records statistics.
+
+- [3301-antispam_discord.json](workflows/3301-antispam_discord.json)
+  Description: This automated workflow detects and moderates spam messages on Discord using AI to classify texts, notifies moderators, and takes action based on human decision.
+
+- [3302-webpage-change-monitor.json](workflows/3302-webpage-change-monitor.json)
+  Description: Automated workflow to detect changes on a webpage and notify via email when there is a modification. It uses a content hash for comparison and records activities in Google Sheets.
+
+- [3303-email-pdf-classifier.json](workflows/3303-email-pdf-classifier.json)
+  Description: This automated workflow uses n8n to analyze emails with PDF attachments and classify them using OpenAI. It creates folders in Google Drive by date, checks if files are invoices/receipts, and stores them there or sends them by email.
+
+- [3305-seo-wordpress-generator.json](workflows/3305-seo-wordpress-generator.json)
+  Description: This automated workflow generates SEO-optimized content for WordPress using Perplexity research and OpenAI. It includes creating titles, slugs, and metadata, developing structured HTML, and publishing to the blog.
+
+- [3308-historias-infantiles-arabic.json](workflows/3308-historias-infantiles-arabic.json)
+  Description: Workflow that automates the creation and sending of Arabic children's stories via Telegram, using OpenAI to generate content, translate, create images, and audio.
+
+- [3312-chatbot-curriculos.json](workflows/3312-chatbot-curriculos.json)
+  Description: This workflow allows creating a custom chatbot that manages resumes and sends daily reports with conversation information via Google Drive, Gemini, Pinecone, and NocoDB.
+
+- [3315-coin_market_cap_crypto_agent.json](workflows/3315-coin_market_cap_crypto_agent.json)
+  Description: Descriptive agent workflow that uses CoinMarketCap API to analyze and provide information about cryptocurrencies through an integrated natural language analysis system with memory.
+
+- [3317-agendamiento-citas-ai.json](workflows/3317-agendamiento-citas-ai.json)
+  Description: This automated workflow uses Gmail and Google Calendar to analyze emails requesting an appointment, check calendar availability, and propose free time slots using an AI agent.
+
+- [3318-extract_text_from_pdf_image_to_csv.json](workflows/3318-extract_text_from_pdf_image_to_csv.json)
+  Description: This automated workflow extracts text from PDF files and images using Vertex AI (Gemini) and converts them to CSV for storage in Google Drive.
+
+- [3319-umami-ai-analytics.json](workflows/3319-umami-ai-analytics.json)
+  Description: This workflow extracts web analytics data from Umami, processes and sends information to an AI model for weekly summaries and comparisons, saving results in Baserow.
+
+- [3320-supabase-vector-flow.json](workflows/3320-supabase-vector-flow.json)
+  Description: This workflow integrates Supabase with n8n to perform insertions, updates, and retrievals in a vector database, using OpenAI embeddings and a vector engine optimized for efficient searches.
+
+- [3323-hr-automatizacion.json](workflows/3323-hr-automatizacion.json)
+  Description: This automated workflow manages HR automation by extracting key information from CVs, analyzing with artificial intelligence, and consolidating results in a spreadsheet.
+
+- [3325-split-test-ab.json](workflows/3325-split-test-ab.json)
+  Description: This workflow implements an A/B split test to evaluate different messages in a chatbot. Upon receiving a message, it checks if the session exists and randomly assigns a prompt between two options saved in Supabase, then uses the AI agent with the selected prompt.
+
+- [3326-telegram-ai-bot.json](workflows/3326-telegram-ai-bot.json)
+  Description: This workflow processes voice and text messages in Telegram, transcribes audio to text, and uses OpenAI to respond intelligently.
+
+- [3327-telegram-ai-bot.json](workflows/3327-telegram-ai-bot.json)
+  Description: This Telegram workflow implements a bot that processes /flux commands to generate images and textual responses with NeurochainAI. Includes error handling and retry links.
+
+- [3328-telegram-ai-bot.json](workflows/3328-telegram-ai-bot.json)
+  Description: This Telegram AI Chatbot workflow manages specific commands and uses OpenAI to respond to messages in different modes such as conversation, welcome, and image generation.
+
+- [3330-telegram-pdf-integration.json](workflows/3330-telegram-pdf-integration.json)
+  Description: This workflow processes a PDF file sent via Telegram, uploads it to Pinecone to allow searches and answers based on the content.
+
+- [3332-text-automations-shortcuts.json](workflows/3332-text-automations-shortcuts.json)
+  Description: This workflow uses Apple Shortcuts to send texts to a webhook and use OpenAI to perform different tasks like translating, correcting grammar, or adjusting text length.
+
+- [3333-Enrich_Company_Data.json](workflows/3333-Enrich_Company_Data.json)
+  Description: This workflow automates business data enrichment using Google Sheets, OpenAI, and a web extraction tool. It retrieves information from a spreadsheet, uses an AI agent to analyze websites via ScrapingBee, and updates data in real-time.
+
+- [3335-github-releases-tracker.json](workflows/3335-github-releases-tracker.json)
+  Description: This workflow tracks project releases on GitHub and extracts relevant information to send formatted messages to Slack. It configures followed repositories, checks releases periodically with a timer, and uses Redis to cache IDs.
+
+- [3336-credenciales-transfer-n8n.json](workflows/3336-credenciales-transfer-n8n.json)
+  Description: Workflow to transfer credentials between n8n instances. Allows selecting a target instance and a source credential, then exports, processes, and sends the credential to the target.
+
+- [3339-amazon_price_tracker.json](workflows/3339-amazon_price_tracker.json)
+  Description: This workflow monitors product prices on Amazon using the ScrapeOps API, records changes, and sends email alerts for significant alterations.
+
+- [3340-transcribe-bank-statements.json](workflows/3340-transcribe-bank-statements.json)
+  Description: This workflow transforms a bank statement in PDF format to markdown using the Gemini Vision AI model for easy data extraction.
+
+- [3341-audio-translation-flow.json](workflows/3341-audio-translation-flow.json)
+  Description: This workflow translates text to English, generates audio in French, transcribes that audio back to text, and then converts it into an English voice file.
+
+- [3342-web_agent_airtop.json](workflows/3342-web_agent_airtop.json)
+  Description: This workflow configures a web agent that uses Airtop to interact with a browser window, including opening URLs, clicking, and querying web pages following user instructions. The agent also uses Anthropic's Claude 3.5 to process interactions.
+
+- [3343-Indeed_Data_Scraper_Gemini.json](workflows/3343-Indeed_Data_Scraper_Gemini.json)
+  Description: This workflow extracts and summarizes company data from Indeed using Bright Data and Google Gemini. It uses Airtable to store links and processes information with AI agents and chains of thought.
+
+- [3344-scrape-trustpilot-sentiment.json](workflows/3344-scrape-trustpilot-sentiment.json)
+  Description: This workflow extracts Trustpilot reviews using DeepSeek, analyzes their sentiment with OpenAI, and records them in Google Sheets.  
