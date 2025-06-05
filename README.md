@@ -3079,6 +3079,9 @@ Todos los workflows aquí compartidos se proporcionan tal cual. **Antes de emple
 - [1046-gmail-api-automation.json](workflows/1046-gmail-api-automation.json)
   Descripción: Este flujo automático permite enviar y recibir correos electrónicos mediante la API de Gmail, utilizando un único conjunto de credenciales OAuth2 para las distintas operaciones.
 
+- [1047-linkedin-ai-post.json](workflows/1047-linkedin-ai-post.json)  
+  Descripción: Este flujo automatiza la publicación en LinkedIn. Extrae el contenido del día desde Notion, lo reformatea con IA, adjunta la imagen correspondiente y publica el resultado en tu perfil.
+
 - [1048-notion-clockify-client-sync.json](workflows/1048-notion-clockify-client-sync.json)
   Descripción: Este flujo automático detecta nuevos clientes en una base de datos de Notion y añade cada uno automáticamente al sistema de gestión de tiempo de Clockify.
 
@@ -3108,6 +3111,9 @@ Todos los workflows aquí compartidos se proporcionan tal cual. **Antes de emple
 
 - [1057-analisis-feedback-ia.json](workflows/1057-analisis-feedback-ia.json)
   Descripción: Este flujo procesa comentarios de clientes, analiza el feedback con inteligencia artificial para obtener un resumen, sugerencias de mejora e ideas para posteos sociales, y luego envía los resultados por correo a la dirección del equipo.
+
+- [1058-notion-pinecone-embeddings.json](workflows/1058-notion-pinecone-embeddings.json)  
+  Descripción: Este flujo supervisa nuevas páginas en Notion, resume el contenido, genera embeddings con dimensión 768 mediante Google Gemini y los inserta en un índice de Pinecone.
 
 - [1059-automatic-meetings-telegram.json](workflows/1059-automatic-meetings-telegram.json)
   Descripción: Este flujo automático envía una lista de tus reuniones programadas para el día actual en Telegram cada mañana a las seis, con fechas y horarios formateados en persiano.
@@ -3292,10 +3298,11 @@ Todos los workflows aquí compartidos se proporcionan tal cual. **Antes de emple
 - [1119-smart-factory-alert.json](workflows/1119-smart-factory-alert.json)
   Descripción: Este flujo monitorea sensores de fábrica para detectar temperaturas superiores a 50°C y almacena tanto los datos del sensor como incidentes en CrateDB.
 
-
 - [1120-recomendaciones-qdrant-mistral.json](workflows/1120-recomendaciones-qdrant-mistral.json)
   Descripción: Este flujo automático recomienda recetas utilizando Qdrant para la búsqueda vectorial y Mistral AI como modelo de lenguaje.
 
+- [1120-gmail-email-csv.json](workflows/1120-gmail-email-csv.json)  
+  Descripción: Descarga un correo de Gmail con un archivo JSON y convierte su información en un CSV para hojas de cálculo.
 
 - [1122-wordpress-auto-generation.json](workflows/1122-wordpress-auto-generation.json)
   Descripción: Este flujo automático selecciona la categoría menos utilizada de WordPress desde una base de datos PostgreSQL para generar artículos únicos y estructurados mediante modelos GPT. Después de crear el contenido completo en formato HTML específico, genera un título optimizado y descarga/adjunta una imagen destacada antes de publicar todo junto.
@@ -4044,6 +4051,9 @@ Todos los workflows aquí compartidos se proporcionan tal cual. **Antes de emple
 - [2654-comparador-multiples-modelos.json](workflows/2654-comparador-multiples-modelos.json)
   Descripción: Este flujo permite comparar múltiples respuestas de modelos de lenguaje manteniendo memoria separada por modelo.
 
+- [2655-_Generate_AI-Ready_llms.txt_Files_from_Screaming_Frog.json](workflows/2655-_Generate_AI-Ready_llms.txt_Files_from_Screaming_Frog.json)  
+  Descripción: Transforma un CSV exportado de Screaming Frog en un archivo `llms.txt` optimizado con títulos, URLs e información de indexabilidad, facilitando el rastreo y la clasificación por modelos de lenguaje.
+  
 - [2656-pipedrive-enrichment-flow.json](workflows/2656-pipedrive-enrichment-flow.json)
   Descripción: Este flujo automático escanea el sitio web de una organización recién creada en Pipedrive para generar un resumen detallado usando GPT-4o, lo que permite mantener datos actualizados e integrados directamente en el sistema CRM.
 
@@ -4155,7 +4165,7 @@ Todos los workflows aquí compartidos se proporcionan tal cual. **Antes de emple
 - [2692-http-web-content-processor.json](workflows/2692-http-web-content-processor.json)
   Descripción: Este flujo procesa una solicitud HTTP para obtener contenido de una página web, lo convierte a Markdown y aplica limitaciones como la eliminación de enlaces e imágenes si el método es simplificado. Maneja errores y formatea la salida según los parámetros proporcionados.
 
-- [2693-búsqueda_correo_icypeas.json](workflows/2693-búsqueda_correo_icypeas.json)
+- [2693-búsqueda_correo_icypeas.json](workflows/2693-búsqueda_correo_icypeas.json)  
   Descripción: Este flujo configura una búsqueda de correo electrónico en masa utilizando Icypeas. Lee datos de una hoja de cálculo de Google con información personal y autentica al usuario para realizar una solicitud POST a la API de Icypeas, generando una firma SHA1 necesaria para el proceso.
 
 - [2694-dominio_icypeas.json](workflows/2694-dominio_icypeas.json)
