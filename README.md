@@ -1,3 +1,5 @@
+[🌐 Versión en español](https://github.com/DragonJAR/n8n-workflows-es/blob/main/README.md) | [🌐 English Version](https://github.com/DragonJAR/n8n-workflows-es/blob/main/README-ENGLISH.md)
+
 # 🧠 Colección de Flujos de Trabajo de n8n
 
 Este repositorio es un **fork** de la iniciativa original de [@Zie619](https://github.com/Zie619/n8n-workflows), quien recopiló flujos de trabajo (workflows) de n8n procedentes de diversas fuentes, tales como:
