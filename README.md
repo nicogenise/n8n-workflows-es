@@ -46,6 +46,9 @@ Si descubriste un workflow interesante o desarrollaste uno propio, ¡anímate a 
 
 Para proponer contribuciones, abre un pull request con tu nuevo workflow o mejora.
 
+## ⏯️ Manel aporta esta excelente explicación en video sobre el repositorio.
+
+[![Agradecimiento a Manelautomatic](https://i.imgur.com/fq4Ef0N.png)](https://www.youtube.com/watch?v=9haKti-edOE "Gracias a Manelautomatic por explicar en video el repositorio")
 
 ## ⚠️ Aviso
 
