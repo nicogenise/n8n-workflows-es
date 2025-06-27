@@ -3835,6 +3835,273 @@ Todos los workflows aquí compartidos se proporcionan tal cual. **Antes de emple
 - [1423-bot_handoff.json](workflows/1423-bot_handoff.json)
   Descripción: Transfiere la conversación de un bot a un agente humano.
 
+- [1424-a-very-simple-_human-in-email-ai.json](workflows/1424-a-very-simple-_human-in-email-ai.json)  
+  Descripción: Este flujo permite chatbot, automatización, resumen, generación de contenido utilizando OpenAI/GPT, Email/Gmail, Webhook con inteligencia artificial mediante webhooks y APIs.
+
+- [1425-ai-agent-to-chat-with-files-in-supabase-storage.json](workflows/1425-ai-agent-to-chat-with-files-in-supabase-storage.json)  
+  Descripción: Este flujo permite chatbot, automatización, extracción de datos, generación de contenido utilizando OpenAI/GPT, Webhook, Airtable con inteligencia artificial mediante webhooks y APIs.
+
+- [1426-ai-agent-to-chat-with-openai.json](workflows/1426-ai-agent-to-chat-with-openai.json)  
+  Descripción: Este flujo permite chatbot, automatización, resumen, generación de contenido utilizando OpenAI/GPT, Webhook, Supabase con inteligencia artificial mediante webhooks y APIs.
+
+- [1427-ai-agent-with-ollama-for-current-weather-and-wiki.json](workflows/1427-ai-agent-with-ollama-for-current-weather-and-wiki.json)  
+  Descripción: Este flujo permite chatbot con inteligencia artificial y APIs.
+
+- [1428-ai-powered-web-scraping-with-google-sheets-openai.json](workflows/1428-ai-powered-web-scraping-with-google-sheets-openai.json)  
+  Descripción: Este flujo permite chatbot, web scraping, extracción de datos utilizando OpenAI/GPT, Google Sheets, YouTube con inteligencia artificial y APIs.
+
+- [1429-ai-agent-chat.json](workflows/1429-ai-agent-chat.json)  
+  Descripción: Este flujo permite chatbot utilizando OpenAI/GPT, Webhook con inteligencia artificial mediante webhooks y APIs.
+
+- [1430-ai-agent-for-instagram-dm_inbox-ai.json](workflows/1430-ai-agent-for-instagram-dm_inbox-ai.json)  
+  Descripción: Este flujo permite chatbot, generación de contenido utilizando OpenAI/GPT, Webhook, Notion con inteligencia artificial mediante webhooks y APIs.
+
+- [1431-ai-chat-with-any-data-workflow.json](workflows/1431-ai-chat-with-any-data-workflow.json)  
+  Descripción: Este flujo permite chatbot utilizando OpenAI/GPT con inteligencia artificial y APIs.
+
+- [1432-ai-driven-lead-management-and-automation.json](workflows/1432-ai-driven-lead-management-and-automation.json)  
+  Descripción: Este flujo permite chatbot, automatización, resumen, extracción de datos, generación de contenido, gestión de leads utilizando OpenAI/GPT, Email/Gmail, Webhook con inteligencia artificial mediante webhooks y APIs.
+
+- [1433-ai-powered-candidate-shortlisting-automation.json](workflows/1433-ai-powered-candidate-shortlisting-automation.json)  
+  Descripción: Este flujo permite chatbot, automatización, resumen, extracción de datos, reclutamiento utilizando OpenAI/GPT, Email/Gmail, Webhook con inteligencia artificial mediante webhooks y APIs.
+
+- [1434-ai-powered-children_s-arabic-storytelling-telegram.json](workflows/1434-ai-powered-children_s-arabic-storytelling-telegram.json)  
+  Descripción: Este flujo permite chatbot, automatización, resumen, generación de contenido utilizando OpenAI/GPT, Telegram con inteligencia artificial y APIs de forma programada.
+
+- [1435-ai-powered-information-monitoring-with-openai-google-sheets-ai-slack.json](workflows/1435-ai-powered-information-monitoring-with-openai-google-sheets-ai-slack.json)  
+  Descripción: Este flujo permite chatbot, automatización, web scraping, resumen, extracción de datos, generación de contenido, monitoreo utilizando OpenAI/GPT, Slack, Webhook con inteligencia artificial mediante webhooks y APIs de forma programada.
+
+- [1436-api-schema-extractor.json](workflows/1436-api-schema-extractor.json)  
+  Descripción: Este flujo permite chatbot, web scraping, extracción de datos, generación de contenido utilizando Webhook, Google Sheets, PDF con inteligencia artificial mediante webhooks y APIs.
+
+- [1437-advanced-ai-demo-presented-at-ai.json](workflows/1437-advanced-ai-demo-presented-at-ai.json)  
+  Descripción: Este flujo permite chatbot, automatización, resumen utilizando OpenAI/GPT, Slack, Email/Gmail con inteligencia artificial mediante webhooks y APIs de forma programada.
+
+- [1438-angie-personal-ai-assistant-with-telegram.json](workflows/1438-angie-personal-ai-assistant-with-telegram.json)  
+  Descripción: Este flujo permite chatbot, transcripción, resumen utilizando OpenAI/GPT, Telegram, Email/Gmail con inteligencia artificial mediante webhooks y APIs.
+
+- [1439-ask-questions-about-a-pdf-using-ai.json](workflows/1439-ask-questions-about-a-pdf-using-ai.json)  
+  Descripción: Este flujo permite chatbot utilizando OpenAI/GPT, Webhook con inteligencia artificial mediante webhooks y APIs.
+
+- [1440-auto-categorise-outlook-emails-with-ai.json](workflows/1440-auto-categorise-outlook-emails-with-ai.json)  
+  Descripción: Este flujo permite chatbot, gestión de leads utilizando Email/Gmail, YouTube, Supabase con inteligencia artificial.
+
+- [1441-auto-categorize-blog-posts-in-wordpress-using-ai.json](workflows/1441-auto-categorize-blog-posts-in-wordpress-using-ai.json)  
+  Descripción: Este flujo permite chatbot, automatización utilizando OpenAI/GPT, YouTube con inteligencia artificial y APIs.
+
+- [1442-automate-competitor-research-with-exaai-notion-ai.json](workflows/1442-automate-competitor-research-with-exaai-notion-ai.json)  
+  Descripción: Este flujo permite chatbot, automatización, web scraping, extracción de datos, generación de contenido, reportes utilizando OpenAI/GPT, Webhook, Notion con inteligencia artificial mediante webhooks y APIs.
+
+- [1443-automate-sales-meeting-prep-with-ai-whatsapp.json](workflows/1443-automate-sales-meeting-prep-with-ai-whatsapp.json)  
+  Descripción: Este flujo permite chatbot, web scraping, resumen, extracción de datos, generación de contenido utilizando OpenAI/GPT, Telegram, Slack con inteligencia artificial mediante webhooks y APIs de forma programada.
+
+- [1444-bamboohr-ai-powered-company-policies.json](workflows/1444-bamboohr-ai-powered-company-policies.json)  
+  Descripción: Este flujo permite chatbot, extracción de datos, gestión de leads utilizando OpenAI/GPT, Email/Gmail, Webhook con inteligencia artificial mediante webhooks y APIs.
+
+- [1445-breakdown-documents-into-study-notes.json](workflows/1445-breakdown-documents-into-study-notes.json)  
+  Descripción: Este flujo permite chatbot, automatización, resumen, extracción de datos, generación de contenido utilizando Webhook, PDF con inteligencia artificial mediante webhooks y APIs.
+
+- [1446-building-your-first-whatsapp-chatbot.json](workflows/1446-building-your-first-whatsapp-chatbot.json)  
+  Descripción: Este flujo permite chatbot, extracción de datos utilizando OpenAI/GPT, Webhook, PDF con inteligencia artificial mediante webhooks y APIs.
+
+- [1447-cv-resume-pdf-parsing-with-multimodal-vision-ai.json](workflows/1447-cv-resume-pdf-parsing-with-multimodal-vision-ai.json)  
+  Descripción: Este flujo permite chatbot, automatización, extracción de datos utilizando Email/Gmail, PDF con inteligencia artificial y APIs.
+
+- [1448-cv-screening-with-openai.json](workflows/1448-cv-screening-with-openai.json)  
+  Descripción: Este flujo permite chatbot, automatización, resumen, extracción de datos, generación de contenido, reclutamiento utilizando OpenAI/GPT, Slack, Airtable con inteligencia artificial y APIs.
+
+- [1449-chat-with-pdf-docs-using-ai-quoting-sources.json](workflows/1449-chat-with-pdf-docs-using-ai-quoting-sources.json)  
+  Descripción: Este flujo permite chatbot, generación de contenido utilizando OpenAI/GPT, Email/Gmail, Webhook con inteligencia artificial mediante webhooks y APIs.
+
+- [1450-chatgpt-automatic-code-review-in-gitlab-mr.json](workflows/1450-chatgpt-automatic-code-review-in-gitlab-mr.json)  
+  Descripción: Este flujo permite chatbot utilizando OpenAI/GPT, Webhook con inteligencia artificial mediante webhooks y APIs.
+
+- [1451-classify-new-bugs-in-linear-gpt.json](workflows/1451-classify-new-bugs-in-linear-gpt.json)  
+  Descripción: Este flujo automatiza procesos utilizando OpenAI/GPT, Slack, Webhook con inteligencia artificial mediante webhooks y APIs.
+
+- [1452-complete-business-whatsapp-ai-powered-openai.json](workflows/1452-complete-business-whatsapp-ai-powered-openai.json)  
+  Descripción: Este flujo permite chatbot utilizando OpenAI/GPT, Webhook, WhatsApp con inteligencia artificial mediante webhooks y APIs.
+
+- [1453-convert-url-html-to-markdown.json](workflows/1453-convert-url-html-to-markdown.json)  
+  Descripción: Este flujo permite automatización, web scraping, extracción de datos utilizando Webhook, Airtable con inteligencia artificial mediante webhooks y APIs.
+
+- [1454-create-dynamic-twitter-profile-banner.json](workflows/1454-create-dynamic-twitter-profile-banner.json)  
+  Descripción: Este flujo automatiza procesos utilizando Twitter/X con inteligencia artificial y APIs.
+
+- [1455-creating-a-ai-slack-bot-with-google-gemini.json](workflows/1455-creating-a-ai-slack-bot-with-google-gemini.json)  
+  Descripción: Este flujo permite chatbot, automatización utilizando Slack, Webhook con inteligencia artificial mediante webhooks.
+
+- [1456-customer-support-channel-and-ticketing-slack.json](workflows/1456-customer-support-channel-and-ticketing-slack.json)  
+  Descripción: Este flujo permite chatbot, resumen, generación de contenido, monitoreo utilizando OpenAI/GPT, Slack, Linear con inteligencia artificial y APIs de forma programada.
+
+- [1457-deduplicate-scraping-ai-grants-for-ai.json](workflows/1457-deduplicate-scraping-ai-grants-for-ai.json)  
+  Descripción: Este flujo permite chatbot, automatización, resumen, extracción de datos, generación de contenido, monitoreo, gestión de leads utilizando OpenAI/GPT, Email/Gmail, Webhook con inteligencia artificial mediante webhooks y APIs de forma programada.
+
+- [1458-discord-ai-powered-bot.json](workflows/1458-discord-ai-powered-bot.json)  
+  Descripción: Este flujo permite chatbot, resumen utilizando OpenAI/GPT, Webhook con inteligencia artificial mediante webhooks y APIs.
+
+- [1459-dynamically-generate-a-webpage-from-openai.json](workflows/1459-dynamically-generate-a-webpage-from-openai.json)  
+  Descripción: Este flujo permite chatbot, generación de contenido utilizando OpenAI/GPT, Webhook con inteligencia artificial mediante webhooks y APIs.
+
+- [1460-etl-pipeline-for-text-processing.json](workflows/1460-etl-pipeline-for-text-processing.json)  
+  Descripción: Este flujo permite análisis de sentimientos utilizando Slack, Twitter/X, MongoDB con inteligencia artificial y APIs.
+
+- [1461-enhance-security-operations-with-the-slack-bot.json](workflows/1461-enhance-security-operations-with-the-slack-bot.json)  
+  Descripción: Este flujo permite automatización, resumen, extracción de datos, generación de contenido, reportes utilizando Slack, Webhook, PDF con inteligencia artificial mediante webhooks y APIs.
+
+- [1462-enrich-pipedrive_s-organization-data-with-openai-gpt-slack.json](workflows/1462-enrich-pipedrive_s-organization-data-with-openai-gpt-slack.json)  
+  Descripción: Este flujo permite web scraping, resumen, extracción de datos, generación de contenido utilizando OpenAI/GPT, Slack, Webhook con inteligencia artificial mediante webhooks y APIs.
+
+- [1463-extract-and-process-information-directly-pdf.json](workflows/1463-extract-and-process-information-directly-pdf.json)  
+  Descripción: Este flujo permite extracción de datos, generación de contenido, procesamiento de facturas utilizando PDF con inteligencia artificial y APIs.
+
+- [1464-extract-data-from-resume-and-pdf.json](workflows/1464-extract-data-from-resume-and-pdf.json)  
+  Descripción: Este flujo permite chatbot, automatización, extracción de datos, generación de contenido utilizando OpenAI/GPT, Telegram, Email/Gmail con inteligencia artificial mediante webhooks y APIs.
+
+- [1465-extract-license-plate-number-from.json](workflows/1465-extract-license-plate-number-from.json)  
+  Descripción: Este flujo permite chatbot, extracción de datos utilizando OpenAI/GPT, Webhook con inteligencia artificial mediante webhooks y APIs.
+
+- [1466-extract-personal-data-with-self.json](workflows/1466-extract-personal-data-with-self.json)  
+  Descripción: Este flujo permite chatbot, extracción de datos utilizando Email/Gmail, Webhook con inteligencia artificial mediante webhooks y APIs.
+
+- [1467-extract-text-from-pdf-and-ai.json](workflows/1467-extract-text-from-pdf-and-ai.json)  
+  Descripción: Este flujo permite chatbot, extracción de datos utilizando Email/Gmail, PDF con inteligencia artificial y APIs.
+
+- [1468-fetch-dynamic-prompts-from-github.json](workflows/1468-fetch-dynamic-prompts-from-github.json)  
+  Descripción: Este flujo permite chatbot, extracción de datos con inteligencia artificial y APIs.
+
+- [1469-generate-instagram-content-from-top-ai.json](workflows/1469-generate-instagram-content-from-top-ai.json)  
+  Descripción: Este flujo permite chatbot, automatización, web scraping, resumen, generación de contenido, monitoreo utilizando OpenAI/GPT, Telegram, Instagram con inteligencia artificial y APIs de forma programada.
+
+- [1470-generate-audio-from-text-using-openai-webhook-workflow.json](workflows/1470-generate-audio-from-text-using-openai-webhook-workflow.json)  
+  Descripción: Este flujo permite generación de contenido utilizando OpenAI/GPT, Webhook con inteligencia artificial mediante webhooks y APIs.
+
+- [1471-get-airtable-data-via-ai-and-obsidian-notes.json](workflows/1471-get-airtable-data-via-ai-and-obsidian-notes.json)  
+  Descripción: Este flujo permite chatbot utilizando OpenAI/GPT, Webhook, Airtable con inteligencia artificial mediante webhooks y APIs.
+
+- [1472-hr-it-helpdesk-chatbot-with-audio-transcription.json](workflows/1472-hr-it-helpdesk-chatbot-with-audio-transcription.json)  
+  Descripción: Este flujo permite chatbot, transcripción, extracción de datos, generación de contenido utilizando OpenAI/GPT, Telegram, Webhook con inteligencia artificial mediante webhooks y APIs.
+
+- [1473-hr-job-posting-and-evaluation-with-ai.json](workflows/1473-hr-job-posting-and-evaluation-with-ai.json)  
+  Descripción: Este flujo permite chatbot, automatización, extracción de datos, generación de contenido, monitoreo utilizando OpenAI/GPT, Email/Gmail, Webhook con inteligencia artificial mediante webhooks y APIs de forma programada.
+
+- [1474-host-your-own-ai-deep-agent-openai.json](workflows/1474-host-your-own-ai-deep-agent-openai.json)  
+  Descripción: Este flujo permite chatbot, web scraping, resumen, extracción de datos, generación de contenido, reportes utilizando OpenAI/GPT, Webhook, Notion con inteligencia artificial mediante webhooks y APIs.
+
+- [1475-it-ops-ai-slackbot-workflow-chat.json](workflows/1475-it-ops-ai-slackbot-workflow-chat.json)  
+  Descripción: Este flujo permite chatbot, automatización, resumen, generación de contenido utilizando OpenAI/GPT, Slack, Webhook con inteligencia artificial mediante webhooks y APIs.
+
+- [1476-integrating-ai-with-open-meteo-api.json](workflows/1476-integrating-ai-with-open-meteo-api.json)  
+  Descripción: Este flujo permite chatbot utilizando OpenAI/GPT, Webhook con inteligencia artificial mediante webhooks y APIs.
+
+- [1477-intelligent-web-query-and-semantic-google.json](workflows/1477-intelligent-web-query-and-semantic-google.json)  
+  Descripción: Este flujo permite chatbot, resumen, extracción de datos, generación de contenido, reportes, gestión de leads utilizando OpenAI/GPT, Webhook con inteligencia artificial mediante webhooks y APIs.
+
+- [1478-invoice-data-extraction-with-llamaparse-and-openai.json](workflows/1478-invoice-data-extraction-with-llamaparse-and-openai.json)  
+  Descripción: Este flujo permite extracción de datos, procesamiento de facturas utilizando OpenAI/GPT, Email/Gmail, Webhook con inteligencia artificial mediante webhooks y APIs.
+
+- [1479-learn-anything-from-hn-get.json](workflows/1479-learn-anything-from-hn-get.json)  
+  Descripción: Este flujo permite chatbot, web scraping, análisis de sentimientos utilizando Email/Gmail, Webhook, YouTube con inteligencia artificial mediante webhooks y APIs.
+
+- [1480-manipulate-pdf-with-adobe-developer-api.json](workflows/1480-manipulate-pdf-with-adobe-developer-api.json)  
+  Descripción: Este flujo permite extracción de datos utilizando OpenAI/GPT, Webhook, PDF con inteligencia artificial mediante webhooks y APIs.
+
+- [1481-microsoft-outlook-ai-email-assistant-airtable.json](workflows/1481-microsoft-outlook-ai-email-assistant-airtable.json)  
+  Descripción: Este flujo permite chatbot, gestión de leads utilizando OpenAI/GPT, Email/Gmail, Airtable con inteligencia artificial y APIs de forma programada.
+
+- [1482-mongodb-ai-agent-intelligent-movie-recommendations.json](workflows/1482-mongodb-ai-agent-intelligent-movie-recommendations.json)  
+  Descripción: Este flujo permite chatbot utilizando OpenAI/GPT, Webhook, MongoDB con inteligencia artificial mediante webhooks y APIs.
+
+- [1483-openai-powered-tweet-generator.json](workflows/1483-openai-powered-tweet-generator.json)  
+  Descripción: Este flujo permite generación de contenido utilizando OpenAI/GPT, Airtable, Twitter/X con inteligencia artificial y APIs.
+
+- [1484-parse-pdf-with-llamaparse-and-save-to-airtable.json](workflows/1484-parse-pdf-with-llamaparse-and-save-to-airtable.json)  
+  Descripción: Este flujo permite chatbot, automatización, transcripción, extracción de datos, generación de contenido, monitoreo, procesamiento de facturas utilizando OpenAI/GPT, Webhook, Airtable con inteligencia artificial mediante webhooks y APIs.
+
+- [1485-post-new-youtube-videos-to-x.json](workflows/1485-post-new-youtube-videos-to-x.json)  
+  Descripción: Este flujo permite chatbot, generación de contenido utilizando OpenAI/GPT, Twitter/X, YouTube con inteligencia artificial y APIs de forma programada.
+
+- [1486-prepare-csv-files-with-gpt-gpt.json](workflows/1486-prepare-csv-files-with-gpt-gpt.json)  
+  Descripción: Este flujo permite chatbot utilizando OpenAI/GPT, Email/Gmail con inteligencia artificial y APIs.
+
+- [1487-qualify-new-leads-in-google-sheets-gpt.json](workflows/1487-qualify-new-leads-in-google-sheets-gpt.json)  
+  Descripción: Este flujo permite chatbot, extracción de datos, gestión de leads utilizando OpenAI/GPT, Email/Gmail, Google Sheets con inteligencia artificial y APIs.
+
+- [1488-qualifying-appointment-requests-with-ai-n8n-forms.json](workflows/1488-qualifying-appointment-requests-with-ai-n8n-forms.json)  
+  Descripción: Este flujo permite chatbot, automatización, transcripción, resumen utilizando OpenAI/GPT, Email/Gmail, Webhook con inteligencia artificial mediante webhooks y APIs de forma programada.
+
+- [1489-reconcile-rent-payments-with-local-excel-openai.json](workflows/1489-reconcile-rent-payments-with-local-excel-openai.json)  
+  Descripción: Este flujo permite chatbot, extracción de datos, generación de contenido, reportes utilizando OpenAI/GPT, Excel con inteligencia artificial y APIs.
+
+- [1490-reddit-ai-digest.json](workflows/1490-reddit-ai-digest.json)  
+  Descripción: Este flujo permite automatización, resumen, extracción de datos, monitoreo utilizando OpenAI/GPT, Slack, Twitter/X con inteligencia artificial y APIs.
+
+- [1491-remove-personally-identifiable-information-pii-openai.json](workflows/1491-remove-personally-identifiable-information-pii-openai.json)  
+  Descripción: Este flujo permite extracción de datos, generación de contenido, monitoreo utilizando OpenAI/GPT con inteligencia artificial y APIs.
+
+- [1492-respond-to-whatsapp-messages-with-ai-like-a-pro.json](workflows/1492-respond-to-whatsapp-messages-with-ai-like-a-pro.json)  
+  Descripción: Este flujo permite chatbot, transcripción, resumen, extracción de datos, generación de contenido utilizando OpenAI/GPT, Webhook, WhatsApp con inteligencia artificial mediante webhooks y APIs.
+
+- [1493-scrape-trustpilot-reviews-with-deepseek-openai.json](workflows/1493-scrape-trustpilot-reviews-with-deepseek-openai.json)  
+  Descripción: Este flujo permite chatbot, web scraping, análisis de sentimientos, extracción de datos, reportes utilizando OpenAI/GPT, Google Sheets con inteligencia artificial y APIs.
+
+- [1494-sentiment-analysis-tracking-on-support-slack.json](workflows/1494-sentiment-analysis-tracking-on-support-slack.json)  
+  Descripción: Este flujo permite chatbot, análisis de sentimientos, resumen, extracción de datos, monitoreo, reportes utilizando OpenAI/GPT, Slack, Webhook con inteligencia artificial mediante webhooks y APIs de forma programada.
+
+- [1495-slack-slash-commands-ai-chat-bot.json](workflows/1495-slack-slash-commands-ai-chat-bot.json)  
+  Descripción: Este flujo permite chatbot, automatización utilizando OpenAI/GPT, Slack, Webhook con inteligencia artificial mediante webhooks.
+
+- [1496-social-media-analysis-and-automated-email.json](workflows/1496-social-media-analysis-and-automated-email.json)  
+  Descripción: Este flujo permite chatbot, automatización, web scraping, extracción de datos, generación de contenido, gestión de leads utilizando OpenAI/GPT, Email/Gmail, Google Sheets con inteligencia artificial y APIs.
+
+- [1497-speed-up-social-media-banners-with-bannerbearcom.json](workflows/1497-speed-up-social-media-banners-with-bannerbearcom.json)  
+  Descripción: Este flujo permite generación de contenido utilizando OpenAI/GPT, Webhook, Twitter/X con inteligencia artificial mediante webhooks y APIs.
+
+- [1498-store-notion_s-pages-as-vector-openai.json](workflows/1498-store-notion_s-pages-as-vector-openai.json)  
+  Descripción: Este flujo permite automatización, resumen, generación de contenido, monitoreo utilizando OpenAI/GPT, Notion, Supabase con inteligencia artificial y APIs.
+
+- [1499-summarize-the-new-documents-from-google-drive-google.json](workflows/1499-summarize-the-new-documents-from-google-drive-google.json)  
+  Descripción: Este flujo permite automatización, resumen, generación de contenido utilizando OpenAI/GPT, Email/Gmail, Google Sheets con inteligencia artificial y APIs.
+
+- [1500-telegram-ai-chatbot.json](workflows/1500-telegram-ai-chatbot.json)  
+  Descripción: Este flujo permite chatbot utilizando OpenAI/GPT, Telegram, Webhook con inteligencia artificial mediante webhooks y APIs.
+
+- [1501-text-automations-using-apple-shortcuts-1.json](workflows/1501-text-automations-using-apple-shortcuts-1.json)  
+  Descripción: Este flujo permite automatización, resumen utilizando OpenAI/GPT, Webhook con inteligencia artificial mediante webhooks y APIs.
+
+- [1502-transcribe-audio-files-summarize-with-gpt-notion.json](workflows/1502-transcribe-audio-files-summarize-with-gpt-notion.json)  
+  Descripción: Este flujo permite análisis de sentimientos, transcripción, resumen utilizando OpenAI/GPT, Notion con inteligencia artificial y APIs.
+
+- [1503-transcribing-bank-statements-to-markdown-ai.json](workflows/1503-transcribing-bank-statements-to-markdown-ai.json)  
+  Descripción: Este flujo permite chatbot, transcripción, extracción de datos, generación de contenido utilizando OpenAI/GPT, Webhook, PDF con inteligencia artificial mediante webhooks y APIs.
+
+- [1504-twitter-virtual-ai-influencer.json](workflows/1504-twitter-virtual-ai-influencer.json)  
+  Descripción: Este flujo permite generación de contenido utilizando OpenAI/GPT, Twitter/X con inteligencia artificial y APIs de forma programada.
+
+- [1505-utm-link-creator-qr-code-google.json](workflows/1505-utm-link-creator-qr-code-google.json)  
+  Descripción: Este flujo permite chatbot, resumen, generación de contenido, reportes utilizando OpenAI/GPT, Email/Gmail, Webhook con inteligencia artificial mediante webhooks y APIs de forma programada.
+
+- [1506-update-twitter-banner-using-http-request.json](workflows/1506-update-twitter-banner-using-http-request.json)  
+  Descripción: Este flujo automatiza procesos utilizando Twitter/X con inteligencia artificial y APIs.
+
+- [1507-upsert-huge-documents-in-a-notion.json](workflows/1507-upsert-huge-documents-in-a-notion.json)  
+  Descripción: Este flujo permite chatbot, resumen utilizando OpenAI/GPT, Webhook, Notion con inteligencia artificial mediante webhooks y APIs de forma programada.
+
+- [1508-use-openrouter-in-n8n-versions-_178.json](workflows/1508-use-openrouter-in-n8n-versions-_178.json)  
+  Descripción: Este flujo permite chatbot utilizando OpenAI/GPT, Webhook con inteligencia artificial mediante webhooks y APIs.
+
+- [1509-venafi-cloud-slack-cert-bot.json](workflows/1509-venafi-cloud-slack-cert-bot.json)  
+  Descripción: Este flujo permite automatización, resumen, extracción de datos, generación de contenido, reportes utilizando OpenAI/GPT, Slack, Email/Gmail con inteligencia artificial mediante webhooks y APIs.
+
+- [1510-vassistant-for-hubspot-chat-using-openai-airtable.json](workflows/1510-vassistant-for-hubspot-chat-using-openai-airtable.json)  
+  Descripción: Este flujo permite chatbot utilizando OpenAI/GPT, Email/Gmail, Webhook con inteligencia artificial mediante webhooks y APIs.
+
+- [1511-ai-agent-for-n8n-creators.json](workflows/1511-ai-agent-for-n8n-creators.json)  
+  Descripción: Este flujo permite chatbot, automatización, resumen, extracción de datos, generación de contenido, monitoreo, reportes, gestión de leads utilizando OpenAI/GPT, Webhook con inteligencia artificial mediante webhooks y APIs.
+
+- [1512-local-multi-llm-testing-performance-tracker.json](workflows/1512-local-multi-llm-testing-performance-tracker.json)  
+  Descripción: Este flujo permite chatbot, extracción de datos, generación de contenido utilizando OpenAI/GPT, Webhook, Google Sheets con inteligencia artificial mediante webhooks y APIs.
+
 - [2529-firecrawl-tool.json](workflows/2529-firecrawl-tool.json)
   Descripción: Este flujo permite a cualquier usuario enviar URLs para obtener respuestas de la API de Firecrawl y mantenerlas como campos editables en el contexto del workflow.
 
