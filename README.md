@@ -635,7 +635,7 @@ Todos los workflows aquí compartidos se proporcionan tal cual. **Antes de emple
   - **Complejidad:** Baja (1 nodos)
 
 
-## Notificaciones y Alertas
+### Notificaciones y Alertas
 
 - **[1262-thehive-slack-integration.json](workflows/1262-thehive-slack-integration.json)**
   - **Descripción:** Envía notificaciones de casos de TheHive a un canal de Slack.
@@ -2370,7 +2370,7 @@ Todos los workflows aquí compartidos se proporcionan tal cual. **Antes de emple
   - **Complejidad:** Baja (1 nodos)
 
 
-## Sincronización de Datos y Archivos
+### Sincronización de Datos y Archivos
 
 - **[2887-ai-language-tools.json](workflows/2887-ai-language-tools.json)**
   - **Descripción:** Este flujo incluye una variedad de nodos relacionados con agentes de lenguaje y herramientas de IA, como transformadores de lenguaje, cadenas de encadenamiento, extraedores de información, analizadores de sentimiento, herramientas de vectores y memoria. También contiene conexiones con servicios externos como Google Sheets, Dropbox, Gmail, Twitter y más.
@@ -5033,7 +5033,7 @@ Todos los workflows aquí compartidos se proporcionan tal cual. **Antes de emple
   - **Complejidad:** Baja (1 nodos)
 
 
-## Herramientas de Productividad y Colaboración
+### Herramientas de Productividad y Colaboración
 
 - **[1398-mails2notion.json](workflows/1398-mails2notion.json)**
   - **Descripción:** Convierte correos electrónicos en páginas de Notion.
@@ -8036,7 +8036,7 @@ Todos los workflows aquí compartidos se proporcionan tal cual. **Antes de emple
   - **Complejidad:** Baja (1 nodos)
 
 
-## Gestión de Contenido y Redes Sociales
+### Gestión de Contenido y Redes Sociales
 
 - **[0007-social-media-creator.json](workflows/0007-social-media-creator.json)**
   - **Descripción:** Este flujo automático permite a un chatbot crear contenido optimizado para múltiples redes sociales (X-Twitter, Instagram, Facebook, LinkedIn, Threads, YouTube Shorts) utilizando modelos LLM y herramientas de búsqueda web. Genera posts con estructuras JSON específicas y crea imágenes usando servicios externos como pollinations.ai.
@@ -8579,7 +8579,7 @@ Todos los workflows aquí compartidos se proporcionan tal cual. **Antes de emple
   - **Complejidad:** Baja (1 nodos)
 
 
-## E-commerce y Pagos
+### E-commerce y Pagos
 
 - **[0826-ai-woocommerce-support-agent.json](workflows/0826-ai-woocommerce-support-agent.json)**
   - **Descripción:** Este flujo automatizado implementa un asistente de IA con n8n y WooCommerce para gestionar consultas de clientes sobre sus pedidos, asegurando privacidad mediante encriptación del correo electrónico y integrando funciones como DHL.
@@ -8654,7 +8654,7 @@ Todos los workflows aquí compartidos se proporcionan tal cual. **Antes de emple
   - **Complejidad:** Baja (1 nodos)
 
 
-## Inteligencia Artificial y Procesamiento de Lenguaje Natural (NLP)
+### Inteligencia Artificial y Procesamiento de Lenguaje Natural (NLP)
 
 - **[2667-auto-doc-gpt-docsify.json](workflows/2667-auto-doc-gpt-docsify.json)**
   - **Descripción:** Este flujo automático genera documentación en Markdown para workflows de n8n utilizando GPT y Docsify, permitiendo crear páginas interactivas con esquemas visuales (Mermaid) que describen cada nodo.
@@ -9317,7 +9317,7 @@ Todos los workflows aquí compartidos se proporcionan tal cual. **Antes de emple
   - **Complejidad:** Baja (1 nodos)
 
 
-## Web Scraping y Extracción de Datos
+### Web Scraping y Extracción de Datos
 
 - **[0990-google-trends-automatizacion.json](workflows/0990-google-trends-automatizacion.json)**
   - **Descripción:** Este flujo automático analiza los resultados de Google Trends, filtra por tráfico mínimo y resultados máximos, luego extrae información de artículos relacionados mediante scraping con Jina.ai. Si las condiciones se cumplen (por ejemplo: tráfico adecuado y nuevos términos), guarda la información en una hoja de Google para su seguimiento.
@@ -9356,7 +9356,7 @@ Todos los workflows aquí compartidos se proporcionan tal cual. **Antes de emple
   - **Complejidad:** Baja (4 nodos)
 
 
-## Agentes Autónomos y Lógica Dinámica
+### Agentes Autónomos y Lógica Dinámica
 
 - **[1392-deep_researcher.json](workflows/1392-deep_researcher.json)**
   - **Descripción:** Agente de investigación profunda con IA.
@@ -9455,7 +9455,7 @@ Todos los workflows aquí compartidos se proporcionan tal cual. **Antes de emple
   - **Complejidad:** Media (5 nodos)
 
 
-## Otros / Misceláneos
+### Otros / Misceláneos
 
 - **[1269-api-schema-extractor.json](workflows/1269-api-schema-extractor.json)**
   - **Descripción:** Extrae y documenta el esquema de una API.
