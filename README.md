@@ -3076,7 +3076,7 @@ Todos los workflows aquí compartidos se proporcionan tal cual. **Antes de emple
 
 - [2692-http-web-content-processor.json](workflows/2692-http-web-content-processor.json) Descripción: Este flujo procesa una solicitud HTTP para obtener contenido de una página web, lo convierte a Markdown y aplica limitaciones como la eliminación de enlaces e imágenes si el método es simplificado. Maneja errores y formatea la salida según los parámetros proporcionados.
 
-- [2693-búsqueda_correo_icypeas.json](workflows/2693-búsqueda_correo_icypeas.json) Descripción: Este flujo configura una búsqueda de correo electrónico en masa utilizando Icypeas. Lee datos de una hoja de cálculo de Google con información personal y autentica al usuario para realizar una solicitud POST a la API de Icypeas, generando una firma SHA1 necesaria para el proceso.
+- [2693-busqueda_correo_icypeas.json](workflows/2693-busqueda_correo_icypeas.json) Descripción: Este flujo configura una búsqueda de correo electrónico en masa utilizando Icypeas. Lee datos de una hoja de cálculo de Google con información personal y autentica al usuario para realizar una solicitud POST a la API de Icypeas, generando una firma SHA1 necesaria para el proceso.
 
 - [2694-dominio_icypeas.json](workflows/2694-dominio_icypeas.json) Descripción: Este flujo automatiza la ejecución de un análisis大批量 de dominios utilizando Icypeas. Lee datos desde una hoja de cálculo de Google, autentica en la cuenta de Icypeas y envía una solicitud POST para realizar las búsquedas masivas.
 
