@@ -2374,11 +2374,11 @@ Todos los workflows aquí compartidos se proporcionan tal cual. **Antes de emple
 
 - **[2887-ai-language-tools.json](workflows/2887-ai-language-tools.json)**
   - **Descripción:** Este flujo incluye una variedad de nodos relacionados con agentes de lenguaje y herramientas de IA, como transformadores de lenguaje, cadenas de encadenamiento, extraedores de información, analizadores de sentimiento, herramientas de vectores y memoria. También contiene conexiones con servicios externos como Google Sheets, Dropbox, Gmail, Twitter y más.
-  - **Complejidad:** Alta (13 nodos)
+  - **Complejidad:** Media (13 nodos)
 
 - **[2825-gestion_citas_vapi.json](workflows/2825-gestion_citas_vapi.json)**
   - **Descripción:** Este flujo automático gestiona la reserva y gestión de citas mediante Vapi, Google Calendar y Airtable. Permite verificar disponibilidad, crear, actualizar y eliminar eventos, así como registrar información de llamadas telefónicas.
-  - **Complejidad:** Alta (9 nodos)
+  - **Complejidad:** Media (9 nodos)
 
 - **[0204-clientes-condicion.json](workflows/0204-clientes-condicion.json)**
   - **Descripción:** Este flujo procesa datos de clientes mediante filtros y bifurcaciones condicionales para segmentarlos por país.
@@ -2490,7 +2490,7 @@ Todos los workflows aquí compartidos se proporcionan tal cual. **Antes de emple
 
 - **[1436-api-schema-extractor.json](workflows/1436-api-schema-extractor.json)**
   - **Descripción:** Este flujo permite chatbot, web scraping, extracción de datos, generación de contenido utilizando Webhook, Google Sheets, PDF con inteligencia artificial mediante webhooks y APIs.
-  - **Complejidad:** Alta (8 nodos)
+  - **Complejidad:** Media (8 nodos)
 
 - **[0096-news-hacker.json](workflows/0096-news-hacker.json)**
   - **Descripción:** Este flujo automático recoge títulos y URLs de noticias de Hacker News, las exporta como un archivo en formato CSV o Excel y envía una notificación por correo electrónico.
@@ -2690,23 +2690,23 @@ Todos los workflows aquí compartidos se proporcionan tal cual. **Antes de emple
 
 - **[0969-ats-ai-assessment.json](workflows/0969-ats-ai-assessment.json)**
   - **Descripción:** Este flujo automático procesa solicitudes de candidatos extraídos de formularios, analiza sus datos personales y calificaciones mediante modelos de Google Gemini, asigna experiencias por funciones usando un extractor LLM, evalúa su alineación con descripciones de roles específicos en Notion ATS, genera evaluaciones estructuradas y actualiza registros tanto en Notion como en Google Sheets.
-  - **Complejidad:** Alta (6 nodos)
+  - **Complejidad:** Media (6 nodos)
 
 - **[1242-ultimate-scraper-workflow.json](workflows/1242-ultimate-scraper-workflow.json)**
   - **Descripción:** Este flujo automático permite extraer información de cualquier página web, ya sea pública o privada, utilizando técnicas avanzadas como la automatización del navegador.Selenium y análisis con modelos de lenguaje de OpenAI. Ideal para proyectos que requieren recopilar datos detras de WAFs.
-  - **Complejidad:** Alta (6 nodos)
+  - **Complejidad:** Media (6 nodos)
 
 - **[2555-workflow-docs.json](workflows/2555-workflow-docs.json)**
   - **Descripción:** Este flujo automático permite a n8n generar y mantener documentación de workflows mediante Docsify, creando archivos Markdown basados en los datos del workflow.
-  - **Complejidad:** Alta (6 nodos)
+  - **Complejidad:** Media (6 nodos)
 
 - **[2998-notion-clockify-sync.json](workflows/2998-notion-clockify-sync.json)**
   - **Descripción:** Este flujo sincroniza datos entre Notion y Clockify, manejando clientes, proyectos y tareas. Actualiza estados y IDs de manera bidireccional.
-  - **Complejidad:** Alta (6 nodos)
+  - **Complejidad:** Media (6 nodos)
 
 - **[3045-selenium_scraping_automatizado.json](workflows/3045-selenium_scraping_automatizado.json)**
   - **Descripción:** Este flujo automatiza la extracción de datos web utilizando Selenium y OpenAI. Busca URLs relevantes en una página dada, extrae información con IA, maneja cookies y sesiones para logueo opcional, toma capturas de pantalla y detecta posibles bloqueos por WAF.
-  - **Complejidad:** Alta (6 nodos)
+  - **Complejidad:** Media (6 nodos)
 
 - **[0095-sequential-http-post.json](workflows/0095-sequential-http-post.json)**
   - **Descripción:** Este flujo permite iniciar manualmente la ejecución, obtener todos los datos de clientes desde un almacenamiento, dividirlos en lotes individuales y enviar cada uno mediante una solicitud HTTP POST a la API de JSONPlaceholder.
@@ -2806,39 +2806,39 @@ Todos los workflows aquí compartidos se proporcionan tal cual. **Antes de emple
 
 - **[0717-rag-chatbot-docs.json](workflows/0717-rag-chatbot-docs.json)**
   - **Descripción:** Este flujo automático permite a un chatbot de IA mantener una conversación contextualizada usando documentos almacenados en Google Drive y Qdrant. Extrae metadatos relevantes como temas principales, puntos dolorosos e información clave para mejorar la búsqueda semántica y las respuestas del asistente.
-  - **Complejidad:** Alta (5 nodos)
+  - **Complejidad:** Media (5 nodos)
 
 - **[0808-airtable-dynamic-prompts-llm.json](workflows/0808-airtable-dynamic-prompts-llm.json)**
   - **Descripción:** Este flujo automático permite al usuario generar y mantener un esquema dinámico de campos en una tabla de Airtable mediante webhooks, optimizando la actualización con LLM solo cuando son necesarios.
-  - **Complejidad:** Alta (5 nodos)
+  - **Complejidad:** Media (5 nodos)
 
 - **[0941-techradar-ai-agent.json](workflows/0941-techradar-ai-agent.json)**
   - **Descripción:** Este flujo automático maneja la tecnología corporativa para tres empresas, manteniendo actualizados los registros en base de datos SQL y almacenamiento vectorial Pinecone. Se ejecuta cada mes un cron job que sincroniza los datos desde Google Sheets eliminando registros antiguos.
-  - **Complejidad:** Alta (5 nodos)
+  - **Complejidad:** Media (5 nodos)
 
 - **[1258-pdf-to-vector-store.json](workflows/1258-pdf-to-vector-store.json)**
   - **Descripción:** Convierte un PDF en datos vectoriales para búsquedas posteriores.
-  - **Complejidad:** Alta (5 nodos)
+  - **Complejidad:** Media (5 nodos)
 
 - **[1276-airtable-pdf-llm-update.json](workflows/1276-airtable-pdf-llm-update.json)**
   - **Descripción:** Actualiza registros de Airtable con datos extraídos de PDFs mediante LLM.
-  - **Complejidad:** Alta (5 nodos)
+  - **Complejidad:** Media (5 nodos)
 
 - **[2575-wordpress-ai-chatbot.json](workflows/2575-wordpress-ai-chatbot.json)**
   - **Descripción:** Este flujo automático permite crear y mantener embeddings de contenido de WordPress en Supabase, utilizando modelos OpenAI para responder preguntas con información contextualizada.
-  - **Complejidad:** Alta (5 nodos)
+  - **Complejidad:** Media (5 nodos)
 
 - **[2704-switchy-url-shortener.json](workflows/2704-switchy-url-shortener.json)**
   - **Descripción:** Este flujo procesa URLs para generar y acortarlas utilizando Switchy.io. Analiza metadatos, verifica seguridad con Norton y Bitdefender, y maneja diferentes modos de imagen OpenGraph.
-  - **Complejidad:** Alta (5 nodos)
+  - **Complejidad:** Media (5 nodos)
 
 - **[3041-online-marketing-report.json](workflows/3041-online-marketing-report.json)**
   - **Descripción:** Este flujo automático genera un informe semanal de marketing digital que recopila y analiza datos de Google Analytics, Google Ads y Meta Ads. Utiliza sub-flujos para obtener métricas actuales y del año pasado, procesa la información con OpenAI y envía el reporte por correo electrónico.
-  - **Complejidad:** Alta (5 nodos)
+  - **Complejidad:** Media (5 nodos)
 
 - **[3090-app-wordpress-genai.json](workflows/3090-app-wordpress-genai.json)**
   - **Descripción:** Este flujo implementa una aplicación que utiliza tecnologías de RAG (Retrieval-Augmented Generation) y GenAI para interactuar con contenido de WordPress. Extrae embeddings de texto, gestiona documentos en Supabase y mantiene memoria del chat usando PostgreSQL.
-  - **Complejidad:** Alta (5 nodos)
+  - **Complejidad:** Media (5 nodos)
 
 - **[0018-entrevistas-y-participantes.json](workflows/0018-entrevistas-y-participantes.json)**
   - **Descripción:** Este flujo procesa dos conjuntos de datos separados que contienen información sobre entrevistas y sus participantes, convirtiendo cada entrada individual en un objeto independiente para luego fusionarlos basándose en claves específicas.
@@ -2978,103 +2978,103 @@ Todos los workflows aquí compartidos se proporcionan tal cual. **Antes de emple
 
 - **[0809-baserow-pdf-extractor.json](workflows/0809-baserow-pdf-extractor.json)**
   - **Descripción:** Este flujo automático permite a un usuario extraer datos de PDF utilizando prompts dinámicos en una tabla Baserow.
-  - **Complejidad:** Alta (4 nodos)
+  - **Complejidad:** Baja (4 nodos)
 
 - **[0872-estudio-descomposicion-documents-n8n.json](workflows/0872-estudio-descomposicion-documents-n8n.json)**
   - **Descripción:** Este flujo automatizado permite al sistema procesar documentos subidos en un directorio especificado, dividirlos en bloques de texto, vectorizar su contenido y luego generar diferentes tipos de materiales de estudio como guías o cronologías utilizando modelos de lenguaje AI. Finalmente exporta estos archivos generados junto con el original.
-  - **Complejidad:** Alta (4 nodos)
+  - **Complejidad:** Baja (4 nodos)
 
 - **[0908-ai-interviews-n8n.json](workflows/0908-ai-interviews-n8n.json)**
   - **Descripción:** Este flujo automático con n8n permite realizar entrevistas conversacionales con un agente de IA que dinámicamente pregunta y registra respuestas en Redis, usando formularios para capturar información. Las respuestas se guardan en Google Sheets.
-  - **Complejidad:** Alta (4 nodos)
+  - **Complejidad:** Baja (4 nodos)
 
 - **[0913-google-maps-leads-generator.json](workflows/0913-google-maps-leads-generator.json)**
   - **Descripción:** Este flujo automático utiliza la API de Google Maps para buscar lugares basados en categorías y códigos postales específicos, extrayendo datos relevantes e insertándolos en una hoja de Google Sheets con mecanismos de control anti-duplicado y manejo exponencial de errores.
-  - **Complejidad:** Alta (4 nodos)
+  - **Complejidad:** Baja (4 nodos)
 
 - **[0934-ai-logo-sheet-extractor.json](workflows/0934-ai-logo-sheet-extractor.json)**
   - **Descripción:** Este flujo automático permite extraer información de imágenes que muestran tablas de logotipos, identificando herramientas y sus atributos para guardarlos en Airtable.
-  - **Complejidad:** Alta (4 nodos)
+  - **Complejidad:** Baja (4 nodos)
 
 - **[0984-ai-logo-extractor.json](workflows/0984-ai-logo-extractor.json)**
   - **Descripción:** Este flujo automático permite extraer información de una imagen con múltiples logotipos utilizando IA, y guardarla en tablas estructuradas de Airtable para categorizar herramientas.
-  - **Complejidad:** Alta (4 nodos)
+  - **Complejidad:** Baja (4 nodos)
 
 - **[1122-wordpress-auto-generation.json](workflows/1122-wordpress-auto-generation.json)**
   - **Descripción:** Este flujo automático selecciona la categoría menos utilizada de WordPress desde una base de datos PostgreSQL para generar artículos únicos y estructurados mediante modelos GPT. Después de crear el contenido completo en formato HTML específico, genera un título optimizado y descarga/adjunta una imagen destacada antes de publicar todo junto.
-  - **Complejidad:** Alta (4 nodos)
+  - **Complejidad:** Baja (4 nodos)
 
 - **[1270-email-header-analyzer.json](workflows/1270-email-header-analyzer.json)**
   - **Descripción:** Analiza los encabezados de un correo para obtener metadatos.
-  - **Complejidad:** Alta (4 nodos)
+  - **Complejidad:** Baja (4 nodos)
 
 - **[1271-email-header-analyzer.json](workflows/1271-email-header-analyzer.json)**
   - **Descripción:** Analiza los encabezados de un correo para obtener metadatos.
-  - **Complejidad:** Alta (4 nodos)
+  - **Complejidad:** Baja (4 nodos)
 
 - **[1272-ai_airtable_agent.json](workflows/1272-ai_airtable_agent.json)**
   - **Descripción:** Agente de IA que gestiona registros en Airtable.
-  - **Complejidad:** Alta (4 nodos)
+  - **Complejidad:** Baja (4 nodos)
 
 - **[1445-breakdown-documents-into-study-notes.json](workflows/1445-breakdown-documents-into-study-notes.json)**
   - **Descripción:** Este flujo permite chatbot, automatización, resumen, extracción de datos, generación de contenido utilizando Webhook, PDF con inteligencia artificial mediante webhooks y APIs.
-  - **Complejidad:** Alta (4 nodos)
+  - **Complejidad:** Baja (4 nodos)
 
 - **[2603-suspicious-login-detection.json](workflows/2603-suspicious-login-detection.json)**
   - **Descripción:** Este flujo n8n detecta logins sospechosos de cuentas mediante la integración de datos de IP-API, UserParser y GreyNoise. Analiza ubicaciones nuevas o dispositivos/browser diferentes para determinar si es un intento fraudulento.
-  - **Complejidad:** Alta (4 nodos)
+  - **Complejidad:** Baja (4 nodos)
 
 - **[2670-n8n_creators_leaderboard_stats.json](workflows/2670-n8n_creators_leaderboard_stats.json)**
   - **Descripción:** Este flujo automatiza la obtención y procesamiento de datos estadísticos del tablero de n8n creadores para generar informes detallados en formato Markdown sobre las contribuciones específicas de un usuario.
-  - **Complejidad:** Alta (4 nodos)
+  - **Complejidad:** Baja (4 nodos)
 
 - **[2679-chatgpt-email-sheets.json](workflows/2679-chatgpt-email-sheets.json)**
   - **Descripción:** Este flujo automático gestiona las respuestas de ChatGPT a correos electrónicos específicos y registra interacciones en Google Sheets.
-  - **Complejidad:** Alta (4 nodos)
+  - **Complejidad:** Baja (4 nodos)
 
 - **[2731-woocommerce-chatbot.json](workflows/2731-woocommerce-chatbot.json)**
   - **Descripción:** Este flujo automático permite a un chatbot recuperar y mostrar información de pedidos de WooCommerce basada en la dirección de correo electrónico del usuario. Utiliza herramientas de encriptación para proteger los datos sensibles y servicios como DHL para el seguimiento de envíos.
-  - **Complejidad:** Alta (4 nodos)
+  - **Complejidad:** Baja (4 nodos)
 
 - **[2770-automated-notes-generator.json](workflows/2770-automated-notes-generator.json)**
   - **Descripción:** Este flujo automático monitorea un directorio para detectar nuevos archivos, procesa su contenido y utiliza agentes de IA para generar documentos estructurados en formato Markdown como guías de estudio, timeline y documentación informativa.
-  - **Complejidad:** Alta (4 nodos)
+  - **Complejidad:** Baja (4 nodos)
 
 - **[2862-mcp-qdrant-reviews.json](workflows/2862-mcp-qdrant-reviews.json)**
   - **Descripción:** Este flujo configura y administra una base de datos vectorial con Qdrant para realizar operaciones como insertar, buscar, comparar y recomendar revisiones de empresas. Utiliza MCP Server Trigger para manejar diferentes herramientas personalizadas y extiende la funcionalidad del servidor Qdrant con capacidades avanzadas.
-  - **Complejidad:** Alta (4 nodos)
+  - **Complejidad:** Baja (4 nodos)
 
 - **[2876-workflow_mcp_manager.json](workflows/2876-workflow_mcp_manager.json)**
   - **Descripción:** Este flujo gestiona dinámicamente una lista de workflows disponibles mediante Redis y n8n, permitiendo operaciones como agregar, eliminar y listar workflows. Utiliza un agente de lenguaje para ejecutar tareas basadas en estos workflows.
-  - **Complejidad:** Alta (4 nodos)
+  - **Complejidad:** Baja (4 nodos)
 
 - **[2879-stock-analysis-bot.json](workflows/2879-stock-analysis-bot.json)**
   - **Descripción:** Este flujo automático realiza un análisis detallado de acciones combinando análisis técnico y sentimiento de noticias. Utiliza varias APIs para obtener datos técnicos (gráficos, indicadores) y analítica de sentimiento, luego los procesa con GPT-4 para generar un informe estructurado en formato HTML en hebreo, que se envía por correo electrónico.
-  - **Complejidad:** Alta (4 nodos)
+  - **Complejidad:** Baja (4 nodos)
 
 - **[2899-prevent-concurrent-workflows.json](workflows/2899-prevent-concurrent-workflows.json)**
   - **Descripción:** Este flujo utiliza Redis para prevenir la ejecución concurrente de workflows. Almacena estados en Redis y verifica si un proceso ya está en curso antes de continuar.
-  - **Complejidad:** Alta (4 nodos)
+  - **Complejidad:** Baja (4 nodos)
 
 - **[2937-tiktok-youtube-generator.json](workflows/2937-tiktok-youtube-generator.json)**
   - **Descripción:** Este flujo automático genera contenido multimedia para TikTok y YouTube Shorts/Reels de manera automatizada utilizando APIs como PiAPI para imágenes y videos, ElevenLabs para voces, Google Drive para almacenamiento y OpenAI para texto. Incluye capturas de ideas, generación de imágenes, conversión a video, adición de audio, mezcla de elementos y notificación al final.
-  - **Complejidad:** Alta (4 nodos)
+  - **Complejidad:** Baja (4 nodos)
 
 - **[2956-nextcloud-docker-flow.json](workflows/2956-nextcloud-docker-flow.json)**
   - **Descripción:** Este flujo configura y gestiona entornos Docker para NextCloud utilizando n8n, incluyendo acciones como iniciar, detener, suspender, desususpender, montar/desmontar discos, actualizar paquetes y más. También administra conexiones DNS y verifica la validez del dominio.
-  - **Complejidad:** Alta (4 nodos)
+  - **Complejidad:** Baja (4 nodos)
 
 - **[3058-set_medoids_cultivos.json](workflows/3058-set_medoids_cultivos.json)**
   - **Descripción:** Este flujo configura los medoides (centros) de dos tipos para la detección de anomalías en un conjunto de datos de cultivos usando Qdrant y el modelo Voyage. Calcula representantes de clusters mediante matrices de distancia y vectores embedding de texto.
-  - **Complejidad:** Alta (4 nodos)
+  - **Complejidad:** Baja (4 nodos)
 
 - **[3126-multi-ai-chatbot-postgres-chart.json](workflows/3126-multi-ai-chatbot-postgres-chart.json)**
   - **Descripción:** Este flujo automático permite a un chatbot interactuar con una base de datos PostgreSQL o Supabase mediante consultas SQL y generar gráficos visualizados en QuickChart usando agentes de inteligencia artificial. El sistema utiliza OpenAI para procesar las preguntas del usuario, ejecutar consultas SQL, obtener definiciones de tablas y crear gráficos basados en los resultados obtenidos.
-  - **Complejidad:** Alta (4 nodos)
+  - **Complejidad:** Baja (4 nodos)
 
 - **[3160-chatgpt-email-responses.json](workflows/3160-chatgpt-email-responses.json)**
   - **Descripción:** Este flujo automático envía una respuesta de ChatGPT a través de correo electrónico cuando se recibe un correo electrónico y registra las respuestas en Google Sheets. También registra retroalimentación para mejorar el modelo.
-  - **Complejidad:** Alta (4 nodos)
+  - **Complejidad:** Baja (4 nodos)
 
 - **[0024-iss-position-updates.json](workflows/0024-iss-position-updates.json)**
   - **Descripción:** Este flujo automático obtiene cada minuto la posición actual de la Estación Espacial Internacional (ISS) desde una API externa y envía los datos a un topic en ActiveMQ.
@@ -3278,183 +3278,183 @@ Todos los workflows aquí compartidos se proporcionan tal cual. **Antes de emple
 
 - **[0716-blotato-social-publishing.json](workflows/0716-blotato-social-publishing.json)**
   - **Descripción:** Este flujo automático publica videos e imágenes en múltiples redes sociales como Instagram, Facebook, LinkedIn, TikTok y más utilizando la plataforma Blotato. La automatización extrae contenido de Airtable, genera títulos virales para YouTube con OpenAI y gestiona el estado de publicación.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[0791-ai-wordpress-summary.json](workflows/0791-ai-wordpress-summary.json)**
   - **Descripción:** Este flujo automático genera y añade un resumen AI al principio de artículos de WordPress usando OpenAI, verifica si ya existe uno para evitar duplicados, actualiza la página y guarda los datos en Google Sheets.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[0798-ai-chat-with-supabase-documents.json](workflows/0798-ai-chat-with-supabase-documents.json)**
   - **Descripción:** Este flujo automático permite a un chatbot de IA procesar documentos PDF y texto almacenados en Supabase, generar embeddings vectoriales con OpenAI y crear una base de conocimiento interactiva para consultas sobre archivos.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[0800-search-console-ai-agent.json](workflows/0800-search-console-ai-agent.json)**
   - **Descripción:** Este flujo automático permite a un chatbot interactuar con datos del motor de búsqueda utilizando herramientas de la API de Google Search Console, OpenAI y almacenar el historial de conversaciones en una base de datos PostgreSQL.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[0819-erpnext-candidate-automation.json](workflows/0819-erpnext-candidate-automation.json)**
   - **Descripción:** Este flujo automático permite integrar webhooks de ERPNext para gestionar solicitudes de candidatos mediante análisis AI (como Google Gemini) y actualizar sus estados en función del resultado.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[0832-wordpress-ai-content-generator.json](workflows/0832-wordpress-ai-content-generator.json)**
   - **Descripción:** Este flujo automático crea artículos en WordPress a diferentes niveles de lectura utilizando modelos de lenguaje. Procesa el contenido reescrito, valida que tengan título e introducción, genera imágenes relacionadas y guarda borradores en Google Drive.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[0874-tax-code-assistant-qdrant-mistral-openai.json](workflows/0874-tax-code-assistant-qdrant-mistral-openai.json)**
   - **Descripción:** Este flujo automático permite a un chatbot de IA responder preguntas sobre el código fiscal del estado de Texas utilizando embeddings de Mistral.ai para generar vectores y Qdrant para almacenar y recuperar documentos con eficiencia, optimizando la gestión de grandes archivos mediante descompresión estratégica.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[0886-workflow-doc-analyzer.json](workflows/0886-workflow-doc-analyzer.json)**
   - **Descripción:** Este flujo automático analiza documentos subidos mediante formulario, convierte el markdown en HTML y guarda los resultados en una base de datos vectorial para alimentar un chatbot.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[0965-factoid_subscription_service.json](workflows/0965-factoid_subscription_service.json)**
   - **Descripción:** Este flujo automático utiliza n8n formularios para gestionar suscripciones a correos educativos diarios, semanales o sorprendentes con modelos de IA generativa y almacenamiento en Airtable.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[0968-HR_CV_Evaluation_AI.json](workflows/0968-HR_CV_Evaluation_AI.json)**
   - **Descripción:** Este flujo automático permite evaluar automáticamente solicitudes de candidatos mediante análisis AI para determinar su calificación y aptitud para la vacante, actualizando luego en Airtable según el resultado.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[0973-ai-faq-generator.json](workflows/0973-ai-faq-generator.json)**
   - **Descripción:** Este flujo utiliza n8n y modelos de lenguaje como ChatGPT para generar automáticamente contenido completo en FAQ basado en datos proporcionados.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[0995-agent-access-control.json](workflows/0995-agent-access-control.json)**
   - **Descripción:** Este flujo verifica las credenciales del usuario en Airtable para establecer permisos y control de acceso a diferentes agentes y herramientas.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[1091-spotify-maintenance.json](workflows/1091-spotify-maintenance.json)**
   - **Descripción:** Este flujo automático verifica si las canciones de las últimas reproducciones en Spotify ya están guardadas en la base de datos NocoDB. Si no lo están, crea nuevos registros para cada una con el URI de la canción y la fecha en que fue añadida (usando currentDate). También busca en la base de datos existente si hay una playlist mensual con el nombre correspondiente a la fecha actual. Si existe, obtiene sus pistas; si no existe en Spotify pero sí está en NocoDb, la crea y sincroniza.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[1104-airtable-batch-processing-with-rates.json](workflows/1104-airtable-batch-processing-with-rates.json)**
   - **Descripción:** Este flujo procesa registros en lote en Airtable con tres modos: insert, update y upsert. Para evitar límites de tasa en la API de Airtable, incluye pausas después de cada error 429.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[1154-content-generation-automated.json](workflows/1154-content-generation-automated.json)**
   - **Descripción:** Este flujo automático permite generar contenido estructurado a partir de entradas formulario utilizando modelos OpenAI y almacenar los resultados en Google Drive.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[1164-zendesk-gcal-airtable-customer-flow.json](workflows/1164-zendesk-gcal-airtable-customer-flow.json)**
   - **Descripción:** Este flujo automático permite a un chatbot integrar múltiples sistemas como Zendesk para crear tickets y gestionar datos de clientes, Gcal (Google Calendar) para programar citas, Airtable para compartir transcripciones con el equipo de producto, y n8n para ejecutar todas las operaciones.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[1265-airtable-baserow-form-connector.json](workflows/1265-airtable-baserow-form-connector.json)**
   - **Descripción:** Conecta formularios de Airtable con bases en Baserow.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[1275-flujo-seleccion-candidatos-ai.json](workflows/1275-flujo-seleccion-candidatos-ai.json)**
   - **Descripción:** Flujo de selección de candidatos asistido por IA.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[1425-ai-agent-to-chat-with-files-in-supabase-storage.json](workflows/1425-ai-agent-to-chat-with-files-in-supabase-storage.json)**
   - **Descripción:** Este flujo permite chatbot, automatización, extracción de datos, generación de contenido utilizando OpenAI/GPT, Webhook, Airtable con inteligencia artificial mediante webhooks y APIs.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[1426-ai-agent-to-chat-with-openai.json](workflows/1426-ai-agent-to-chat-with-openai.json)**
   - **Descripción:** Este flujo permite chatbot, automatización, resumen, generación de contenido utilizando OpenAI/GPT, Webhook, Supabase con inteligencia artificial mediante webhooks y APIs.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[1492-respond-to-whatsapp-messages-with-ai-like-a-pro.json](workflows/1492-respond-to-whatsapp-messages-with-ai-like-a-pro.json)**
   - **Descripción:** Este flujo permite chatbot, transcripción, resumen, extracción de datos, generación de contenido utilizando OpenAI/GPT, Webhook, WhatsApp con inteligencia artificial mediante webhooks y APIs.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[2536-billbee-address-validation.json](workflows/2536-billbee-address-validation.json)**
   - **Descripción:** Este flujo automático valida y corrige direcciones de envío de pedidos utilizando la API Endereco para verificar datos en Alemania.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[2556-glassdoor-discrimination-analysis.json](workflows/2556-glassdoor-discrimination-analysis.json)**
   - **Descripción:** Este flujo automático utiliza ScrapingBee para extraer reseñas y datos demográficos de Glassdoor, junto con modelos de OpenAI para analizar patrones discriminatorios mediante cálculos estadísticos como puntuaciones z y tamaños de efecto.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[2600-news-pipeline.json](workflows/2600-news-pipeline.json)**
   - **Descripción:** Este flujo automatizado extrae artículos de prensa, los filtra por antigüedad (7 días), genera resúmenes y palabras clave usando ChatGPT, y almacena todo en una base de datos SQL.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[2686-nextcloud_folder_migration.json](workflows/2686-nextcloud_folder_migration.json)**
   - **Descripción:** Este flujo automático搬迁文件夹及其子文件和子文件夹到Nextcloud的指定位置，确保结构完整并避免超过速率限制。
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[2736-wordpress-article-generator.json](workflows/2736-wordpress-article-generator.json)**
   - **Descripción:** Flujo que automatiza la creación de artículos en WordPress utilizando OpenAI para generar contenido estructurado y DALL·E para imágenes, con validación de datos.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[2766-hellofresh-recomendador.json](workflows/2766-hellofresh-recomendador.json)**
   - **Descripción:** Este flujo automatiza la recomendación de recetas semanales de HelloFresh mediante un motor de búsqueda vectorial y una base de datos. Extrae información de menús semanales, procesa datos de recetas, genera embeddings con Mistral Cloud y utiliza Qdrant para推荐pciones basadas en preferencias.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[2775-competitor-research-automator.json](workflows/2775-competitor-research-automator.json)**
   - **Descripción:** Este flujo automatiza la investigación competitiva usando Exa.ai para encontrar competidores y luego recopila información detallada sobre cada competidor mediante agentes de inteligencia artificial que extraen datos de sitios como Crunchbase, LinkedIn y bienvenidos. Los datos se estructuran y se insertan en Notion.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[2778-trustpilot-insights.json](workflows/2778-trustpilot-insights.json)**
   - **Descripción:** Este flujo extrae, procesa y analiza reseñas de Trustpilot para una empresa específica. Utiliza Qdrant como base vectorial para almacenar datos estructurados, aplica clustering con K-means para identificar patrones, genera insights usando un modelo LLM y exporta los resultados a Google Sheets.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[2779-hn_comments_analyzer.json](workflows/2779-hn_comments_analyzer.json)**
   - **Descripción:** Este flujo automático extrae y analiza comentarios de un artículo de Hacker News, los organiza en clusters utilizando algoritmos de agrupamiento (K-means) y genera insights con un modelo de lenguaje grande. Los datos se almacenan en Qdrant para su posterior análisis.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[2799-faq-generator-n8n.json](workflows/2799-faq-generator-n8n.json)**
   - **Descripción:** Este flujo automatiza la creación de FAQ para integraciones de n8n usando OpenAI y Google Sheets. Extrae datos de una hoja de cálculo, genera pares de preguntas y respuestas, completa algunas respuestas con AI y guarda los resultados en Google Drive.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[2820-auto-assign-jira.json](workflows/2820-auto-assign-jira.json)**
   - **Descripción:** Este flujo automatiza la asignación de tareas estancadas en JIRA mediante un sistema de coincidencias con issues resueltos pasados usando IA y bases de datos vectoriales. Busca tareas sin asignar durante más de 5 días, encuentra las más similares en la base de conocimientos y asigna a los miembros del equipo con menos cargas actuales.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[2829-digest-novedades-plantillas.json](workflows/2829-digest-novedades-plantillas.json)**
   - **Descripción:** Este flujo automático genera un resumen diario de las plantillas más recientes de n8n filtradas por categorías seleccionadas por los subscriptores almacenados en una hoja de cálculo de Excel. Utiliza OpenAI para resumir las descripciones y Outlook para enviar el correo electrónico.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[2883-chatbot-interactivo.json](workflows/2883-chatbot-interactivo.json)**
   - **Descripción:** Este flujo gestiona la interacción de un chatbot, almacenando mensajes en Redis y usando OpenAI para extraer información. Espera una cantidad de tiempo variable basada en el conteo de palabras antes de procesar los mensajes.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[2908-llm_chaining.json](workflows/2908-llm_chaining.json)**
   - **Descripción:** Este flujo utiliza cadenas de LLM para realizar tareas secuenciales y paralelas con diferentes modelos de inteligencia artificial, incluyendo la obtención de datos de una página web, el análisis con prompts específicos y la combinación de resultados.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[2941-blog-automation.json](workflows/2941-blog-automation.json)**
   - **Descripción:** Este flujo automatiza la creación y publicación de artículos en un blog usando Google Sheets como origen de datos. Configura parámetros, recupera información de hojas de cálculo, procesa prompts personalizados con OpenAI, genera contenido, valida fechas y statuses, y actualiza el estado en tiempo real.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[2953-influxdb-docker-deploy.json](workflows/2953-influxdb-docker-deploy.json)**
   - **Descripción:** Este flujo automático implementa y gestiona un contenedor de InfluxDB en Docker para una aplicación relacionada con WHMCS/WISECP, admitiendo operaciones como despliegue, arranque, parada, suspensión, montaje y control de disco.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[3000-automatizacion_rrhh.json](workflows/3000-automatizacion_rrhh.json)**
   - **Descripción:** Este flujo automatiza la publicación de ofertas laborales y evalúa candidatos utilizando inteligencia artificial. Incluye formularios para postulaciones, análisis de CV con ChatGPT, generación de cuestionarios personalizados y seguimiento en Airtable.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[3030-n8n-rag-living-data.json](workflows/3030-n8n-rag-living-data.json)**
   - **Descripción:** Este flujo automatiza la integración de datos en tiempo real desde Notion hacia un sistema de recuperación de información basado en vectores (RAG) usando OpenAI y Supabase. Procesa documentos, los divide en fragmentos, genera embeddings con OpenAI y almacena los resultados en Supabase para permitir búsquedas semánticas.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[3117-ai-search-console-chat.json](workflows/3117-ai-search-console-chat.json)**
   - **Descripción:** Este flujo utiliza OpenAI y Postgres para permitir a un agente de chat interactuar con datos de Google Search Console, recuperando información mediante una conversación natural.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[3158-scrape-news-with-ai-to-nocodb.json](workflows/3158-scrape-news-with-ai-to-nocodb.json)**
   - **Descripción:** Este flujo extrae HTML de una página web específicamente con CSS, luego suma los enlaces y fechas de las publicaciones, filtra por fecha reciente, obtiene el contenido individual de cada post, genera resúmenes y palabras clave usando OpenAI, y almacena los datos en NocoDB.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[3166-buscar_palabras_clave.json](workflows/3166-buscar_palabras_clave.json)**
   - **Descripción:** Este flujo automatiza la búsqueda de palabras clave principales usando NocoDB y DataforSEO para analizar volumen de búsquedas en Google y YouTube. Genera y actualiza datos en_batches en una base de datos.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[3205-backup-n8n.json](workflows/3205-backup-n8n.json)**
   - **Descripción:** Este flujo automático realiza una copia de seguridad diaria de los workflows de n8n en Google Drive. Crea y verifica las carpetas 'n8n_backups' y 'n8n_old', mueve las copias antiguas a la carpeta 'n8n_old' y elimina aquellas que excedan 30 días.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[3278-google-sheets-analysis.json](workflows/3278-google-sheets-analysis.json)**
   - **Descripción:** Este flujo utiliza un agente de inteligencia artificial para analizar y manipular datos desde Google Sheets, permitiendo realizar consultas avanzadas filtrando por fechas y estados, transformar formatos complicados en JSON, y obtener estadísticas a través de herramientas como el cálculo y la agregación.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[3312-chatbot-curriculos.json](workflows/3312-chatbot-curriculos.json)**
   - **Descripción:** Este flujo permite crear un chatbot personalizado que gestiona currículos y envía reportes diarios con información de conversaciones mediante Google Drive, Gemini, Pinecone y NocoDB.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[0019-EscrituraJSONBinario.json](workflows/0019-EscrituraJSONBinario.json)**
   - **Descripción:** Este flujo automatizado crea datos JSON de ejemplo, los convierte a formato binario (Base64) y escribe este contenido en un archivo.
@@ -3610,379 +3610,379 @@ Todos los workflows aquí compartidos se proporcionan tal cual. **Antes de emple
 
 - **[0783-sql-email-query-generator.json](workflows/0783-sql-email-query-generator.json)**
   - **Descripción:** Este flujo traduce preguntas sobre correos electrónicos en consultas SQL y las ejecuta contra la base de datos.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[0790-amazon-ads-optimization-flow.json](workflows/0790-amazon-ads-optimization-flow.json)**
   - **Descripción:** Este flujo automatizado analiza reportes de Amazon Ads almacenados en Google Drive, utilizando IA para generar recomendaciones detalladas sobre estrategias de licitación, optimización táctica y escalado presupuestario.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[0815-ai-company-researcher-sales.json](workflows/0815-ai-company-researcher-sales.json)**
   - **Descripción:** Este flujo automático utiliza IA junto con herramientas web como SERPAPI o ScrapingBee para investigar propiedades de empresas como dominio, URL de LinkedIn, tipo de mercado (B2B/B2C), planes más económicos, API y ensayos gratuitos, actualizando luego los datos en Google Sheets.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[0856-youtube-x-automation.json](workflows/0856-youtube-x-automation.json)**
   - **Descripción:** Este flujo automático busca promover los videos más recientes de una canaleta YouTube específica en X, verificando que cumplan con las limitaciones de caracteres y manteniendo un registro en Google Sheets.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[0868-n8n-deployer.json](workflows/0868-n8n-deployer.json)**
   - **Descripción:** Este flujo permite la importación y configuración de un workflow en n8n mediante archivos JSON alojados en una carpeta específica de Google Drive.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[0930-linkedin-data-processing.json](workflows/0930-linkedin-data-processing.json)**
   - **Descripción:** Este flujo automatizado utiliza el MCP de Bright Data para extraer información en Markdown desde perfiles o empresas de LinkedIn, procesa esos datos con Google Gemini (modelo PaLM) que los convierte en JSON e incorpora contexto profundo para generar historias detalladas, y finalmente escribe la salida en archivos locales.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[0975-airtable-image-analysis.json](workflows/0975-airtable-image-analysis.json)**
   - **Descripción:** Este flujo automatiza el análisis de imágenes capturadas en Airtable para identificar atributos de productos e integra información web, optimizando la gestión de inventario.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[0985-youtube-ai-agent-comment-analysis.json](workflows/0985-youtube-ai-agent-comment-analysis.json)**
   - **Descripción:** Este flujo automatizado permite a un agente conversacional de IA interactuar y analizar datos de YouTube, incluyendo la transcripción de videos, recopilación de comentarios, obtención de detalles del canal, evaluación de thumbnails e implementación de gestión con memoria PostgreSQL.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[0988-finance-email-parser.json](workflows/0988-finance-email-parser.json)**
   - **Descripción:** Este flujo automático extrae datos de transacciones financieras de correos electrónicos utilizando Gmail como fuente, Google Gemini AI para análisis e interpretación del contenido, y finalmente estructura la información en un formato específico que se envía a una hoja de cálculo de Google. El workflow utiliza etiquetas personalizadas para identificar diferentes tipos de transacciones (facturas, pagos múltiples, etc.) y aplica procesamiento inteligente basado en el remitente del correo.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[1092-url-shortener-management.json](workflows/1092-url-shortener-management.json)**
   - **Descripción:** Este flujo automático gestiona URLs cortas mediante la generación de hashes SHA-256 que se almacenan en Airtable, permitiendo crear y verificar referencias únicas para controlar accesos o registros.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[1108-notion-project-user-management.json](workflows/1108-notion-project-user-management.json)**
   - **Descripción:** Este flujo permite gestionar la creación de proyectos y usuarios en Notion mediante funciones que procesan datos e integra con webhooks.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[1113-swift_codes_extractor.json](workflows/1113-swift_codes_extractor.json)**
   - **Descripción:** Este flujo automático extrae códigos SWIFT de múltiples páginas web en diferentes países, procesa la información normalizada y la guarda en una base de datos MongoDB.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[1114-backup-n8n-workflows.json](workflows/1114-backup-n8n-workflows.json)**
   - **Descripción:** Este flujo automático de n8n guarda todas las configuraciones del servidor en archivos JSON almacenados en una repositorio GitHub.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[1127-procesamiento_excel.json](workflows/1127-procesamiento_excel.json)**
   - **Descripción:** Este flujo procesa archivos de Excel mediante diversas fuentes y destinos, permite manipular los datos y opcionalmente guardar o subir el archivo modificado.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[1156-qualys-thehive-integration.json](workflows/1156-qualys-thehive-integration.json)**
   - **Descripción:** Este flujo automático busca reportes finalizados en Qualys, descarta los ya procesados según un timestamp previo y crea casos en TheHive con sus respectivos archivos adjuntos de reporte.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[1166-threads-notion-integration.json](workflows/1166-threads-notion-integration.json)**
   - **Descripción:** Este flujo automático permite obtener publicaciones de la API de Threads, filtrarlas y guardarlas en una base de datos de Notion después de un análisis detallado.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[1446-building-your-first-whatsapp-chatbot.json](workflows/1446-building-your-first-whatsapp-chatbot.json)**
   - **Descripción:** Este flujo permite chatbot, extracción de datos utilizando OpenAI/GPT, Webhook, PDF con inteligencia artificial mediante webhooks y APIs.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[1480-manipulate-pdf-with-adobe-developer-api.json](workflows/1480-manipulate-pdf-with-adobe-developer-api.json)**
   - **Descripción:** Este flujo permite extracción de datos utilizando OpenAI/GPT, Webhook, PDF con inteligencia artificial mediante webhooks y APIs.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[1493-scrape-trustpilot-reviews-with-deepseek-openai.json](workflows/1493-scrape-trustpilot-reviews-with-deepseek-openai.json)**
   - **Descripción:** Este flujo permite chatbot, web scraping, análisis de sentimientos, extracción de datos, reportes utilizando OpenAI/GPT, Google Sheets con inteligencia artificial y APIs.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[1503-transcribing-bank-statements-to-markdown-ai.json](workflows/1503-transcribing-bank-statements-to-markdown-ai.json)**
   - **Descripción:** Este flujo permite chatbot, transcripción, extracción de datos, generación de contenido utilizando OpenAI/GPT, Webhook, PDF con inteligencia artificial mediante webhooks y APIs.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[1512-local-multi-llm-testing-performance-tracker.json](workflows/1512-local-multi-llm-testing-performance-tracker.json)**
   - **Descripción:** Este flujo permite chatbot, extracción de datos, generación de contenido utilizando OpenAI/GPT, Webhook, Google Sheets con inteligencia artificial mediante webhooks y APIs.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2537-agricultural-crops-vector-db.json](workflows/2537-agricultural-crops-vector-db.json)**
   - **Descripción:** Este flujo automatizado carga conjuntamente imágenes de cultivos agrícolas y datos relacionados (como nombres de las plantas) desde Google Cloud Storage, genera embeddings utilizando el modelo Voyage Multimodal de AI y los almacena en una colección vectorial de Qdrant. Además, verifica si la colección ya existe para evitar duplicaciones e incluye un índice en memoria sobre el nombre de la planta (crop_name). La carga se realiza por lotes con un tamaño configurable, permitiendo así la creación eficiente y rápida de índices.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2560-linkedin-profile-collector.json](workflows/2560-linkedin-profile-collector.json)**
   - **Descripción:** Este flujo automatizado utiliza Google Search a través de SerpAPI para encontrar perfiles de LinkedIn relevantes, limpia y estructura la información usando OpenAI, y guarda los resultados en Excel o NocoDB.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2562-shopify_google_sync.json](workflows/2562-shopify_google_sync.json)**
   - **Descripción:** Este flujo sincroniza automáticamente productos de un almacén Shopify a una hoja de cálculo de Google, utilizando GraphQL para extraer datos como título, descripción, etiquetas y precio. Implementa paginación eficiente mediante el uso del cursor.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2605-Colombian-Invoices-Processor.json](workflows/2605-Colombian-Invoices-Processor.json)**
   - **Descripción:** Este flujo automático procesa facturas electrónicas colombianas recibidas por correo electrónico, verificando datos clave como impuestos y subtotales, y los almacena en Google Sheets usando la normativa tributaria del país.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2636-monday-boarditem-hierarchy.json](workflows/2636-monday-boarditem-hierarchy.json)**
   - **Descripción:** Este flujo automático obtiene todos los campos de un elemento de tablero junto con sus relaciones y subelementos para procesar datos completos.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2642-gmail_vector_embeddings_import.json](workflows/2642-gmail_vector_embeddings_import.json)**
   - **Descripción:** Este flujo automatizado importa correos electrónicos de Gmail y los almacena como embeddings vectoriales en PostgreSQL usando PGVector y el modelo Ollama para facilitar búsquedas similares.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2652-youtube-performance-searcher.json](workflows/2652-youtube-performance-searcher.json)**
   - **Descripción:** Este flujo busca los mejores videos de YouTube en el último dos semanas y los almacena en una base de datos PostgreSQL.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2662-vision-based-scraping.json](workflows/2662-vision-based-scraping.json)**
   - **Descripción:** Este flujo utiliza la IA Gemini para extraer datos de capturas de pantalla web e integra los resultados en Google Sheets.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2685-email_campaign_generator.json](workflows/2685-email_campaign_generator.json)**
   - **Descripción:** Este flujo automatiza la creación de campañas de correo electrónico personalizadas usando datos de compra y feedback de clientes. Utiliza OpenAI para generar contenido atractivo y decide si enviar un cupón promocional.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2689-printify-update-product.json](workflows/2689-printify-update-product.json)**
   - **Descripción:** Automatiza la actualización de títulos y descripciones de productos en Printify mediante Google Sheets. El workflow utiliza API de Printify para obtener datos de tiendas y productos, procesa cada producto para generar opciones personalizadas de título y descripción usando OpenAI, y las actualiza en Google Sheets.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2691-dialpad_syncro.json](workflows/2691-dialpad_syncro.json)**
   - **Descripción:** Este flujo automatiza la sincronización de datos entre Dialpad y Syncro. Recibe una notificación de llamada inbound, busca al cliente en Syncro, crea un ticket si el cliente no existe o actualiza su estado, y registra la información en Google Sheets.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2702-meraki-network-monitor.json](workflows/2702-meraki-network-monitor.json)**
   - **Descripción:** Este flujo automático monitorea y analiza los datos de latencia y pérdida de paquetes en redes Meraki para detectar problemas, notificando solo aquellos que superen umbralsthrough Redis.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2703-google_maps_scraper.json](workflows/2703-google_maps_scraper.json)**
   - **Descripción:** Este flujo extrae y procesa datos de Google Maps usando SerpAPI, elimina duplicados, los formatea y actualiza el estado en Google Sheets.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2711-google-sheet-ai-agent.json](workflows/2711-google-sheet-ai-agent.json)**
   - **Descripción:** Este flujo utiliza un agente de inteligencia artificial para interactuar con una hoja de cálculo de Google Sheets, permitiendo listar columnas, obtener valores específicos y recuperar información de clientes basado en operaciones definidas.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2725-flujo-automatico-diario.json](workflows/2725-flujo-automatico-diario.json)**
   - **Descripción:** Este flujo automático programa tareas diarias para extraer y procesar información de calendario, LinkedIn y Twitter, enriquecer datos con Clearbit, y enviar un correo electrónico con un resumen personalizado.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2732-vector-chatbot-pinecone.json](workflows/2732-vector-chatbot-pinecone.json)**
   - **Descripción:** Este flujo configura un sistema de recuperación vectorial para responder preguntas basadas en contenido descargado de Google Drive. Utiliza Pinecone como base de datos vectorial y OpenAI para embeddings y respuesta al chat.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2740-automate_ga_reporting.json](workflows/2740-automate_ga_reporting.json)**
   - **Descripción:** Este flujo automático extrae y procesa datos de Google Analytics para generar reportes detallados sobre estadísticas de páginas, resultados de búsquedas y vistas por país, comparando datos semanales. Los resultados se formatean en HTML y se envían por correo electrónico.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2756-automatizacion-facturas-pdf.json](workflows/2756-automatizacion-facturas-pdf.json)**
   - **Descripción:** Este flujo automatiza la extracción de datos desde facturas PDF enviadas por correo electrónico. Utiliza LlamaParse para analizar los documentos y luego extrae información estructurada con OpenAI, finalmente insertando los datos en una hoja de cálculo de Google Sheets.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2760-empresa_research.json](workflows/2760-empresa_research.json)**
   - **Descripción:** Este flujo automatiza la investigación de empresas mediante el uso de OpenAI y Google Sheets. Recopila información estructurada de sitios web y bases de datos, y actualiza una hoja de cálculo con los resultados.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2763-google-meet-scheduler.json](workflows/2763-google-meet-scheduler.json)**
   - **Descripción:** Este flujo automatiza la gestión de reuniones mediante Google Calendar y Drive. Recupera los registros de reunión, procesa transcripciones con OpenAI, crea eventos calendarísticos y asigna asistentes.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2764-inventory-enricher.json](workflows/2764-inventory-enricher.json)**
   - **Descripción:** Este flujo automático utiliza Airtable para capturar fotos de un inventario, OpenAI para analizar imágenes y agentes de inteligencia artificial para enriquecer datos. Primero, obtiene las filas aplicables de Airtable con fotos no procesadas. Luego, usa el modelo OpenAI para identificar atributos del objeto en la imagen. Un agente de AI utiliza herramientas personalizadas (búsqueda inversa de imágenes y web scraping) para buscar información adicional. Finalmente, sobreescribe los datos en Airtable con los resultados enriquecidos.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2768-file_sync_qdrant.json](workflows/2768-file_sync_qdrant.json)**
   - **Descripción:** Este flujo monitorea un directorio local y sincroniza cambios en los archivos con Qdrant para crear una base de conocimientos usando Mistral AI.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2773-image-embedding_workflow.json](workflows/2773-image-embedding_workflow.json)**
   - **Descripción:** Este flujo descarga una imagen de Google Drive, extrae información de color y genera palabras clave semánticas usando OpenAI para crear un documento embedding, el cual se almacena en un vector store en memoria.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2782-sync-workflows.json](workflows/2782-sync-workflows.json)**
   - **Descripción:** Este flujo automatiza la sincronización de workflows entre n8n y GitLab. Recupera los workflows de n8n, verifica su estado en GitLab y actualiza o crea nuevos archivos JSON según las diferencias detectadas.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2784-supabase-vector-store.json](workflows/2784-supabase-vector-store.json)**
   - **Descripción:** Este flujo configura una base de datos vectorial en Supabase para almacenar y recuperar documentos con embeddings de OpenAI, permitiendo realizar búsquedas semánticas y contestar preguntas basadas en el contenido.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2791-notion-workflow-generator.json](workflows/2791-notion-workflow-generator.json)**
   - **Descripción:** Este flujo genera un workflow personalizado de n8n para bases de datos de Notion a partir de una URL proporcionada por el usuario. Utiliza agentes de lenguaje y validación para asegurar la correcta estructura del JSON.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2797-adobe-pdf-processing.json](workflows/2797-adobe-pdf-processing.json)**
   - **Descripción:** Este flujo automático implementa una integración con la API de Adobe para procesar archivos PDF, realizando tareas como subir un archivo, enviar una query de procesamiento y descargar el resultado. Utiliza credenciales personalizadas para autenticación y gestiona diferentes estados del proceso.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2821-automatizacion-facturas-outlook.json](workflows/2821-automatizacion-facturas-outlook.json)**
   - **Descripción:** Este flujo automatiza la gestión de facturas desde una cuenta de Outlook, clasificando mensajes para detectar y descargar attachments que sean facturas emitidas a la empresa. Utiliza Google Gemini para verificar si los archivos adjuntos son facturas relevantes y extraer información clave, posteriormente registra estos datos en una hoja de cálculo de Excel.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2826-client-usage-tracker.json](workflows/2826-client-usage-tracker.json)**
   - **Descripción:** Este flujo registra el uso de tokens y costos de clientes al utilizar un servicio de extracción de datos de CV con OpenAI, almacenando los datos en una hoja de cálculo de Google Sheets.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2831-rss_to_gsheet_cleaner.json](workflows/2831-rss_to_gsheet_cleaner.json)**
   - **Descripción:** Este flujo automatiza la actualización y manejo de entradas RSS en Google Sheets. Primero, utiliza un temporizador para leer los enlaces desde una hoja de cálculo, luego extrae las noticias correspondientes y las procesa. Filtros eliminan entradas antiguas (más de 3 días) y las nuevas se guardan con un tiempo de espera para evitar bloqueos. Entradas viejas son eliminadas después de cierto tiempo.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2840-google-drive-deduplicate.json](workflows/2840-google-drive-deduplicate.json)**
   - **Descripción:** Este flujo automatiza la deduplicación de archivos en Google Drive. Identifica duplicados basándose en el checksum md5 y gestiona su eliminación o renombrado según las configuraciones de Keep (first/last) y Action (trash/flag).
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2842-automated-purchase-order-processing.json](workflows/2842-automated-purchase-order-processing.json)**
   - **Descripción:** Este flujo automatiza la importación y procesamiento de órdenes de compra desde Outlook. Convierte archivos XLSX a formato legible por LLMs, extrae detalles usando IA y realiza validaciones.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2845-linkedin-enrichment-icebreaker.json](workflows/2845-linkedin-enrichment-icebreaker.json)**
   - **Descripción:** Este flujo automático en n8n permite extraer y enriquecer datos de perfiles de LinkedIn usando Bright Data, generar icebreakers personalizados con el modelo Claude de Anthropic y actualizar una hoja de Google Sheets con la información resultante.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2878-n8n-backup-workflows.json](workflows/2878-n8n-backup-workflows.json)**
   - **Descripción:** Este flujo automatiza la copia de seguridad diaria de los workflows de n8n en Google Drive. Busca y procesa todos los workflows, y si no hay un archivo existente, crea uno nuevo; si ya existe, lo actualiza con la nueva información.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2884-instagram-post-automation.json](workflows/2884-instagram-post-automation.json)**
   - **Descripción:** Automatiza la creación de publicaciones en Instagram mediante Google Sheets y herramientas AI. Incluye desde la generación de conceptos de contenido hasta la publicación final.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2904-ai-ready-vector-datasets.json](workflows/2904-ai-ready-vector-datasets.json)**
   - **Descripción:** Este flujo crea conjuntos de datos vectoriales listos para LLMs usando Bright Data, Gemini y Pinecone. Realiza extracción de información, formateo estructurado y persistencia en una base de vectores.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2923-dashboard-metricas.json](workflows/2923-dashboard-metricas.json)**
   - **Descripción:** Este flujo automatiza la actualización de un dashboard que recopila y muestra estadísticas y métricas desde diversas fuentes como Docker, npm, GitHub y Product Hunt. Utiliza Cron para programar ejecuciones periódicas, extrae datos mediante HTTP requests, procesa y formatea los resultados, y actualiza_WIDGETS en un host dashboard con autenticación.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2926-google-sheets-to-postgres.json](workflows/2926-google-sheets-to-postgres.json)**
   - **Descripción:** Este flujo automatiza la importación de datos desde Google Sheets a PostgreSQL. Analiza dinámicamente los datos para detectar tipos y generar esquemas SQL, crea tablas si no existen y realiza inserciones con formato adecuado.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2928-sitemap-index-automatizado.json](workflows/2928-sitemap-index-automatizado.json)**
   - **Descripción:** Este flujo automatiza la indexación de URLs en Google Search Console usando sitemap.xml. Extrae URLs de los archivos sitemap, verifica su estado y actualiza las que han sido modificadas o no están indexadas.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2955-auto-content-generator.json](workflows/2955-auto-content-generator.json)**
   - **Descripción:** Este flujo automatiza la creación de contenido multimedia basado en datos de Google Sheets. Genera imágenes y videos cinemáticos con textos promocionales, agrega sonidos ambientales, y publica el resultado en YouTube.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2967-sql-agent-scheme.json](workflows/2967-sql-agent-scheme.json)**
   - **Descripción:** Flujo que utiliza un agente de IA para generar consultas SQL basadas en esquema de base de datos guardando la estructura localmente y usando OpenAI para formular sentencias SQL.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2968-image-embedder.json](workflows/2968-image-embedder.json)**
   - **Descripción:** Este flujo automatiza la creación de embeddings de imágenes mediante resumen textual. Descarga una imagen desde Google Drive, extrae información de colores y genera palabras clave usando OpenAI, luego combina estos datos para crear un documento que se almacena en un vector store.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2970-autoclip-video-generator.json](workflows/2970-autoclip-video-generator.json)**
   - **Descripción:** Este flujo automático genera clips de video seleccionando aleatoriamente entre vídeos y música de Google Drive, yuxtapone citas y luego los sube a YouTube.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2983-hacker-news-jobs-scraper.json](workflows/2983-hacker-news-jobs-scraper.json)**
   - **Descripción:** Este flujo extrae y procesa información de ofertas laborales publicadas en Hacker News utilizando su API y_algolia, estructura los datos con OpenAI y los exporta a Airtable.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2987-gestion-solicitudes-AI.json](workflows/2987-gestion-solicitudes-AI.json)**
   - **Descripción:** Flujo que automatiza la gestión de solicitudes de empleo usando formularios y herramientas de inteligencia artificial para extraer información, clasificar documentos y almacenar datos en Airtable.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[3004-voice-chatbot-rag-qdrant.json](workflows/3004-voice-chatbot-rag-qdrant.json)**
   - **Descripción:** Este flujo implementa un chatbot de voz que utiliza RAG (Retrieval-Augmented Generation) con ElevenLabs y OpenAI para responder preguntas usando una base de datos vectorial en Qdrant.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[3014-factura-extraccion-llamaparse.json](workflows/3014-factura-extraccion-llamaparse.json)**
   - **Descripción:** Este flujo automático extrae información de facturas en formato PDF usando LlamaParse y OpenAI. Detecta correos con adjuntos PDF, procesa los documentos para obtener datos estructurados y los almacena en una hoja de cálculo de Google Sheets.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[3034-google-analytics-seo-analysis.json](workflows/3034-google-analytics-seo-analysis.json)**
   - **Descripción:** Este flujo automático recopila y analiza datos de Google Analytics para una página web, comparando estadísticas semanales como páginas vistas, usuarios activos y tasas de participación. Luego, envía esta información a un modelo de lenguaje A.I. para obtener recomendaciones SEO y guarda los resultados en Baserow.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[3060-manipula-pdf-adobe.json](workflows/3060-manipula-pdf-adobe.json)**
   - **Descripción:** Este flujo maneja la manipulación de archivos PDF utilizando la API de Adobe Services. Realiza autenticación, carga un archivo PDF, procesa solicitudes específicas (como extracción) y espera la finalización del proceso antes de descargar los resultados.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[3064-outlook-email-ai-assistant.json](workflows/3064-outlook-email-ai-assistant.json)**
   - **Descripción:** Este flujo utiliza Microsoft Outlook para leer correos electrónicos no marcados yWithout categorías, procesa su contenido con OpenAI para categorizarlos, actualiza su importancia y asigna categorías. También integra contactos de Monday.com y Airtable para mejorar la contextualización.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[3071-line-file-save-to-google-drive.json](workflows/3071-line-file-save-to-google-drive.json)**
   - **Descripción:** Este flujo automatiza la descarga de archivos desde LINE, los organiza en Google Drive según configuración y registra detalles en una hoja de cálculo.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[3081-whatsapp-ai-chatbot.json](workflows/3081-whatsapp-ai-chatbot.json)**
   - **Descripción:** Este flujo implementa un chatbot de WhatsApp que utiliza tecnología RAG (Retrieval-Augmented Generation) para responder consultas usando OpenAI y Qdrant. Recoge documentos desde Google Drive, los vectoriza con OpenAI, almacena en Qdrant y usa el agente AI para contestar preguntas basadas en ellos.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[3084-notion-chatbot-generator.json](workflows/3084-notion-chatbot-generator.json)**
   - **Descripción:** Este flujo genera un asistente de chatbot personalizado para bases de datos de Notion, creando una workflow adaptada al esquema proporcionado. Analiza la URL de la base de datos, simplifica los objetos y utiliza agentes de lenguaje para modificar el JSON del workflow según las necesidades específicas.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[3091-obsidian-podcast-flow.json](workflows/3091-obsidian-podcast-flow.json)**
   - **Descripción:** Flujo que convierte notas de Obsidian en audios para podcasts usando OpenAI y almacena datos en Google Sheets.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[3097-mcp-supabase-agent.json](workflows/3097-mcp-supabase-agent.json)**
   - **Descripción:** Este flujo implementa un agente de LangChain con capacidades de recuperación de vectores y embeddings de OpenAI, usando Supabase para almacenar y gestionar datos como mensajes, tareas y estado.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[3101-update-printify-products.json](workflows/3101-update-printify-products.json)**
   - **Descripción:** Este flujo actualiza títulos y descripciones de productos en Printify usando OpenAI para optimizar contenido y Google Sheets para la gestión.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[3105-generate-sql-from-schema.json](workflows/3105-generate-sql-from-schema.json)**
   - **Descripción:** Este flujo genera consultas SQL basadas en un esquema de base de datos usando inteligencia artificial. Extrae información de la estructura de las tablas y utiliza el modelo OpenAI para crear sentencias SQL sin necesidad de acceder a los datos reales.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[3114-chatbot_personal_shopper.json](workflows/3114-chatbot_personal_shopper.json)**
   - **Descripción:** Este flujo implementa un chatbot personal shopper para WooCommerce que utiliza RAG con Google Drive y openAI. Analiza mensajes de chat para buscar productos o responder preguntas generales usando vectores almacenados en Qdrant.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[3118-Vision-Scraping-Agent.json](workflows/3118-Vision-Scraping-Agent.json)**
   - **Descripción:** Este flujo automatiza la extracción de datos web utilizando vision artificial con Google Sheets, ScrapingBee y Gemini. Realiza capturas de pantalla completas de páginas web, utiliza el modelo Gemini para extraer información visualmente, y en caso de falla, recurre a herramientas HTML para asegurar datos precisos.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[3119-batch_crops_qdrant.json](workflows/3119-batch_crops_qdrant.json)**
   - **Descripción:** Este flujo carga un conjunto de datos de imágenes agrícolas en Qdrant usando embeddings de Voyage AI y Google Cloud Storage. Primero verifica si la colección existe, crea una nueva si es necesario, luego procesa las imágenes en tandas y las sube al vectorstore.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[3162-google-analytics-to-ai-seo-analysis.json](workflows/3162-google-analytics-to-ai-seo-analysis.json)**
   - **Descripción:** Este flujo recopila datos de analítica web, procesa y envía información a un modelo de IA para análisis SEO comparativo semanal, guardando los resultados en Baserow.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[3216-aplicacion_cv_automatizada.json](workflows/3216-aplicacion_cv_automatizada.json)**
   - **Descripción:** Flujo de aplicación para la gestión de CV y formulario de solicitud optimizado con IA, que incluye validación de documentos, extracción de información, y almacenamiento en Airtable.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[3232-automated-backup.json](workflows/3232-automated-backup.json)**
   - **Descripción:** Este flujo automatiza la copia de seguridad de trabajos en GitHub usando n8n. Almacena los workflows como archivos JSON en un repositorio designado.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[3256-github-backup-workflow.json](workflows/3256-github-backup-workflow.json)**
   - **Descripción:** Este flujo automatiza la copia de seguridad de trabajos en GitHub al comparar y actualizar archivos JSON. Utiliza un bucle para procesar cada instancia, verifica diferencias entre versiones y gestiona operaciones de creación o edición según el estado.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[3263-ai-resume-screening.json](workflows/3263-ai-resume-screening.json)**
   - **Descripción:** Flujo automático para evaluar currículos en base a una descripción de empleo utilizando inteligencia artificial. Analiza, clasifica y organiza candidatos en carpetas según su perfil.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[3270-call-processing-flow.json](workflows/3270-call-processing-flow.json)**
   - **Descripción:** Este flujo automatiza la extracción y procesamiento de datos de llamadas de venta, integrando información complementaria como competidores y listas de integraciones para enriquecer los transcritos antes de enviarlos a un sistema de inteligencia artificial.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[3285-mistral-ocr-parsing.json](workflows/3285-mistral-ocr-parsing.json)**
   - **Descripción:** Flujo que utiliza Mistral OCR para analizar documentos y imágenes subidas a Google Drive. Primero carga archivos desde Google Drive, luego los envía a Mistral Cloud para obtener URLs firmadas, procesa el OCR con esas URLs y finalmente realiza análisis de documento o imagen utilizando diferentes modelos (chat completions).
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[3290-aprendizaje_idiomas.json](workflows/3290-aprendizaje_idiomas.json)**
   - **Descripción:** Este flujo automatiza la creación de tarjetas flash para aprendizaje de idiomas. Utiliza Google Sheets para almacenar palabras, traduce al chino usando Google Translate, genera fonética y oraciones con un agente AI, busca imágenes en Pexels y las sube a Google Drive.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[3297-dropbox-watch-files.json](workflows/3297-dropbox-watch-files.json)**
   - **Descripción:** Este flujo monitorea cambios en dos carpetas de Dropbox (/z_Apps/a_iphone/RecUp Memos/ y /z_Apps/auphonic/whisper) para detectar nuevos archivos o carpetas. Utiliza NocoDB para almacenar los metadatos de los archivos, filtra aquellos que no han sido procesados antes y ejecuta flujos específicos para cada tipo de archivo detectado.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[3305-seo-wordpress-generator.json](workflows/3305-seo-wordpress-generator.json)**
   - **Descripción:** Este flujo automático genera contenido optimizado para SEO para WordPress utilizando investigación de Perplexity y OpenAI. Incluye creación de títulos, slug y metadatos, desarrollo de HTML estructurado, y publicación en el blog.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[3320-supabase-vector-flow.json](workflows/3320-supabase-vector-flow.json)**
   - **Descripción:** Este flujo integra Supabase con n8n para realizar inserciones, actualizaciones y recuperaciones en una base de datos vectoriales, utilizando embeddings de OpenAI y un motor de vectores optimizado para búsquedas eficientes.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[3340-transcribe-bank-statements.json](workflows/3340-transcribe-bank-statements.json)**
   - **Descripción:** Este flujo transforma un estado de cuenta bancario en formato PDF a markdown utilizando el modelo Gemini Vision AI para una fácil extracción de datos.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[3344-scrape-trustpilot-sentiment.json](workflows/3344-scrape-trustpilot-sentiment.json)**
   - **Descripción:** Este flujo extrae reseñas de Trustpilot usando DeepSeek, analiza su sentimiento con OpenAI y las registra en Google Sheets.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[0047-calendly-notion-auto.json](workflows/0047-calendly-notion-auto.json)**
   - **Descripción:** Este flujo automatizado crea un nuevo registro en una base de datos Notion cada vez que se crea un 'invitee' (invitado) en Calendly.
@@ -4090,367 +4090,367 @@ Todos los workflows aquí compartidos se proporcionan tal cual. **Antes de emple
 
 - **[0003-line-chatgpt-image-flow.json](workflows/0003-line-chatgpt-image-flow.json)**
   - **Descripción:** Este flujo automático procesa solicitudes de generación de imágenes a través del chatbot LINE y los almacena en Google Drive como archivos binarios y en una hoja de cálculo con detalles incluyendo prompts, costos estimados e información relevante.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[0205-workflow-merge-demo.json](workflows/0205-workflow-merge-demo.json)**
   - **Descripción:** Este flujo demuestra cómo el nodo Merge de n8n combina datos de diferentes fuentes usando diferentes modos de unión, mostrando ejemplos desde ingredientes hasta la formación de bandas.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[0383-workflow-estado.json](workflows/0383-workflow-estado.json)**
   - **Descripción:** Este flujo automático ejecuta un workflow principal con intervalos de disparo y verifica en Redis si el workflow está actualmente en ejecución para evitar múltiples instancias concurrentes.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[0425-n8n-flujos-backup-github.json](workflows/0425-n8n-flujos-backup-github.json)**
   - **Descripción:** Este flujo automático respalda workflows de n8n en un repositorio git verificando cambios y actualizando archivos.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[0803-n8n-hr-cv-automation.json](workflows/0803-n8n-hr-cv-automation.json)**
   - **Descripción:** Este flujo automático analiza currículums de candidatos mediante la extracción y resumen de datos clave usando modelos de IA.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[0806-stock-fundamental-ai-analyzer.json](workflows/0806-stock-fundamental-ai-analyzer.json)**
   - **Descripción:** Este flujo automático analiza datos de fondos utilizando embeddings de OpenAI, procesamiento con LangChain y almacenamiento vectorial en Qdrant para responder preguntas sobre análisis fundamental de acciones.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[0824-rag-financial-report-gen.json](workflows/0824-rag-financial-report-gen.json)**
   - **Descripción:** Este flujo utiliza el sistema RAG para analizar informes de rentabilidad corporativa basados en documentos históricos almacenados como embeddings en Pinecone. Procesa información mediante modelos de Google Gemini y OpenAI, sintetiza los datos con un agente especializado e integra todo en un informe markdown que se guarda automáticamente en Google Docs.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[0841-bright-data-gemini-hotel-summarizer.json](workflows/0841-bright-data-gemini-hotel-summarizer.json)**
   - **Descripción:** Este flujo automático extrae datos de hoteles desde Bing Copilot usando la API de Bright Data y utiliza Google Gemini AI para formatearlos en estructura JSON y generar resúmenes concisos.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[0846-workflow-pinecone-openai.json](workflows/0846-workflow-pinecone-openai.json)**
   - **Descripción:** Este flujo carga documentos desde Google Drive en un vector store de Pinecone utilizando embeddings de OpenAI para luego permitir la recuperación de información mediante cadenas de pregunta-respuesta.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[0855-eliminar-fondos-google-drive.json](workflows/0855-eliminar-fondos-google-drive.json)**
   - **Descripción:** Este flujo elimina automáticamente los fondos de imágenes en Google Drive usando la API de Photroom.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[0871-line-chatbot-memory.json](workflows/0871-line-chatbot-memory.json)**
   - **Descripción:** Este flujo automático permite a un chatbot de LINE mantener una conversación contextualizada con los usuarios al procesar mensajes tanto en texto como imágenes, extrayendo información relevante sobre estados de cuenta y datos personales para luego insertarla en Google Sheets.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[0890-Google_Sheet_AI_Interface.json](workflows/0890-Google_Sheet_AI_Interface.json)**
   - **Descripción:** Este flujo automático permite a un chatbot interactuar con una hoja de Google mediante funciones personalizadas, optimizando la consulta y gestión de datos.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[0944-obsidian-email-sender.json](workflows/0944-obsidian-email-sender.json)**
   - **Descripción:** Este flujo automático permite enviar correos electrónicos desde Obsidian utilizando webhooks, procesando correctamente los archivos adjuntos mediante codificación base64 y añadiendo la información del remitente.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[0959-squarespace-backup.json](workflows/0959-squarespace-backup.json)**
   - **Descripción:** Este flujo automático permite guardar las personalizaciones de Squarespace (código de inyecciones) en archivos HTML dentro de un repositorio de GitHub, manteniendo el contexto por dominio y realizando respaldos cada hora.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[0989-vertex-ai-pdf-image-extractor.json](workflows/0989-vertex-ai-pdf-image-extractor.json)**
   - **Descripción:** Este flujo automático permite extraer texto de archivos PDF e imágenes usando Vertex AI (Gemini) y convertirlos en CSV para almacenar la información.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[0991-umami-analytics-ai.json](workflows/0991-umami-analytics-ai.json)**
   - **Descripción:** Este flujo analítico procesa datos de tráfico web desde Umami utilizando múltiples API calls y transformaciones JavaScript para extraer métricas clave como visitas e impresiones. Luego envía estos resultados junto con solicitudes a un modelo AI de OpenRouter para generar análisis detallado, que finalmente se almacena en Baserow.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[1001-flux-image-generator.json](workflows/1001-flux-image-generator.json)**
   - **Descripción:** Este flujo automatizado permite generar imágenes con estilos predefinidos (como AI Dystopia, Hyper-Surreal Escape, etc.) mediante la API de huggingface. Después de que un usuario completa un formulario proporcionando un prompt y selecciona un estilo, el sistema llama al modelo correspondiente, sube la imagen generada a S3 y muestra el resultado en una página web.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[1237-bright-data-gemini-scraping-agent.json](workflows/1237-bright-data-gemini-scraping-agent.json)**
   - **Descripción:** Este flujo automático utiliza un asistente de IA basado en Google Gemini para analizar consultas sobre scraping web. Luego delega la tarea a herramientas del MCP Client (Bright Data) que extraen datos desde URLs especificadas mediante webhooks, manteniendo el contexto con una memoria buffer y almacenando resultados en archivos.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[1396-ai-product-data-processor.json](workflows/1396-ai-product-data-processor.json)**
   - **Descripción:** Procesa datos de productos con ayuda de IA.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[1402-edi-processor.json](workflows/1402-edi-processor.json)**
   - **Descripción:** Procesa archivos EDI de intercambio electrónico de datos.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[1453-convert-url-html-to-markdown.json](workflows/1453-convert-url-html-to-markdown.json)**
   - **Descripción:** Este flujo permite automatización, web scraping, extracción de datos utilizando Webhook, Airtable con inteligencia artificial mediante webhooks y APIs.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[1468-fetch-dynamic-prompts-from-github.json](workflows/1468-fetch-dynamic-prompts-from-github.json)**
   - **Descripción:** Este flujo permite chatbot, extracción de datos con inteligencia artificial y APIs.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[1489-reconcile-rent-payments-with-local-excel-openai.json](workflows/1489-reconcile-rent-payments-with-local-excel-openai.json)**
   - **Descripción:** Este flujo permite chatbot, extracción de datos, generación de contenido, reportes utilizando OpenAI/GPT, Excel con inteligencia artificial y APIs.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2541-agricultural-anomaly-detector.json](workflows/2541-agricultural-anomaly-detector.json)**
   - **Descripción:** Este flujo analiza imágenes de cultivos para detectar si contienen ejemplares no conocidos, utilizando embeddings multimodales y una base de datos vectorial Qdrant.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2546-sql-agent-visualizacion.json](workflows/2546-sql-agent-visualizacion.json)**
   - **Descripción:** Este flujo automatizado permite a un AI Agent interactuar con bases de datos mediante consultas SQL y generar visualizaciones usando Chart.js y Quickchart.io basadas en la necesidad del usuario. El clasificador textual decide si se requiere una representación gráfica para mejorar la comprensión de los resultados.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2587-youtube-sentiment-analyzer.json](workflows/2587-youtube-sentiment-analyzer.json)**
   - **Descripción:** Este flujo analiza automáticamente los comentarios de videos de YouTube a partir de una lista en Google Sheets utilizando la API de YouTube y la IA de OpenAI para categorizarlos como positivos, neutros o negativos.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2592-multipage-scraper.json](workflows/2592-multipage-scraper.json)**
   - **Descripción:** Este flujo automático permite extraer y almacenar en Google Drive el contenido de múltiples páginas web a partir del archivo sitemap.xml usando la API de Jina.ai para realizar búsquedas inteligentes.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2596-image-to-3d-conversion.json](workflows/2596-image-to-3d-conversion.json)**
   - **Descripción:** Este flujo automático permite convertir una imagen en un modelo 3D (.glb) utilizando la API de Fal.ai y luego guardar el resultado en Google Drive.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2601-facturacion-automatizada.json](workflows/2601-facturacion-automatizada.json)**
   - **Descripción:** Este flujo automatizado descarga archivos adjuntos de correos electrónicos no leídos en Gmail y los guarda en Google Drive. Luego utiliza OpenAI para extraer datos clave de las facturas (fecha, descripción, precio total), que se almacenan en un esquema estructurado y finalmente se incorporan a una hoja de cálculo.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2617-woocommerce-ai-product-importer.json](workflows/2617-woocommerce-ai-product-importer.json)**
   - **Descripción:** Este flujo de trabajo automatiza la importación de productos en WooCommerce a través de Google Sheets. Analiza los detalles del producto para generar metatítulos y meta-descripciones SEO optimizadas, las crea inmediatamente en el catálogo WordPress e inserta esta información directamente en una hoja de cálculo.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2634-opensea-nft-agent.json](workflows/2634-opensea-nft-agent.json)**
   - **Descripción:** Este flujo automático permite a un chatbot de n8n interactuar con la API de OpenSea para recuperar y procesar datos específicos sobre NFTs.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2635-bright_data_gemini_search.json](workflows/2635-bright_data_gemini_search.json)**
   - **Descripción:** Este flujo automatizado busca datos web utilizando Perplexity, extrae información relevante con LangChain y utiliza Gemini AI para generar resúmenes.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2653-line-chatbot-memory.json](workflows/2653-line-chatbot-memory.json)**
   - **Descripción:** Este flujo permite a un chatbot de LINE mantener una conversación contextualizada utilizando la memoria histórica almacenada en Google Sheets.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2678-gmail-to-drive-pdfs.json](workflows/2678-gmail-to-drive-pdfs.json)**
   - **Descripción:** Este flujo automático envía attachments PDF específicos de un correo electrónico a Google Drive usando OpenAI para filtrar y subir solo aquellos que coinciden con un término determinado.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2688-data_extraction_bright_google.json](workflows/2688-data_extraction_bright_google.json)**
   - **Descripción:** Este flujo extrae y analiza datos estructurados de una página web utilizando Bright Data Web Unlocker y Google Gemini para realizar tareas de minería de datos, incluyendo análisis temático y extracción de sentimientos.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2706-airtable-csv-uploader.json](workflows/2706-airtable-csv-uploader.json)**
   - **Descripción:** Este flujo automático procesa y carga datos desde un archivo CSV a Airtable. Detecta si la campaña no está vacía, marca el estado de proceso, descarga el archivo, crea registros en Airtable y actualiza el estado a 'Uploaded' o 'Failed'.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2707-dropbox-backup-cleanup.json](workflows/2707-dropbox-backup-cleanup.json)**
   - **Descripción:** Este flujo automático programa tareas periódicas para Backup y limpieza de Workflows en Dropbox. Cada día, copia los Workflows actuales a una carpeta 'OLD' y elimina aquellos backups que superen los 30 días.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2767-file-organizer-mistral.json](workflows/2767-file-organizer-mistral.json)**
   - **Descripción:** Este flujo utiliza un desencadenador local para monitorear un directorio, utiliza comandos para obtener una lista de archivos y carpetas, luego emplea el modelo Mistral AI para organizar los archivos moviéndolos a subcarpetas apropiadas basándose en sugerencias del AI.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2780-gitlab-backup-n8n.json](workflows/2780-gitlab-backup-n8n.json)**
   - **Descripción:** Este flujo automático configura un backup periódico y manual de los workflows de n8n en GitLab. Utiliza triggers programados y manuales para guardar la configuración actualizada en archivos separados dentro de una repositorio gitlab.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2805-sincronizacion-stripe-s3.json](workflows/2805-sincronizacion-stripe-s3.json)**
   - **Descripción:** Este flujo automatiza la sincronización de facturas PDF desde Stripe hacia un.bucket de AWS S3 organizando los archivos en subcarpetas según el año y mes. Configura intervalos mensuales para descargar solo las facturas emitidas a partir del primer día del mes.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2827-redis_lock_workflow.json](workflows/2827-redis_lock_workflow.json)**
   - **Descripción:** Este flujo utiliza Redis para bloquear la ejecución de un workflow hasta que expire una clave TTL, evitando así la ejecución concurrente.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2832-gmail-to-drive-organizer.json](workflows/2832-gmail-to-drive-organizer.json)**
   - **Descripción:** Este flujo automatiza la descarga de archivos adjuntos de Gmail, los organiza en carpetas específicas en Google Drive según el correo electrónico receptor y fecha, creando las carpetas necesarias si no existen.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2841-export_google_keep_to_sheet.json](workflows/2841-export_google_keep_to_sheet.json)**
   - **Descripción:** Este flujo automatiza la exportación de notas desde Google Keep alinear con un sistema de procesamiento y almacenamiento en Google Sheets. Busca archivos JSON en una carpeta específica de Google Drive, filtra aquellos que no estén archivados y contengan palabras clave como 'dépensé' o 'depense', descarga los archivos seleccionados, extrae su contenido y utiliza OpenAI para tratar la información antes de insertarla en una hoja de cálculo.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2843-gdrive-audit.json](workflows/2843-gdrive-audit.json)**
   - **Descripción:** Este flujo automatiza la auditoría de permisos en Google Drive, identificando archivos compartidos públicamente o con usuarios externos y generando un informe diario que se envía por correo electrónico.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2851-job_scraping_openai.json](workflows/2851-job_scraping_openai.json)**
   - **Descripción:** Este flujo automatiza la búsqueda de ofertas laborales en Indeed usando Bright Data y OpenAI para evaluar si cada cargo es adecuado. Inicia con un formulario que recoge ubicación, palabra clave y país, luego envía una solicitud a Bright Data, espera a que se procese el.snapshot, extrae los datos, y finalmente utiliza OpenAI para determinar si eres un buen candidato.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2852-glassdoor-jobs-scraper.json](workflows/2852-glassdoor-jobs-scraper.json)**
   - **Descripción:** Este flujo utiliza Bright Data para extraer ofertas laborales de Glassdoor basadas en ubicación, palabra clave y país, espera a que estén listas, las guarda en Google Sheets y luego genera pitches personalizados usando un LLM.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2853-trustpilot-analysis.json](workflows/2853-trustpilot-analysis.json)**
   - **Descripción:** Este flujo automatiza la extracción y análisis de reseñas negativas de competidores en Trustpilot usando Bright Data. El usuario ingresa una URL de Trustpilot y selecciona un período, luego el workflow envía una solicitud a Bright Data, espera hasta que los datos estén listos, filtra las reseñas negativas (1 o 2 estrellas), agrupa los comentarios y utiliza OpenAI para generar texto persuasivo basado en esas quejas. Finalmente, envía un resumen por correo electrónico.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2856-amazon_reviews_analysis.json](workflows/2856-amazon_reviews_analysis.json)**
   - **Descripción:** Este flujo utiliza Bright Data para extraer y analizar opiniones de productos en Amazon. Configura un formulario para introducir URLs de productos, envía una solicitud HTTP para iniciar el análisis, espera a que se procese la información y luego almacena los datos en Google Sheets. Después, utiliza OpenAI para resumir las reseñas, genera imágenes creativas basadas en los resultados y envía estos creativos por correo electrónico.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2859-sqlite-mcp-server.json](workflows/2859-sqlite-mcp-server.json)**
   - **Descripción:** Flujo que implementa un servidor MCP de SQLite para realizar operaciones básicas en una base de datos local como lectura, inserción y actualización de registros, usando nodos personalizados para manejar las operaciones seguras.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2860-gdrive-mcp-server.json](workflows/2860-gdrive-mcp-server.json)**
   - **Descripción:** Este flujo configura un servidor MCP que interactúa con Google Drive para buscar y leer archivos, convirtiendo formatos binarios a texto. Utiliza OpenAI para analizar imágenes y transcribir audio.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2866-legis-sostenibilidad.json](workflows/2866-legis-sostenibilidad.json)**
   - **Descripción:** Este flujo automático extrae información de procedimientos legislativos relacionados con sostenibilidad de la página web del Parlamento Europeo, clasificando cada documento utilizando un agente de lenguaje OpenAI y almacenándolos en una hoja de Google Sheets.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2871-image-processing.json](workflows/2871-image-processing.json)**
   - **Descripción:** Este flujo automático descarga imágenes de URLs, las analiza para crear un prompt de fotografía de producto y genera una nueva imagen con OpenAI antes de almacenarla en Google Drive y actualizar una tabla.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2873-google-drive-folder-creator.json](workflows/2873-google-drive-folder-creator.json)**
   - **Descripción:** Este flujo crea una estructura jerárquica en Google Drive a partir de un path dado y devuelve el ID del último folder creado.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2892-resto-order-processor.json](workflows/2892-resto-order-processor.json)**
   - **Descripción:** Flujo automatizado para procesar pedidos en restaurantes. Extrae información de los pedidos mediante un agente de chat y herramientas de IA, separa los items, cantidad y número de mesa, confirma la orden y registra en una hoja de Google Sheets.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2909-workflow_management.json](workflows/2909-workflow_management.json)**
   - **Descripción:** Este flujo automático gestiona y sincroniza Workflows de n8n con Airtable y Dropbox. Recupera detalles de Workflows, prepara datos, maneja cron jobs y actualiza o agrega nuevos registros en Airtable.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2910-import_odoo_product_images.json](workflows/2910-import_odoo_product_images.json)**
   - **Descripción:** Este flujo importa imágenes de productos desde Google Drive a Odoo, filtrando y actualizando las mismas en base al modelo y SKU. Mantiene un sistema para mover archivos procesados y notificar el total descargado.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2914-openai-file-citation.json](workflows/2914-openai-file-citation.json)**
   - **Descripción:** Este flujo extrae y formatea citas de archivos almacenados en OpenAI a partir de un hilo de conversación, asegurando que las referencias se muestren correctamente con nombres de archivo.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2946-automate-content-generator-wordpress.json](workflows/2946-automate-content-generator-wordpress.json)**
   - **Descripción:** Este flujo automático genera contenido para WordPress usando DeepSeek R1, incluyendo artículos y títulos SEO-friendlys, crea imágenes con DALL-E, las sube y actualiza una hoja de cálculo de Google Sheets.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2979-multi_methods_airtable.json](workflows/2979-multi_methods_airtable.json)**
   - **Descripción:** Este flujo maneja diferentes métodos HTTP para interactuar con una API de Airtable, realizando operaciones como crear, obtener todo, obtener un registro por ID, actualizar y eliminar registros.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3015-automated-resume-review-system.json](workflows/3015-automated-resume-review-system.json)**
   - **Descripción:** Este flujo automático permite analizar y evaluar currículos de manera automatizada utilizando OpenAI y Google Sheets. Incluye la subida al Drive, extracción de información, resumen profesional y almacenamiento en hojas de cálculo.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3018-webflow-airtable-tables-creator.json](workflows/3018-webflow-airtable-tables-creator.json)**
   - **Descripción:** Este flujo crea tablas dinámicas en Airtable para las submisiones de formularios de Webflow. Automatiza la creación de tableros y registros basados en los formulario, usando credenciales de API y manejando errores.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3019-export_zammad_to_excel.json](workflows/3019-export_zammad_to_excel.json)**
   - **Descripción:** Este flujo exporta objetos de Zammad como Usuarios, Roles, Grupos y Organizaciones a archivos Excel.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3036-procesador-imagenes-ollama.json](workflows/3036-procesador-imagenes-ollama.json)**
   - **Descripción:** Este flujo automatiza el análisis detallado de imágenes utilizando modelos visuales locales de Ollama. Descarga una imagen desde Google Drive, la procesa con múltiples modelos (como granita3.2-vision y llama3.2-vision), genera descripciones exhaustivas en markdown y las guarda en Google Docs.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3040-enra_zammad_sync.json](workflows/3040-enra_zammad_sync.json)**
   - **Descripción:** Este flujo sincroniza usuarios de Entra con Zammad. Recupera grupos y miembros de Entra, crea objetos de usuario universales, compara datos para actualizar o desactivar usuarios en Zammad.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3059-openai-file-retrieval-rg.json](workflows/3059-openai-file-retrieval-rg.json)**
   - **Descripción:** Este flujo utiliza OpenAI para recuperar y citar contenido de archivos almacenados en un vector store, formateando la salida con Markdown o HTML.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3093-bright_data_extractor.json](workflows/3093-bright_data_extractor.json)**
   - **Descripción:** Este flujo utiliza Bright Data Web Scraper para extraer datos estructurados en masa. Inicia una captura, espera a que esté lista y luego descarga los datos. Maneja errores y notifica por webhook.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3095-remove-background-google-drive.json](workflows/3095-remove-background-google-drive.json)**
   - **Descripción:** Este flujo elimina el fondo de las imágenes almacenadas en Google Drive utilizando la API de Photoroom, añadiendo un color de fondo configurable y guardando las nuevas imágenes en una ubicación específica.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3102-organizar-archivos-con-AI.json](workflows/3102-organizar-archivos-con-AI.json)**
   - **Descripción:** Este flujo automatiza la organización de archivos en directorios locales utilizando IA. Monitorea un folder específico, lista los archivos y carpetas, utiliza Mistral AI para clasificar los archivos sugiriendo subdirectorios existentes o nuevos, y luego mueve los archivos según las indicaciones de la IA.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3106-automate-content-generator-wordpress.json](workflows/3106-automate-content-generator-wordpress.json)**
   - **Descripción:** Este flujo automatiza la creación de contenido para WordPress utilizando DeepSeek. Genera artículos, títulos y imágenes basadas en ideas proporcionadas en una hoja de cálculo de Google Sheets.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3125-linkedin-stories-generator.json](workflows/3125-linkedin-stories-generator.json)**
   - **Descripción:** Este flujo extrae información de LinkedIn usando la API de Bright Data y genera historias empresariales con Google Gemini. Incluye el procesamiento de datos, extracción de información y resumen mediante LLM.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3130-extract-google-maps.json](workflows/3130-extract-google-maps.json)**
   - **Descripción:** Este flujo utiliza Google Maps y herramientas de scrappeo para extraer datos empresariales como nombre, dirección, teléfono, correo electrónico y website. Utiliza OpenAI para procesar las peticiones yGuardar en Google Sheets.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3144-chatbot_companyIdocs.json](workflows/3144-chatbot_companyIdocs.json)**
   - **Descripción:** Este flujo automatiza la creación de un chatbot que utiliza documentos de la empresa almacenados en Google Drive y Gemini para responder preguntas.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3145-rag_context_chunking.json](workflows/3145-rag_context_chunking.json)**
   - **Descripción:** Este flujo automatiza la creación de vectores contextuales a partir de documentos en Google Drive usando RAG (Retrieval-Augmented Generation) con división en secciones y almacenamiento en Pinecone.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3146-reconcile-rent-payments.json](workflows/3146-reconcile-rent-payments.json)**
   - **Descripción:** Este flujo automatiza la reconciliación de pagos de alquileres utilizando un modelo OpenAI para detectar y flaggear discrepancias en los pagos contra una base de datos local en Excel. Identifica misses, pagos incorrectos, vencimientos y alerta acciones necesarias.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3154-dynamic_form_dropdown.json](workflows/3154-dynamic_form_dropdown.json)**
   - **Descripción:** Este flujo configura un formulario con un campo desplegable dinámico que se actualiza con valores obtenidos de una fuente de datos externa, como una hoja de cálculo de Google Sheets. La estructura incluye nodos para capturar la submisión del formulario, recuperar los datos de la fuente, transformarlos y actualizar el formulario con las nuevas opciones.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3163-gmail-to-drive-pdfs.json](workflows/3163-gmail-to-drive-pdfs.json)**
   - **Descripción:** Este flujo automatiza la transferencia de archivos PDF específicos desde Gmail a Google Drive usando OpenAI para filtrar y subir solo aquellos que coinciden con un término determinado.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3173-social-banner-generator.json](workflows/3173-social-banner-generator.json)**
   - **Descripción:** Este flujo automatiza la creación de banners sociales usando n8n Forms para capturar datos del evento, OpenAI para generar imágenes y BannerBear para crear el banner final.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3207-waitlist-verification.json](workflows/3207-waitlist-verification.json)**
   - **Descripción:** Flujo para manejar una lista de espera que incluye registro de usuarios, generación de código de verificación, envío de correo electrónico y validación. Si el código es incorrecto, se le pide al usuario reintentar. Una vez validado, se guarda en Google Sheets.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3208-sql-agent-chart-generator.json](workflows/3208-sql-agent-chart-generator.json)**
   - **Descripción:** Este flujo utiliza un agente de SQL y OpenAI para generar respuestas con visualizaciones en tiempo real. El usuario puede hacer preguntas sobre los datos y el sistema determinará si incluir una gráfica usando Chart.js, accionando un subflujo para crear una imagen compatible con Quickchart.io.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3211-blueSky-welcome-bot.json](workflows/3211-blueSky-welcome-bot.json)**
   - **Descripción:** Este flujo programa un mensaje de bienvenida automático a nuevos seguidores en BlueSky. Primero inicia sesión, luego lista los seguidores y compara con una base de datos guardada para detectar新人. Los nuevos seguidores reciben un mensaje privado con un texto definido. Se actualiza la lista de seguidores en un archivo JSON.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3223-search-console-report.json](workflows/3223-search-console-report.json)**
   - **Descripción:** Este flujo extrae datos de Search Console mediante tres reportes diferentes (palabras clave, páginas y fechas) usando la API de Google. Los datos se procesan para separarlos y luego actualizar una hoja de cálculo de Google con información detallada sobre clics, impresiones, CTR y posiciones.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3227-calendly-klicktipp-sync.json](workflows/3227-calendly-klicktipp-sync.json)**
   - **Descripción:** Este flujo automático sincroniza eventos de Calendly con KlickTipp, manejando reservas y.Cancelaciones, transformando datos para asegurar que los invitados sean agregados o eliminados correctamente en la lista de subscriptores.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3231-transcription-ai-flow.json](workflows/3231-transcription-ai-flow.json)**
   - **Descripción:** Este flujo automatiza la transcripción en tiempo real de reuniones, estructura los datos y genera resúmenes usando OpenAI y bases de datos PostgreSQL.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3234-invoice-parser-flow.json](workflows/3234-invoice-parser-flow.json)**
   - **Descripción:** Este flujo automático detecta nuevos archivos en Google Drive, los envía a LlamaParse para análisis y extrae información de facturas. Los datos procesados se almacenan en Airtable como registros de invoices y sus respectivos ítems detallados.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3241-ai-meeting-automator.json](workflows/3241-ai-meeting-automator.json)**
   - **Descripción:** Este flujo automático utiliza un agente de inteligencia artificial para procesar transcripciones de reuniones, extraer tareas y notificar al cliente. Para ello, utiliza Airtable para crear tareas y Google Calendar para programar citas.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3245-csvToJsonParser.json](workflows/3245-csvToJsonParser.json)**
   - **Descripción:** Este flujo procesa una solicitud POST con datos en formato CSV o JSON. Primero, verifica el tipo de contenido y extrae los datos utilizando ExtractFromFile. Luego, convierte los datos_RAW a CSV si es necesario. Si hay errores, devuelve un código 500 con un mensaje de error. Si la conversión es exitosa, agrega los datos al cuerpo JSON y responde con un código 200.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3267-certificado-automatico.json](workflows/3267-certificado-automatico.json)**
   - **Descripción:** Este flujo automatiza la generación y envío de certificados basados en un cuestionario de Google Forms. Recoge datos de las respuestas, verifica la puntuación, crea una presentación personalizada con el nombre del usuario, convierte la presentación a PDF y envía un correo electrónico con el certificado al usuario si supera la calificación.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3318-extract_text_from_pdf_image_to_csv.json](workflows/3318-extract_text_from_pdf_image_to_csv.json)**
   - **Descripción:** Este flujo automático extrae texto de archivos PDF y imágenes usando Vertex AI (Gemini) y los convierte en CSV para su almacenamiento en Google Drive.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3319-umami-ai-analytics.json](workflows/3319-umami-ai-analytics.json)**
   - **Descripción:** Este flujo extrae datos de analítica web de Umami, procesa y envía información a un modelo de IA para obtener resúmenes y comparativas semanales, guardando los resultados en Baserow.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3325-split-test-ab.json](workflows/3325-split-test-ab.json)**
   - **Descripción:** Este flujo implementa un test de división A/B para evaluar diferentes mensajes en un chatbot. Al recibir un mensaje, verifica si la sesión existe y asigna aleatoriamente un.prompt entre dos opciones guardadas en Supabase, luego utiliza el agente AI con el prompt seleccionado.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3343-Indeed_Data_Scraper_Gemini.json](workflows/3343-Indeed_Data_Scraper_Gemini.json)**
   - **Descripción:** Este flujo extrae y resume datos de compañías de Indeed usando Bright Data y Google Gemini. Utiliza Airtable para almacenar los enlaces y procesa la información con agentes y cadenas de pensamiento AI.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[0008-notion_linkedin_pub.json](workflows/0008-notion_linkedin_pub.json)**
   - **Descripción:** Este flujo automático publica cada día en LinkedIn un post seleccionado desde una base de datos de Notion, basándose en la fecha y hora programadas.
@@ -5153,7 +5153,7 @@ Todos los workflows aquí compartidos se proporcionan tal cual. **Antes de emple
 
 - **[2887-ai-language-tools.json](workflows/2887-ai-language-tools.json)**
   - **Descripción:** Este flujo incluye una variedad de nodos relacionados con agentes de lenguaje y herramientas de IA, como transformadores de lenguaje, cadenas de encadenamiento, extraedores de información, analizadores de sentimiento, herramientas de vectores y memoria. También contiene conexiones con servicios externos como Google Sheets, Dropbox, Gmail, Twitter y más.
-  - **Complejidad:** Alta (13 nodos)
+  - **Complejidad:** Media (13 nodos)
 
 - **[0354-todoist-recurring-tasks.json](workflows/0354-todoist-recurring-tasks.json)**
   - **Descripción:** Este flujo n8n procesa tareas de un proyecto Todoist para crear nuevas tareas en la bandeja de entrada cada día, basadas en parámetros como días y horas específicas. Analiza las descripciones de las tareas, verifica si coinciden con el día actual, genera tareas nuevas y elimina aquellas que ya existen.
@@ -5205,7 +5205,7 @@ Todos los workflows aquí compartidos se proporcionan tal cual. **Antes de emple
 
 - **[2825-gestion_citas_vapi.json](workflows/2825-gestion_citas_vapi.json)**
   - **Descripción:** Este flujo automático gestiona la reserva y gestión de citas mediante Vapi, Google Calendar y Airtable. Permite verificar disponibilidad, crear, actualizar y eliminar eventos, así como registrar información de llamadas telefónicas.
-  - **Complejidad:** Alta (9 nodos)
+  - **Complejidad:** Media (9 nodos)
 
 - **[0204-clientes-condicion.json](workflows/0204-clientes-condicion.json)**
   - **Descripción:** Este flujo procesa datos de clientes mediante filtros y bifurcaciones condicionales para segmentarlos por país.
@@ -5329,7 +5329,7 @@ Todos los workflows aquí compartidos se proporcionan tal cual. **Antes de emple
 
 - **[1436-api-schema-extractor.json](workflows/1436-api-schema-extractor.json)**
   - **Descripción:** Este flujo permite chatbot, web scraping, extracción de datos, generación de contenido utilizando Webhook, Google Sheets, PDF con inteligencia artificial mediante webhooks y APIs.
-  - **Complejidad:** Alta (8 nodos)
+  - **Complejidad:** Media (8 nodos)
 
 - **[0096-news-hacker.json](workflows/0096-news-hacker.json)**
   - **Descripción:** Este flujo automático recoge títulos y URLs de noticias de Hacker News, las exporta como un archivo en formato CSV o Excel y envía una notificación por correo electrónico.
@@ -5569,23 +5569,23 @@ Todos los workflows aquí compartidos se proporcionan tal cual. **Antes de emple
 
 - **[0969-ats-ai-assessment.json](workflows/0969-ats-ai-assessment.json)**
   - **Descripción:** Este flujo automático procesa solicitudes de candidatos extraídos de formularios, analiza sus datos personales y calificaciones mediante modelos de Google Gemini, asigna experiencias por funciones usando un extractor LLM, evalúa su alineación con descripciones de roles específicos en Notion ATS, genera evaluaciones estructuradas y actualiza registros tanto en Notion como en Google Sheets.
-  - **Complejidad:** Alta (6 nodos)
+  - **Complejidad:** Media (6 nodos)
 
 - **[1242-ultimate-scraper-workflow.json](workflows/1242-ultimate-scraper-workflow.json)**
   - **Descripción:** Este flujo automático permite extraer información de cualquier página web, ya sea pública o privada, utilizando técnicas avanzadas como la automatización del navegador.Selenium y análisis con modelos de lenguaje de OpenAI. Ideal para proyectos que requieren recopilar datos detras de WAFs.
-  - **Complejidad:** Alta (6 nodos)
+  - **Complejidad:** Media (6 nodos)
 
 - **[2555-workflow-docs.json](workflows/2555-workflow-docs.json)**
   - **Descripción:** Este flujo automático permite a n8n generar y mantener documentación de workflows mediante Docsify, creando archivos Markdown basados en los datos del workflow.
-  - **Complejidad:** Alta (6 nodos)
+  - **Complejidad:** Media (6 nodos)
 
 - **[2998-notion-clockify-sync.json](workflows/2998-notion-clockify-sync.json)**
   - **Descripción:** Este flujo sincroniza datos entre Notion y Clockify, manejando clientes, proyectos y tareas. Actualiza estados y IDs de manera bidireccional.
-  - **Complejidad:** Alta (6 nodos)
+  - **Complejidad:** Media (6 nodos)
 
 - **[3045-selenium_scraping_automatizado.json](workflows/3045-selenium_scraping_automatizado.json)**
   - **Descripción:** Este flujo automatiza la extracción de datos web utilizando Selenium y OpenAI. Busca URLs relevantes en una página dada, extrae información con IA, maneja cookies y sesiones para logueo opcional, toma capturas de pantalla y detecta posibles bloqueos por WAF.
-  - **Complejidad:** Alta (6 nodos)
+  - **Complejidad:** Media (6 nodos)
 
 - **[0095-sequential-http-post.json](workflows/0095-sequential-http-post.json)**
   - **Descripción:** Este flujo permite iniciar manualmente la ejecución, obtener todos los datos de clientes desde un almacenamiento, dividirlos en lotes individuales y enviar cada uno mediante una solicitud HTTP POST a la API de JSONPlaceholder.
@@ -5693,39 +5693,39 @@ Todos los workflows aquí compartidos se proporcionan tal cual. **Antes de emple
 
 - **[0717-rag-chatbot-docs.json](workflows/0717-rag-chatbot-docs.json)**
   - **Descripción:** Este flujo automático permite a un chatbot de IA mantener una conversación contextualizada usando documentos almacenados en Google Drive y Qdrant. Extrae metadatos relevantes como temas principales, puntos dolorosos e información clave para mejorar la búsqueda semántica y las respuestas del asistente.
-  - **Complejidad:** Alta (5 nodos)
+  - **Complejidad:** Media (5 nodos)
 
 - **[0808-airtable-dynamic-prompts-llm.json](workflows/0808-airtable-dynamic-prompts-llm.json)**
   - **Descripción:** Este flujo automático permite al usuario generar y mantener un esquema dinámico de campos en una tabla de Airtable mediante webhooks, optimizando la actualización con LLM solo cuando son necesarios.
-  - **Complejidad:** Alta (5 nodos)
+  - **Complejidad:** Media (5 nodos)
 
 - **[0941-techradar-ai-agent.json](workflows/0941-techradar-ai-agent.json)**
   - **Descripción:** Este flujo automático maneja la tecnología corporativa para tres empresas, manteniendo actualizados los registros en base de datos SQL y almacenamiento vectorial Pinecone. Se ejecuta cada mes un cron job que sincroniza los datos desde Google Sheets eliminando registros antiguos.
-  - **Complejidad:** Alta (5 nodos)
+  - **Complejidad:** Media (5 nodos)
 
 - **[1258-pdf-to-vector-store.json](workflows/1258-pdf-to-vector-store.json)**
   - **Descripción:** Convierte un PDF en datos vectoriales para búsquedas posteriores.
-  - **Complejidad:** Alta (5 nodos)
+  - **Complejidad:** Media (5 nodos)
 
 - **[1276-airtable-pdf-llm-update.json](workflows/1276-airtable-pdf-llm-update.json)**
   - **Descripción:** Actualiza registros de Airtable con datos extraídos de PDFs mediante LLM.
-  - **Complejidad:** Alta (5 nodos)
+  - **Complejidad:** Media (5 nodos)
 
 - **[2575-wordpress-ai-chatbot.json](workflows/2575-wordpress-ai-chatbot.json)**
   - **Descripción:** Este flujo automático permite crear y mantener embeddings de contenido de WordPress en Supabase, utilizando modelos OpenAI para responder preguntas con información contextualizada.
-  - **Complejidad:** Alta (5 nodos)
+  - **Complejidad:** Media (5 nodos)
 
 - **[2704-switchy-url-shortener.json](workflows/2704-switchy-url-shortener.json)**
   - **Descripción:** Este flujo procesa URLs para generar y acortarlas utilizando Switchy.io. Analiza metadatos, verifica seguridad con Norton y Bitdefender, y maneja diferentes modos de imagen OpenGraph.
-  - **Complejidad:** Alta (5 nodos)
+  - **Complejidad:** Media (5 nodos)
 
 - **[3041-online-marketing-report.json](workflows/3041-online-marketing-report.json)**
   - **Descripción:** Este flujo automático genera un informe semanal de marketing digital que recopila y analiza datos de Google Analytics, Google Ads y Meta Ads. Utiliza sub-flujos para obtener métricas actuales y del año pasado, procesa la información con OpenAI y envía el reporte por correo electrónico.
-  - **Complejidad:** Alta (5 nodos)
+  - **Complejidad:** Media (5 nodos)
 
 - **[3090-app-wordpress-genai.json](workflows/3090-app-wordpress-genai.json)**
   - **Descripción:** Este flujo implementa una aplicación que utiliza tecnologías de RAG (Retrieval-Augmented Generation) y GenAI para interactuar con contenido de WordPress. Extrae embeddings de texto, gestiona documentos en Supabase y mantiene memoria del chat usando PostgreSQL.
-  - **Complejidad:** Alta (5 nodos)
+  - **Complejidad:** Media (5 nodos)
 
 - **[0018-entrevistas-y-participantes.json](workflows/0018-entrevistas-y-participantes.json)**
   - **Descripción:** Este flujo procesa dos conjuntos de datos separados que contienen información sobre entrevistas y sus participantes, convirtiendo cada entrada individual en un objeto independiente para luego fusionarlos basándose en claves específicas.
@@ -5873,103 +5873,103 @@ Todos los workflows aquí compartidos se proporcionan tal cual. **Antes de emple
 
 - **[0809-baserow-pdf-extractor.json](workflows/0809-baserow-pdf-extractor.json)**
   - **Descripción:** Este flujo automático permite a un usuario extraer datos de PDF utilizando prompts dinámicos en una tabla Baserow.
-  - **Complejidad:** Alta (4 nodos)
+  - **Complejidad:** Baja (4 nodos)
 
 - **[0872-estudio-descomposicion-documents-n8n.json](workflows/0872-estudio-descomposicion-documents-n8n.json)**
   - **Descripción:** Este flujo automatizado permite al sistema procesar documentos subidos en un directorio especificado, dividirlos en bloques de texto, vectorizar su contenido y luego generar diferentes tipos de materiales de estudio como guías o cronologías utilizando modelos de lenguaje AI. Finalmente exporta estos archivos generados junto con el original.
-  - **Complejidad:** Alta (4 nodos)
+  - **Complejidad:** Baja (4 nodos)
 
 - **[0908-ai-interviews-n8n.json](workflows/0908-ai-interviews-n8n.json)**
   - **Descripción:** Este flujo automático con n8n permite realizar entrevistas conversacionales con un agente de IA que dinámicamente pregunta y registra respuestas en Redis, usando formularios para capturar información. Las respuestas se guardan en Google Sheets.
-  - **Complejidad:** Alta (4 nodos)
+  - **Complejidad:** Baja (4 nodos)
 
 - **[0913-google-maps-leads-generator.json](workflows/0913-google-maps-leads-generator.json)**
   - **Descripción:** Este flujo automático utiliza la API de Google Maps para buscar lugares basados en categorías y códigos postales específicos, extrayendo datos relevantes e insertándolos en una hoja de Google Sheets con mecanismos de control anti-duplicado y manejo exponencial de errores.
-  - **Complejidad:** Alta (4 nodos)
+  - **Complejidad:** Baja (4 nodos)
 
 - **[0934-ai-logo-sheet-extractor.json](workflows/0934-ai-logo-sheet-extractor.json)**
   - **Descripción:** Este flujo automático permite extraer información de imágenes que muestran tablas de logotipos, identificando herramientas y sus atributos para guardarlos en Airtable.
-  - **Complejidad:** Alta (4 nodos)
+  - **Complejidad:** Baja (4 nodos)
 
 - **[0984-ai-logo-extractor.json](workflows/0984-ai-logo-extractor.json)**
   - **Descripción:** Este flujo automático permite extraer información de una imagen con múltiples logotipos utilizando IA, y guardarla en tablas estructuradas de Airtable para categorizar herramientas.
-  - **Complejidad:** Alta (4 nodos)
+  - **Complejidad:** Baja (4 nodos)
 
 - **[1122-wordpress-auto-generation.json](workflows/1122-wordpress-auto-generation.json)**
   - **Descripción:** Este flujo automático selecciona la categoría menos utilizada de WordPress desde una base de datos PostgreSQL para generar artículos únicos y estructurados mediante modelos GPT. Después de crear el contenido completo en formato HTML específico, genera un título optimizado y descarga/adjunta una imagen destacada antes de publicar todo junto.
-  - **Complejidad:** Alta (4 nodos)
+  - **Complejidad:** Baja (4 nodos)
 
 - **[1270-email-header-analyzer.json](workflows/1270-email-header-analyzer.json)**
   - **Descripción:** Analiza los encabezados de un correo para obtener metadatos.
-  - **Complejidad:** Alta (4 nodos)
+  - **Complejidad:** Baja (4 nodos)
 
 - **[1271-email-header-analyzer.json](workflows/1271-email-header-analyzer.json)**
   - **Descripción:** Analiza los encabezados de un correo para obtener metadatos.
-  - **Complejidad:** Alta (4 nodos)
+  - **Complejidad:** Baja (4 nodos)
 
 - **[1272-ai_airtable_agent.json](workflows/1272-ai_airtable_agent.json)**
   - **Descripción:** Agente de IA que gestiona registros en Airtable.
-  - **Complejidad:** Alta (4 nodos)
+  - **Complejidad:** Baja (4 nodos)
 
 - **[1445-breakdown-documents-into-study-notes.json](workflows/1445-breakdown-documents-into-study-notes.json)**
   - **Descripción:** Este flujo permite chatbot, automatización, resumen, extracción de datos, generación de contenido utilizando Webhook, PDF con inteligencia artificial mediante webhooks y APIs.
-  - **Complejidad:** Alta (4 nodos)
+  - **Complejidad:** Baja (4 nodos)
 
 - **[2603-suspicious-login-detection.json](workflows/2603-suspicious-login-detection.json)**
   - **Descripción:** Este flujo n8n detecta logins sospechosos de cuentas mediante la integración de datos de IP-API, UserParser y GreyNoise. Analiza ubicaciones nuevas o dispositivos/browser diferentes para determinar si es un intento fraudulento.
-  - **Complejidad:** Alta (4 nodos)
+  - **Complejidad:** Baja (4 nodos)
 
 - **[2670-n8n_creators_leaderboard_stats.json](workflows/2670-n8n_creators_leaderboard_stats.json)**
   - **Descripción:** Este flujo automatiza la obtención y procesamiento de datos estadísticos del tablero de n8n creadores para generar informes detallados en formato Markdown sobre las contribuciones específicas de un usuario.
-  - **Complejidad:** Alta (4 nodos)
+  - **Complejidad:** Baja (4 nodos)
 
 - **[2679-chatgpt-email-sheets.json](workflows/2679-chatgpt-email-sheets.json)**
   - **Descripción:** Este flujo automático gestiona las respuestas de ChatGPT a correos electrónicos específicos y registra interacciones en Google Sheets.
-  - **Complejidad:** Alta (4 nodos)
+  - **Complejidad:** Baja (4 nodos)
 
 - **[2731-woocommerce-chatbot.json](workflows/2731-woocommerce-chatbot.json)**
   - **Descripción:** Este flujo automático permite a un chatbot recuperar y mostrar información de pedidos de WooCommerce basada en la dirección de correo electrónico del usuario. Utiliza herramientas de encriptación para proteger los datos sensibles y servicios como DHL para el seguimiento de envíos.
-  - **Complejidad:** Alta (4 nodos)
+  - **Complejidad:** Baja (4 nodos)
 
 - **[2770-automated-notes-generator.json](workflows/2770-automated-notes-generator.json)**
   - **Descripción:** Este flujo automático monitorea un directorio para detectar nuevos archivos, procesa su contenido y utiliza agentes de IA para generar documentos estructurados en formato Markdown como guías de estudio, timeline y documentación informativa.
-  - **Complejidad:** Alta (4 nodos)
+  - **Complejidad:** Baja (4 nodos)
 
 - **[2862-mcp-qdrant-reviews.json](workflows/2862-mcp-qdrant-reviews.json)**
   - **Descripción:** Este flujo configura y administra una base de datos vectorial con Qdrant para realizar operaciones como insertar, buscar, comparar y recomendar revisiones de empresas. Utiliza MCP Server Trigger para manejar diferentes herramientas personalizadas y extiende la funcionalidad del servidor Qdrant con capacidades avanzadas.
-  - **Complejidad:** Alta (4 nodos)
+  - **Complejidad:** Baja (4 nodos)
 
 - **[2876-workflow_mcp_manager.json](workflows/2876-workflow_mcp_manager.json)**
   - **Descripción:** Este flujo gestiona dinámicamente una lista de workflows disponibles mediante Redis y n8n, permitiendo operaciones como agregar, eliminar y listar workflows. Utiliza un agente de lenguaje para ejecutar tareas basadas en estos workflows.
-  - **Complejidad:** Alta (4 nodos)
+  - **Complejidad:** Baja (4 nodos)
 
 - **[2879-stock-analysis-bot.json](workflows/2879-stock-analysis-bot.json)**
   - **Descripción:** Este flujo automático realiza un análisis detallado de acciones combinando análisis técnico y sentimiento de noticias. Utiliza varias APIs para obtener datos técnicos (gráficos, indicadores) y analítica de sentimiento, luego los procesa con GPT-4 para generar un informe estructurado en formato HTML en hebreo, que se envía por correo electrónico.
-  - **Complejidad:** Alta (4 nodos)
+  - **Complejidad:** Baja (4 nodos)
 
 - **[2899-prevent-concurrent-workflows.json](workflows/2899-prevent-concurrent-workflows.json)**
   - **Descripción:** Este flujo utiliza Redis para prevenir la ejecución concurrente de workflows. Almacena estados en Redis y verifica si un proceso ya está en curso antes de continuar.
-  - **Complejidad:** Alta (4 nodos)
+  - **Complejidad:** Baja (4 nodos)
 
 - **[2937-tiktok-youtube-generator.json](workflows/2937-tiktok-youtube-generator.json)**
   - **Descripción:** Este flujo automático genera contenido multimedia para TikTok y YouTube Shorts/Reels de manera automatizada utilizando APIs como PiAPI para imágenes y videos, ElevenLabs para voces, Google Drive para almacenamiento y OpenAI para texto. Incluye capturas de ideas, generación de imágenes, conversión a video, adición de audio, mezcla de elementos y notificación al final.
-  - **Complejidad:** Alta (4 nodos)
+  - **Complejidad:** Baja (4 nodos)
 
 - **[2956-nextcloud-docker-flow.json](workflows/2956-nextcloud-docker-flow.json)**
   - **Descripción:** Este flujo configura y gestiona entornos Docker para NextCloud utilizando n8n, incluyendo acciones como iniciar, detener, suspender, desususpender, montar/desmontar discos, actualizar paquetes y más. También administra conexiones DNS y verifica la validez del dominio.
-  - **Complejidad:** Alta (4 nodos)
+  - **Complejidad:** Baja (4 nodos)
 
 - **[3058-set_medoids_cultivos.json](workflows/3058-set_medoids_cultivos.json)**
   - **Descripción:** Este flujo configura los medoides (centros) de dos tipos para la detección de anomalías en un conjunto de datos de cultivos usando Qdrant y el modelo Voyage. Calcula representantes de clusters mediante matrices de distancia y vectores embedding de texto.
-  - **Complejidad:** Alta (4 nodos)
+  - **Complejidad:** Baja (4 nodos)
 
 - **[3126-multi-ai-chatbot-postgres-chart.json](workflows/3126-multi-ai-chatbot-postgres-chart.json)**
   - **Descripción:** Este flujo automático permite a un chatbot interactuar con una base de datos PostgreSQL o Supabase mediante consultas SQL y generar gráficos visualizados en QuickChart usando agentes de inteligencia artificial. El sistema utiliza OpenAI para procesar las preguntas del usuario, ejecutar consultas SQL, obtener definiciones de tablas y crear gráficos basados en los resultados obtenidos.
-  - **Complejidad:** Alta (4 nodos)
+  - **Complejidad:** Baja (4 nodos)
 
 - **[3160-chatgpt-email-responses.json](workflows/3160-chatgpt-email-responses.json)**
   - **Descripción:** Este flujo automático envía una respuesta de ChatGPT a través de correo electrónico cuando se recibe un correo electrónico y registra las respuestas en Google Sheets. También registra retroalimentación para mejorar el modelo.
-  - **Complejidad:** Alta (4 nodos)
+  - **Complejidad:** Baja (4 nodos)
 
 - **[0024-iss-position-updates.json](workflows/0024-iss-position-updates.json)**
   - **Descripción:** Este flujo automático obtiene cada minuto la posición actual de la Estación Espacial Internacional (ISS) desde una API externa y envía los datos a un topic en ActiveMQ.
@@ -6185,183 +6185,183 @@ Todos los workflows aquí compartidos se proporcionan tal cual. **Antes de emple
 
 - **[0716-blotato-social-publishing.json](workflows/0716-blotato-social-publishing.json)**
   - **Descripción:** Este flujo automático publica videos e imágenes en múltiples redes sociales como Instagram, Facebook, LinkedIn, TikTok y más utilizando la plataforma Blotato. La automatización extrae contenido de Airtable, genera títulos virales para YouTube con OpenAI y gestiona el estado de publicación.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[0791-ai-wordpress-summary.json](workflows/0791-ai-wordpress-summary.json)**
   - **Descripción:** Este flujo automático genera y añade un resumen AI al principio de artículos de WordPress usando OpenAI, verifica si ya existe uno para evitar duplicados, actualiza la página y guarda los datos en Google Sheets.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[0798-ai-chat-with-supabase-documents.json](workflows/0798-ai-chat-with-supabase-documents.json)**
   - **Descripción:** Este flujo automático permite a un chatbot de IA procesar documentos PDF y texto almacenados en Supabase, generar embeddings vectoriales con OpenAI y crear una base de conocimiento interactiva para consultas sobre archivos.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[0800-search-console-ai-agent.json](workflows/0800-search-console-ai-agent.json)**
   - **Descripción:** Este flujo automático permite a un chatbot interactuar con datos del motor de búsqueda utilizando herramientas de la API de Google Search Console, OpenAI y almacenar el historial de conversaciones en una base de datos PostgreSQL.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[0819-erpnext-candidate-automation.json](workflows/0819-erpnext-candidate-automation.json)**
   - **Descripción:** Este flujo automático permite integrar webhooks de ERPNext para gestionar solicitudes de candidatos mediante análisis AI (como Google Gemini) y actualizar sus estados en función del resultado.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[0832-wordpress-ai-content-generator.json](workflows/0832-wordpress-ai-content-generator.json)**
   - **Descripción:** Este flujo automático crea artículos en WordPress a diferentes niveles de lectura utilizando modelos de lenguaje. Procesa el contenido reescrito, valida que tengan título e introducción, genera imágenes relacionadas y guarda borradores en Google Drive.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[0874-tax-code-assistant-qdrant-mistral-openai.json](workflows/0874-tax-code-assistant-qdrant-mistral-openai.json)**
   - **Descripción:** Este flujo automático permite a un chatbot de IA responder preguntas sobre el código fiscal del estado de Texas utilizando embeddings de Mistral.ai para generar vectores y Qdrant para almacenar y recuperar documentos con eficiencia, optimizando la gestión de grandes archivos mediante descompresión estratégica.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[0886-workflow-doc-analyzer.json](workflows/0886-workflow-doc-analyzer.json)**
   - **Descripción:** Este flujo automático analiza documentos subidos mediante formulario, convierte el markdown en HTML y guarda los resultados en una base de datos vectorial para alimentar un chatbot.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[0965-factoid_subscription_service.json](workflows/0965-factoid_subscription_service.json)**
   - **Descripción:** Este flujo automático utiliza n8n formularios para gestionar suscripciones a correos educativos diarios, semanales o sorprendentes con modelos de IA generativa y almacenamiento en Airtable.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[0968-HR_CV_Evaluation_AI.json](workflows/0968-HR_CV_Evaluation_AI.json)**
   - **Descripción:** Este flujo automático permite evaluar automáticamente solicitudes de candidatos mediante análisis AI para determinar su calificación y aptitud para la vacante, actualizando luego en Airtable según el resultado.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[0973-ai-faq-generator.json](workflows/0973-ai-faq-generator.json)**
   - **Descripción:** Este flujo utiliza n8n y modelos de lenguaje como ChatGPT para generar automáticamente contenido completo en FAQ basado en datos proporcionados.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[0995-agent-access-control.json](workflows/0995-agent-access-control.json)**
   - **Descripción:** Este flujo verifica las credenciales del usuario en Airtable para establecer permisos y control de acceso a diferentes agentes y herramientas.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[1091-spotify-maintenance.json](workflows/1091-spotify-maintenance.json)**
   - **Descripción:** Este flujo automático verifica si las canciones de las últimas reproducciones en Spotify ya están guardadas en la base de datos NocoDB. Si no lo están, crea nuevos registros para cada una con el URI de la canción y la fecha en que fue añadida (usando currentDate). También busca en la base de datos existente si hay una playlist mensual con el nombre correspondiente a la fecha actual. Si existe, obtiene sus pistas; si no existe en Spotify pero sí está en NocoDb, la crea y sincroniza.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[1104-airtable-batch-processing-with-rates.json](workflows/1104-airtable-batch-processing-with-rates.json)**
   - **Descripción:** Este flujo procesa registros en lote en Airtable con tres modos: insert, update y upsert. Para evitar límites de tasa en la API de Airtable, incluye pausas después de cada error 429.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[1154-content-generation-automated.json](workflows/1154-content-generation-automated.json)**
   - **Descripción:** Este flujo automático permite generar contenido estructurado a partir de entradas formulario utilizando modelos OpenAI y almacenar los resultados en Google Drive.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[1164-zendesk-gcal-airtable-customer-flow.json](workflows/1164-zendesk-gcal-airtable-customer-flow.json)**
   - **Descripción:** Este flujo automático permite a un chatbot integrar múltiples sistemas como Zendesk para crear tickets y gestionar datos de clientes, Gcal (Google Calendar) para programar citas, Airtable para compartir transcripciones con el equipo de producto, y n8n para ejecutar todas las operaciones.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[1265-airtable-baserow-form-connector.json](workflows/1265-airtable-baserow-form-connector.json)**
   - **Descripción:** Conecta formularios de Airtable con bases en Baserow.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[1275-flujo-seleccion-candidatos-ai.json](workflows/1275-flujo-seleccion-candidatos-ai.json)**
   - **Descripción:** Flujo de selección de candidatos asistido por IA.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[1425-ai-agent-to-chat-with-files-in-supabase-storage.json](workflows/1425-ai-agent-to-chat-with-files-in-supabase-storage.json)**
   - **Descripción:** Este flujo permite chatbot, automatización, extracción de datos, generación de contenido utilizando OpenAI/GPT, Webhook, Airtable con inteligencia artificial mediante webhooks y APIs.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[1426-ai-agent-to-chat-with-openai.json](workflows/1426-ai-agent-to-chat-with-openai.json)**
   - **Descripción:** Este flujo permite chatbot, automatización, resumen, generación de contenido utilizando OpenAI/GPT, Webhook, Supabase con inteligencia artificial mediante webhooks y APIs.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[1492-respond-to-whatsapp-messages-with-ai-like-a-pro.json](workflows/1492-respond-to-whatsapp-messages-with-ai-like-a-pro.json)**
   - **Descripción:** Este flujo permite chatbot, transcripción, resumen, extracción de datos, generación de contenido utilizando OpenAI/GPT, Webhook, WhatsApp con inteligencia artificial mediante webhooks y APIs.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[2536-billbee-address-validation.json](workflows/2536-billbee-address-validation.json)**
   - **Descripción:** Este flujo automático valida y corrige direcciones de envío de pedidos utilizando la API Endereco para verificar datos en Alemania.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[2556-glassdoor-discrimination-analysis.json](workflows/2556-glassdoor-discrimination-analysis.json)**
   - **Descripción:** Este flujo automático utiliza ScrapingBee para extraer reseñas y datos demográficos de Glassdoor, junto con modelos de OpenAI para analizar patrones discriminatorios mediante cálculos estadísticos como puntuaciones z y tamaños de efecto.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[2600-news-pipeline.json](workflows/2600-news-pipeline.json)**
   - **Descripción:** Este flujo automatizado extrae artículos de prensa, los filtra por antigüedad (7 días), genera resúmenes y palabras clave usando ChatGPT, y almacena todo en una base de datos SQL.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[2686-nextcloud_folder_migration.json](workflows/2686-nextcloud_folder_migration.json)**
   - **Descripción:** Este flujo automático搬迁文件夹及其子文件和子文件夹到Nextcloud的指定位置，确保结构完整并避免超过速率限制。
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[2736-wordpress-article-generator.json](workflows/2736-wordpress-article-generator.json)**
   - **Descripción:** Flujo que automatiza la creación de artículos en WordPress utilizando OpenAI para generar contenido estructurado y DALL·E para imágenes, con validación de datos.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[2766-hellofresh-recomendador.json](workflows/2766-hellofresh-recomendador.json)**
   - **Descripción:** Este flujo automatiza la recomendación de recetas semanales de HelloFresh mediante un motor de búsqueda vectorial y una base de datos. Extrae información de menús semanales, procesa datos de recetas, genera embeddings con Mistral Cloud y utiliza Qdrant para推荐pciones basadas en preferencias.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[2775-competitor-research-automator.json](workflows/2775-competitor-research-automator.json)**
   - **Descripción:** Este flujo automatiza la investigación competitiva usando Exa.ai para encontrar competidores y luego recopila información detallada sobre cada competidor mediante agentes de inteligencia artificial que extraen datos de sitios como Crunchbase, LinkedIn y bienvenidos. Los datos se estructuran y se insertan en Notion.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[2778-trustpilot-insights.json](workflows/2778-trustpilot-insights.json)**
   - **Descripción:** Este flujo extrae, procesa y analiza reseñas de Trustpilot para una empresa específica. Utiliza Qdrant como base vectorial para almacenar datos estructurados, aplica clustering con K-means para identificar patrones, genera insights usando un modelo LLM y exporta los resultados a Google Sheets.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[2779-hn_comments_analyzer.json](workflows/2779-hn_comments_analyzer.json)**
   - **Descripción:** Este flujo automático extrae y analiza comentarios de un artículo de Hacker News, los organiza en clusters utilizando algoritmos de agrupamiento (K-means) y genera insights con un modelo de lenguaje grande. Los datos se almacenan en Qdrant para su posterior análisis.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[2799-faq-generator-n8n.json](workflows/2799-faq-generator-n8n.json)**
   - **Descripción:** Este flujo automatiza la creación de FAQ para integraciones de n8n usando OpenAI y Google Sheets. Extrae datos de una hoja de cálculo, genera pares de preguntas y respuestas, completa algunas respuestas con AI y guarda los resultados en Google Drive.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[2820-auto-assign-jira.json](workflows/2820-auto-assign-jira.json)**
   - **Descripción:** Este flujo automatiza la asignación de tareas estancadas en JIRA mediante un sistema de coincidencias con issues resueltos pasados usando IA y bases de datos vectoriales. Busca tareas sin asignar durante más de 5 días, encuentra las más similares en la base de conocimientos y asigna a los miembros del equipo con menos cargas actuales.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[2829-digest-novedades-plantillas.json](workflows/2829-digest-novedades-plantillas.json)**
   - **Descripción:** Este flujo automático genera un resumen diario de las plantillas más recientes de n8n filtradas por categorías seleccionadas por los subscriptores almacenados en una hoja de cálculo de Excel. Utiliza OpenAI para resumir las descripciones y Outlook para enviar el correo electrónico.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[2883-chatbot-interactivo.json](workflows/2883-chatbot-interactivo.json)**
   - **Descripción:** Este flujo gestiona la interacción de un chatbot, almacenando mensajes en Redis y usando OpenAI para extraer información. Espera una cantidad de tiempo variable basada en el conteo de palabras antes de procesar los mensajes.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[2908-llm_chaining.json](workflows/2908-llm_chaining.json)**
   - **Descripción:** Este flujo utiliza cadenas de LLM para realizar tareas secuenciales y paralelas con diferentes modelos de inteligencia artificial, incluyendo la obtención de datos de una página web, el análisis con prompts específicos y la combinación de resultados.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[2941-blog-automation.json](workflows/2941-blog-automation.json)**
   - **Descripción:** Este flujo automatiza la creación y publicación de artículos en un blog usando Google Sheets como origen de datos. Configura parámetros, recupera información de hojas de cálculo, procesa prompts personalizados con OpenAI, genera contenido, valida fechas y statuses, y actualiza el estado en tiempo real.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[2953-influxdb-docker-deploy.json](workflows/2953-influxdb-docker-deploy.json)**
   - **Descripción:** Este flujo automático implementa y gestiona un contenedor de InfluxDB en Docker para una aplicación relacionada con WHMCS/WISECP, admitiendo operaciones como despliegue, arranque, parada, suspensión, montaje y control de disco.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[3000-automatizacion_rrhh.json](workflows/3000-automatizacion_rrhh.json)**
   - **Descripción:** Este flujo automatiza la publicación de ofertas laborales y evalúa candidatos utilizando inteligencia artificial. Incluye formularios para postulaciones, análisis de CV con ChatGPT, generación de cuestionarios personalizados y seguimiento en Airtable.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[3030-n8n-rag-living-data.json](workflows/3030-n8n-rag-living-data.json)**
   - **Descripción:** Este flujo automatiza la integración de datos en tiempo real desde Notion hacia un sistema de recuperación de información basado en vectores (RAG) usando OpenAI y Supabase. Procesa documentos, los divide en fragmentos, genera embeddings con OpenAI y almacena los resultados en Supabase para permitir búsquedas semánticas.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[3117-ai-search-console-chat.json](workflows/3117-ai-search-console-chat.json)**
   - **Descripción:** Este flujo utiliza OpenAI y Postgres para permitir a un agente de chat interactuar con datos de Google Search Console, recuperando información mediante una conversación natural.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[3158-scrape-news-with-ai-to-nocodb.json](workflows/3158-scrape-news-with-ai-to-nocodb.json)**
   - **Descripción:** Este flujo extrae HTML de una página web específicamente con CSS, luego suma los enlaces y fechas de las publicaciones, filtra por fecha reciente, obtiene el contenido individual de cada post, genera resúmenes y palabras clave usando OpenAI, y almacena los datos en NocoDB.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[3166-buscar_palabras_clave.json](workflows/3166-buscar_palabras_clave.json)**
   - **Descripción:** Este flujo automatiza la búsqueda de palabras clave principales usando NocoDB y DataforSEO para analizar volumen de búsquedas en Google y YouTube. Genera y actualiza datos en_batches en una base de datos.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[3205-backup-n8n.json](workflows/3205-backup-n8n.json)**
   - **Descripción:** Este flujo automático realiza una copia de seguridad diaria de los workflows de n8n en Google Drive. Crea y verifica las carpetas 'n8n_backups' y 'n8n_old', mueve las copias antiguas a la carpeta 'n8n_old' y elimina aquellas que excedan 30 días.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[3278-google-sheets-analysis.json](workflows/3278-google-sheets-analysis.json)**
   - **Descripción:** Este flujo utiliza un agente de inteligencia artificial para analizar y manipular datos desde Google Sheets, permitiendo realizar consultas avanzadas filtrando por fechas y estados, transformar formatos complicados en JSON, y obtener estadísticas a través de herramientas como el cálculo y la agregación.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[3312-chatbot-curriculos.json](workflows/3312-chatbot-curriculos.json)**
   - **Descripción:** Este flujo permite crear un chatbot personalizado que gestiona currículos y envía reportes diarios con información de conversaciones mediante Google Drive, Gemini, Pinecone y NocoDB.
-  - **Complejidad:** Alta (3 nodos)
+  - **Complejidad:** Baja (3 nodos)
 
 - **[0019-EscrituraJSONBinario.json](workflows/0019-EscrituraJSONBinario.json)**
   - **Descripción:** Este flujo automatizado crea datos JSON de ejemplo, los convierte a formato binario (Base64) y escribe este contenido en un archivo.
@@ -6521,379 +6521,379 @@ Todos los workflows aquí compartidos se proporcionan tal cual. **Antes de emple
 
 - **[0783-sql-email-query-generator.json](workflows/0783-sql-email-query-generator.json)**
   - **Descripción:** Este flujo traduce preguntas sobre correos electrónicos en consultas SQL y las ejecuta contra la base de datos.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[0790-amazon-ads-optimization-flow.json](workflows/0790-amazon-ads-optimization-flow.json)**
   - **Descripción:** Este flujo automatizado analiza reportes de Amazon Ads almacenados en Google Drive, utilizando IA para generar recomendaciones detalladas sobre estrategias de licitación, optimización táctica y escalado presupuestario.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[0815-ai-company-researcher-sales.json](workflows/0815-ai-company-researcher-sales.json)**
   - **Descripción:** Este flujo automático utiliza IA junto con herramientas web como SERPAPI o ScrapingBee para investigar propiedades de empresas como dominio, URL de LinkedIn, tipo de mercado (B2B/B2C), planes más económicos, API y ensayos gratuitos, actualizando luego los datos en Google Sheets.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[0856-youtube-x-automation.json](workflows/0856-youtube-x-automation.json)**
   - **Descripción:** Este flujo automático busca promover los videos más recientes de una canaleta YouTube específica en X, verificando que cumplan con las limitaciones de caracteres y manteniendo un registro en Google Sheets.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[0868-n8n-deployer.json](workflows/0868-n8n-deployer.json)**
   - **Descripción:** Este flujo permite la importación y configuración de un workflow en n8n mediante archivos JSON alojados en una carpeta específica de Google Drive.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[0930-linkedin-data-processing.json](workflows/0930-linkedin-data-processing.json)**
   - **Descripción:** Este flujo automatizado utiliza el MCP de Bright Data para extraer información en Markdown desde perfiles o empresas de LinkedIn, procesa esos datos con Google Gemini (modelo PaLM) que los convierte en JSON e incorpora contexto profundo para generar historias detalladas, y finalmente escribe la salida en archivos locales.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[0975-airtable-image-analysis.json](workflows/0975-airtable-image-analysis.json)**
   - **Descripción:** Este flujo automatiza el análisis de imágenes capturadas en Airtable para identificar atributos de productos e integra información web, optimizando la gestión de inventario.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[0985-youtube-ai-agent-comment-analysis.json](workflows/0985-youtube-ai-agent-comment-analysis.json)**
   - **Descripción:** Este flujo automatizado permite a un agente conversacional de IA interactuar y analizar datos de YouTube, incluyendo la transcripción de videos, recopilación de comentarios, obtención de detalles del canal, evaluación de thumbnails e implementación de gestión con memoria PostgreSQL.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[0988-finance-email-parser.json](workflows/0988-finance-email-parser.json)**
   - **Descripción:** Este flujo automático extrae datos de transacciones financieras de correos electrónicos utilizando Gmail como fuente, Google Gemini AI para análisis e interpretación del contenido, y finalmente estructura la información en un formato específico que se envía a una hoja de cálculo de Google. El workflow utiliza etiquetas personalizadas para identificar diferentes tipos de transacciones (facturas, pagos múltiples, etc.) y aplica procesamiento inteligente basado en el remitente del correo.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[1092-url-shortener-management.json](workflows/1092-url-shortener-management.json)**
   - **Descripción:** Este flujo automático gestiona URLs cortas mediante la generación de hashes SHA-256 que se almacenan en Airtable, permitiendo crear y verificar referencias únicas para controlar accesos o registros.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[1108-notion-project-user-management.json](workflows/1108-notion-project-user-management.json)**
   - **Descripción:** Este flujo permite gestionar la creación de proyectos y usuarios en Notion mediante funciones que procesan datos e integra con webhooks.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[1113-swift_codes_extractor.json](workflows/1113-swift_codes_extractor.json)**
   - **Descripción:** Este flujo automático extrae códigos SWIFT de múltiples páginas web en diferentes países, procesa la información normalizada y la guarda en una base de datos MongoDB.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[1114-backup-n8n-workflows.json](workflows/1114-backup-n8n-workflows.json)**
   - **Descripción:** Este flujo automático de n8n guarda todas las configuraciones del servidor en archivos JSON almacenados en una repositorio GitHub.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[1127-procesamiento_excel.json](workflows/1127-procesamiento_excel.json)**
   - **Descripción:** Este flujo procesa archivos de Excel mediante diversas fuentes y destinos, permite manipular los datos y opcionalmente guardar o subir el archivo modificado.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[1156-qualys-thehive-integration.json](workflows/1156-qualys-thehive-integration.json)**
   - **Descripción:** Este flujo automático busca reportes finalizados en Qualys, descarta los ya procesados según un timestamp previo y crea casos en TheHive con sus respectivos archivos adjuntos de reporte.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[1166-threads-notion-integration.json](workflows/1166-threads-notion-integration.json)**
   - **Descripción:** Este flujo automático permite obtener publicaciones de la API de Threads, filtrarlas y guardarlas en una base de datos de Notion después de un análisis detallado.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[1446-building-your-first-whatsapp-chatbot.json](workflows/1446-building-your-first-whatsapp-chatbot.json)**
   - **Descripción:** Este flujo permite chatbot, extracción de datos utilizando OpenAI/GPT, Webhook, PDF con inteligencia artificial mediante webhooks y APIs.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[1480-manipulate-pdf-with-adobe-developer-api.json](workflows/1480-manipulate-pdf-with-adobe-developer-api.json)**
   - **Descripción:** Este flujo permite extracción de datos utilizando OpenAI/GPT, Webhook, PDF con inteligencia artificial mediante webhooks y APIs.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[1493-scrape-trustpilot-reviews-with-deepseek-openai.json](workflows/1493-scrape-trustpilot-reviews-with-deepseek-openai.json)**
   - **Descripción:** Este flujo permite chatbot, web scraping, análisis de sentimientos, extracción de datos, reportes utilizando OpenAI/GPT, Google Sheets con inteligencia artificial y APIs.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[1503-transcribing-bank-statements-to-markdown-ai.json](workflows/1503-transcribing-bank-statements-to-markdown-ai.json)**
   - **Descripción:** Este flujo permite chatbot, transcripción, extracción de datos, generación de contenido utilizando OpenAI/GPT, Webhook, PDF con inteligencia artificial mediante webhooks y APIs.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[1512-local-multi-llm-testing-performance-tracker.json](workflows/1512-local-multi-llm-testing-performance-tracker.json)**
   - **Descripción:** Este flujo permite chatbot, extracción de datos, generación de contenido utilizando OpenAI/GPT, Webhook, Google Sheets con inteligencia artificial mediante webhooks y APIs.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2537-agricultural-crops-vector-db.json](workflows/2537-agricultural-crops-vector-db.json)**
   - **Descripción:** Este flujo automatizado carga conjuntamente imágenes de cultivos agrícolas y datos relacionados (como nombres de las plantas) desde Google Cloud Storage, genera embeddings utilizando el modelo Voyage Multimodal de AI y los almacena en una colección vectorial de Qdrant. Además, verifica si la colección ya existe para evitar duplicaciones e incluye un índice en memoria sobre el nombre de la planta (crop_name). La carga se realiza por lotes con un tamaño configurable, permitiendo así la creación eficiente y rápida de índices.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2560-linkedin-profile-collector.json](workflows/2560-linkedin-profile-collector.json)**
   - **Descripción:** Este flujo automatizado utiliza Google Search a través de SerpAPI para encontrar perfiles de LinkedIn relevantes, limpia y estructura la información usando OpenAI, y guarda los resultados en Excel o NocoDB.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2562-shopify_google_sync.json](workflows/2562-shopify_google_sync.json)**
   - **Descripción:** Este flujo sincroniza automáticamente productos de un almacén Shopify a una hoja de cálculo de Google, utilizando GraphQL para extraer datos como título, descripción, etiquetas y precio. Implementa paginación eficiente mediante el uso del cursor.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2605-Colombian-Invoices-Processor.json](workflows/2605-Colombian-Invoices-Processor.json)**
   - **Descripción:** Este flujo automático procesa facturas electrónicas colombianas recibidas por correo electrónico, verificando datos clave como impuestos y subtotales, y los almacena en Google Sheets usando la normativa tributaria del país.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2636-monday-boarditem-hierarchy.json](workflows/2636-monday-boarditem-hierarchy.json)**
   - **Descripción:** Este flujo automático obtiene todos los campos de un elemento de tablero junto con sus relaciones y subelementos para procesar datos completos.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2642-gmail_vector_embeddings_import.json](workflows/2642-gmail_vector_embeddings_import.json)**
   - **Descripción:** Este flujo automatizado importa correos electrónicos de Gmail y los almacena como embeddings vectoriales en PostgreSQL usando PGVector y el modelo Ollama para facilitar búsquedas similares.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2652-youtube-performance-searcher.json](workflows/2652-youtube-performance-searcher.json)**
   - **Descripción:** Este flujo busca los mejores videos de YouTube en el último dos semanas y los almacena en una base de datos PostgreSQL.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2662-vision-based-scraping.json](workflows/2662-vision-based-scraping.json)**
   - **Descripción:** Este flujo utiliza la IA Gemini para extraer datos de capturas de pantalla web e integra los resultados en Google Sheets.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2685-email_campaign_generator.json](workflows/2685-email_campaign_generator.json)**
   - **Descripción:** Este flujo automatiza la creación de campañas de correo electrónico personalizadas usando datos de compra y feedback de clientes. Utiliza OpenAI para generar contenido atractivo y decide si enviar un cupón promocional.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2689-printify-update-product.json](workflows/2689-printify-update-product.json)**
   - **Descripción:** Automatiza la actualización de títulos y descripciones de productos en Printify mediante Google Sheets. El workflow utiliza API de Printify para obtener datos de tiendas y productos, procesa cada producto para generar opciones personalizadas de título y descripción usando OpenAI, y las actualiza en Google Sheets.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2691-dialpad_syncro.json](workflows/2691-dialpad_syncro.json)**
   - **Descripción:** Este flujo automatiza la sincronización de datos entre Dialpad y Syncro. Recibe una notificación de llamada inbound, busca al cliente en Syncro, crea un ticket si el cliente no existe o actualiza su estado, y registra la información en Google Sheets.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2702-meraki-network-monitor.json](workflows/2702-meraki-network-monitor.json)**
   - **Descripción:** Este flujo automático monitorea y analiza los datos de latencia y pérdida de paquetes en redes Meraki para detectar problemas, notificando solo aquellos que superen umbralsthrough Redis.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2703-google_maps_scraper.json](workflows/2703-google_maps_scraper.json)**
   - **Descripción:** Este flujo extrae y procesa datos de Google Maps usando SerpAPI, elimina duplicados, los formatea y actualiza el estado en Google Sheets.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2711-google-sheet-ai-agent.json](workflows/2711-google-sheet-ai-agent.json)**
   - **Descripción:** Este flujo utiliza un agente de inteligencia artificial para interactuar con una hoja de cálculo de Google Sheets, permitiendo listar columnas, obtener valores específicos y recuperar información de clientes basado en operaciones definidas.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2725-flujo-automatico-diario.json](workflows/2725-flujo-automatico-diario.json)**
   - **Descripción:** Este flujo automático programa tareas diarias para extraer y procesar información de calendario, LinkedIn y Twitter, enriquecer datos con Clearbit, y enviar un correo electrónico con un resumen personalizado.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2732-vector-chatbot-pinecone.json](workflows/2732-vector-chatbot-pinecone.json)**
   - **Descripción:** Este flujo configura un sistema de recuperación vectorial para responder preguntas basadas en contenido descargado de Google Drive. Utiliza Pinecone como base de datos vectorial y OpenAI para embeddings y respuesta al chat.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2740-automate_ga_reporting.json](workflows/2740-automate_ga_reporting.json)**
   - **Descripción:** Este flujo automático extrae y procesa datos de Google Analytics para generar reportes detallados sobre estadísticas de páginas, resultados de búsquedas y vistas por país, comparando datos semanales. Los resultados se formatean en HTML y se envían por correo electrónico.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2756-automatizacion-facturas-pdf.json](workflows/2756-automatizacion-facturas-pdf.json)**
   - **Descripción:** Este flujo automatiza la extracción de datos desde facturas PDF enviadas por correo electrónico. Utiliza LlamaParse para analizar los documentos y luego extrae información estructurada con OpenAI, finalmente insertando los datos en una hoja de cálculo de Google Sheets.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2760-empresa_research.json](workflows/2760-empresa_research.json)**
   - **Descripción:** Este flujo automatiza la investigación de empresas mediante el uso de OpenAI y Google Sheets. Recopila información estructurada de sitios web y bases de datos, y actualiza una hoja de cálculo con los resultados.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2763-google-meet-scheduler.json](workflows/2763-google-meet-scheduler.json)**
   - **Descripción:** Este flujo automatiza la gestión de reuniones mediante Google Calendar y Drive. Recupera los registros de reunión, procesa transcripciones con OpenAI, crea eventos calendarísticos y asigna asistentes.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2764-inventory-enricher.json](workflows/2764-inventory-enricher.json)**
   - **Descripción:** Este flujo automático utiliza Airtable para capturar fotos de un inventario, OpenAI para analizar imágenes y agentes de inteligencia artificial para enriquecer datos. Primero, obtiene las filas aplicables de Airtable con fotos no procesadas. Luego, usa el modelo OpenAI para identificar atributos del objeto en la imagen. Un agente de AI utiliza herramientas personalizadas (búsqueda inversa de imágenes y web scraping) para buscar información adicional. Finalmente, sobreescribe los datos en Airtable con los resultados enriquecidos.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2768-file_sync_qdrant.json](workflows/2768-file_sync_qdrant.json)**
   - **Descripción:** Este flujo monitorea un directorio local y sincroniza cambios en los archivos con Qdrant para crear una base de conocimientos usando Mistral AI.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2773-image-embedding_workflow.json](workflows/2773-image-embedding_workflow.json)**
   - **Descripción:** Este flujo descarga una imagen de Google Drive, extrae información de color y genera palabras clave semánticas usando OpenAI para crear un documento embedding, el cual se almacena en un vector store en memoria.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2782-sync-workflows.json](workflows/2782-sync-workflows.json)**
   - **Descripción:** Este flujo automatiza la sincronización de workflows entre n8n y GitLab. Recupera los workflows de n8n, verifica su estado en GitLab y actualiza o crea nuevos archivos JSON según las diferencias detectadas.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2784-supabase-vector-store.json](workflows/2784-supabase-vector-store.json)**
   - **Descripción:** Este flujo configura una base de datos vectorial en Supabase para almacenar y recuperar documentos con embeddings de OpenAI, permitiendo realizar búsquedas semánticas y contestar preguntas basadas en el contenido.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2791-notion-workflow-generator.json](workflows/2791-notion-workflow-generator.json)**
   - **Descripción:** Este flujo genera un workflow personalizado de n8n para bases de datos de Notion a partir de una URL proporcionada por el usuario. Utiliza agentes de lenguaje y validación para asegurar la correcta estructura del JSON.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2797-adobe-pdf-processing.json](workflows/2797-adobe-pdf-processing.json)**
   - **Descripción:** Este flujo automático implementa una integración con la API de Adobe para procesar archivos PDF, realizando tareas como subir un archivo, enviar una query de procesamiento y descargar el resultado. Utiliza credenciales personalizadas para autenticación y gestiona diferentes estados del proceso.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2821-automatizacion-facturas-outlook.json](workflows/2821-automatizacion-facturas-outlook.json)**
   - **Descripción:** Este flujo automatiza la gestión de facturas desde una cuenta de Outlook, clasificando mensajes para detectar y descargar attachments que sean facturas emitidas a la empresa. Utiliza Google Gemini para verificar si los archivos adjuntos son facturas relevantes y extraer información clave, posteriormente registra estos datos en una hoja de cálculo de Excel.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2826-client-usage-tracker.json](workflows/2826-client-usage-tracker.json)**
   - **Descripción:** Este flujo registra el uso de tokens y costos de clientes al utilizar un servicio de extracción de datos de CV con OpenAI, almacenando los datos en una hoja de cálculo de Google Sheets.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2831-rss_to_gsheet_cleaner.json](workflows/2831-rss_to_gsheet_cleaner.json)**
   - **Descripción:** Este flujo automatiza la actualización y manejo de entradas RSS en Google Sheets. Primero, utiliza un temporizador para leer los enlaces desde una hoja de cálculo, luego extrae las noticias correspondientes y las procesa. Filtros eliminan entradas antiguas (más de 3 días) y las nuevas se guardan con un tiempo de espera para evitar bloqueos. Entradas viejas son eliminadas después de cierto tiempo.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2840-google-drive-deduplicate.json](workflows/2840-google-drive-deduplicate.json)**
   - **Descripción:** Este flujo automatiza la deduplicación de archivos en Google Drive. Identifica duplicados basándose en el checksum md5 y gestiona su eliminación o renombrado según las configuraciones de Keep (first/last) y Action (trash/flag).
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2842-automated-purchase-order-processing.json](workflows/2842-automated-purchase-order-processing.json)**
   - **Descripción:** Este flujo automatiza la importación y procesamiento de órdenes de compra desde Outlook. Convierte archivos XLSX a formato legible por LLMs, extrae detalles usando IA y realiza validaciones.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2845-linkedin-enrichment-icebreaker.json](workflows/2845-linkedin-enrichment-icebreaker.json)**
   - **Descripción:** Este flujo automático en n8n permite extraer y enriquecer datos de perfiles de LinkedIn usando Bright Data, generar icebreakers personalizados con el modelo Claude de Anthropic y actualizar una hoja de Google Sheets con la información resultante.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2878-n8n-backup-workflows.json](workflows/2878-n8n-backup-workflows.json)**
   - **Descripción:** Este flujo automatiza la copia de seguridad diaria de los workflows de n8n en Google Drive. Busca y procesa todos los workflows, y si no hay un archivo existente, crea uno nuevo; si ya existe, lo actualiza con la nueva información.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2884-instagram-post-automation.json](workflows/2884-instagram-post-automation.json)**
   - **Descripción:** Automatiza la creación de publicaciones en Instagram mediante Google Sheets y herramientas AI. Incluye desde la generación de conceptos de contenido hasta la publicación final.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2904-ai-ready-vector-datasets.json](workflows/2904-ai-ready-vector-datasets.json)**
   - **Descripción:** Este flujo crea conjuntos de datos vectoriales listos para LLMs usando Bright Data, Gemini y Pinecone. Realiza extracción de información, formateo estructurado y persistencia en una base de vectores.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2923-dashboard-metricas.json](workflows/2923-dashboard-metricas.json)**
   - **Descripción:** Este flujo automatiza la actualización de un dashboard que recopila y muestra estadísticas y métricas desde diversas fuentes como Docker, npm, GitHub y Product Hunt. Utiliza Cron para programar ejecuciones periódicas, extrae datos mediante HTTP requests, procesa y formatea los resultados, y actualiza_WIDGETS en un host dashboard con autenticación.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2926-google-sheets-to-postgres.json](workflows/2926-google-sheets-to-postgres.json)**
   - **Descripción:** Este flujo automatiza la importación de datos desde Google Sheets a PostgreSQL. Analiza dinámicamente los datos para detectar tipos y generar esquemas SQL, crea tablas si no existen y realiza inserciones con formato adecuado.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2928-sitemap-index-automatizado.json](workflows/2928-sitemap-index-automatizado.json)**
   - **Descripción:** Este flujo automatiza la indexación de URLs en Google Search Console usando sitemap.xml. Extrae URLs de los archivos sitemap, verifica su estado y actualiza las que han sido modificadas o no están indexadas.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2955-auto-content-generator.json](workflows/2955-auto-content-generator.json)**
   - **Descripción:** Este flujo automatiza la creación de contenido multimedia basado en datos de Google Sheets. Genera imágenes y videos cinemáticos con textos promocionales, agrega sonidos ambientales, y publica el resultado en YouTube.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2967-sql-agent-scheme.json](workflows/2967-sql-agent-scheme.json)**
   - **Descripción:** Flujo que utiliza un agente de IA para generar consultas SQL basadas en esquema de base de datos guardando la estructura localmente y usando OpenAI para formular sentencias SQL.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2968-image-embedder.json](workflows/2968-image-embedder.json)**
   - **Descripción:** Este flujo automatiza la creación de embeddings de imágenes mediante resumen textual. Descarga una imagen desde Google Drive, extrae información de colores y genera palabras clave usando OpenAI, luego combina estos datos para crear un documento que se almacena en un vector store.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2970-autoclip-video-generator.json](workflows/2970-autoclip-video-generator.json)**
   - **Descripción:** Este flujo automático genera clips de video seleccionando aleatoriamente entre vídeos y música de Google Drive, yuxtapone citas y luego los sube a YouTube.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2983-hacker-news-jobs-scraper.json](workflows/2983-hacker-news-jobs-scraper.json)**
   - **Descripción:** Este flujo extrae y procesa información de ofertas laborales publicadas en Hacker News utilizando su API y_algolia, estructura los datos con OpenAI y los exporta a Airtable.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[2987-gestion-solicitudes-AI.json](workflows/2987-gestion-solicitudes-AI.json)**
   - **Descripción:** Flujo que automatiza la gestión de solicitudes de empleo usando formularios y herramientas de inteligencia artificial para extraer información, clasificar documentos y almacenar datos en Airtable.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[3004-voice-chatbot-rag-qdrant.json](workflows/3004-voice-chatbot-rag-qdrant.json)**
   - **Descripción:** Este flujo implementa un chatbot de voz que utiliza RAG (Retrieval-Augmented Generation) con ElevenLabs y OpenAI para responder preguntas usando una base de datos vectorial en Qdrant.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[3014-factura-extraccion-llamaparse.json](workflows/3014-factura-extraccion-llamaparse.json)**
   - **Descripción:** Este flujo automático extrae información de facturas en formato PDF usando LlamaParse y OpenAI. Detecta correos con adjuntos PDF, procesa los documentos para obtener datos estructurados y los almacena en una hoja de cálculo de Google Sheets.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[3034-google-analytics-seo-analysis.json](workflows/3034-google-analytics-seo-analysis.json)**
   - **Descripción:** Este flujo automático recopila y analiza datos de Google Analytics para una página web, comparando estadísticas semanales como páginas vistas, usuarios activos y tasas de participación. Luego, envía esta información a un modelo de lenguaje A.I. para obtener recomendaciones SEO y guarda los resultados en Baserow.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[3060-manipula-pdf-adobe.json](workflows/3060-manipula-pdf-adobe.json)**
   - **Descripción:** Este flujo maneja la manipulación de archivos PDF utilizando la API de Adobe Services. Realiza autenticación, carga un archivo PDF, procesa solicitudes específicas (como extracción) y espera la finalización del proceso antes de descargar los resultados.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[3064-outlook-email-ai-assistant.json](workflows/3064-outlook-email-ai-assistant.json)**
   - **Descripción:** Este flujo utiliza Microsoft Outlook para leer correos electrónicos no marcados yWithout categorías, procesa su contenido con OpenAI para categorizarlos, actualiza su importancia y asigna categorías. También integra contactos de Monday.com y Airtable para mejorar la contextualización.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[3071-line-file-save-to-google-drive.json](workflows/3071-line-file-save-to-google-drive.json)**
   - **Descripción:** Este flujo automatiza la descarga de archivos desde LINE, los organiza en Google Drive según configuración y registra detalles en una hoja de cálculo.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[3081-whatsapp-ai-chatbot.json](workflows/3081-whatsapp-ai-chatbot.json)**
   - **Descripción:** Este flujo implementa un chatbot de WhatsApp que utiliza tecnología RAG (Retrieval-Augmented Generation) para responder consultas usando OpenAI y Qdrant. Recoge documentos desde Google Drive, los vectoriza con OpenAI, almacena en Qdrant y usa el agente AI para contestar preguntas basadas en ellos.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[3084-notion-chatbot-generator.json](workflows/3084-notion-chatbot-generator.json)**
   - **Descripción:** Este flujo genera un asistente de chatbot personalizado para bases de datos de Notion, creando una workflow adaptada al esquema proporcionado. Analiza la URL de la base de datos, simplifica los objetos y utiliza agentes de lenguaje para modificar el JSON del workflow según las necesidades específicas.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[3091-obsidian-podcast-flow.json](workflows/3091-obsidian-podcast-flow.json)**
   - **Descripción:** Flujo que convierte notas de Obsidian en audios para podcasts usando OpenAI y almacena datos en Google Sheets.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[3097-mcp-supabase-agent.json](workflows/3097-mcp-supabase-agent.json)**
   - **Descripción:** Este flujo implementa un agente de LangChain con capacidades de recuperación de vectores y embeddings de OpenAI, usando Supabase para almacenar y gestionar datos como mensajes, tareas y estado.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[3101-update-printify-products.json](workflows/3101-update-printify-products.json)**
   - **Descripción:** Este flujo actualiza títulos y descripciones de productos en Printify usando OpenAI para optimizar contenido y Google Sheets para la gestión.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[3105-generate-sql-from-schema.json](workflows/3105-generate-sql-from-schema.json)**
   - **Descripción:** Este flujo genera consultas SQL basadas en un esquema de base de datos usando inteligencia artificial. Extrae información de la estructura de las tablas y utiliza el modelo OpenAI para crear sentencias SQL sin necesidad de acceder a los datos reales.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[3114-chatbot_personal_shopper.json](workflows/3114-chatbot_personal_shopper.json)**
   - **Descripción:** Este flujo implementa un chatbot personal shopper para WooCommerce que utiliza RAG con Google Drive y openAI. Analiza mensajes de chat para buscar productos o responder preguntas generales usando vectores almacenados en Qdrant.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[3118-Vision-Scraping-Agent.json](workflows/3118-Vision-Scraping-Agent.json)**
   - **Descripción:** Este flujo automatiza la extracción de datos web utilizando vision artificial con Google Sheets, ScrapingBee y Gemini. Realiza capturas de pantalla completas de páginas web, utiliza el modelo Gemini para extraer información visualmente, y en caso de falla, recurre a herramientas HTML para asegurar datos precisos.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[3119-batch_crops_qdrant.json](workflows/3119-batch_crops_qdrant.json)**
   - **Descripción:** Este flujo carga un conjunto de datos de imágenes agrícolas en Qdrant usando embeddings de Voyage AI y Google Cloud Storage. Primero verifica si la colección existe, crea una nueva si es necesario, luego procesa las imágenes en tandas y las sube al vectorstore.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[3162-google-analytics-to-ai-seo-analysis.json](workflows/3162-google-analytics-to-ai-seo-analysis.json)**
   - **Descripción:** Este flujo recopila datos de analítica web, procesa y envía información a un modelo de IA para análisis SEO comparativo semanal, guardando los resultados en Baserow.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[3216-aplicacion_cv_automatizada.json](workflows/3216-aplicacion_cv_automatizada.json)**
   - **Descripción:** Flujo de aplicación para la gestión de CV y formulario de solicitud optimizado con IA, que incluye validación de documentos, extracción de información, y almacenamiento en Airtable.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[3232-automated-backup.json](workflows/3232-automated-backup.json)**
   - **Descripción:** Este flujo automatiza la copia de seguridad de trabajos en GitHub usando n8n. Almacena los workflows como archivos JSON en un repositorio designado.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[3256-github-backup-workflow.json](workflows/3256-github-backup-workflow.json)**
   - **Descripción:** Este flujo automatiza la copia de seguridad de trabajos en GitHub al comparar y actualizar archivos JSON. Utiliza un bucle para procesar cada instancia, verifica diferencias entre versiones y gestiona operaciones de creación o edición según el estado.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[3263-ai-resume-screening.json](workflows/3263-ai-resume-screening.json)**
   - **Descripción:** Flujo automático para evaluar currículos en base a una descripción de empleo utilizando inteligencia artificial. Analiza, clasifica y organiza candidatos en carpetas según su perfil.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[3270-call-processing-flow.json](workflows/3270-call-processing-flow.json)**
   - **Descripción:** Este flujo automatiza la extracción y procesamiento de datos de llamadas de venta, integrando información complementaria como competidores y listas de integraciones para enriquecer los transcritos antes de enviarlos a un sistema de inteligencia artificial.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[3285-mistral-ocr-parsing.json](workflows/3285-mistral-ocr-parsing.json)**
   - **Descripción:** Flujo que utiliza Mistral OCR para analizar documentos y imágenes subidas a Google Drive. Primero carga archivos desde Google Drive, luego los envía a Mistral Cloud para obtener URLs firmadas, procesa el OCR con esas URLs y finalmente realiza análisis de documento o imagen utilizando diferentes modelos (chat completions).
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[3290-aprendizaje_idiomas.json](workflows/3290-aprendizaje_idiomas.json)**
   - **Descripción:** Este flujo automatiza la creación de tarjetas flash para aprendizaje de idiomas. Utiliza Google Sheets para almacenar palabras, traduce al chino usando Google Translate, genera fonética y oraciones con un agente AI, busca imágenes en Pexels y las sube a Google Drive.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[3297-dropbox-watch-files.json](workflows/3297-dropbox-watch-files.json)**
   - **Descripción:** Este flujo monitorea cambios en dos carpetas de Dropbox (/z_Apps/a_iphone/RecUp Memos/ y /z_Apps/auphonic/whisper) para detectar nuevos archivos o carpetas. Utiliza NocoDB para almacenar los metadatos de los archivos, filtra aquellos que no han sido procesados antes y ejecuta flujos específicos para cada tipo de archivo detectado.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[3305-seo-wordpress-generator.json](workflows/3305-seo-wordpress-generator.json)**
   - **Descripción:** Este flujo automático genera contenido optimizado para SEO para WordPress utilizando investigación de Perplexity y OpenAI. Incluye creación de títulos, slug y metadatos, desarrollo de HTML estructurado, y publicación en el blog.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[3320-supabase-vector-flow.json](workflows/3320-supabase-vector-flow.json)**
   - **Descripción:** Este flujo integra Supabase con n8n para realizar inserciones, actualizaciones y recuperaciones en una base de datos vectoriales, utilizando embeddings de OpenAI y un motor de vectores optimizado para búsquedas eficientes.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[3340-transcribe-bank-statements.json](workflows/3340-transcribe-bank-statements.json)**
   - **Descripción:** Este flujo transforma un estado de cuenta bancario en formato PDF a markdown utilizando el modelo Gemini Vision AI para una fácil extracción de datos.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[3344-scrape-trustpilot-sentiment.json](workflows/3344-scrape-trustpilot-sentiment.json)**
   - **Descripción:** Este flujo extrae reseñas de Trustpilot usando DeepSeek, analiza su sentimiento con OpenAI y las registra en Google Sheets.
-  - **Complejidad:** Alta (2 nodos)
+  - **Complejidad:** Baja (2 nodos)
 
 - **[0047-calendly-notion-auto.json](workflows/0047-calendly-notion-auto.json)**
   - **Descripción:** Este flujo automatizado crea un nuevo registro en una base de datos Notion cada vez que se crea un 'invitee' (invitado) en Calendly.
@@ -7053,367 +7053,367 @@ Todos los workflows aquí compartidos se proporcionan tal cual. **Antes de emple
 
 - **[0003-line-chatgpt-image-flow.json](workflows/0003-line-chatgpt-image-flow.json)**
   - **Descripción:** Este flujo automático procesa solicitudes de generación de imágenes a través del chatbot LINE y los almacena en Google Drive como archivos binarios y en una hoja de cálculo con detalles incluyendo prompts, costos estimados e información relevante.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[0205-workflow-merge-demo.json](workflows/0205-workflow-merge-demo.json)**
   - **Descripción:** Este flujo demuestra cómo el nodo Merge de n8n combina datos de diferentes fuentes usando diferentes modos de unión, mostrando ejemplos desde ingredientes hasta la formación de bandas.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[0383-workflow-estado.json](workflows/0383-workflow-estado.json)**
   - **Descripción:** Este flujo automático ejecuta un workflow principal con intervalos de disparo y verifica en Redis si el workflow está actualmente en ejecución para evitar múltiples instancias concurrentes.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[0425-n8n-flujos-backup-github.json](workflows/0425-n8n-flujos-backup-github.json)**
   - **Descripción:** Este flujo automático respalda workflows de n8n en un repositorio git verificando cambios y actualizando archivos.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[0803-n8n-hr-cv-automation.json](workflows/0803-n8n-hr-cv-automation.json)**
   - **Descripción:** Este flujo automático analiza currículums de candidatos mediante la extracción y resumen de datos clave usando modelos de IA.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[0806-stock-fundamental-ai-analyzer.json](workflows/0806-stock-fundamental-ai-analyzer.json)**
   - **Descripción:** Este flujo automático analiza datos de fondos utilizando embeddings de OpenAI, procesamiento con LangChain y almacenamiento vectorial en Qdrant para responder preguntas sobre análisis fundamental de acciones.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[0824-rag-financial-report-gen.json](workflows/0824-rag-financial-report-gen.json)**
   - **Descripción:** Este flujo utiliza el sistema RAG para analizar informes de rentabilidad corporativa basados en documentos históricos almacenados como embeddings en Pinecone. Procesa información mediante modelos de Google Gemini y OpenAI, sintetiza los datos con un agente especializado e integra todo en un informe markdown que se guarda automáticamente en Google Docs.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[0841-bright-data-gemini-hotel-summarizer.json](workflows/0841-bright-data-gemini-hotel-summarizer.json)**
   - **Descripción:** Este flujo automático extrae datos de hoteles desde Bing Copilot usando la API de Bright Data y utiliza Google Gemini AI para formatearlos en estructura JSON y generar resúmenes concisos.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[0846-workflow-pinecone-openai.json](workflows/0846-workflow-pinecone-openai.json)**
   - **Descripción:** Este flujo carga documentos desde Google Drive en un vector store de Pinecone utilizando embeddings de OpenAI para luego permitir la recuperación de información mediante cadenas de pregunta-respuesta.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[0855-eliminar-fondos-google-drive.json](workflows/0855-eliminar-fondos-google-drive.json)**
   - **Descripción:** Este flujo elimina automáticamente los fondos de imágenes en Google Drive usando la API de Photroom.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[0871-line-chatbot-memory.json](workflows/0871-line-chatbot-memory.json)**
   - **Descripción:** Este flujo automático permite a un chatbot de LINE mantener una conversación contextualizada con los usuarios al procesar mensajes tanto en texto como imágenes, extrayendo información relevante sobre estados de cuenta y datos personales para luego insertarla en Google Sheets.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[0890-Google_Sheet_AI_Interface.json](workflows/0890-Google_Sheet_AI_Interface.json)**
   - **Descripción:** Este flujo automático permite a un chatbot interactuar con una hoja de Google mediante funciones personalizadas, optimizando la consulta y gestión de datos.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[0944-obsidian-email-sender.json](workflows/0944-obsidian-email-sender.json)**
   - **Descripción:** Este flujo automático permite enviar correos electrónicos desde Obsidian utilizando webhooks, procesando correctamente los archivos adjuntos mediante codificación base64 y añadiendo la información del remitente.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[0959-squarespace-backup.json](workflows/0959-squarespace-backup.json)**
   - **Descripción:** Este flujo automático permite guardar las personalizaciones de Squarespace (código de inyecciones) en archivos HTML dentro de un repositorio de GitHub, manteniendo el contexto por dominio y realizando respaldos cada hora.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[0989-vertex-ai-pdf-image-extractor.json](workflows/0989-vertex-ai-pdf-image-extractor.json)**
   - **Descripción:** Este flujo automático permite extraer texto de archivos PDF e imágenes usando Vertex AI (Gemini) y convertirlos en CSV para almacenar la información.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[0991-umami-analytics-ai.json](workflows/0991-umami-analytics-ai.json)**
   - **Descripción:** Este flujo analítico procesa datos de tráfico web desde Umami utilizando múltiples API calls y transformaciones JavaScript para extraer métricas clave como visitas e impresiones. Luego envía estos resultados junto con solicitudes a un modelo AI de OpenRouter para generar análisis detallado, que finalmente se almacena en Baserow.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[1001-flux-image-generator.json](workflows/1001-flux-image-generator.json)**
   - **Descripción:** Este flujo automatizado permite generar imágenes con estilos predefinidos (como AI Dystopia, Hyper-Surreal Escape, etc.) mediante la API de huggingface. Después de que un usuario completa un formulario proporcionando un prompt y selecciona un estilo, el sistema llama al modelo correspondiente, sube la imagen generada a S3 y muestra el resultado en una página web.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[1237-bright-data-gemini-scraping-agent.json](workflows/1237-bright-data-gemini-scraping-agent.json)**
   - **Descripción:** Este flujo automático utiliza un asistente de IA basado en Google Gemini para analizar consultas sobre scraping web. Luego delega la tarea a herramientas del MCP Client (Bright Data) que extraen datos desde URLs especificadas mediante webhooks, manteniendo el contexto con una memoria buffer y almacenando resultados en archivos.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[1396-ai-product-data-processor.json](workflows/1396-ai-product-data-processor.json)**
   - **Descripción:** Procesa datos de productos con ayuda de IA.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[1402-edi-processor.json](workflows/1402-edi-processor.json)**
   - **Descripción:** Procesa archivos EDI de intercambio electrónico de datos.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[1453-convert-url-html-to-markdown.json](workflows/1453-convert-url-html-to-markdown.json)**
   - **Descripción:** Este flujo permite automatización, web scraping, extracción de datos utilizando Webhook, Airtable con inteligencia artificial mediante webhooks y APIs.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[1468-fetch-dynamic-prompts-from-github.json](workflows/1468-fetch-dynamic-prompts-from-github.json)**
   - **Descripción:** Este flujo permite chatbot, extracción de datos con inteligencia artificial y APIs.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[1489-reconcile-rent-payments-with-local-excel-openai.json](workflows/1489-reconcile-rent-payments-with-local-excel-openai.json)**
   - **Descripción:** Este flujo permite chatbot, extracción de datos, generación de contenido, reportes utilizando OpenAI/GPT, Excel con inteligencia artificial y APIs.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2541-agricultural-anomaly-detector.json](workflows/2541-agricultural-anomaly-detector.json)**
   - **Descripción:** Este flujo analiza imágenes de cultivos para detectar si contienen ejemplares no conocidos, utilizando embeddings multimodales y una base de datos vectorial Qdrant.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2546-sql-agent-visualizacion.json](workflows/2546-sql-agent-visualizacion.json)**
   - **Descripción:** Este flujo automatizado permite a un AI Agent interactuar con bases de datos mediante consultas SQL y generar visualizaciones usando Chart.js y Quickchart.io basadas en la necesidad del usuario. El clasificador textual decide si se requiere una representación gráfica para mejorar la comprensión de los resultados.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2587-youtube-sentiment-analyzer.json](workflows/2587-youtube-sentiment-analyzer.json)**
   - **Descripción:** Este flujo analiza automáticamente los comentarios de videos de YouTube a partir de una lista en Google Sheets utilizando la API de YouTube y la IA de OpenAI para categorizarlos como positivos, neutros o negativos.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2592-multipage-scraper.json](workflows/2592-multipage-scraper.json)**
   - **Descripción:** Este flujo automático permite extraer y almacenar en Google Drive el contenido de múltiples páginas web a partir del archivo sitemap.xml usando la API de Jina.ai para realizar búsquedas inteligentes.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2596-image-to-3d-conversion.json](workflows/2596-image-to-3d-conversion.json)**
   - **Descripción:** Este flujo automático permite convertir una imagen en un modelo 3D (.glb) utilizando la API de Fal.ai y luego guardar el resultado en Google Drive.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2601-facturacion-automatizada.json](workflows/2601-facturacion-automatizada.json)**
   - **Descripción:** Este flujo automatizado descarga archivos adjuntos de correos electrónicos no leídos en Gmail y los guarda en Google Drive. Luego utiliza OpenAI para extraer datos clave de las facturas (fecha, descripción, precio total), que se almacenan en un esquema estructurado y finalmente se incorporan a una hoja de cálculo.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2617-woocommerce-ai-product-importer.json](workflows/2617-woocommerce-ai-product-importer.json)**
   - **Descripción:** Este flujo de trabajo automatiza la importación de productos en WooCommerce a través de Google Sheets. Analiza los detalles del producto para generar metatítulos y meta-descripciones SEO optimizadas, las crea inmediatamente en el catálogo WordPress e inserta esta información directamente en una hoja de cálculo.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2634-opensea-nft-agent.json](workflows/2634-opensea-nft-agent.json)**
   - **Descripción:** Este flujo automático permite a un chatbot de n8n interactuar con la API de OpenSea para recuperar y procesar datos específicos sobre NFTs.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2635-bright_data_gemini_search.json](workflows/2635-bright_data_gemini_search.json)**
   - **Descripción:** Este flujo automatizado busca datos web utilizando Perplexity, extrae información relevante con LangChain y utiliza Gemini AI para generar resúmenes.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2653-line-chatbot-memory.json](workflows/2653-line-chatbot-memory.json)**
   - **Descripción:** Este flujo permite a un chatbot de LINE mantener una conversación contextualizada utilizando la memoria histórica almacenada en Google Sheets.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2678-gmail-to-drive-pdfs.json](workflows/2678-gmail-to-drive-pdfs.json)**
   - **Descripción:** Este flujo automático envía attachments PDF específicos de un correo electrónico a Google Drive usando OpenAI para filtrar y subir solo aquellos que coinciden con un término determinado.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2688-data_extraction_bright_google.json](workflows/2688-data_extraction_bright_google.json)**
   - **Descripción:** Este flujo extrae y analiza datos estructurados de una página web utilizando Bright Data Web Unlocker y Google Gemini para realizar tareas de minería de datos, incluyendo análisis temático y extracción de sentimientos.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2706-airtable-csv-uploader.json](workflows/2706-airtable-csv-uploader.json)**
   - **Descripción:** Este flujo automático procesa y carga datos desde un archivo CSV a Airtable. Detecta si la campaña no está vacía, marca el estado de proceso, descarga el archivo, crea registros en Airtable y actualiza el estado a 'Uploaded' o 'Failed'.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2707-dropbox-backup-cleanup.json](workflows/2707-dropbox-backup-cleanup.json)**
   - **Descripción:** Este flujo automático programa tareas periódicas para Backup y limpieza de Workflows en Dropbox. Cada día, copia los Workflows actuales a una carpeta 'OLD' y elimina aquellos backups que superen los 30 días.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2767-file-organizer-mistral.json](workflows/2767-file-organizer-mistral.json)**
   - **Descripción:** Este flujo utiliza un desencadenador local para monitorear un directorio, utiliza comandos para obtener una lista de archivos y carpetas, luego emplea el modelo Mistral AI para organizar los archivos moviéndolos a subcarpetas apropiadas basándose en sugerencias del AI.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2780-gitlab-backup-n8n.json](workflows/2780-gitlab-backup-n8n.json)**
   - **Descripción:** Este flujo automático configura un backup periódico y manual de los workflows de n8n en GitLab. Utiliza triggers programados y manuales para guardar la configuración actualizada en archivos separados dentro de una repositorio gitlab.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2805-sincronizacion-stripe-s3.json](workflows/2805-sincronizacion-stripe-s3.json)**
   - **Descripción:** Este flujo automatiza la sincronización de facturas PDF desde Stripe hacia un.bucket de AWS S3 organizando los archivos en subcarpetas según el año y mes. Configura intervalos mensuales para descargar solo las facturas emitidas a partir del primer día del mes.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2827-redis_lock_workflow.json](workflows/2827-redis_lock_workflow.json)**
   - **Descripción:** Este flujo utiliza Redis para bloquear la ejecución de un workflow hasta que expire una clave TTL, evitando así la ejecución concurrente.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2832-gmail-to-drive-organizer.json](workflows/2832-gmail-to-drive-organizer.json)**
   - **Descripción:** Este flujo automatiza la descarga de archivos adjuntos de Gmail, los organiza en carpetas específicas en Google Drive según el correo electrónico receptor y fecha, creando las carpetas necesarias si no existen.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2841-export_google_keep_to_sheet.json](workflows/2841-export_google_keep_to_sheet.json)**
   - **Descripción:** Este flujo automatiza la exportación de notas desde Google Keep alinear con un sistema de procesamiento y almacenamiento en Google Sheets. Busca archivos JSON en una carpeta específica de Google Drive, filtra aquellos que no estén archivados y contengan palabras clave como 'dépensé' o 'depense', descarga los archivos seleccionados, extrae su contenido y utiliza OpenAI para tratar la información antes de insertarla en una hoja de cálculo.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2843-gdrive-audit.json](workflows/2843-gdrive-audit.json)**
   - **Descripción:** Este flujo automatiza la auditoría de permisos en Google Drive, identificando archivos compartidos públicamente o con usuarios externos y generando un informe diario que se envía por correo electrónico.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2851-job_scraping_openai.json](workflows/2851-job_scraping_openai.json)**
   - **Descripción:** Este flujo automatiza la búsqueda de ofertas laborales en Indeed usando Bright Data y OpenAI para evaluar si cada cargo es adecuado. Inicia con un formulario que recoge ubicación, palabra clave y país, luego envía una solicitud a Bright Data, espera a que se procese el.snapshot, extrae los datos, y finalmente utiliza OpenAI para determinar si eres un buen candidato.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2852-glassdoor-jobs-scraper.json](workflows/2852-glassdoor-jobs-scraper.json)**
   - **Descripción:** Este flujo utiliza Bright Data para extraer ofertas laborales de Glassdoor basadas en ubicación, palabra clave y país, espera a que estén listas, las guarda en Google Sheets y luego genera pitches personalizados usando un LLM.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2853-trustpilot-analysis.json](workflows/2853-trustpilot-analysis.json)**
   - **Descripción:** Este flujo automatiza la extracción y análisis de reseñas negativas de competidores en Trustpilot usando Bright Data. El usuario ingresa una URL de Trustpilot y selecciona un período, luego el workflow envía una solicitud a Bright Data, espera hasta que los datos estén listos, filtra las reseñas negativas (1 o 2 estrellas), agrupa los comentarios y utiliza OpenAI para generar texto persuasivo basado en esas quejas. Finalmente, envía un resumen por correo electrónico.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2856-amazon_reviews_analysis.json](workflows/2856-amazon_reviews_analysis.json)**
   - **Descripción:** Este flujo utiliza Bright Data para extraer y analizar opiniones de productos en Amazon. Configura un formulario para introducir URLs de productos, envía una solicitud HTTP para iniciar el análisis, espera a que se procese la información y luego almacena los datos en Google Sheets. Después, utiliza OpenAI para resumir las reseñas, genera imágenes creativas basadas en los resultados y envía estos creativos por correo electrónico.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2859-sqlite-mcp-server.json](workflows/2859-sqlite-mcp-server.json)**
   - **Descripción:** Flujo que implementa un servidor MCP de SQLite para realizar operaciones básicas en una base de datos local como lectura, inserción y actualización de registros, usando nodos personalizados para manejar las operaciones seguras.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2860-gdrive-mcp-server.json](workflows/2860-gdrive-mcp-server.json)**
   - **Descripción:** Este flujo configura un servidor MCP que interactúa con Google Drive para buscar y leer archivos, convirtiendo formatos binarios a texto. Utiliza OpenAI para analizar imágenes y transcribir audio.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2866-legis-sostenibilidad.json](workflows/2866-legis-sostenibilidad.json)**
   - **Descripción:** Este flujo automático extrae información de procedimientos legislativos relacionados con sostenibilidad de la página web del Parlamento Europeo, clasificando cada documento utilizando un agente de lenguaje OpenAI y almacenándolos en una hoja de Google Sheets.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2871-image-processing.json](workflows/2871-image-processing.json)**
   - **Descripción:** Este flujo automático descarga imágenes de URLs, las analiza para crear un prompt de fotografía de producto y genera una nueva imagen con OpenAI antes de almacenarla en Google Drive y actualizar una tabla.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2873-google-drive-folder-creator.json](workflows/2873-google-drive-folder-creator.json)**
   - **Descripción:** Este flujo crea una estructura jerárquica en Google Drive a partir de un path dado y devuelve el ID del último folder creado.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2892-resto-order-processor.json](workflows/2892-resto-order-processor.json)**
   - **Descripción:** Flujo automatizado para procesar pedidos en restaurantes. Extrae información de los pedidos mediante un agente de chat y herramientas de IA, separa los items, cantidad y número de mesa, confirma la orden y registra en una hoja de Google Sheets.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2909-workflow_management.json](workflows/2909-workflow_management.json)**
   - **Descripción:** Este flujo automático gestiona y sincroniza Workflows de n8n con Airtable y Dropbox. Recupera detalles de Workflows, prepara datos, maneja cron jobs y actualiza o agrega nuevos registros en Airtable.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2910-import_odoo_product_images.json](workflows/2910-import_odoo_product_images.json)**
   - **Descripción:** Este flujo importa imágenes de productos desde Google Drive a Odoo, filtrando y actualizando las mismas en base al modelo y SKU. Mantiene un sistema para mover archivos procesados y notificar el total descargado.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2914-openai-file-citation.json](workflows/2914-openai-file-citation.json)**
   - **Descripción:** Este flujo extrae y formatea citas de archivos almacenados en OpenAI a partir de un hilo de conversación, asegurando que las referencias se muestren correctamente con nombres de archivo.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2946-automate-content-generator-wordpress.json](workflows/2946-automate-content-generator-wordpress.json)**
   - **Descripción:** Este flujo automático genera contenido para WordPress usando DeepSeek R1, incluyendo artículos y títulos SEO-friendlys, crea imágenes con DALL-E, las sube y actualiza una hoja de cálculo de Google Sheets.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[2979-multi_methods_airtable.json](workflows/2979-multi_methods_airtable.json)**
   - **Descripción:** Este flujo maneja diferentes métodos HTTP para interactuar con una API de Airtable, realizando operaciones como crear, obtener todo, obtener un registro por ID, actualizar y eliminar registros.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3015-automated-resume-review-system.json](workflows/3015-automated-resume-review-system.json)**
   - **Descripción:** Este flujo automático permite analizar y evaluar currículos de manera automatizada utilizando OpenAI y Google Sheets. Incluye la subida al Drive, extracción de información, resumen profesional y almacenamiento en hojas de cálculo.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3018-webflow-airtable-tables-creator.json](workflows/3018-webflow-airtable-tables-creator.json)**
   - **Descripción:** Este flujo crea tablas dinámicas en Airtable para las submisiones de formularios de Webflow. Automatiza la creación de tableros y registros basados en los formulario, usando credenciales de API y manejando errores.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3019-export_zammad_to_excel.json](workflows/3019-export_zammad_to_excel.json)**
   - **Descripción:** Este flujo exporta objetos de Zammad como Usuarios, Roles, Grupos y Organizaciones a archivos Excel.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3036-procesador-imagenes-ollama.json](workflows/3036-procesador-imagenes-ollama.json)**
   - **Descripción:** Este flujo automatiza el análisis detallado de imágenes utilizando modelos visuales locales de Ollama. Descarga una imagen desde Google Drive, la procesa con múltiples modelos (como granita3.2-vision y llama3.2-vision), genera descripciones exhaustivas en markdown y las guarda en Google Docs.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3040-enra_zammad_sync.json](workflows/3040-enra_zammad_sync.json)**
   - **Descripción:** Este flujo sincroniza usuarios de Entra con Zammad. Recupera grupos y miembros de Entra, crea objetos de usuario universales, compara datos para actualizar o desactivar usuarios en Zammad.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3059-openai-file-retrieval-rg.json](workflows/3059-openai-file-retrieval-rg.json)**
   - **Descripción:** Este flujo utiliza OpenAI para recuperar y citar contenido de archivos almacenados en un vector store, formateando la salida con Markdown o HTML.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3093-bright_data_extractor.json](workflows/3093-bright_data_extractor.json)**
   - **Descripción:** Este flujo utiliza Bright Data Web Scraper para extraer datos estructurados en masa. Inicia una captura, espera a que esté lista y luego descarga los datos. Maneja errores y notifica por webhook.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3095-remove-background-google-drive.json](workflows/3095-remove-background-google-drive.json)**
   - **Descripción:** Este flujo elimina el fondo de las imágenes almacenadas en Google Drive utilizando la API de Photoroom, añadiendo un color de fondo configurable y guardando las nuevas imágenes en una ubicación específica.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3102-organizar-archivos-con-AI.json](workflows/3102-organizar-archivos-con-AI.json)**
   - **Descripción:** Este flujo automatiza la organización de archivos en directorios locales utilizando IA. Monitorea un folder específico, lista los archivos y carpetas, utiliza Mistral AI para clasificar los archivos sugiriendo subdirectorios existentes o nuevos, y luego mueve los archivos según las indicaciones de la IA.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3106-automate-content-generator-wordpress.json](workflows/3106-automate-content-generator-wordpress.json)**
   - **Descripción:** Este flujo automatiza la creación de contenido para WordPress utilizando DeepSeek. Genera artículos, títulos y imágenes basadas en ideas proporcionadas en una hoja de cálculo de Google Sheets.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3125-linkedin-stories-generator.json](workflows/3125-linkedin-stories-generator.json)**
   - **Descripción:** Este flujo extrae información de LinkedIn usando la API de Bright Data y genera historias empresariales con Google Gemini. Incluye el procesamiento de datos, extracción de información y resumen mediante LLM.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3130-extract-google-maps.json](workflows/3130-extract-google-maps.json)**
   - **Descripción:** Este flujo utiliza Google Maps y herramientas de scrappeo para extraer datos empresariales como nombre, dirección, teléfono, correo electrónico y website. Utiliza OpenAI para procesar las peticiones yGuardar en Google Sheets.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3144-chatbot_companyIdocs.json](workflows/3144-chatbot_companyIdocs.json)**
   - **Descripción:** Este flujo automatiza la creación de un chatbot que utiliza documentos de la empresa almacenados en Google Drive y Gemini para responder preguntas.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3145-rag_context_chunking.json](workflows/3145-rag_context_chunking.json)**
   - **Descripción:** Este flujo automatiza la creación de vectores contextuales a partir de documentos en Google Drive usando RAG (Retrieval-Augmented Generation) con división en secciones y almacenamiento en Pinecone.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3146-reconcile-rent-payments.json](workflows/3146-reconcile-rent-payments.json)**
   - **Descripción:** Este flujo automatiza la reconciliación de pagos de alquileres utilizando un modelo OpenAI para detectar y flaggear discrepancias en los pagos contra una base de datos local en Excel. Identifica misses, pagos incorrectos, vencimientos y alerta acciones necesarias.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3154-dynamic_form_dropdown.json](workflows/3154-dynamic_form_dropdown.json)**
   - **Descripción:** Este flujo configura un formulario con un campo desplegable dinámico que se actualiza con valores obtenidos de una fuente de datos externa, como una hoja de cálculo de Google Sheets. La estructura incluye nodos para capturar la submisión del formulario, recuperar los datos de la fuente, transformarlos y actualizar el formulario con las nuevas opciones.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3163-gmail-to-drive-pdfs.json](workflows/3163-gmail-to-drive-pdfs.json)**
   - **Descripción:** Este flujo automatiza la transferencia de archivos PDF específicos desde Gmail a Google Drive usando OpenAI para filtrar y subir solo aquellos que coinciden con un término determinado.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3173-social-banner-generator.json](workflows/3173-social-banner-generator.json)**
   - **Descripción:** Este flujo automatiza la creación de banners sociales usando n8n Forms para capturar datos del evento, OpenAI para generar imágenes y BannerBear para crear el banner final.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3207-waitlist-verification.json](workflows/3207-waitlist-verification.json)**
   - **Descripción:** Flujo para manejar una lista de espera que incluye registro de usuarios, generación de código de verificación, envío de correo electrónico y validación. Si el código es incorrecto, se le pide al usuario reintentar. Una vez validado, se guarda en Google Sheets.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3208-sql-agent-chart-generator.json](workflows/3208-sql-agent-chart-generator.json)**
   - **Descripción:** Este flujo utiliza un agente de SQL y OpenAI para generar respuestas con visualizaciones en tiempo real. El usuario puede hacer preguntas sobre los datos y el sistema determinará si incluir una gráfica usando Chart.js, accionando un subflujo para crear una imagen compatible con Quickchart.io.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3211-blueSky-welcome-bot.json](workflows/3211-blueSky-welcome-bot.json)**
   - **Descripción:** Este flujo programa un mensaje de bienvenida automático a nuevos seguidores en BlueSky. Primero inicia sesión, luego lista los seguidores y compara con una base de datos guardada para detectar新人. Los nuevos seguidores reciben un mensaje privado con un texto definido. Se actualiza la lista de seguidores en un archivo JSON.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3223-search-console-report.json](workflows/3223-search-console-report.json)**
   - **Descripción:** Este flujo extrae datos de Search Console mediante tres reportes diferentes (palabras clave, páginas y fechas) usando la API de Google. Los datos se procesan para separarlos y luego actualizar una hoja de cálculo de Google con información detallada sobre clics, impresiones, CTR y posiciones.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3227-calendly-klicktipp-sync.json](workflows/3227-calendly-klicktipp-sync.json)**
   - **Descripción:** Este flujo automático sincroniza eventos de Calendly con KlickTipp, manejando reservas y.Cancelaciones, transformando datos para asegurar que los invitados sean agregados o eliminados correctamente en la lista de subscriptores.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3231-transcription-ai-flow.json](workflows/3231-transcription-ai-flow.json)**
   - **Descripción:** Este flujo automatiza la transcripción en tiempo real de reuniones, estructura los datos y genera resúmenes usando OpenAI y bases de datos PostgreSQL.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3234-invoice-parser-flow.json](workflows/3234-invoice-parser-flow.json)**
   - **Descripción:** Este flujo automático detecta nuevos archivos en Google Drive, los envía a LlamaParse para análisis y extrae información de facturas. Los datos procesados se almacenan en Airtable como registros de invoices y sus respectivos ítems detallados.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3241-ai-meeting-automator.json](workflows/3241-ai-meeting-automator.json)**
   - **Descripción:** Este flujo automático utiliza un agente de inteligencia artificial para procesar transcripciones de reuniones, extraer tareas y notificar al cliente. Para ello, utiliza Airtable para crear tareas y Google Calendar para programar citas.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3245-csvToJsonParser.json](workflows/3245-csvToJsonParser.json)**
   - **Descripción:** Este flujo procesa una solicitud POST con datos en formato CSV o JSON. Primero, verifica el tipo de contenido y extrae los datos utilizando ExtractFromFile. Luego, convierte los datos_RAW a CSV si es necesario. Si hay errores, devuelve un código 500 con un mensaje de error. Si la conversión es exitosa, agrega los datos al cuerpo JSON y responde con un código 200.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3267-certificado-automatico.json](workflows/3267-certificado-automatico.json)**
   - **Descripción:** Este flujo automatiza la generación y envío de certificados basados en un cuestionario de Google Forms. Recoge datos de las respuestas, verifica la puntuación, crea una presentación personalizada con el nombre del usuario, convierte la presentación a PDF y envía un correo electrónico con el certificado al usuario si supera la calificación.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3318-extract_text_from_pdf_image_to_csv.json](workflows/3318-extract_text_from_pdf_image_to_csv.json)**
   - **Descripción:** Este flujo automático extrae texto de archivos PDF y imágenes usando Vertex AI (Gemini) y los convierte en CSV para su almacenamiento en Google Drive.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3319-umami-ai-analytics.json](workflows/3319-umami-ai-analytics.json)**
   - **Descripción:** Este flujo extrae datos de analítica web de Umami, procesa y envía información a un modelo de IA para obtener resúmenes y comparativas semanales, guardando los resultados en Baserow.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3325-split-test-ab.json](workflows/3325-split-test-ab.json)**
   - **Descripción:** Este flujo implementa un test de división A/B para evaluar diferentes mensajes en un chatbot. Al recibir un mensaje, verifica si la sesión existe y asigna aleatoriamente un.prompt entre dos opciones guardadas en Supabase, luego utiliza el agente AI con el prompt seleccionado.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[3343-Indeed_Data_Scraper_Gemini.json](workflows/3343-Indeed_Data_Scraper_Gemini.json)**
   - **Descripción:** Este flujo extrae y resume datos de compañías de Indeed usando Bright Data y Google Gemini. Utiliza Airtable para almacenar los enlaces y procesa la información con agentes y cadenas de pensamiento AI.
-  - **Complejidad:** Alta (1 nodos)
+  - **Complejidad:** Baja (1 nodos)
 
 - **[0008-notion_linkedin_pub.json](workflows/0008-notion_linkedin_pub.json)**
   - **Descripción:** Este flujo automático publica cada día en LinkedIn un post seleccionado desde una base de datos de Notion, basándose en la fecha y hora programadas.
