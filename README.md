@@ -15,6 +15,7 @@ El propósito de este repositorio es ofrecer un recurso consolidado para inspira
 
 ## 📂 Mejoras Implementadas
 
+- **Buscador de Workflows de N8N**: Hemos implementado [este buscador 🔎 de workflows](https://www.dragonjar.org/apps/IQwMu3KtpyCFEj56WBzov) para que puedas explorar de manera rápida y sencilla todos los workflows disponibles en el repositorio, facilitando su identificación y acceso.
 - **Descripciones en español**: Cada archivo `.json` fue analizado y se le asignó una descripción clara en español, basada en las acciones que realiza.  
 - **Eliminación de duplicados**: Se verificó y validó el hash único de cada archivo para detectar y eliminar workflows duplicados, garantizando que cada flujo de trabajo sea único en contenido.  
 - **Renombrado de archivos**: Se actualizaron los nombres de los archivos para que describan con mayor precisión su funcionalidad principal, facilitando su búsqueda y selección.
