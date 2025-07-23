@@ -10170,6 +10170,10 @@ Todos los workflows aquí compartidos se proporcionan tal cual. **Antes de emple
   - **Descripción:** Este flujo automatizado permite publicar en X utilizando el servicio Airtop, siguiendo pasos de crear sesión, abrir ventana, escribir texto y hacer clic en 'Publicar'.
   - **Complejidad:** Media (9 nodos)
 
+- **[1512-creador-de-archivo-LLMs.txt.json](workflows/1512-creador-de-archivo-LLMs.txt.json)**
+  - **Descripción:** Recorre un sitemap XML para extraer URLs, resumir su contenido con IA y generar un archivo `llms.txt` que facilita a los LLM conocer el tema del sitio.
+  - **Complejidad:** Media (9 nodos)
+
 - **[0136-torrent-search-transmission.json](workflows/0136-torrent-search-transmission.json)**
   - **Descripción:** Este flujo automático busca torrents en KickassTorrents y Rarbg a partir de un título proporcionado por una solicitud POST Webhook. Si se encuentra un torrent, intenta añadirlo al cliente Transmission para descargarlo. En caso de no encontrar resultados o recibir un error 409 (conflicto), notifica que la película no está disponible.
   - **Complejidad:** Media (8 nodos)
