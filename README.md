@@ -635,6 +635,14 @@ Todos los workflows aquí compartidos se proporcionan tal cual. **Antes de emple
   - **Descripción:** Este flujo se activa cuando se crea una nueva lista en la API de Affinity.
   - **Complejidad:** Baja (1 nodos)
 
+- **[1529-Chatwoot_Flow.json](workflows/1529-Chatwoot_Flow.json)**
+  - **Descripción:** Flujo de Chatwoot que procesa mensajes, determina el tipo de mensaje (texto, audio, imagen) y envía respuestas.
+  - **Complejidad:** Media (11 nodos)
+
+- **[1533-Customer_Chat_Agent.json](workflows/1533-Customer_Chat_Agent.json)**
+  - **Descripción:** Asistente de chat para atención al cliente que agenda consultorías y envía correos.
+  - **Complejidad:** Media (8 nodos)
+
 
 ### Notificaciones y Alertas
 
@@ -2370,6 +2378,14 @@ Todos los workflows aquí compartidos se proporcionan tal cual. **Antes de emple
   - **Descripción:** Este flujo monitoriza eventos de Calendly para recibir notificaciones cuando se crea o cancela un participante en una cita.
   - **Complejidad:** Baja (1 nodos)
 
+- **[1519-Error_Handler.json](workflows/1519-Error_Handler.json)**
+  - **Descripción:** Manejador de errores que envía notificaciones por Gmail cuando ocurre un error en un flujo de n8n.
+  - **Complejidad:** Baja (3 nodos)
+
+- **[1525-Error_Notification.json](workflows/1525-Error_Notification.json)**
+  - **Descripción:** Manejador de errores que envía notificaciones por Gmail cuando ocurre un error en un flujo de n8n.
+  - **Complejidad:** Baja (3 nodos)
+
 
 ### Sincronización de Datos y Archivos
 
@@ -2380,6 +2396,10 @@ Todos los workflows aquí compartidos se proporcionan tal cual. **Antes de emple
 - **[2825-gestion_citas_vapi.json](workflows/2825-gestion_citas_vapi.json)**
   - **Descripción:** Este flujo automático gestiona la reserva y gestión de citas mediante Vapi, Google Calendar y Airtable. Permite verificar disponibilidad, crear, actualizar y eliminar eventos, así como registrar información de llamadas telefónicas.
   - **Complejidad:** Media (9 nodos)
+
+- **[1518-Doc_Uploader.json](workflows/1518-Doc_Uploader.json)**
+  - **Descripción:** Carga documentos PDF desde Google Drive, extrae metadatos, los clasifica y almacena en Qdrant.
+  - **Complejidad:** Alta (20 nodos)
 
 - **[0204-clientes-condicion.json](workflows/0204-clientes-condicion.json)**
   - **Descripción:** Este flujo procesa datos de clientes mediante filtros y bifurcaciones condicionales para segmentarlos por país.
@@ -5041,6 +5061,22 @@ Todos los workflows aquí compartidos se proporcionan tal cual. **Antes de emple
 - **[1398-mails2notion.json](workflows/1398-mails2notion.json)**
   - **Descripción:** Convierte correos electrónicos en páginas de Notion.
   - **Complejidad:** Alta (38 nodos)
+
+- **[1513-Calendario_Manager.json](workflows/1513-Calendario_Manager.json)**
+  - **Descripción:** Gestiona eventos de calendario (crear, leer, actualizar, eliminar).
+  - **Complejidad:** Media (9 nodos)
+
+- **[1514-Contactos_Manager.json](workflows/1514-Contactos_Manager.json)**
+  - **Descripción:** Gestiona contactos (añadir, eliminar, obtener, actualizar) usando Google Sheets.
+  - **Complejidad:** Media (10 nodos)
+
+- **[1515-Email_Manager.json](workflows/1515-Email_Manager.json)**
+  - **Descripción:** Gestiona correos electrónicos (enviar, responder, crear borradores, eliminar, modificar, mover, obtener) usando Microsoft Outlook.
+  - **Complejidad:** Media (12 nodos)
+
+- **[1530-Calendar_Assistant.json](workflows/1530-Calendar_Assistant.json)**
+  - **Descripción:** Asistente de calendario que agenda reuniones, verifica disponibilidad y crea eventos.
+  - **Complejidad:** Media (7 nodos)
 
 - **[1259-jira-ticket-autoresolver.json](workflows/1259-jira-ticket-autoresolver.json)**
   - **Descripción:** Resuelve tickets de Jira de forma automática según reglas predefinidas.
@@ -8658,6 +8694,30 @@ Todos los workflows aquí compartidos se proporcionan tal cual. **Antes de emple
   - **Descripción:** Este flujo activo se dispara cuando se crea un nuevo pedido en Shopify mediante webhook.
   - **Complejidad:** Baja (1 nodos)
 
+- **[1531-Shopify_Agent.json](workflows/1531-Shopify_Agent.json)**
+  - **Descripción:** Agente de Shopify que interactúa con la API de Shopify para gestionar pedidos y productos, incluyendo la carga de datos de productos a Qdrant.
+  - **Complejidad:** Alta (30 nodos)
+
+- **[1532-Ecommerce_Assistant.json](workflows/1532-Ecommerce_Assistant.json)**
+  - **Descripción:** Asistente de atención al cliente para un eCommerce que responde a consultas sobre productos utilizando una base de datos PostgreSQL.
+  - **Complejidad:** Media (5 nodos)
+
+- **[1548-Ecommerce_Agent_v1.json](workflows/1548-Ecommerce_Agent_v1.json)**
+  - **Descripción:** Agente de eCommerce que procesa mensajes de WhatsApp, gestiona el historial de chat con Redis, y utiliza un agente de IA para responder a consultas de productos.
+  - **Complejidad:** Alta (30 nodos)
+
+- **[1549-Ecommerce_Agent_v2.json](workflows/1549-Ecommerce_Agent_v2.json)**
+  - **Descripción:** Agente de eCommerce que procesa mensajes de WhatsApp, gestiona el historial de chat con Redis, y utiliza un agente de IA para responder a consultas de productos.
+  - **Complejidad:** Alta (30 nodos)
+
+- **[1554-Agente_Ecommerce_v3.json](workflows/1554-Agente_Ecommerce_v3.json)**
+  - **Descripción:** Agente de eCommerce que procesa mensajes de WhatsApp, gestiona el historial de chat con Redis, y utiliza un agente de IA para responder a consultas de productos.
+  - **Complejidad:** Alta (30 nodos)
+
+- **[1555-Agente_Ecommerce_v3_subflujo.json](workflows/1555-Agente_Ecommerce_v3_subflujo.json)**
+  - **Descripción:** Subflujo de agente de eCommerce que procesa datos de productos y los carga en una base de datos vectorial.
+  - **Complejidad:** Media (10 nodos)
+
 
 ### Inteligencia Artificial y Procesamiento de Lenguaje Natural (NLP)
 
@@ -9321,6 +9381,30 @@ Todos los workflows aquí compartidos se proporcionan tal cual. **Antes de emple
   - **Descripción:** Este flujo monitoriza todos los eventos en el sistema TheHive y desencadena una acción cuando ocurre alguno.
   - **Complejidad:** Baja (1 nodos)
 
+- **[1516-Legal_Assistant.json](workflows/1516-Legal_Assistant.json)**
+  - **Descripción:** Responde consultas legales utilizando una base de conocimiento vectorial.
+  - **Complejidad:** Media (8 nodos)
+
+- **[1526-Advanced_RAG_System.json](workflows/1526-Advanced_RAG_System.json)**
+  - **Descripción:** Sistema RAG (Retrieval-Augmented Generation) que carga documentos, extrae metadatos, los divide en artículos, los almacena en Qdrant y responde a consultas utilizando un agente de IA.
+  - **Complejidad:** Alta (25 nodos)
+
+- **[1527-SQL_Assistant.json](workflows/1527-SQL_Assistant.json)**
+  - **Descripción:** Asistente SQL que convierte lenguaje natural a consultas SQL para una base de datos de tienda online y responde en lenguaje natural.
+  - **Complejidad:** Baja (4 nodos)
+
+- **[1539-Cohere_Reranker_RAG.json](workflows/1539-Cohere_Reranker_RAG.json)**
+  - **Descripción:** Sistema RAG que utiliza Cohere para re-rankear los resultados de búsqueda de una base de datos vectorial Qdrant.
+  - **Complejidad:** Alta (17 nodos)
+
+- **[1540-AI_Model_Router.json](workflows/1540-AI_Model_Router.json)**
+  - **Descripción:** Selector de modelos de lenguaje que clasifica las consultas de usuario y las dirige al modelo de IA adecuado (calendario, búsqueda en internet, consultas jurídicas).
+  - **Complejidad:** Alta (18 nodos)
+
+- **[1545-Slack_RAG_Agent.json](workflows/1545-Slack_RAG_Agent.json)**
+  - **Descripción:** Agente RAG para Slack que carga documentos, los procesa, los almacena en una base de datos vectorial y responde a consultas de Slack.
+  - **Complejidad:** Alta (24 nodos)
+
 
 ### Web Scraping y Extracción de Datos
 
@@ -9459,8 +9543,116 @@ Todos los workflows aquí compartidos se proporcionan tal cual. **Antes de emple
   - **Descripción:** Este flujo verifica si un servicio está disponible consultando una URL específica y utilizando condiciones lógicas.
   - **Complejidad:** Media (5 nodos)
 
+- **[1517-Legal_Assistant_Bot.json](workflows/1517-Legal_Assistant_Bot.json)**
+  - **Descripción:** Asistente de abogado que utiliza Telegram, transcribe audio, y usa sub-agentes para email, calendario, contactos y legislación.
+  - **Complejidad:** Alta (19 nodos)
+
+- **[1520-Voice_Assistant_Transcriber.json](workflows/1520-Voice_Assistant_Transcriber.json)**
+  - **Descripción:** Asistente de voz que transcribe audio, analiza el sentimiento y la intención del usuario, y guarda la información en Google Sheets.
+  - **Complejidad:** Alta (20 nodos)
+
+- **[1521-MCP_Calendar_Voice.json](workflows/1521-MCP_Calendar_Voice.json)**
+  - **Descripción:** Flujo de MCP que gestiona eventos de calendario (crear, eliminar, obtener, actualizar) a través de un trigger MCP.
+  - **Complejidad:** Media (5 nodos)
+
+- **[1522-MCP_Contacts_Voice.json](workflows/1522-MCP_Contacts_Voice.json)**
+  - **Descripción:** Flujo de MCP que añade contactos a Google Sheets a través de un trigger MCP.
+  - **Complejidad:** Baja (2 nodos)
+
+- **[1523-MCP_Gmail_Voice.json](workflows/1523-MCP_Gmail_Voice.json)**
+  - **Descripción:** Flujo de MCP que gestiona correos electrónicos (enviar, responder, crear borradores, obtener, eliminar) a través de un trigger MCP.
+  - **Complejidad:** Media (6 nodos)
+
+- **[1528-Flowise_Chat_Agent.json](workflows/1528-Flowise_Chat_Agent.json)**
+  - **Descripción:** Agente conversacional de Flowise que utiliza OpenAI, Redis para memoria, moderación de contenido y una herramienta de recuperación de información (Qdrant).
+  - **Complejidad:** Media (8 nodos)
+
+- **[1534-Phone_Assistant.json](workflows/1534-Phone_Assistant.json)**
+  - **Descripción:** Asistente telefónico que interactúa con un webhook, extrae información de llamadas, y utiliza agentes MCP para gestionar calendarios y Gmail.
+  - **Complejidad:** Media (9 nodos)
+
+- **[1535-MCP_Calendar_Flow.json](workflows/1535-MCP_Calendar_Flow.json)**
+  - **Descripción:** Flujo de MCP que gestiona eventos de calendario (crear, eliminar, obtener, actualizar, comprobar disponibilidad) a través de un trigger MCP.
+  - **Complejidad:** Media (7 nodos)
+
+- **[1536-MCP_Gmail_Flow.json](workflows/1536-MCP_Gmail_Flow.json)**
+  - **Descripción:** Flujo de MCP que gestiona correos electrónicos (enviar, responder, crear borradores, obtener, eliminar) a través de un trigger MCP.
+  - **Complejidad:** Baja (2 nodos)
+
+- **[1537-Hair_Salon_Agent.json](workflows/1537-Hair_Salon_Agent.json)**
+  - **Descripción:** Agente de peluquería que utiliza herramientas para responder a consultas y gestionar el flujo de conversación.
+  - **Complejidad:** Baja (2 nodos)
+
+- **[1538-n8n_Flowise_Integration.json](workflows/1538-n8n_Flowise_Integration.json)**
+  - **Descripción:** Flujo de n8n que integra con Flowise para enviar mensajes de Telegram.
+  - **Complejidad:** Baja (3 nodos)
+
+- **[1541-Flowise_RAG_Agent.json](workflows/1541-Flowise_RAG_Agent.json)**
+  - **Descripción:** Flujo de agente de Flowise que utiliza un sistema RAG para responder a consultas jurídicas.
+  - **Complejidad:** Baja (2 nodos)
+
+- **[1542-n8n_Flowise_RAG.json](workflows/1542-n8n_Flowise_RAG.json)**
+  - **Descripción:** Flujo de n8n que integra con Flowise para un sistema RAG, permitiendo la carga de documentos y la respuesta a consultas a través de Telegram.
+  - **Complejidad:** Alta (17 nodos)
+
+- **[1543-MCP_Calendar_Flow.json](workflows/1543-MCP_Calendar_Flow.json)**
+  - **Descripción:** Flujo de MCP que gestiona eventos de calendario (crear, eliminar, obtener, actualizar, comprobar disponibilidad) a través de un trigger MCP.
+  - **Complejidad:** Media (7 nodos)
+
+- **[1544-MultiLLM_Customer_Agent.json](workflows/1544-MultiLLM_Customer_Agent.json)**
+  - **Descripción:** Asistente de atención al cliente con funcionalidad multi-LLM que ofrece servicios de IA y automatización, y puede agendar reuniones.
+  - **Complejidad:** Media (6 nodos)
+
+- **[1546-Multiagent_Email_Calendar.json](workflows/1546-Multiagent_Email_Calendar.json)**
+  - **Descripción:** Multiagente de n8n que gestiona correos electrónicos y calendarios, con soporte para transcripción de voz y diferentes modelos de lenguaje.
+  - **Complejidad:** Alta (31 nodos)
+
+- **[1547-Multiagent_Email_Calendar_Advanced.json](workflows/1547-Multiagent_Email_Calendar_Advanced.json)**
+  - **Descripción:** Multiagente de n8n que gestiona correos electrónicos y calendarios, con soporte para transcripción de voz y diferentes modelos de lenguaje.
+  - **Complejidad:** Alta (23 nodos)
+
+- **[1550-MCP_Calendar_Flow.json](workflows/1550-MCP_Calendar_Flow.json)**
+  - **Descripción:** Flujo de MCP que gestiona eventos de calendario (crear, eliminar, obtener, actualizar, comprobar disponibilidad) a través de un trigger MCP.
+  - **Complejidad:** Media (5 nodos)
+
+- **[1551-MCP_Contacts_Flow.json](workflows/1551-MCP_Contacts_Flow.json)**
+  - **Descripción:** Flujo de MCP que añade contactos a Google Sheets a través de un trigger MCP.
+  - **Complejidad:** Media (6 nodos)
+
+- **[1552-MCP_Gmail_Flow.json](workflows/1552-MCP_Gmail_Flow.json)**
+  - **Descripción:** Flujo de MCP que gestiona correos electrónicos (enviar, responder, crear borradores, obtener, eliminar) a través de un trigger MCP.
+  - **Complejidad:** Media (6 nodos)
+
+- **[1553-Multiagente_MCP.json](workflows/1553-Multiagente_MCP.json)**
+  - **Descripción:** Multiagente de n8n que gestiona correos electrónicos, calendarios y contactos a través de MCP.
+  - **Complejidad:** Media (12 nodos)
+
+- **[1556-Asistente_de_Voz.json](workflows/1556-Asistente_de_Voz.json)**
+  - **Descripción:** Asistente de voz que interactúa con un webhook, guarda datos en Google Sheets y envía mensajes de WhatsApp.
+  - **Complejidad:** Media (7 nodos)
+
+- **[1557-Voice_Assistant_MCP.json](workflows/1557-Voice_Assistant_MCP.json)**
+  - **Descripción:** Asistente de voz que utiliza un trigger de webhook, transcribe audio, y usa agentes MCP para gestionar Gmail, Calendario y Contactos.
+  - **Complejidad:** Media (9 nodos)
+
+- **[1558-MCP_Calendar_Voice_Flow.json](workflows/1558-MCP_Calendar_Voice_Flow.json)**
+  - **Descripción:** Flujo de MCP que gestiona eventos de calendario (crear, eliminar, obtener, actualizar) a través de un trigger MCP.
+  - **Complejidad:** Media (5 nodos)
+
+- **[1559-MCP_Contacts_Voice_Flow.json](workflows/1559-MCP_Contacts_Voice_Flow.json)**
+  - **Descripción:** Flujo de MCP que añade contactos a Google Sheets a través de un trigger MCP.
+  - **Complejidad:** Baja (2 nodos)
+
+- **[1560-MCP_Gmail_Voice_Flow.json](workflows/1560-MCP_Gmail_Voice_Flow.json)**
+  - **Descripción:** Flujo de MCP que gestiona correos electrónicos (enviar, responder, crear borradores, obtener, eliminar) a través de un trigger MCP.
+  - **Complejidad:** Media (6 nodos)
+
 
 ### Otros / Misceláneos
+
+- **[1524-n8n_Tips_and_Tricks.json](workflows/1524-n8n_Tips_and_Tricks.json)**
+  - **Descripción:** Demuestra 5 trucos de n8n, incluyendo aprobación humana, gestión de errores, fecha y hora actual, datos de prueba e interfaz de usuario.
+  - **Complejidad:** Alta (20 nodos)
 
 - **[1269-api-schema-extractor.json](workflows/1269-api-schema-extractor.json)**
   - **Descripción:** Extrae y documenta el esquema de una API.
