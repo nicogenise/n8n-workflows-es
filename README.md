@@ -3119,8 +3119,6 @@ Todos los workflows aquí compartidos se proporcionan tal cual. **Antes de emple
   - **Descripción:** Este flujo automatizado responde a eventos de Calendly (como la creación de un invitado) para ejecutar análisis de personalidad con Humantic AI y almacenar posteriormente los resultados en una página de base de datos de Notion.
   - **Complejidad:** Baja (4 nodos)
 
-#  [Ver lista 📋 completa](https://github.com/DragonJAR/n8n-workflows-es/blob/main/README.md)
-
 - **[0058-microsoft-todo-blueprint.json](workflows/0058-microsoft-todo-blueprint.json)**
   - **Descripción:** Este flujo permite crear y actualizar tareas en Microsoft To Do mediante un trigger manual. Comienza con la activación del trigger que inicializa el proceso. Luego crea una nueva tarea (create) especificando detalles como lista de tareas, importancia alta y contenido. Posteriormente, actualiza esa misma tarea usando los datos retornados por la creación para identificarla.
   - **Complejidad:** Baja (4 nodos)
@@ -6007,6 +6005,9 @@ Todos los workflows aquí compartidos se proporcionan tal cual. **Antes de emple
 - **[3126-multi-ai-chatbot-postgres-chart.json](workflows/3126-multi-ai-chatbot-postgres-chart.json)**
   - **Descripción:** Este flujo automático permite a un chatbot interactuar con una base de datos PostgreSQL o Supabase mediante consultas SQL y generar gráficos visualizados en QuickChart usando agentes de inteligencia artificial. El sistema utiliza OpenAI para procesar las preguntas del usuario, ejecutar consultas SQL, obtener definiciones de tablas y crear gráficos basados en los resultados obtenidos.
   - **Complejidad:** Baja (4 nodos)
+
+#  [Ver lista 📋 completa](https://github.com/DragonJAR/n8n-workflows-es/blob/main/README.md)
+
 
 - **[3160-chatgpt-email-responses.json](workflows/3160-chatgpt-email-responses.json)**
   - **Descripción:** Este flujo automático envía una respuesta de ChatGPT a través de correo electrónico cuando se recibe un correo electrónico y registra las respuestas en Google Sheets. También registra retroalimentación para mejorar el modelo.
