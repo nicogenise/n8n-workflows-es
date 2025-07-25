@@ -5068,22 +5068,6 @@ Todos los workflows aquí compartidos se proporcionan tal cual. **Antes de emple
   - **Descripción:** Convierte correos electrónicos en páginas de Notion.
   - **Complejidad:** Alta (38 nodos)
 
-- **[1515-Email_Manager.json](workflows/1515-Email_Manager.json)**
-  - **Descripción:** Gestiona correos electrónicos (enviar, responder, crear borradores, eliminar, modificar, mover, obtener) usando Microsoft Outlook.
-  - **Complejidad:** Media (13 nodos)
-
-- **[1514-Contactos_Manager.json](workflows/1514-Contactos_Manager.json)**
-  - **Descripción:** Gestiona contactos (añadir, eliminar, obtener, actualizar) usando Google Sheets.
-  - **Complejidad:** Media (11 nodos)
-
-- **[1513-Calendario_Manager.json](workflows/1513-Calendario_Manager.json)**
-  - **Descripción:** Gestiona eventos de calendario (crear, leer, actualizar, eliminar).
-  - **Complejidad:** Media (9 nodos)
-
-- **[1530-Calendar_Assistant.json](workflows/1530-Calendar_Assistant.json)**
-  - **Descripción:** Asistente de calendario que agenda reuniones, verifica disponibilidad y crea eventos.
-  - **Complejidad:** Media (7 nodos)
-
 - **[1259-jira-ticket-autoresolver.json](workflows/1259-jira-ticket-autoresolver.json)**
   - **Descripción:** Resuelve tickets de Jira de forma automática según reglas predefinidas.
   - **Complejidad:** Alta (36 nodos)
@@ -5196,6 +5180,10 @@ Todos los workflows aquí compartidos se proporcionan tal cual. **Antes de emple
   - **Descripción:** Este flujo sincroniza contactos de Entra con usuarios en Zammad. Recupera contactos de Microsoft Graph, los compara con usuarios existentes y actualiza o crea nuevos usuarios en Zammad.
   - **Complejidad:** Media (14 nodos)
 
+- **[1515-Email_Manager.json](workflows/1515-Email_Manager.json)**
+  - **Descripción:** Gestiona correos electrónicos (enviar, responder, crear borradores, eliminar, modificar, mover, obtener) usando Microsoft Outlook.
+  - **Complejidad:** Media (13 nodos)
+
 - **[2887-ai-language-tools.json](workflows/2887-ai-language-tools.json)**
   - **Descripción:** Este flujo incluye una variedad de nodos relacionados con agentes de lenguaje y herramientas de IA, como transformadores de lenguaje, cadenas de encadenamiento, extraedores de información, analizadores de sentimiento, herramientas de vectores y memoria. También contiene conexiones con servicios externos como Google Sheets, Dropbox, Gmail, Twitter y más.
   - **Complejidad:** Media (13 nodos)
@@ -5215,6 +5203,10 @@ Todos los workflows aquí compartidos se proporcionan tal cual. **Antes de emple
 - **[0409-todoist-categorizador.json](workflows/0409-todoist-categorizador.json)**
   - **Descripción:** Este flujo automático toma tareas de la bandeja de entrada de Todoist, descarta subtareas y utiliza IA para asignarlas a proyectos específicos basados en prioridades predefinidas o etiquetarlas como 'other'.
   - **Complejidad:** Media (12 nodos)
+
+- **[1514-Contactos_Manager.json](workflows/1514-Contactos_Manager.json)**
+  - **Descripción:** Gestiona contactos (añadir, eliminar, obtener, actualizar) usando Google Sheets.
+  - **Complejidad:** Media (11 nodos)
 
 - **[0101-github-issue-auto-assignment.json](workflows/0101-github-issue-auto-assignment.json)**
   - **Descripción:** Este flujo automático asigna automáticamente los issues de GitHub a la persona que lo creó o comentó, cuando no tienen asignado nadie.
@@ -5247,6 +5239,10 @@ Todos los workflows aquí compartidos se proporcionan tal cual. **Antes de emple
 - **[3153-reschedule-overdue-asana.json](workflows/3153-reschedule-overdue-asana.json)**
   - **Descripción:** Este flujo automático programado para ejecutarse每日7点，recupera las tareas asignadas desde Asana y gestiona el estado de los trabajos. Se encarga de reprogramar tareas vencidas al día actual si están abiertas y eliminar aquellas que ya han sido finalizadas.
   - **Complejidad:** Media (10 nodos)
+
+- **[1513-Calendario_Manager.json](workflows/1513-Calendario_Manager.json)**
+  - **Descripción:** Gestiona eventos de calendario (crear, leer, actualizar, eliminar).
+  - **Complejidad:** Media (9 nodos)
 
 - **[2825-gestion_citas_vapi.json](workflows/2825-gestion_citas_vapi.json)**
   - **Descripción:** Este flujo automático gestiona la reserva y gestión de citas mediante Vapi, Google Calendar y Airtable. Permite verificar disponibilidad, crear, actualizar y eliminar eventos, así como registrar información de llamadas telefónicas.
@@ -5467,6 +5463,10 @@ Todos los workflows aquí compartidos se proporcionan tal cual. **Antes de emple
 - **[1502-transcribe-audio-files-summarize-with-gpt-notion.json](workflows/1502-transcribe-audio-files-summarize-with-gpt-notion.json)**
   - **Descripción:** Este flujo permite análisis de sentimientos, transcripción, resumen utilizando OpenAI/GPT, Notion con inteligencia artificial y APIs.
   - **Complejidad:** Media (8 nodos)
+
+- **[1530-Calendar_Assistant.json](workflows/1530-Calendar_Assistant.json)**
+  - **Descripción:** Asistente de calendario que agenda reuniones, verifica disponibilidad y crea eventos.
+  - **Complejidad:** Media (7 nodos)
 
 - **[0014-monitor-verstappen-tweets.json](workflows/0014-monitor-verstappen-tweets.json)**
   - **Descripción:** Este flujo busca los últimos tweets públicos y privados con la palabra clave 'Verstappen', luego compara esos resultados con una lista existente en Airtable para identificar y guardar solo las nuevas entradas, eliminando duplicados.
@@ -8081,8 +8081,6 @@ Todos los workflows aquí compartidos se proporcionan tal cual. **Antes de emple
 - **[1251-trello-list-updates.json](workflows/1251-trello-list-updates.json)**
   - **Descripción:** Este flujo monitorea y recibe actualizaciones sobre cambios en una lista específica de Trello.
   - **Complejidad:** Baja (1 nodos)
-
-
 ### Gestión de Contenido y Redes Sociales
 
 - **[0007-social-media-creator.json](workflows/0007-social-media-creator.json)**
