@@ -460,6 +460,10 @@ Todos los workflows aquí compartidos se proporcionan tal cual. **Antes de emple
   - **Descripción:** Este flujo automático escanea el sitio web de una organización recién creada en Pipedrive para generar un resumen detallado usando GPT-4o, lo que permite mantener datos actualizados e integrados directamente en el sistema CRM.
   - **Complejidad:** Media (8 nodos)
 
+- **[1533-Customer_Chat_Agent.json](workflows/1533-Customer_Chat_Agent.json)**
+  - **Descripción:** Asistente de chat para atención al cliente que agenda consultorías y envía correos.
+  - **Complejidad:** Media (8 nodos)
+
 - **[0088-typeform-hubspot-email.json](workflows/0088-typeform-hubspot-email.json)**
   - **Descripción:** Este flujo automatizado captura datos desde un formulario Typeform, crea o actualiza contactos en HubSpot y envía información personalizada por email cuando el prospecto demuestra interés.
   - **Complejidad:** Media (7 nodos)
@@ -639,14 +643,6 @@ Todos los workflows aquí compartidos se proporcionan tal cual. **Antes de emple
 - **[0646-nuevo-triage-afinidad-lista.json](workflows/0646-nuevo-triage-afinidad-lista.json)**
   - **Descripción:** Este flujo se activa cuando se crea una nueva lista en la API de Affinity.
   - **Complejidad:** Baja (1 nodos)
-
-- **[1529-Chatwoot_Flow.json](workflows/1529-Chatwoot_Flow.json)**
-  - **Descripción:** Flujo de Chatwoot que procesa mensajes, determina el tipo de mensaje (texto, audio, imagen) y envía respuestas.
-  - **Complejidad:** Media (12 nodos)
-
-- **[1533-Customer_Chat_Agent.json](workflows/1533-Customer_Chat_Agent.json)**
-  - **Descripción:** Asistente de chat para atención al cliente que agenda consultorías y envía correos.
-  - **Complejidad:** Media (8 nodos)
 
 
 ### Notificaciones y Alertas
