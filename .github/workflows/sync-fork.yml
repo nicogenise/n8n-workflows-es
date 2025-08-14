@@ -1,33 +1,29 @@
-name: Sync Fork (mirror, no-marketplace)
+name: Sync Fork (mirror bare)
 
 on:
   schedule:
-    - cron: '0 3 * * *'   # Todos los días 03:00 UTC
-  workflow_dispatch:
+    - cron: '0 3 * * *'   # todos los días 03:00 UTC
+  workflow_dispatch:       # permite ejecutarlo manualmente
 
 jobs:
   sync:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # necesario para pushear
+      contents: write
+    env:
+      GIT_TERMINAL_PROMPT: 0
     steps:
-      - name: Configurar Git
+      - name: Configurar identidad git
         run: |
-          git version
           git config --global user.name "${{ github.actor }}"
           git config --global user.email "${{ github.actor }}@users.noreply.github.com"
 
-      - name: Inicializar repo y remotos
+      # ⚠️ Cambia la URL de upstream si prefieres Zie619
+      - name: Clonar upstream en modo bare
         run: |
-          git init
-          git remote add origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
-          git remote add upstream https://github.com/DragonJAR/n8n-workflows.git
-          git fetch origin
-          # si tu rama principal es "master", cambia main -> master en las 2 líneas siguientes
-          git checkout -B main origin/main || git checkout -B main
+          git clone --bare https://github.com/DragonJAR/n8n-workflows.git upstream.git
 
-      - name: Igualar con upstream/main (mirror)
+      - name: Hacer mirror a mi fork
         run: |
-          git fetch upstream
-          git reset --hard upstream/main
-          git push origin main --force
+          cd upstream.git
+          git push --mirror https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
